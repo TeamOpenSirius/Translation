@@ -1,0 +1,967 @@
+{
+  "EpisodeId": 2002501,
+  "StoryType": 2,
+  "Order": 1,
+  "Prev": null,
+  "Next": 2002502,
+  "Chapter": "#在指尖编织的黑暗",
+  "Title": "只有我之外喧闹的教室",
+  "EpisodeDetail": [
+    {
+      "Id": 2002501001,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "教師",
+      "FontSize": 2,
+      "Phrase": "那么，大家双手合十——。",
+      "BackgroundImageFileName": "1080",
+      "BgmFileName": "101",
+      "VoiceFileName": "20025010010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2002501002,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "生徒一同",
+      "FontSize": 2,
+      "Phrase": "我开动啦——！",
+      "VoiceFileName": "20025010020",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2002501003,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（今天的菜单是咖喱……。我其实一直偷偷期待着。/n　和家里做的不一样，味道温和又好吃。）",
+      "VoiceFileName": "20025010030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 4,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002501004,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "好耶！等的就是这一刻！/n从知道今天午饭是咖喱饭的时候起，我的情绪就已经MAX啦～。",
+      "VoiceFileName": "20025010040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 10502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002501005,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "毕竟大家都喜欢嘛。/n人气排行榜也是第一。",
+      "VoiceFileName": "20025010050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10602,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2002501006,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（还是一如既往地吵……。/n　一到午餐时间，就算不想看也会进入视野。）",
+      "VoiceFileName": "20025010060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 25,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002501007,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "今天排练也会拖很久，/n现在可得狠狠干饭补充体力。",
+      "VoiceFileName": "20025010070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 10502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002501008,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "同学A",
+      "FontSize": 2,
+      "Phrase": "我在SNS上看到了，天狼星的排练已经到最后阶段了吗？/n下一场我也会去看的。",
+      "VoiceFileName": "20025010080",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2002501009,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "是呀——。/n谢谢支持！",
+      "VoiceFileName": "20025010090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002501010,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20025010100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 25,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002501011,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "潘达，你的咖喱酱是不是太多了？",
+      "VoiceFileName": "20025010110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 10602,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2002501012,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "嗯。让人给我多盛了一点～。/n这种不太辣也不太甜的绝妙味道，很难复刻出来啊～。",
+      "VoiceFileName": "20025010120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10602,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002501013,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（多盛了……！？可恶的潘达……。/n　居然只顾自己多吃，太卑鄙了。）",
+      "VoiceFileName": "20025010130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 11,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002501014,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "同学A",
+      "FontSize": 2,
+      "Phrase": "真好啊，我也想要～。",
+      "VoiceFileName": "20025010140",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2002501015,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "大锅里还有，先到先得哦！/n剩下就太浪费了嘛！",
+      "VoiceFileName": "20025010150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 10502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002501016,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "同学A",
+      "FontSize": 2,
+      "Phrase": "真的？我去盛。",
+      "VoiceFileName": "20025010160",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2002501017,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "那我也去一趟。",
+      "VoiceFileName": "20025010170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10602,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2002501018,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（居然形成潮流了……！/n　是想增加同伴来巩固自己的地位吧。我才不会中这招——）",
+      "VoiceFileName": "20025010180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 7,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002501019,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哦，乌鸦也在意吗？/n今天请假的人很多，还有哦！",
+      "VoiceFileName": "20025010190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 10502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002501020,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "欸！？",
+      "VoiceFileName": "20025010200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002501021,
+      "EpisodeMasterId": 2002501,
+      "Order": 2,
+      "GroupOrder": 20,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "我、我……。",
+      "VoiceFileName": "20025010201",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002501022,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "还是说，你是拿白饭配白饭吃的派系？",
+      "VoiceFileName": "20025010210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002501023,
+      "EpisodeMasterId": 2002501,
+      "Order": 2,
+      "GroupOrder": 21,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "开玩笑的。啊哈哈。",
+      "VoiceFileName": "20025010211",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002501024,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……哈？",
+      "VoiceFileName": "20025010220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002501025,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "同学B",
+      "FontSize": 2,
+      "Phrase": "啊哈哈！就是流石亲前几天干的那个吧。/n又添了一碗白饭来着。",
+      "VoiceFileName": "20025010230",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2002501026,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "同学A",
+      "FontSize": 2,
+      "Phrase": "乌森同学没看到吗？",
+      "VoiceFileName": "20025010240",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2002501027,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "欸……嗯。",
+      "VoiceFileName": "20025010250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002501028,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "饭盖饭，那都已经不能叫配菜了吧！",
+      "VoiceFileName": "20025010260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 3,
+          "SpineId": 10502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002501029,
+      "EpisodeMasterId": 2002501,
+      "Order": 2,
+      "GroupOrder": 26,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "潘达我吐槽都吐累了。",
+      "VoiceFileName": "20025010261",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 27,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002501030,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "对了。/n换个话题——前几天排练的时候——",
+      "VoiceFileName": "20025010270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002501031,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……………………。",
+      "VoiceFileName": "20025010280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002501032,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 29,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "200",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "999",
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2002501033,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（不光突然搭话，还讲了个莫名其妙的笑话……！/n　而且之后又开始说排练里那种无关紧要的失败经历！）",
+      "BgmFileName": "403",
+      "VoiceFileName": "20025010290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 3,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002501034,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（话说回来，周围的人为什么能因为那么肤浅的对话聊得那么起劲！？/n　一旦被拉进对话里，我又会犹豫是不是还得接话……！）",
+      "VoiceFileName": "20025010300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002501035,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（结果我早早吃完，就逃出了教室……！",
+      "VoiceFileName": "20025010310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 25,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002501036,
+      "EpisodeMasterId": 2002501,
+      "Order": 2,
+      "GroupOrder": 32,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "　啊～……烦死了……！）",
+      "VoiceFileName": "20025010311",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "HeadMotionMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002501037,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 33,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1080",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "WindowEffect": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2002501038,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "同学A",
+      "FontSize": 2,
+      "Phrase": "我在SNS上看到了，天狼星的排练已经到最后阶段了吗？/n下一场我也会去看的。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20025010320",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2002501039,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 35,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "200",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2002501040,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "我明明也是演员……。/n如果当时能回得更有趣一点，就能比潘达更显眼了吗……？",
+      "VoiceFileName": "20025010330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 4,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002501041,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 37,
+      "FontSize": 2,
+      "Phrase": "",
+      "SeFileName": "1670",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 2002501042,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……通知。是潘达的投稿。/n不只在学校，连SNS上都要惹我生气……！",
+      "VoiceFileName": "20025010340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002501043,
+      "EpisodeMasterId": 2002501,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "不可饶恕……！/n柳场潘达啊啊……！",
+      "VoiceFileName": "20025010350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 301,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    }
+  ]
+}

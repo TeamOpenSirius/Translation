@@ -1,0 +1,1549 @@
+{
+  "EpisodeId": 2002504,
+  "StoryType": 2,
+  "Order": 4,
+  "Prev": 2002503,
+  "Next": 2002505,
+  "Chapter": "#在指尖编织的黑暗",
+  "Title": "@Chaos.net",
+  "EpisodeDetail": [
+    {
+      "Id": 2002504001,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……呵呵。",
+      "BackgroundImageFileName": "1080",
+      "BgmFileName": "402",
+      "VoiceFileName": "20025040010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504002,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（从那之后，每发一条投稿，粉丝就会继续增加。/n　一开始很惊讶……难道我意外地很有这方面的才能？）",
+      "VoiceFileName": "20025040020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504003,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（昨天甚至比潘达的投稿涨得还多……！/n　以这种形式受到关注是有点害怕，不过感觉真不错。）",
+      "VoiceFileName": "20025040030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504004,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "这样下去，总有一天……。",
+      "VoiceFileName": "20025040040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504005,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 5,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "WindowEffect": 2,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2002504006,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "不愧是大黑大人！/n还请把SNS爆火的秘诀，传授给卑微的潘达吧～！",
+      "WindowEffect": 2,
+      "VoiceFileName": "20025040050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 401,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 10502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002504007,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "好吧……。/n如果你跪下来苦苦哀求，我就指导你。",
+      "WindowEffect": 2,
+      "VoiceFileName": "20025040060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504008,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "遵命——！",
+      "WindowEffect": 2,
+      "VoiceFileName": "20025040070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002504009,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 9,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2002504010,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "呵呵……。/n呵呵呵呵呵……。",
+      "VoiceFileName": "20025040080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 119,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504011,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哇，刚才怎么突然打了个寒颤。",
+      "VoiceFileName": "20025040090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 10502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002504012,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "没事吧？/n如果感冒了，要不要给你围根大葱？",
+      "VoiceFileName": "20025040100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 10602,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2002504013,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "所以说——，你为什么会把那种东西带到学校啊！？",
+      "VoiceFileName": "20025040110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002504014,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20025040120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 25,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504015,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "喂喂，乌鸦——。",
+      "VoiceFileName": "20025040130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002504016,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "咿！？突然干什么！？",
+      "VoiceFileName": "20025040140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504017,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "乌鸦，你有做短视频吗？/n我最近缺题材，有没有什么好点子～？",
+      "VoiceFileName": "20025040150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 10502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002504018,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "哈……？/n为什么要来问我……？",
+      "VoiceFileName": "20025040160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504019,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "短小又方便看的内容，果然得每天投稿，/n不然很快就会被忘掉吧？这么一来就会没弹药啦——。",
+      "VoiceFileName": "20025040170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002504020,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "我怎么知道……拍那个拿着大葱的人的视频不就好了……？/n做个共鸣梗，比如“朋友是天然怪人时的常见情况”之类。",
+      "VoiceFileName": "20025040180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504021,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哦——，确实知冴亲只要站在那里就是素材宝库。/n我参考一下！那明天见！",
+      "VoiceFileName": "20025040190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2002504022,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（……好危险，在学校还是别打开SNS比较好吧？）",
+      "VoiceFileName": "20025040200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 7,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504023,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（看着吧潘达。总有一天我的粉丝数超过你时，/n　我就公开身份。到时候你就尽管膜拜我吧……！）",
+      "VoiceFileName": "20025040210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 118,
+          "BodyMotionMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504024,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 24,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "120",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2002504025,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "今天的投稿，完成。",
+      "VoiceFileName": "20025040220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504026,
+      "EpisodeMasterId": 2002504,
+      "Order": 2,
+      "GroupOrder": 25,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "已经有人点赞了。",
+      "VoiceFileName": "20025040221",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504027,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "是刚才给我留言的人。/n……已经看到了啊。",
+      "VoiceFileName": "20025040230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504028,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "呀！？刚才横穿过去的是黑猫……？",
+      "VoiceFileName": "20025040240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504029,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "肚子上有一块心形的斑纹。真少见……。",
+      "VoiceFileName": "20025040250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504030,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（对了，拍下来发个投稿……。",
+      "VoiceFileName": "20025040260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504031,
+      "EpisodeMasterId": 2002504,
+      "Order": 2,
+      "GroupOrder": 29,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "　黑猫很帅，而且颜色也让我有亲近感……不错。）",
+      "VoiceFileName": "20025040261",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504032,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 30,
+      "FontSize": 2,
+      "Phrase": "",
+      "SeFileName": "1880",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 2002504033,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20025040270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504034,
+      "EpisodeMasterId": 2002504,
+      "Order": 2,
+      "GroupOrder": 31,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "好，发布完成。",
+      "VoiceFileName": "20025040271",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504035,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "咦——？这不是大黑嘛。/n放学路上碰到你，好巧啊。",
+      "VoiceFileName": "20025040280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 1,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2002504036,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "容小姐！/n吓、吓我一跳……。",
+      "VoiceFileName": "20025040290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504037,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（啊……。/n　她没看到投稿界面吧？）",
+      "VoiceFileName": "20025040300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504038,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "啊——，是猫猫耶♪",
+      "VoiceFileName": "20025040310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2002504039,
+      "EpisodeMasterId": 2002504,
+      "Order": 2,
+      "GroupOrder": 35,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "啧啧啧。来——过来这边——。",
+      "VoiceFileName": "20025040311",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2002504040,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "没戴项圈，是流浪猫吗？/n哦，肚子上白色的地方是爱心形，好可爱～。",
+      "VoiceFileName": "20025040320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2002504041,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20025040330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504042,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "咦？怎么了大黑——，从刚才开始就离这么远，/n你怕猫来着？",
+      "VoiceFileName": "20025040340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2002504043,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "没、没有……。/n我先走了。",
+      "VoiceFileName": "20025040350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2002504044,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 40,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "20",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "999",
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2002504045,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "……嘴上是说“没有”。",
+      "BgmFileName": "23",
+      "VoiceFileName": "20025040360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2002504046,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "（可刚才的大黑，总觉得和平时不太一样。）",
+      "VoiceFileName": "20025040370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2002504047,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "（像是在防着我……但我也不记得踩过她什么雷。/n　难道是因为初魅相关的事在吃醋？）",
+      "VoiceFileName": "20025040380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2002504048,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "……不不，想太多是我的老毛病了。",
+      "VoiceFileName": "20025040390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2002504049,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "同学",
+      "FontSize": 2,
+      "Phrase": "万小姐……！/n那个，现在方便吗？",
+      "VoiceFileName": "20025040400",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2002504050,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "可以啊——，怎么了？",
+      "VoiceFileName": "20025040410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2002504051,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "同学",
+      "FontSize": 2,
+      "Phrase": "我有个朋友特别喜欢Eden，/n她好像看到了万小姐之前发在SNS上的照片。就是这个。",
+      "VoiceFileName": "20025040420",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2002504052,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "我看看……啊——这个，是初魅的私下照？/n开完会后打瞌睡那张吧——。",
+      "VoiceFileName": "20025040430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2002504053,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "同学",
+      "FontSize": 2,
+      "Phrase": "对！我朋友是初魅大人的粉丝！所以她想让我谢谢您，/n把初魅大人难得的一面发在SNS上给大家看……。",
+      "VoiceFileName": "20025040440",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2002504054,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 50,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "啊哈哈，太夸张啦——。/n既然有人想看，那就好。虽然照片里的人本人可能心情复杂。",
+      "VoiceFileName": "20025040450",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2002504055,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 51,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "嗯……。",
+      "VoiceFileName": "20025040460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2002504056,
+      "EpisodeMasterId": 2002504,
+      "Order": 2,
+      "GroupOrder": 51,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "咦？",
+      "VoiceFileName": "20025040461",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2002504057,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "同学",
+      "FontSize": 2,
+      "Phrase": "怎么了？",
+      "VoiceFileName": "20025040470",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2002504058,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 53,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "啊，没有。/n就是时间线里……这个人发的照片，总觉得在哪里见过。",
+      "VoiceFileName": "20025040480",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2002504059,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 54,
+      "SpeakerName": "同学",
+      "FontSize": 2,
+      "Phrase": "啊，乌鸦独奏曲吗？",
+      "VoiceFileName": "20025040490",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2002504060,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 55,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "嗯……。/n是什么样的人？",
+      "VoiceFileName": "20025040500",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2002504061,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 56,
+      "SpeakerName": "同学",
+      "FontSize": 2,
+      "Phrase": "最近爆火的人哦～。/n主要发一些表现孤独的诗和照片，内容都很有原创性。",
+      "VoiceFileName": "20025040510",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2002504062,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 57,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20025040520",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2002504063,
+      "EpisodeMasterId": 2002504,
+      "Order": 2,
+      "GroupOrder": 57,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "哦～。",
+      "VoiceFileName": "20025040521",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2002504064,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 58,
+      "SpeakerName": "同学",
+      "FontSize": 2,
+      "Phrase": "我也不知道万小姐看了会不会觉得有趣……。/n怎么了吗？",
+      "VoiceFileName": "20025040530",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2002504065,
+      "EpisodeMasterId": 2002504,
+      "Order": 1,
+      "GroupOrder": 59,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "没——，没什么哦～。",
+      "VoiceFileName": "20025040540",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    }
+  ]
+}

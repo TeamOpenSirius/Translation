@@ -1,0 +1,752 @@
+{
+  "EpisodeId": 2006503,
+  "StoryType": 2,
+  "Order": 3,
+  "Prev": 2006502,
+  "Next": 2006504,
+  "Chapter": "开运！捣年糕声与钟声",
+  "Title": "大家一起去采购",
+  "EpisodeDetail": [
+    {
+      "Id": 2006503001,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "虾的话……这个不错。/n然后是白色素面、梅子味素面和柚子味素面……。",
+      "BackgroundImageFileName": "1240",
+      "BgmFileName": "102",
+      "VoiceFileName": "20065030010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006503002,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "怎么全是素面啊！/n这些真的是御节料理的材料吗？",
+      "VoiceFileName": "20065030020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006503003,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "天狼星每年都有做御节料理的传统。/n说到天狼星就是素面……当然得放。",
+      "VoiceFileName": "20065030030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006503004,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "可说到素面，我想到的不是天狼星，而是知冴你啊……？",
+      "VoiceFileName": "20065030040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2006503005,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "同感。",
+      "VoiceFileName": "20065030050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2006503006,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "而且我还是第一次听说天狼星有做御节料理的传统！/n……不过，感觉能做成视频素材，所以潘达加入！！",
+      "VoiceFileName": "20065030060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006503007,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "潘达……！嗯……！/n一起做吧……！最棒的御节料理！",
+      "VoiceFileName": "20065030070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006503008,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哦！把最棒的御节料理呈现给观众们吧……！",
+      "VoiceFileName": "20065030080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006503009,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "咦，你们俩是不是根本没在说同一件事……？",
+      "VoiceFileName": "20065030090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2006503010,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "沟通真的很难啊。/n看着她们两个，我深刻体会到了。",
+      "VoiceFileName": "20065030100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2006503011,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "啊哈哈……。",
+      "VoiceFileName": "20065030110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006503012,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "而且卡特莉娜在的话，/n就代表还能吃到德国料理吧……！",
+      "VoiceFileName": "20065030120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006503013,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "欸……我！？/n也、也是啦？既然你们有需求，我也不是不能帮忙！",
+      "VoiceFileName": "20065030130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2006503014,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "喂！？知冴亲！/n你让卡特亲做菜这件事……。",
+      "VoiceFileName": "20065030140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006503015,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "确实！史多伦、椒盐脆饼……。/n吸溜……好期待～。",
+      "VoiceFileName": "20065030150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006503016,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "喂，心菜？/n那些根本不算御节料理吧？",
+      "VoiceFileName": "20065030160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2006503017,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "黑豆也是甜的，所以拿史多伦代替也完全没问题！/n对吧，知冴？",
+      "VoiceFileName": "20065030170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 104,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2006503018,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "再怎么说这也太强词夺理了。",
+      "VoiceFileName": "20065030180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 106,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006503019,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "知冴居然冷静吐槽……！？",
+      "VoiceFileName": "20065030190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006503020,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "拆台也太快了吧……。",
+      "VoiceFileName": "20065030200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006503021,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "总之，今年是天狼星大幅跃进的一年吧？",
+      "VoiceFileName": "20065030210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006503022,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "嗯，是啊。/n毕竟我们还作为演员受邀参加世界演剧联盟的比赛。",
+      "VoiceFileName": "20065030230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2006503023,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "厉害到就算告诉以前的自己，她都不会相信吧～。",
+      "VoiceFileName": "20065030240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006503024,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……嗯，是啊。",
+      "VoiceFileName": "20065030250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2006503025,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "是啊。",
+      "VoiceFileName": "20065030260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006503026,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "不只是迎接新的一年，/n这顿饭也有“至今为止辛苦了”的意义。",
+      "VoiceFileName": "20065030270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006503027,
+      "EpisodeMasterId": 2006503,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "所以御节料理也得认真讲究。",
+      "VoiceFileName": "20065030280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    }
+  ]
+}

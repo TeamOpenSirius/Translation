@@ -1,0 +1,1237 @@
+{
+  "EpisodeId": 2004201,
+  "StoryType": 2,
+  "Order": 1,
+  "Prev": null,
+  "Next": 2004202,
+  "Chapter": "StellaRISM SHOOTERS",
+  "Title": "目标！高级吹风机！",
+  "EpisodeDetail": [
+    {
+      "Id": 2004201001,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "店员",
+      "FontSize": 2,
+      "Phrase": "感谢您的光临。/n欢迎下次再来！",
+      "BackgroundImageFileName": "860",
+      "BgmFileName": "202",
+      "VoiceFileName": "20042010010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2004201002,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20042010020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 25,
+          "SpineId": 30421,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201003,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "唔……这里也没有。",
+      "VoiceFileName": "20042010030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201004,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 4,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "731",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "WindowEffect": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue2": -1.0,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 2004201005,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "广告",
+      "FontSize": 2,
+      "Phrase": "Air Master Blow Dryer。/n以纳米技术实现最高级、最高品质的秀发。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20042010040",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2004201006,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "吹风机……。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20042010050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 30421,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201007,
+      "EpisodeMasterId": 2004201,
+      "Order": 2,
+      "GroupOrder": 6,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……很贵，不过，看起来很好。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20042010051",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201008,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 7,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "860",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue2": -1.0,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 2004201009,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "哪里都没卖。/n……早知道这样，直接网上买就好了。",
+      "VoiceFileName": "20042010060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 30421,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201010,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20042010070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 25,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201011,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "啊，这个是刚才的吹风机。",
+      "VoiceFileName": "20042010080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201012,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "这里有卖……？/n可是，这里是游戏厅……。",
+      "VoiceFileName": "20042010090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201013,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……？/n『秋叶DENKI店 音击王者决定战』。",
+      "BackgroundCharacterImageFileName": "140900_0",
+      "VoiceFileName": "20042010100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201014,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "『冠军奖品：Air Master Blow Dryer』。/n……就是这个。",
+      "BackgroundCharacterImageFileName": "140900_0",
+      "VoiceFileName": "20042010110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201015,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 14,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "60",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2004201016,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "喂，拉莫。/n你对节奏感有自信吗？",
+      "VoiceFileName": "20042010120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 4,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201017,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "诶？毕竟舞台上也会唱歌跳舞，多少还是有点节奏感。/n怎么突然问这个？",
+      "VoiceFileName": "20042010130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2004201018,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "这个。",
+      "VoiceFileName": "20042010140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201019,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "『秋叶DENKI店 音击王者决定战』……？/n秋叶原游戏厅举办的比赛？这和节奏感有什么关系？",
+      "VoiceFileName": "20042010150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2004201020,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "音击，好像是配合音乐按按钮的游戏。",
+      "VoiceFileName": "20042010160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201021,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "哦、哦？",
+      "VoiceFileName": "20042010170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2004201022,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "你看。/n『冠军奖品：Air Master Blow Dryer』。",
+      "VoiceFileName": "20042010180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201023,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "啊，就是你之前说的高级吹风机。",
+      "VoiceFileName": "20042010190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2004201024,
+      "EpisodeMasterId": 2004201,
+      "Order": 2,
+      "GroupOrder": 22,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "不过，你不是去秋叶原买了吗？",
+      "VoiceFileName": "20042010191",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2004201025,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "去了。但到处都卖光了。/n哪都买不到。",
+      "VoiceFileName": "20042010200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201026,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "所以，你想让我在这个什么『音击王者决定战』里拿冠军？",
+      "VoiceFileName": "20042010210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2004201027,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "嗯。",
+      "VoiceFileName": "20042010220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201028,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "原来如此……。",
+      "VoiceFileName": "20042010230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2004201029,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……我还是想确认一下，/n非得要这款吹风机不可吗？",
+      "VoiceFileName": "20042010240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2004201030,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "嗯。",
+      "VoiceFileName": "20042010250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201031,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "也是啊……。",
+      "VoiceFileName": "20042010260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2004201032,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "真的哪里都买不到吗？",
+      "VoiceFileName": "20042010270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2004201033,
+      "EpisodeMasterId": 2004201,
+      "Order": 2,
+      "GroupOrder": 30,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "网购之类的，我稍微查一下。",
+      "VoiceFileName": "20042010271",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2004201034,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……官网显示售罄。/n购物网站也在等补货……这个也是，这边也是……。",
+      "VoiceFileName": "20042010280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2004201035,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "听说电视介绍过。",
+      "VoiceFileName": "20042010290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 106,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201036,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "原来如此……。",
+      "VoiceFileName": "20042010300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2004201037,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "不过，就算这样评分也没掉。/n我觉得肯定真的很好用。",
+      "VoiceFileName": "20042010310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201038,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "确实。",
+      "VoiceFileName": "20042010320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2004201039,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……拉莫，不能想想办法吗？/n有了这个，我会变得更漂亮。那样拉莫也会开心吧？",
+      "VoiceFileName": "20042010330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201040,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "不……嗯，那当然，/n开心是会开心……。",
+      "VoiceFileName": "20042010340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2004201041,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（配合音乐按按钮的游戏，/n　而且还要第一次玩就直接拿比赛冠军……）",
+      "VoiceFileName": "20042010350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2004201042,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（怎么看都不现实……）",
+      "VoiceFileName": "20042010360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2004201043,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20042010370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2004201044,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（可是，直接冷淡拒绝她也……）",
+      "VoiceFileName": "20042010380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 7,
+          "SpineId": 30202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2004201045,
+      "EpisodeMasterId": 2004201,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（可恶，到底怎么办才好……！）",
+      "VoiceFileName": "20042010390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 17,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    }
+  ]
+}

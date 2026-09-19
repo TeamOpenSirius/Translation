@@ -1,0 +1,1819 @@
+{
+  "EpisodeId": 2005603,
+  "StoryType": 2,
+  "Order": 3,
+  "Prev": 2005602,
+  "Next": 2005604,
+  "Chapter": "为了那个热得昏沉的女孩",
+  "Title": "我们，去打工",
+  "EpisodeDetail": [
+    {
+      "Id": 2005603001,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "唉～。",
+      "BackgroundImageFileName": "1140",
+      "BgmFileName": "2",
+      "VoiceFileName": "20056030010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadDirectionMasterId": 4,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603002,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（今天上体育课，心情糟透了。/n　这种时候果然得逗逗王雪前辈来换换心情）",
+      "VoiceFileName": "20056030020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603003,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "路人",
+      "FontSize": 2,
+      "Phrase": "快看？　有个超级美女。",
+      "VoiceFileName": "20056030030",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005603004,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "路人",
+      "FontSize": 2,
+      "Phrase": "从没见过这么漂亮的人。/n这里真是拉面店？　不是美容院？",
+      "VoiceFileName": "20056030040",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005603005,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（咦？　人还挺多。这个时间平时应该很空才对……）",
+      "VoiceFileName": "20056030050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 7,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603006,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "久等了。酱油豚骨，加菜少油硬面，是你的。",
+      "VoiceFileName": "20056030060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2005603007,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "诶？　诶诶诶——！？/n莉、莉莉亚前辈！？",
+      "VoiceFileName": "20056030070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 501,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603008,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "汤会溅出来，/n我觉得最好穿纸围裙，或者把衣服脱掉。",
+      "VoiceFileName": "20056030080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2005603009,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "还说着完全听不懂的话！",
+      "VoiceFileName": "20056030090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603010,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "时雨？/n你怎么会在这里？",
+      "VoiceFileName": "20056030100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 106,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2005603011,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "这才是我要问的！/n为什么莉莉亚前辈会在这里打工！？",
+      "VoiceFileName": "20056030110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 508,
+          "BodyMotionMasterId": 10,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603012,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "王雪感冒了。我替她。",
+      "VoiceFileName": "20056030120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2005603013,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "替她……/n就算是这样——",
+      "VoiceFileName": "20056030130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603014,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "要加面啊。谢谢。/n可以选择面的硬度和美丽程度。",
+      "VoiceFileName": "20056030140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2005603015,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "莉莉亚前辈和拉面店真的不搭好吗！？",
+      "VoiceFileName": "20056030150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603016,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "排队的客人",
+      "FontSize": 2,
+      "Phrase": "这个时间排这么多人还真少见。",
+      "VoiceFileName": "20056030160",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005603017,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "排队的客人",
+      "FontSize": 2,
+      "Phrase": "这家店总是能端出远超及格线的味道。/n想到它的魅力终于传开了，我这个常客都觉得骄傲。",
+      "VoiceFileName": "20056030170",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005603018,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "慢吞吞。",
+      "VoiceFileName": "20056030180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2005603019,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（莉莉亚前辈面对这么长的队也完全没加快动作！？/n　难怪会排成这样！！）",
+      "VoiceFileName": "20056030190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 503,
+          "BodyMotionMasterId": 5,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603020,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（队越来越长……，/n　王雪前辈也不在，再排下去只会浪费时间）",
+      "VoiceFileName": "20056030200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 15,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603021,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "今天就不吃拉面了。/n回去吧……。",
+      "VoiceFileName": "20056030210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603022,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 22,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "580",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "1",
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2005603023,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "拉面也没吃到，心情差透了！",
+      "VoiceFileName": "20056030220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603024,
+      "EpisodeMasterId": 2005603,
+      "Order": 2,
+      "GroupOrder": 23,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "可是回家妈妈她们现在也不在……。",
+      "VoiceFileName": "20056030221",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603025,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "对了，那就叫外送。/n反正妈妈给了我午饭钱！",
+      "VoiceFileName": "20056030230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603026,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "嗯——，选哪个。/n啊，这个三明治看起来好好吃！",
+      "VoiceFileName": "20056030240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603027,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "哼哼♪　天气也不错，/n偶尔在公园里优雅地吃午餐也挺好！",
+      "VoiceFileName": "20056030250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603028,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 27,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2005603029,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "……完全没来。",
+      "VoiceFileName": "20056030260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603030,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "再怎么说也太慢了吧！/n我要发消息质问配送员！",
+      "VoiceFileName": "20056030270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603031,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "“大概还要多久能到？”……。",
+      "VoiceFileName": "20056030280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 111,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603032,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "配送员",
+      "FontSize": 2,
+      "Phrase": "“马、马上！”",
+      "VoiceFileName": "20056030290",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005603033,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "配送员",
+      "FontSize": 2,
+      "Phrase": "“是公园对吧！？”",
+      "VoiceFileName": "20056030300",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005603034,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "配送员",
+      "FontSize": 2,
+      "Phrase": "“我现在到秋千前面了！”",
+      "VoiceFileName": "20056030310",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005603035,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "秋千……/n这个公园根本没有秋千……。",
+      "VoiceFileName": "20056030320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603036,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "这人到底怎么回事？/n反而开始好奇到底是谁了。",
+      "VoiceFileName": "20056030330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603037,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "名字叫“Hikari”……？/nHikari，该不会是与那国前辈……？",
+      "VoiceFileName": "20056030340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603038,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "不不，不可能……。/n王雪前辈也就算了，与那国前辈怎么可能打工……。",
+      "VoiceFileName": "20056030350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603039,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "久等啦～！/n我跑错公园了……！",
+      "VoiceFileName": "20056030360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 18,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2005603040,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "还真是与那国前辈……。/n唉，谢谢……。给，钱。",
+      "VoiceFileName": "20056030370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603041,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "啊，好！　找你380日元！/n原来时雨亲就是下单的人，谢谢！",
+      "VoiceFileName": "20056030380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2005603042,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "这个无所谓啦，你怎么回事？/n居然在打工，是受王雪前辈影响了？",
+      "VoiceFileName": "20056030390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 111,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603043,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "今天是替王雪做外送！/n我明明以为知道地点，结果还是迷路了……嘿嘿。",
+      "VoiceFileName": "20056030400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2005603044,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "哦——。",
+      "VoiceFileName": "20056030410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "BodyMotionMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603045,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（三明治……都散了。/n　多半是与那国前辈跑来跑去搞的……唉）",
+      "VoiceFileName": "20056030420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 15,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603046,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "王雪前辈居然要找与那国前辈代班，/n身体有那么差吗？",
+      "VoiceFileName": "20056030430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603047,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "嗯。王雪要打好——多工，又要排好多练，/n成绩还比我好！",
+      "VoiceFileName": "20056030440",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2005603048,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "她太努力了，也许就是累坏了。/n所以为了让王雪休息，我也得努力！",
+      "VoiceFileName": "20056030450",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2005603049,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "哦——这样啊。/n辛苦啦——。",
+      "VoiceFileName": "20056030460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603050,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（想想也是，一边打好几份工，又要在银河座演戏，/n　确实会很累吧……）",
+      "VoiceFileName": "20056030470",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603051,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 50,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（……王雪前辈不在，就没意思了。/n　希望感冒快点好）",
+      "VoiceFileName": "20056030480",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005603052,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 51,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1190",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "202",
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2005603053,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "好啊隼人——！　你是日本第一——！！/n喂，卖饮料的小姑娘！　给我来一杯！",
+      "VoiceFileName": "20056030490",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 20401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2005603054,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 53,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "好的。/n那个，一杯800日元。",
+      "VoiceFileName": "20056030500",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 30106,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005603055,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 54,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "诶？　诶诶诶——！？",
+      "VoiceFileName": "20056030510",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 501,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 20401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2005603056,
+      "EpisodeMasterId": 2005603,
+      "Order": 2,
+      "GroupOrder": 54,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "千、千寿历……？",
+      "VoiceFileName": "20056030511",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2005603057,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 55,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "哎呀，容小姐。贵安。",
+      "VoiceFileName": "20056030520",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005603058,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 56,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "啊，那个……/n贵、贵安？",
+      "VoiceFileName": "20056030530",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 510,
+          "HeadDirectionMasterId": 7,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2005603059,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 57,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "既然是容小姐，那酒就不能卖给你。/n请，这是苹果汁。",
+      "VoiceFileName": "20056030540",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005603060,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 58,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "谢谢……。/n话说，为什么千寿历会在这种地方当售货员？",
+      "VoiceFileName": "20056030550",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2005603061,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 59,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "这个，说来话长……。/n那我先失陪。",
+      "VoiceFileName": "20056030560",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005603062,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 60,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "等一下！/n钱还没给你！",
+      "VoiceFileName": "20056030570",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 509,
+          "BodyMotionMasterId": 18,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2005603063,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 61,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "失、失礼了。/n正好800日元……谢谢。",
+      "VoiceFileName": "20056030580",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 511,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005603064,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 62,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "千寿历，没事吧？/n看起来……不太熟练。",
+      "VoiceFileName": "20056030590",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2005603065,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 63,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "无需担心。/n而且，也不能只有我一个人什么都不做。",
+      "VoiceFileName": "20056030600",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005603066,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 64,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "嗯？",
+      "VoiceFileName": "20056030610",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "HeadDirectionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2005603067,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 65,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "没什么。那么，我先告辞。/n谢谢你的关心。",
+      "VoiceFileName": "20056030620",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005603068,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 66,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "走了……。",
+      "VoiceFileName": "20056030630",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 20401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2005603069,
+      "EpisodeMasterId": 2005603,
+      "Order": 2,
+      "GroupOrder": 66,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "咦？　千寿历后面，有穿黑西装的人一直在看着她……？",
+      "VoiceFileName": "20056030631",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "HeadDirectionMasterId": 7,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2005603070,
+      "EpisodeMasterId": 2005603,
+      "Order": 1,
+      "GroupOrder": 67,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "是千寿家的人吧……？/n也就是说，这也算社会实践之类……？",
+      "VoiceFileName": "20056030640",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    }
+  ]
+}

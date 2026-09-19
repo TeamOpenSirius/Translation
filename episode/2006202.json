@@ -1,0 +1,657 @@
+{
+  "EpisodeId": 2006202,
+  "StoryType": 2,
+  "Order": 2,
+  "Prev": 2006201,
+  "Next": 2006203,
+  "Chapter": "跨越心之牢笼",
+  "Title": "给你点颜色看看",
+  "EpisodeDetail": [
+    {
+      "Id": 2006202001,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "同班同学们",
+      "FontSize": 2,
+      "Phrase": "“我们一组耶！请多关照～”/n“听说这次去的地方，鹦鹉馆重新装修了。”",
+      "BackgroundImageFileName": "1080",
+      "BgmFileName": "1",
+      "VoiceFileName": "20062020010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006202002,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "同班同学们",
+      "FontSize": 2,
+      "Phrase": "“好期待便当～”/n“还会比平时早放学，回去路上去游戏厅吧。”",
+      "VoiceFileName": "20062020020",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006202003,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（自从校外学习分完组，班里比平时还吵。/n　而且……。）",
+      "VoiceFileName": "20062020030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006202004,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "乌鸦，你有什么想逛的地方吗？/n或者想看的动物！",
+      "VoiceFileName": "20062020040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006202005,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "我没什么……。/n你按自己喜欢的来不就好了……。",
+      "VoiceFileName": "20062020050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006202006,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "不用客气，乌鸦。/n把“自己”表现出来吧……。",
+      "VoiceFileName": "20062020060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10602,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006202007,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……！",
+      "VoiceFileName": "20062020070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 300,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006202008,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（因为同一组，知冴和潘达开始老来找我说话……。/n　我到底做了什么，为什么要遭这种罪……！）",
+      "VoiceFileName": "20062020080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006202009,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "听说那家动物园特别重视互动体验。/n要不要趁这个机会，疯狂治愈一把？",
+      "VoiceFileName": "20062020090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006202010,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "是呢。那先去互动区？",
+      "VoiceFileName": "20062020100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10602,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006202011,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "啊～，可只要知冴亲在，动物们就全往知冴亲那边跑。/n结果我每次都摸不到……这次手下留情啊知冴亲！",
+      "VoiceFileName": "20062020110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006202012,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "当然！因为我也希望潘达能被治愈。",
+      "VoiceFileName": "20062020120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006202013,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "总觉得以前也说过类似的话……唉。",
+      "VoiceFileName": "20062020130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006202014,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（嗯？刚刚潘达是不是在遗憾，/n　只要和知冴一起，动物就会全往知冴那边去，她自己摸不到？）",
+      "VoiceFileName": "20062020140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006202015,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（那如果不只是知冴，连我也把动物的注意力全抢过来，/n　潘达就没法享受互动了……。）",
+      "VoiceFileName": "20062020150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006202016,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（那样潘达肯定会更失落……。/n　也就是说，我就能让那个潘达吃点苦头了吧！）",
+      "VoiceFileName": "20062020160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006202017,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（说实话我很怕动物……但只要提前习惯，应该就能和它们相处吧？/n　一想到能让那个潘达吃瘪，好像就有动力了。）",
+      "VoiceFileName": "20062020170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 17,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006202018,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "呵呵呵……。",
+      "VoiceFileName": "20062020180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006202019,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哦，怎么啦～！乌鸦也已经开始期待了？",
+      "VoiceFileName": "20062020190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006202020,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "嘛、嘛……差不多吧……。",
+      "VoiceFileName": "20062020200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006202021,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "我尤其期待喂食。/n我要成为喂食大师……！",
+      "VoiceFileName": "20062020210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 10602,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006202022,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "喂食大师是什么鬼。/n不过我也很期待就是了。",
+      "VoiceFileName": "20062020220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 10502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10602,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006202023,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "一边喂食一边被治愈，再拿这个当素材，/n“可爱动物＋可爱潘达”肯定能爆火，呵呵呵……。",
+      "VoiceFileName": "20062020230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006202024,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（哼哼，趁现在尽管笑吧……。）",
+      "VoiceFileName": "20062020240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 3,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006202025,
+      "EpisodeMasterId": 2006202,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（等到了当天，就让你体会动物都不靠近你的不甘……。/n　尤其是潘达！！）",
+      "VoiceFileName": "20062020250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 17,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    }
+  ]
+}

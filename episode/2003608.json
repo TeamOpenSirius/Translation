@@ -1,0 +1,944 @@
+{
+  "EpisodeId": 2003608,
+  "StoryType": 2,
+  "Order": 8,
+  "Prev": 2003607,
+  "Next": null,
+  "Chapter": "姐妹",
+  "Title": "在你身旁",
+  "EpisodeDetail": [
+    {
+      "Id": 2003608001,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "所以……是我在让姐姐痛苦。",
+      "BackgroundImageFileName": "130",
+      "BgmFileName": "304",
+      "VoiceFileName": "20036080010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadDirectionMasterId": 4,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 40101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608002,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "因为我责怪了姐姐。/n因为我把……一切都压到了姐姐肩上。",
+      "VoiceFileName": "20036080020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608003,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20036080030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2003608004,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "这些年我一直后悔，后悔那天为什么要说出那种话。/n姐姐明明直到最后都还在支持我。",
+      "VoiceFileName": "20036080040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608005,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "啊，对、对不起！突然讲这些过去的事。",
+      "VoiceFileName": "20036080050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608006,
+      "EpisodeMasterId": 2003608,
+      "Order": 2,
+      "GroupOrder": 5,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "也许是因为和拉莫娜小姐在一起，让人很安心吧……。",
+      "VoiceFileName": "20036080051",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608007,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……那现在呢？",
+      "VoiceFileName": "20036080060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2003608008,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "诶？",
+      "VoiceFileName": "20036080070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608009,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "现在的伊吕波自己，演戏还会觉得痛苦吗？",
+      "VoiceFileName": "20036080080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2003608010,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "……不会。",
+      "VoiceFileName": "20036080090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608011,
+      "EpisodeMasterId": 2003608,
+      "Order": 2,
+      "GroupOrder": 9,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "这样很狡猾吧。",
+      "VoiceFileName": "20036080091",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608012,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "上初中以后，我有了把目光投向舞台以外的时间，/n遇见了动画、漫画，还有许许多多的东西。",
+      "VoiceFileName": "20036080100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608013,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "现在我也加入了剧团电姬，和美兔她们/n每天都能开心地一起演戏。",
+      "VoiceFileName": "20036080110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608014,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "……可姐姐直到现在还一直在银河座努力。/n真正过分的是“我”才对。",
+      "VoiceFileName": "20036080120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadDirectionMasterId": 4,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608015,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "才不是。/n千寿历绝对不会那样想。",
+      "VoiceFileName": "20036080130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2003608016,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20036080140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608017,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "……那个，拉莫娜小姐。/n我有一个请求。",
+      "VoiceFileName": "20036080150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608018,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "好啊。无论什么请求我都会听。",
+      "VoiceFileName": "20036080160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2003608019,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "请不要让姐姐一个人。",
+      "VoiceFileName": "20036080170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 104,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608020,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "“我”……已经没办法再站在“姐姐”的身边了。/n所以请你在舞台上，站在姐姐身边。",
+      "VoiceFileName": "20036080180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadDirectionMasterId": 4,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608021,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "姐姐其实很怕寂寞，又很温柔，也非常重视伙伴……。",
+      "VoiceFileName": "20036080190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608022,
+      "EpisodeMasterId": 2003608,
+      "Order": 2,
+      "GroupOrder": 19,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "……我最喜欢姐姐了。",
+      "VoiceFileName": "20036080191",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608023,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "所以……。",
+      "VoiceFileName": "20036080200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608024,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "好。我答应你。",
+      "BackgroundCharacterImageFileName": "130590_0",
+      "VoiceFileName": "20036080210",
+      "CharacterMotions": [],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2003608025,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "我一定会帮她。/n为了千寿历、为了伊吕波，也为了我自己。",
+      "BackgroundCharacterImageFileName": "130590_0",
+      "VoiceFileName": "20036080220",
+      "CharacterMotions": [],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2003608026,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "所以，相信我，等着吧。",
+      "BackgroundCharacterImageFileName": "130590_0",
+      "VoiceFileName": "20036080230",
+      "CharacterMotions": [],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2003608027,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "……好。谢谢你。",
+      "BackgroundCharacterImageFileName": "130590_0",
+      "VoiceFileName": "20036080240",
+      "CharacterMotions": [],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608028,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 25,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1131",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "303",
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": -0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2003608029,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "从拉莫娜小姐那里借来的书上，贴满了便签，/n到处都有用日文和字母写下的笔记。",
+      "VoiceFileName": "20036080250",
+      "CharacterMotions": [],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608030,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "一看就知道是姐姐的字——纤细、柔美而漂亮，/n还有很有拉莫娜小姐风格的、强劲流畅的花体字。",
+      "VoiceFileName": "20036080260",
+      "CharacterMotions": [],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608031,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 28,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "921",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": -0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2003608032,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "《成为最优秀演员的方法》……吗。/n……真像姐姐会看的标题。",
+      "VoiceFileName": "20036080270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 40101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608033,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "对了。/n我……又只顾着想自己的事。",
+      "VoiceFileName": "20036080280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608034,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "电姬的宗旨是“享受演戏”。/n曾经退出过演戏的我，如今也在电姬非常开心地继续着。",
+      "VoiceFileName": "20036080290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608035,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "可这并不代表满足于现状。/n我还想演得更好，想更加派上用场。",
+      "VoiceFileName": "20036080300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608036,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "我相信，一定也有只有我才能发光的舞台。",
+      "VoiceFileName": "20036080310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2003608037,
+      "EpisodeMasterId": 2003608,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "现在的我，还不知道能不能证明这一点。/n但是，如果我能在电姬获得更高的评价，总有一天……。",
+      "VoiceFileName": "20036080320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    }
+  ]
+}

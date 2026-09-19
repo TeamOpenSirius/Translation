@@ -1,0 +1,992 @@
+{
+  "EpisodeId": 2007105,
+  "StoryType": 2,
+  "Order": 5,
+  "Prev": 2007104,
+  "Next": 2007106,
+  "Chapter": "Stella Generalprobe!",
+  "Title": "因为我们都一样",
+  "EpisodeDetail": [
+    {
+      "Id": 2007105001,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "辛苦了，八惠亲！",
+      "BackgroundImageFileName": "1790",
+      "BgmFileName": "102",
+      "VoiceFileName": "20071050010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2007105002,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "太厉害了……真不愧是八惠亲。/n唱歌时的样子，甚至让人觉得很神圣。",
+      "VoiceFileName": "20071050020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2007105003,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "是啊～，简直就像天使一样！/n真的特别漂亮！",
+      "VoiceFileName": "20071050030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2007105004,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "谢谢你们，心菜小姐……静香小姐。/n能得到两位夸奖，我很荣幸。",
+      "VoiceFileName": "20071050040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2007105005,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "……？",
+      "VoiceFileName": "20071050050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2007105006,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "难道，八惠亲。/n你有什么烦恼吗？",
+      "VoiceFileName": "20071050060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2007105007,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "烦恼……吗？",
+      "VoiceFileName": "20071050070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 4,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2007105008,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "等等，心菜，怎么突然这么说？",
+      "VoiceFileName": "20071050080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2007105009,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "啊，不是，如果我猜错了先道歉哦？/n只是和八惠亲说话时，总觉得和平时有点不一样……。",
+      "VoiceFileName": "20071050090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 1,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2007105010,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "和平时不一样……吗。/n确实，也许是这样。",
+      "VoiceFileName": "20071050100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2007105011,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "八惠亲？",
+      "VoiceFileName": "20071050110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2007105012,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "或许还称不上烦恼，/n但确实有一件事，我一直在想。",
+      "VoiceFileName": "20071050120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2007105013,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "一直在想……什么？",
+      "VoiceFileName": "20071050130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2007105014,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "是……那个，我加入天狼星的契机，其实是唱诗班。/n柊小姐来听我唱歌，然后邀请了我……。",
+      "VoiceFileName": "20071050140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2007105015,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "原来是这样……。",
+      "VoiceFileName": "20071050150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2007105016,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "那时候，我看了柊小姐的演技，才决定加入剧团。/n我一直想，总有一天要和她站在同一座舞台上……只是。",
+      "VoiceFileName": "20071050160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2007105017,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "原来如此，天狼星的23岁规则……。",
+      "VoiceFileName": "20071050170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2007105018,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "是的，现在柊小姐作为幕后人员，/n参与天狼星的运营。",
+      "VoiceFileName": "20071050180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2007105019,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "而且，我还听说过。/n柊小姐曾经对山吹小姐说过的话。",
+      "VoiceFileName": "20071050190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2007105020,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "总有一天，要让天狼星培养出World Dai Star。/n在那之前，她不打算再站上舞台。",
+      "VoiceFileName": "20071050200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2007105021,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "原来如此……所以八惠亲才……。",
+      "VoiceFileName": "20071050210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2007105022,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "是的。我要和柊小姐站在同一座舞台上。/n为了再次以演员的身份，在她身边看见她。",
+      "VoiceFileName": "20071050220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2007105023,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "我一直抱着这样的想法努力到现在。",
+      "VoiceFileName": "20071050230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2007105024,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "很像……呢。",
+      "VoiceFileName": "20071050240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2007105025,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "诶？",
+      "VoiceFileName": "20071050250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2007105026,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "我也是因为想和心菜站在同一座舞台上，/n一路努力……才站到了现在这个位置。",
+      "VoiceFileName": "20071050260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2007105027,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "一开始也有过快要受挫的时候……甚至差点放弃。/n可即便如此，是天狼星的大家一直支持我，我才能站在这里。",
+      "VoiceFileName": "20071050270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2007105028,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "啊哈哈……你这么说我会害羞啦，/n不过，我好像也一样。",
+      "VoiceFileName": "20071050280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2007105029,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "我曾经也把『总有一天要和静香亲站在同一座舞台上』当作目标，/n所以现在能够一起演戏，我真的特别开心！",
+      "VoiceFileName": "20071050290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2007105030,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "心菜小姐，静香小姐……。",
+      "VoiceFileName": "20071050300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2007105031,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "总有一天，我也会像八惠亲一样，以Dai Star的身份，/n站上世界演剧联盟的舞台！对吧，静香亲！",
+      "VoiceFileName": "20071050310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2007105032,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "（……真是判若两人了呢，心菜）",
+      "VoiceFileName": "20071050320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 3,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2007105033,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "（以前因为一次次剧团选拔落选，而失去自信。/n　那时候的你，根本说不出这样的话吧）",
+      "VoiceFileName": "20071050330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2007105034,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "（我一直看着这样的你走到现在。/n　而且……今后也会一直看着）",
+      "VoiceFileName": "20071050340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 13,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2007105035,
+      "EpisodeMasterId": 2007105,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "呵呵，是啊。",
+      "VoiceFileName": "20071050350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    }
+  ]
+}

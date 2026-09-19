@@ -1,0 +1,782 @@
+{
+  "EpisodeId": 1020413,
+  "StoryType": 1,
+  "Order": 13,
+  "Prev": 1020412,
+  "Next": 1020414,
+  "Chapter": "Eden 第4章",
+  "Title": "时雨的告白",
+  "EpisodeDetail": [
+    {
+      "Id": 1020413001,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "初魅小姐，是时雨……现在，能占用你一点时间吗……？",
+      "BackgroundImageFileName": "1680",
+      "BgmFileName": "401",
+      "VoiceFileName": "10204130010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413002,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "（时雨……？喘得这么厉害，是怎么了……？）",
+      "VoiceFileName": "10204130020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 11,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1020413003,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "（……难道和前些天吃饭时容说的那件事，/n　有什么关系……）",
+      "VoiceFileName": "10204130030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 7,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1020413004,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "嗯，可以。进来吧。",
+      "VoiceFileName": "10204130040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1020413005,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "……打扰了。",
+      "VoiceFileName": "10204130050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413006,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "所以，今天怎么了？/n有什么急事吗？",
+      "VoiceFileName": "10204130060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1020413007,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "那、那个……。",
+      "VoiceFileName": "10204130070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413008,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（……说出来啊，时雨。/n　不然你特地跑到这里就没有意义了）",
+      "VoiceFileName": "10204130080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413009,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（根本没什么好犹豫的。/n　必须告诉初魅小姐的事，早就已经决定了）",
+      "VoiceFileName": "10204130090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 14,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413010,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（时雨喜欢Eden。想在初魅小姐身边成为Dai Star。/n　这份心意从来都没有变）",
+      "VoiceFileName": "10204130100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413011,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（大黑前辈和仁花子前辈也推了我一把。/n　所以，必须说出来……！把时雨的这份心意……！）",
+      "VoiceFileName": "10204130110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 14,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413012,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "……时雨？",
+      "VoiceFileName": "10204130120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1020413013,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "时雨已经没有时间了。其实我和爸爸妈妈有个约定……。/n要在小学毕业之前成为Dai Star。",
+      "VoiceFileName": "10204130130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413014,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "如果做不到……就必须放弃当演员……。",
+      "VoiceFileName": "10204130140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413015,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 15,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1050",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 1020413016,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（终于，时雨把自己一直在想的、/n　一直藏在心里的事……全部告诉了初魅小姐）",
+      "VoiceFileName": "10204130150",
+      "CharacterMotions": [],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413017,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（和爸爸妈妈约定的事……。/n　为了那个约定，想成为Dai Star的事……）",
+      "VoiceFileName": "10204130160",
+      "CharacterMotions": [],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413018,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（还有，就算要实现这个愿望，也希望是在Eden……。/n　因为想一直演初魅小姐描绘的舞台，这一点绝不会动摇）",
+      "VoiceFileName": "10204130170",
+      "CharacterMotions": [],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413019,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（其实也有去别的剧团这条路……。/n　可是时雨选择了这里……想继续留在初魅小姐身边）",
+      "VoiceFileName": "10204130180",
+      "CharacterMotions": [],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413020,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（我用时雨能够想到的所有语言，把这份心意告诉了初魅小姐……）",
+      "VoiceFileName": "10204130190",
+      "CharacterMotions": [],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413021,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 21,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1680",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 1020413022,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "这样啊……你的心意我明白了。/n谢谢你愿意告诉我。",
+      "VoiceFileName": "10204130200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1020413023,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "初魅小姐……。",
+      "VoiceFileName": "10204130210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 511,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413024,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "不过，无论如何……这件事我现在没法立刻回答。/n所以抱歉，能不能让我先带回去，好好考虑一下？",
+      "VoiceFileName": "10204130220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1020413025,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "好，我知道了……。",
+      "VoiceFileName": "10204130230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413026,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "那时雨先去排练室了。/n嗯……那待会见……。",
+      "VoiceFileName": "10204130240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413027,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 27,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1600",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 1020413028,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "……呼——……紧张死了……。",
+      "VoiceFileName": "10204130250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413029,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（想说的话都说出来了……。/n　接下来只要等初魅小姐决定该怎么做……！）",
+      "VoiceFileName": "10204130260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 13,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413030,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（时雨做得不是挺好嘛……。/n　虽说也多亏了那两个人……）",
+      "VoiceFileName": "10204130270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 25,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413031,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（仁花子前辈和大黑前辈，/n　之后得找机会好好向她们道谢……）",
+      "VoiceFileName": "10204130280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 20,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413032,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "……呵呵♪",
+      "VoiceFileName": "10204130290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413033,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 33,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1050",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 1020413034,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（那天排练结束后……我告诉仁花子前辈和大黑前辈，/n　自己已经把想对初魅小姐说的话都好好说出来了）",
+      "VoiceFileName": "10204130300",
+      "CharacterMotions": [],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413035,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（她们两个还是一样，放心得像笨蛋似的……）",
+      "VoiceFileName": "10204130310",
+      "CharacterMotions": [],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 1020413036,
+      "EpisodeMasterId": 1020413,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（可又过了几天，初魅小姐还是没有给我答复……/n　于是，我又继续过了几天有些坐立不安的日子……）",
+      "VoiceFileName": "10204130320",
+      "CharacterMotions": [],
+      "SpeakerIconId": "205"
+    }
+  ]
+}

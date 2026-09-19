@@ -1,0 +1,1980 @@
+{
+  "EpisodeId": 2005303,
+  "StoryType": 2,
+  "Order": 3,
+  "Prev": 2005302,
+  "Next": 2005304,
+  "Chapter": "Operation: Game Festival！",
+  "Title": "游戏嘉年华！",
+  "EpisodeDetail": [
+    {
+      "Id": 2005303001,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "字幕",
+      "FontSize": 2,
+      "Phrase": "——数日后",
+      "BackgroundImageFileName": "2080",
+      "BgmFileName": "302",
+      "VoiceFileName": "20053030010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005303002,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "哇……好厉害。/n一开场，就来了这么多人……。",
+      "VoiceFileName": "20053030020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303003,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "哈～～～～，今年也很热闹嘛。",
+      "VoiceFileName": "20053030030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303004,
+      "EpisodeMasterId": 2005303,
+      "Order": 2,
+      "GroupOrder": 3,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "彩排都结束了，现在是自由时间吧？　我们也去逛逛？",
+      "VoiceFileName": "20053030031",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303005,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "喂——，美兔亲、叶羽～！",
+      "VoiceFileName": "20053030040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 18,
+          "LipSyncMasterId": 2,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2005303006,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "是卡米拉亲。",
+      "VoiceFileName": "20053030050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303007,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "太好了——，总算会合了！/n话说会场也太夸张了吧！？",
+      "VoiceFileName": "20053030060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 2,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2005303008,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "到处都在办秀，还有超巨大的手办之类～。",
+      "VoiceFileName": "20053030070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2005303009,
+      "EpisodeMasterId": 2005303,
+      "Order": 2,
+      "GroupOrder": 7,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "我虽然不太懂游戏，但这祭典感也太强了，超兴奋！",
+      "VoiceFileName": "20053030071",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2005303010,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "嗯，美兔也这么觉得。/n总感觉……像主题乐园。",
+      "VoiceFileName": "20053030080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303011,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "光看着就让人兴奋起来～！/n多拍点照片，丢到电姬群聊里吧。",
+      "VoiceFileName": "20053030090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2005303012,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "啊对了，我们三个不拍张照吗？/n正好就在《Phantasma》展台前！",
+      "VoiceFileName": "20053030100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2005303013,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "游戏制作人",
+      "FontSize": 2,
+      "Phrase": "要不要我帮你们拍？",
+      "VoiceFileName": "20053030110",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005303014,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "啊！　谢谢您——。/n……等等，这个人……。",
+      "VoiceFileName": "20053030120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2005303015,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "啊……！　《Phantasma》的制作人。/n今天请多关照。",
+      "VoiceFileName": "20053030130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 3,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303016,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "游戏制作人",
+      "FontSize": 2,
+      "Phrase": "谢谢你们接下这么突然的邀约。/n其实本来想更早邀请，只是我们这边忙得一团乱。",
+      "VoiceFileName": "20053030140",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005303017,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "啊～，大更新前嘛……。/n我们正好也是公演告一段落的时期，完全OK。",
+      "VoiceFileName": "20053030150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303018,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "游戏制作人",
+      "FontSize": 2,
+      "Phrase": "帮大忙了。/n我们也经常看本巢小姐的直播，一直很想邀请您。",
+      "VoiceFileName": "20053030160",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005303019,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "嗯哼哼哼哼……。/n这个嘛？　完全可以期待一下。",
+      "VoiceFileName": "20053030170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303020,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "游戏制作人",
+      "FontSize": 2,
+      "Phrase": "白丸小姐也是。其实我们去看过《仲夏夜之梦》。/n演技水平让人很吃惊。很期待您的Cos。",
+      "VoiceFileName": "20053030180",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005303021,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "诶？/n是因为看了舞台，才邀请美兔的吗……？",
+      "VoiceFileName": "20053030190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303022,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "游戏制作人",
+      "FontSize": 2,
+      "Phrase": "是的。海伦娜演得非常精彩。/n我已经成粉丝了，以后还会去看的！",
+      "VoiceFileName": "20053030200",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005303023,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "游戏制作人",
+      "FontSize": 2,
+      "Phrase": "哎呀，能让“剧团电姬”的各位宣传自家游戏……。/n真的很开心。有什么需求尽管提。",
+      "VoiceFileName": "20053030210",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005303024,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "嘿嘿……。/n谢谢。",
+      "VoiceFileName": "20053030220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303025,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 23,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundCharacterImageFileName": "141560_0",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2005303026,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "哦哦～～～……。那个游戏也有试玩。来得及排吗？",
+      "BackgroundCharacterImageFileName": "141560_0",
+      "VoiceFileName": "20053030230",
+      "CharacterMotions": [],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303027,
+      "EpisodeMasterId": 2005303,
+      "Order": 2,
+      "GroupOrder": 24,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "不对，没整理券是不是根本排不到……？",
+      "BackgroundCharacterImageFileName": "141560_0",
+      "VoiceFileName": "20053030231",
+      "CharacterMotions": [],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303028,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "哎——，刚才那位制作人，/n把美兔亲夸得不得了啊。",
+      "VoiceFileName": "20053030240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2005303029,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "没那么夸张啦。也可能有客套话。/n不过他真的看过我们的舞台，我还是有点吃惊。",
+      "VoiceFileName": "20053030250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 1,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303030,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "美兔不像伊吕波亲那样参加过很多Cos活动，/n所以我确实想过……为什么会找我。",
+      "VoiceFileName": "20053030260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303031,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "啊——，这么一说，美兔的气质/n好像确实挺适合“迪娜”的？",
+      "VoiceFileName": "20053030270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303032,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "就是那个拿着噼里啪啦放电的刀的冷酷美人吧。",
+      "VoiceFileName": "20053030280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2005303033,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "我刚听说的时候也想过，这Cos很难吧！？/n不过如果是美兔亲，确实感觉能驾驭。",
+      "VoiceFileName": "20053030290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2005303034,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "是吗……？　美兔在游戏里用过她，也挺喜欢的，/n听到委托的时候其实有点开心。",
+      "VoiceFileName": "20053030300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303035,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "只是……要站上舞台，还是有点害怕。",
+      "VoiceFileName": "20053030310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303036,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "为什么？",
+      "VoiceFileName": "20053030320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303037,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "因为会场有这么多人……。/n而且，美兔也是第一次来游戏嘉年华……。",
+      "VoiceFileName": "20053030330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303038,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "啊——，这么说确实！/n比之前万圣节的Cos比赛人多太多了。",
+      "VoiceFileName": "20053030340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2005303039,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "嗯……。这次虽然没有短剧，但也得努力，/n不能让观众失望。",
+      "VoiceFileName": "20053030350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303040,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "真是的，又不是正式舞台剧，主角本来就是游戏更新发表，/n不用绷得那么紧吧。",
+      "VoiceFileName": "20053030360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303041,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "啊！　对了，我有个想看的舞台活动。/n去那边展台吧。",
+      "VoiceFileName": "20053030370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303042,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "啊……！/n叶羽亲，等等……！",
+      "VoiceFileName": "20053030380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303043,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 40,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.10000000149011612,
+      "FadeValue2": 0.20000000298023224,
+      "FadeValue3": 0.10000000149011612
+    },
+    {
+      "Id": 2005303044,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "呼——，总算赶上了。",
+      "VoiceFileName": "20053030390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 72,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303045,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "啊——，你想看的舞台就是前阵子出PV的RPG啊。",
+      "VoiceFileName": "20053030400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2005303046,
+      "EpisodeMasterId": 2005303,
+      "Order": 2,
+      "GroupOrder": 42,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "……等等，那不是地步亲吗！？",
+      "VoiceFileName": "20053030401",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2005303047,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "真的。/n好像声优们都作为嘉宾上台了。",
+      "VoiceFileName": "20053030410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303048,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "呃……！？",
+      "VoiceFileName": "20053030420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 508,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303049,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "地步",
+      "FontSize": 2,
+      "Phrase": "大家好——。",
+      "VoiceFileName": "20053030430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 51101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "511"
+    },
+    {
+      "Id": 2005303050,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "居然在这种地方也得看到她的脸……。/n不过今天又不用和她说话，只看发表会就好……。",
+      "VoiceFileName": "20053030440",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303051,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "MC",
+      "FontSize": 2,
+      "Phrase": "那么，在采访开发团队之前，/n首先请大家观看这段影像！",
+      "VoiceFileName": "20053030450",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005303052,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "哦……来了来了，新PV！",
+      "VoiceFileName": "20053030460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303053,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "地步",
+      "FontSize": 2,
+      "Phrase": "……！",
+      "VoiceFileName": "20053030470",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 13,
+          "SpineId": 51101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "511"
+    },
+    {
+      "Id": 2005303054,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 50,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "……哦～。哦哦……。",
+      "VoiceFileName": "20053030480",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303055,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 51,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "……？",
+      "VoiceFileName": "20053030490",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303056,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "地步",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20053030500",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 4,
+          "SpineId": 51101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "511"
+    },
+    {
+      "Id": 2005303057,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 53,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "……咦、咦？/n是我错觉吗……？　地步亲是不是在往这边看？",
+      "VoiceFileName": "20053030510",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 4,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303058,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 54,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "难道她发现叶羽了……不会吧？",
+      "VoiceFileName": "20053030520",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2005303059,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 55,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "哈？/n隔这么远，怎么可能看得到。",
+      "VoiceFileName": "20053030530",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 27,
+          "LipSyncMasterId": 4,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303060,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 56,
+      "SpeakerName": "MC",
+      "FontSize": 2,
+      "Phrase": "好，那么接下来采访前几天公开的新角色，/n“皮娜”的配音者狛江地步小姐！",
+      "VoiceFileName": "20053030540",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005303061,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 57,
+      "SpeakerName": "地步",
+      "FontSize": 2,
+      "Phrase": "大家好，我是狛江地步。虽然我的本职是演员，/n但能得到这样宝贵的机会，我感到十分荣幸。",
+      "VoiceFileName": "20053030550",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 51101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "511"
+    },
+    {
+      "Id": 2005303062,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 58,
+      "SpeakerName": "地步",
+      "FontSize": 2,
+      "Phrase": "这是我第一次挑战声优工作，但我也认为，/n这是能让自己大幅成长的机会。",
+      "VoiceFileName": "20053030560",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 51101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "511"
+    },
+    {
+      "Id": 2005303063,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 59,
+      "SpeakerName": "地步",
+      "FontSize": 2,
+      "Phrase": "为了能进一步接近我非常憧憬的那位演员的表演，/n我比以往更加努力，全力完成了演出，还请大家多多关照。",
+      "VoiceFileName": "20053030570",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 51101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "511"
+    },
+    {
+      "Id": 2005303064,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 60,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "哈～～～，真够稳重的……。/n想到她还是小学生就更离谱。",
+      "VoiceFileName": "20053030580",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2005303065,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 61,
+      "SpeakerName": "MC",
+      "FontSize": 2,
+      "Phrase": "真是一番能感受到强烈干劲的发言！",
+      "VoiceFileName": "20053030590",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005303066,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 62,
+      "SpeakerName": "MC",
+      "FontSize": 2,
+      "Phrase": "话说回来，地步亲所憧憬的演员……让人很好奇呢。/n方便告诉我们名字吗？",
+      "VoiceFileName": "20053030600",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005303067,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 63,
+      "SpeakerName": "地步",
+      "FontSize": 2,
+      "Phrase": "当然。是剧团电姬的本巢叶羽亲。",
+      "BgmFileName": "999",
+      "VoiceFileName": "20053030610",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 2,
+          "SpineId": 51101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "511"
+    },
+    {
+      "Id": 2005303068,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 64,
+      "FontSize": 2,
+      "Phrase": "",
+      "SeFileName": "71",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 2005303069,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 65,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "哈……！？",
+      "BgmFileName": "24",
+      "VoiceFileName": "20053030620",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 508,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303070,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 66,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "哇……。",
+      "VoiceFileName": "20053030630",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 4,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303071,
+      "EpisodeMasterId": 2005303,
+      "Order": 2,
+      "GroupOrder": 66,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "地步亲真的……一直很喜欢叶羽亲啊。",
+      "VoiceFileName": "20053030631",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303072,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 67,
+      "SpeakerName": "MC",
+      "FontSize": 2,
+      "Phrase": "哦哦，果然如此。/n以前在别的节目上也提过她的名字吧。",
+      "VoiceFileName": "20053030640",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005303073,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 68,
+      "SpeakerName": "地步",
+      "FontSize": 2,
+      "Phrase": "是的。《爱丽丝梦游仙境》里，/n她演出了既天真又勇敢的少女，非常精彩——",
+      "VoiceFileName": "20053030650",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 51101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "511"
+    },
+    {
+      "Id": 2005303074,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 69,
+      "SpeakerName": "地步",
+      "FontSize": 2,
+      "Phrase": "而《仲夏夜之梦》中饰演公主赫米娅的表演也很出色。/n把诙谐又复杂的恋爱关系表现得很好……真不愧是她。",
+      "VoiceFileName": "20053030660",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 51101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "511"
+    },
+    {
+      "Id": 2005303075,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 70,
+      "SpeakerName": "MC",
+      "FontSize": 2,
+      "Phrase": "原来如此。连我都好奇起来了～。/n但愿这些话也能传到本人耳中！",
+      "VoiceFileName": "20053030670",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005303076,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 71,
+      "SpeakerName": "地步",
+      "FontSize": 2,
+      "Phrase": "是！",
+      "VoiceFileName": "20053030680",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 2,
+          "SpineId": 51101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "511"
+    },
+    {
+      "Id": 2005303077,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 72,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "那家伙，怎么尽做多余的事～～……。/n当然，敬佩我的演技本来就是理所当然……！",
+      "VoiceFileName": "20053030690",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 3,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303078,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 73,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "喂喂，地步亲，/n刚才是不是明显朝这边看了一眼？",
+      "VoiceFileName": "20053030700",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2005303079,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 74,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "美兔也……这么觉得。",
+      "VoiceFileName": "20053030710",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2005303080,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 75,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "真的假的？　有点吓人了……。",
+      "VoiceFileName": "20053030720",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 406,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303081,
+      "EpisodeMasterId": 2005303,
+      "Order": 2,
+      "GroupOrder": 75,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "我也不想莫名其妙被关注，保险起见先躲一下。",
+      "VoiceFileName": "20053030721",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "LipSyncMasterId": 4,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2005303082,
+      "EpisodeMasterId": 2005303,
+      "Order": 1,
+      "GroupOrder": 76,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "喂……躲进我衣服里面可不行！/n噗哈——好痒啊！",
+      "VoiceFileName": "20053030730",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 210,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    }
+  ]
+}

@@ -1,0 +1,825 @@
+{
+  "EpisodeId": 2006004,
+  "StoryType": 2,
+  "Order": 4,
+  "Prev": 2006003,
+  "Next": 2006005,
+  "Chapter": "茜色映照的忧郁",
+  "Title": "想让她看到美丽的东西",
+  "EpisodeDetail": [
+    {
+      "Id": 2006004001,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "BackgroundImageFileName": "810",
+      "BgmFileName": "1",
+      "VoiceFileName": "20060040010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2006004002,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "哦，莉莉亚。/n早上好，今天挺早啊。",
+      "VoiceFileName": "20060040020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006004003,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "早上好，拉莫娜。/n今天……我要去做瑜伽。",
+      "VoiceFileName": "20060040030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2006004004,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "这样啊。……没事吗？/n昨天的事……。",
+      "VoiceFileName": "20060040040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006004005,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "没事，我没放在心上。/n……只是觉得遗憾。",
+      "VoiceFileName": "20060040050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2006004006,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "那我出门了。",
+      "VoiceFileName": "20060040060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2006004007,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "啊、嗯……。/n路上小心。",
+      "VoiceFileName": "20060040070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006004008,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 8,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "700",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.10000000149011612,
+      "FadeValue2": 0.20000000298023224,
+      "FadeValue3": 0.10000000149011612
+    },
+    {
+      "Id": 2006004009,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "哦，这个烟花大会就在附近。/n……两周前已经办完了。",
+      "VoiceFileName": "20060040080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006004010,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "不行，附近的烟花大会基本都已经结束了……。/n要不要稍微去远一点……？",
+      "VoiceFileName": "20060040090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 511,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006004011,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "唔～～～嗯……。",
+      "VoiceFileName": "20060040100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006004012,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "喂，千寿历。/n德国那家伙，从刚才开始就一直这样……。",
+      "VoiceFileName": "20060040110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 2006004013,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "哈，根本没必要执着烟花大会吧……。/n再说，比起老想着玩，我更希望她考虑一下演剧……。",
+      "VoiceFileName": "20060040120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2006004014,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "确实还有烧烤、去海边之类，/n夏天能做的开心事还有好多！",
+      "VoiceFileName": "20060040130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2006004015,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "千寿历重点想提醒的，明明是后半句吧。",
+      "VoiceFileName": "20060040140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 104,
+          "BodyMotionMasterId": 10,
+          "LipSyncMasterId": 4,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 2006004016,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（没必要执着于烟花大会……，/n　……烧烤、海边……对了！）",
+      "VoiceFileName": "20060040150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 7,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006004017,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "就是这个……！能代替烟花大会的只有它！",
+      "VoiceFileName": "20060040160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006004018,
+      "EpisodeMasterId": 2006004,
+      "Order": 2,
+      "GroupOrder": 17,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "千寿历、绯花里！多亏你们，我想到一个好主意！",
+      "VoiceFileName": "20060040161",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006004019,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "找到什么了吧，拉莫娜！",
+      "VoiceFileName": "20060040170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2006004020,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "又不知道在盘算什么……。",
+      "VoiceFileName": "20060040180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2006004021,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "莉莉亚是因为想看有夏日气息的美丽东西，/n才邀请我们去烟花大会的吧？",
+      "VoiceFileName": "20060040190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006004022,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "那么，就让莉莉亚看到有夏日气息的美丽东西吧！",
+      "VoiceFileName": "20060040200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006004023,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 22,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "810",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.10000000149011612,
+      "FadeValue2": 0.20000000298023224,
+      "FadeValue3": 0.10000000149011612
+    },
+    {
+      "Id": 2006004024,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "我回来了……。",
+      "VoiceFileName": "20060040210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2006004025,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "欢迎回来，莉莉亚。",
+      "VoiceFileName": "20060040220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006004026,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "欢迎回来，莉莉亚！",
+      "VoiceFileName": "20060040230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2006004027,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "拉莫娜、绯花里？/n怎么了？两个人一起出来迎接？",
+      "VoiceFileName": "20060040240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2006004028,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "嘿嘿～，突然这样不好意思，莉莉亚。/n只是想着得赶快问你～，对吧！拉莫娜！",
+      "VoiceFileName": "20060040250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2006004029,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "嗯，是啊，绯花里。/n那个，莉莉亚。",
+      "VoiceFileName": "20060040260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006004030,
+      "EpisodeMasterId": 2006004,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "这个星期日，要不要一起去海边烧烤？",
+      "VoiceFileName": "20060040270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    }
+  ]
+}

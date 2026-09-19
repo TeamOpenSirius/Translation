@@ -1,0 +1,947 @@
+{
+  "EpisodeId": 2006602,
+  "StoryType": 2,
+  "Order": 2,
+  "Prev": 2006601,
+  "Next": 2006603,
+  "Chapter": "辉线，绮罗星的证明",
+  "Title": "留下，还是退出",
+  "EpisodeDetail": [
+    {
+      "Id": 2006602001,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（才刚有人和我谈过今后的去向，马上又被叫来……吗）",
+      "BackgroundImageFileName": "1830",
+      "BgmFileName": "204",
+      "VoiceFileName": "20066020010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 7,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602002,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "打扰了，我是拉莫娜·沃尔芙。",
+      "VoiceFileName": "20066020020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602003,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 3,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1840",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 2006602004,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "银河座上层A",
+      "FontSize": 2,
+      "Phrase": "拉莫娜·沃尔芙，今天把你叫来，不为别的。/n听说你最近又在过度干涉其他演员？",
+      "VoiceFileName": "20066020030",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602005,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "银河座上层B",
+      "FontSize": 2,
+      "Phrase": "工作坊之后又来这一出，动作还真快。/n托你的福，我们不得不开这么一场会议。",
+      "VoiceFileName": "20066020040",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602006,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（果然……是这样。上层希望的，/n　大概是让剧团内部恢复到我刚来时的银河座吧）",
+      "VoiceFileName": "20066020050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602007,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（我并不觉得自己是在和大家抱团取暖……但在上层看来，/n　我的行为被归到那一类也不奇怪）",
+      "VoiceFileName": "20066020060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 3,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602008,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "这是误会。工作坊那件事发生在那种局面下。/n不得不那么处理……这点我也理解。",
+      "VoiceFileName": "20066020070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602009,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "现在我去听大家的烦恼，也是因为我认为帮助那些迷茫的人，/n就是我能为整个剧团做的事——",
+      "VoiceFileName": "20066020080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602010,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "银河座上层A",
+      "FontSize": 2,
+      "Phrase": "即使你本人没有那个意思，也会对周围的人造成影响。/n这点你应该也明白吧？",
+      "VoiceFileName": "20066020090",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602011,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "那是……。",
+      "VoiceFileName": "20066020100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602012,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（我……明白。他们想说的，/n　就是工作坊参与者被解雇的事吧）",
+      "VoiceFileName": "20066020110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602013,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（那些因为我而被迫离开的人。/n　如今《桥弁庆》已经结束，这份重量反倒姗姗来迟地压在肩上）",
+      "VoiceFileName": "20066020120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602014,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（我明明曾经发誓，不会再像卡特莉娜那时一样，/n　因为自己的任性而让别人受到伤害）",
+      "VoiceFileName": "20066020130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 13,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602015,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "银河座上层B",
+      "FontSize": 2,
+      "Phrase": "你是已经多次以主要演员身份登台的人。/n如果你对自己的影响力毫无自觉，我们会很困扰。",
+      "VoiceFileName": "20066020140",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602016,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "银河座上层B",
+      "FontSize": 2,
+      "Phrase": "这无疑是将来可能摧毁银河座的扭曲。/n像现在的你这样的不安定因素，不能放任不管。",
+      "VoiceFileName": "20066020150",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602017,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……！/n这……！",
+      "VoiceFileName": "20066020160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 506,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602018,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "银河座上层A",
+      "FontSize": 2,
+      "Phrase": "改变你的处世方式，否则你就得离开这个剧团。",
+      "VoiceFileName": "20066020170",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602019,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（离开……银河座）",
+      "VoiceFileName": "20066020180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602020,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "银河座上层B",
+      "FontSize": 2,
+      "Phrase": "到目前为止，《圣克卢》也好、《桥弁庆》也好，我们认可你作为演员取得的成绩。",
+      "VoiceFileName": "20066020190",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602021,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "银河座上层B",
+      "FontSize": 2,
+      "Phrase": "正因如此，下一场公演的剧目《圆桌骑士物语》，/n我们会让你出演主角“亚瑟王”。",
+      "VoiceFileName": "20066020200",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602022,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "银河座上层B",
+      "FontSize": 2,
+      "Phrase": "让我们看看符合银河座演员身份的行事方式。",
+      "VoiceFileName": "20066020210",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602023,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……！？",
+      "VoiceFileName": "20066020230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 506,
+          "BodyMotionMasterId": 13,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602024,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（我拿到主演了……。/n　单纯来说当然值得高兴。可是……）",
+      "VoiceFileName": "20066020240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602025,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（这是以停止自己过去一直在做的事——倾听大家的烦恼……/n　以放弃这些作为交换条件的）",
+      "VoiceFileName": "20066020250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602026,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 26,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "670",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 2006602027,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "克莱尔",
+      "FontSize": 2,
+      "Phrase": "是啊……工作坊停办以后，/n很多时候都只能自己摸索着尝试演技。",
+      "VoiceFileName": "20066020260",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602028,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 28,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1840",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 2006602029,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（克莱尔和阿比盖尔都曾迷茫……。/n　牛若丸那时，绯花里她们也是）",
+      "VoiceFileName": "20066020270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602030,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（我一直相信，帮助这样的她们，/n　正是自己能为这个剧团做出的贡献）",
+      "VoiceFileName": "20066020280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602031,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（可难道我要就这样对大家的烦恼视而不见吗……！？/n　但现在连我自己的去留都押上了……）",
+      "VoiceFileName": "20066020290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602032,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "银河座高层",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20066020300",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602033,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "银河座高层",
+      "FontSize": 2,
+      "Phrase": "能占用你一点时间吗？",
+      "VoiceFileName": "20066020310",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602034,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……！",
+      "VoiceFileName": "20066020320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 509,
+          "BodyMotionMasterId": 5,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602035,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（银河座上层……原本担任过导演的资深重镇老师吗。/n　来头可真不小……）",
+      "VoiceFileName": "20066020330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 13,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602036,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（连这样的人物都出席了讨论我去留的会议吗……）",
+      "VoiceFileName": "20066020340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 7,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602037,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "银河座高层",
+      "FontSize": 2,
+      "Phrase": "拉莫娜·沃尔芙，你为什么非要如此关照其他演员？/n你能为自己给他人造成的影响负责吗？",
+      "VoiceFileName": "20066020350",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602038,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "银河座高层",
+      "FontSize": 2,
+      "Phrase": "你想做的事，/n真的是即使赌上自己在银河座的位置也必须去做的吗？",
+      "VoiceFileName": "20066020360",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602039,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……！/n我……。",
+      "VoiceFileName": "20066020370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602040,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（那是我应该做的事……。/n　我一直这样相信，所以才做到了现在）",
+      "VoiceFileName": "20066020380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 13,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602041,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（可是，一想到这关系到我自己的去留……/n　我竟然连点头都做不到……）",
+      "VoiceFileName": "20066020390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602042,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "银河座高层",
+      "FontSize": 2,
+      "Phrase": "以你现在这个样子，没有资格站在观众面前。",
+      "VoiceFileName": "20066020400",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602043,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "！",
+      "VoiceFileName": "20066020410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 506,
+          "BodyMotionMasterId": 13,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602044,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "银河座高层",
+      "FontSize": 2,
+      "Phrase": "连答案都给不出的演员，更没有留在这个剧团的必要。/n……好好想清楚吧。",
+      "VoiceFileName": "20066020420",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602045,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……是。",
+      "VoiceFileName": "20066020430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602046,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "银河座高层",
+      "FontSize": 2,
+      "Phrase": "谈到这里应该就足够了吧？/n把我和你们的时间浪费在这种会议上并不是好事，对吧？",
+      "VoiceFileName": "20066020440",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602047,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "银河座高层",
+      "FontSize": 2,
+      "Phrase": "而且，她还需要时间，/n以主演的身份挽回这一切。",
+      "VoiceFileName": "20066020450",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602048,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "银河座上层A",
+      "FontSize": 2,
+      "Phrase": "是、是。当然。/n老师说得对，你给我牢牢记住。",
+      "VoiceFileName": "20066020460",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602049,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "是……我先告辞了。",
+      "VoiceFileName": "20066020470",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2006602050,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 50,
+      "FontSize": 2,
+      "Phrase": "",
+      "SeFileName": "1450",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 2006602051,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 51,
+      "SpeakerName": "银河座高层",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "BgmFileName": "999",
+      "VoiceFileName": "20066020480",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006602052,
+      "EpisodeMasterId": 2006602,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "银河座高层",
+      "FontSize": 2,
+      "Phrase": "（拉莫娜·沃尔芙。你究竟有没有成为旗帜、带领众人的强大……/n　这里就是分水岭）",
+      "VoiceFileName": "20066020490",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    }
+  ]
+}

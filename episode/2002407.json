@@ -1,0 +1,1451 @@
+{
+  "EpisodeId": 2002407,
+  "StoryType": 2,
+  "Order": 7,
+  "Prev": 2002406,
+  "Next": 2002408,
+  "Chapter": "寻找第七颗星",
+  "Title": "玫瑰与小王子",
+  "EpisodeDetail": [
+    {
+      "Id": 2002407001,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "那个……工藤小姐以前也站在舞台上演出过，对吧？",
+      "BackgroundImageFileName": "393",
+      "BgmFileName": "6",
+      "VoiceFileName": "20024070010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407002,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "嗯？是啊。我以前也是天狼星的演员。/n怎么突然问这个？",
+      "VoiceFileName": "20024070020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 11001,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407003,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "……工藤小姐为什么离开舞台了呢？",
+      "VoiceFileName": "20024070030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407004,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "嗯——……。",
+      "VoiceFileName": "20024070040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407005,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20024070050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407006,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "我的情况，说是“离开了舞台”其实也不太准确。",
+      "VoiceFileName": "20024070060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407007,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "不准确……？",
+      "VoiceFileName": "20024070070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407008,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "嘛，一个最简单明了的理由，是因为我23岁了。",
+      "VoiceFileName": "20024070080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407009,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "23岁……。",
+      "VoiceFileName": "20024070090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407010,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "因为天狼星的规定是，所属演员必须在23岁以下。",
+      "VoiceFileName": "20024070100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407011,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 11,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1131",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue2": -1.0,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 2002407012,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "到了23岁的我，必须在转籍其他剧团，/n或者转到幕后留在天狼星之间做出选择。",
+      "VoiceFileName": "20024070110",
+      "CharacterMotions": [],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407013,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "最后我选择了“转幕后，留在天狼星”。/n不过准确来说，我先辞职出去学了导演，之后又回来了。",
+      "VoiceFileName": "20024070120",
+      "CharacterMotions": [],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407014,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "……为什么？/n既然能进天狼星，应该也会有其他剧团来挖您——",
+      "VoiceFileName": "20024070130",
+      "CharacterMotions": [],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407015,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "呵呵，不愧是Dai Star，真贪心。/n你觉得是为什么？",
+      "VoiceFileName": "20024070140",
+      "CharacterMotions": [],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407016,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "……那个……。",
+      "VoiceFileName": "20024070150",
+      "CharacterMotions": [],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407017,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 17,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "393",
+      "BackgroundImageFileFadeType": 4,
+      "BgmFileName": "999",
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929
+    },
+    {
+      "Id": 2002407018,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "我选择留在天狼星做幕后的理由啊，/n是“因为我喜欢天狼星”。",
+      "VoiceFileName": "20024070160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 11001,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407019,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "因为喜欢天狼星……。",
+      "VoiceFileName": "20024070170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407020,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "当然，也有去其他剧团这条路，/n不过当时正好是柊她们活跃的时候。",
+      "BgmFileName": "11",
+      "VoiceFileName": "20024070180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 11001,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407021,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "比起去别的剧团和这些孩子竞争，/n我更想为她们打造一个能让她们更加闪耀的舞台。",
+      "VoiceFileName": "20024070190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407022,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "我本来就对剧本和演出有兴趣。/n比起自己站上去，我更强烈地想让大家展现得更好。",
+      "VoiceFileName": "20024070200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407023,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "因为我喜欢天狼星的大家，/n也最喜欢天狼星创造的舞台，所以我选择成为天狼星的导演。",
+      "VoiceFileName": "20024070210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407024,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "这样算回答了八惠想问的问题吗？",
+      "VoiceFileName": "20024070220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407025,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "BgmFileName": "999",
+      "VoiceFileName": "20024070230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "BodyMotionMasterId": 13,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407026,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "……工藤小姐会想再次站上舞台吗？",
+      "VoiceFileName": "20024070240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407027,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "有时候也会觉得，再上去一次好像也不错。",
+      "VoiceFileName": "20024070250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 11001,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407028,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "……！",
+      "VoiceFileName": "20024070260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 11,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407029,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "不过，我觉得现在这样就很开心。",
+      "VoiceFileName": "20024070270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407030,
+      "EpisodeMasterId": 2002407,
+      "Order": 2,
+      "GroupOrder": 29,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "把你们要演出的舞台一点点做出来，其实也很有成就感哦？",
+      "VoiceFileName": "20024070271",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407031,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "可、可是——",
+      "VoiceFileName": "20024070280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407032,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "呐，八惠。",
+      "VoiceFileName": "20024070290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407033,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "……是。",
+      "BgmFileName": "6",
+      "VoiceFileName": "20024070300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407034,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "很遗憾，柊是怎么想的，只有柊自己知道。",
+      "VoiceFileName": "20024070310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 11001,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407035,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20024070320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407036,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "虽然想让柊回来的人，也不只有你一个。",
+      "VoiceFileName": "20024070330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 11001,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407037,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 36,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundCharacterImageFileName": "140660_0",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue2": -1.0,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 2002407038,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "……第一次看到柊小姐的舞台时，我受到了很大的冲击。",
+      "BackgroundCharacterImageFileName": "140660_0",
+      "VoiceFileName": "20024070340",
+      "CharacterMotions": [],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407039,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "“怎么会有这么精彩的表演”，心里兴奋得不得了。/n真的就像在做梦一样。",
+      "BackgroundCharacterImageFileName": "140660_0",
+      "VoiceFileName": "20024070350",
+      "CharacterMotions": [],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407040,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "所有观众都沉浸在柊小姐所演绎的“小王子”故事里。/n感觉仿佛一直和小王子一起旅行到最后。",
+      "BackgroundCharacterImageFileName": "140660_0",
+      "VoiceFileName": "20024070360",
+      "CharacterMotions": [],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407041,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "我想做出像柊小姐那样的表演。/n也想站上那个美妙的舞台——当时我是这么想的。",
+      "BackgroundCharacterImageFileName": "140660_0",
+      "VoiceFileName": "20024070370",
+      "CharacterMotions": [],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407042,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "对演员来说，真是莫大的荣幸啊。",
+      "BackgroundCharacterImageFileName": "140660_0",
+      "VoiceFileName": "20024070380",
+      "CharacterMotions": [],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407043,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "不过，如果只是想做出像柊那样的表演，/n接受柊的表演指导不就足够了吗？",
+      "VoiceFileName": "20024070390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 11001,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407044,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "这个……。",
+      "VoiceFileName": "20024070400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407045,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "……只是“想和柊小姐站在同一个舞台上”这种，/n我个人的任性而已。",
+      "BgmFileName": "999",
+      "VoiceFileName": "20024070410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407046,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "想在舞台上和柊小姐，再一次……不。/n想一起创造出比过去任何一次都更加精彩的舞台。",
+      "VoiceFileName": "20024070420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407047,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "啊哈哈，那孩子真受欢迎啊。",
+      "VoiceFileName": "20024070430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 11001,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407048,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "……因为我最喜欢柊小姐了。",
+      "BgmFileName": "8",
+      "VoiceFileName": "20024070440",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 106,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407049,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "呐，要创造精彩的舞台，就一定非柊不可吗？",
+      "VoiceFileName": "20024070450",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407050,
+      "EpisodeMasterId": 2002407,
+      "Order": 2,
+      "GroupOrder": 48,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "你看，我们家的演员其实个个都很厉害吧。",
+      "VoiceFileName": "20024070451",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407051,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20024070460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 6,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407052,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 50,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "确实，天狼星的大家都是非常优秀的演员。",
+      "VoiceFileName": "20024070470",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407053,
+      "EpisodeMasterId": 2002407,
+      "Order": 2,
+      "GroupOrder": 50,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "可是……。",
+      "VoiceFileName": "20024070471",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 4,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407054,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 51,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "……也是，果然会这样啊。",
+      "VoiceFileName": "20024070480",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 11001,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407055,
+      "EpisodeMasterId": 2002407,
+      "Order": 2,
+      "GroupOrder": 51,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "抱歉，我故意刁难你了。",
+      "VoiceFileName": "20024070481",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407056,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "毕竟柊只有一个人，/n那当然不是柊就不行。",
+      "VoiceFileName": "20024070490",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407057,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 53,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "是。",
+      "VoiceFileName": "20024070500",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2002407058,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 54,
+      "SpeakerName": "花",
+      "FontSize": 2,
+      "Phrase": "那我们也得努力到足以把柊说动才行啊。",
+      "VoiceFileName": "20024070510",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "110"
+    },
+    {
+      "Id": 2002407059,
+      "EpisodeMasterId": 2002407,
+      "Order": 1,
+      "GroupOrder": 55,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "呵呵，谢谢您。/n我会努力的。",
+      "VoiceFileName": "20024070520",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    }
+  ]
+}

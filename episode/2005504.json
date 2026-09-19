@@ -1,0 +1,2806 @@
+{
+  "EpisodeId": 2005504,
+  "StoryType": 2,
+  "Order": 4,
+  "Prev": 2005503,
+  "Next": 2005505,
+  "Chapter": "如果我能成为那个温柔的女孩",
+  "Title": "无法轻易改变的东西",
+  "EpisodeDetail": [
+    {
+      "Id": 2005504001,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "BackgroundImageFileName": "531",
+      "BgmFileName": "104",
+      "VoiceFileName": "20055040010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504002,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "……。/n对不起，卡特亲，还借了你的毛巾……。",
+      "VoiceFileName": "20055040020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2005504003,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哈哈……。/n一点也不像潘达吧，居然哭了……。",
+      "VoiceFileName": "20055040030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2005504004,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "没关系。",
+      "VoiceFileName": "20055040040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 104,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504005,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "真的对不起。是我太焦躁了。",
+      "VoiceFileName": "20055040050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504006,
+      "EpisodeMasterId": 2005504,
+      "Order": 2,
+      "GroupOrder": 5,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……刚才说的话，如果可以，也请别放在心上。",
+      "VoiceFileName": "20055040051",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504007,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "啊，卡特亲……！",
+      "VoiceFileName": "20055040060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2005504008,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 7,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "511",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 2005504009,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "（……怎么办。我明明……不是想伤害潘达。",
+      "VoiceFileName": "20055040070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504010,
+      "EpisodeMasterId": 2005504,
+      "Order": 2,
+      "GroupOrder": 8,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "　啊真是的，为什么会说出那种话，我这个笨蛋！）",
+      "VoiceFileName": "20055040071",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504011,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "（……果然我还是做不到吗？/n　这样下去，我又会重复同样的事……）",
+      "VoiceFileName": "20055040080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504012,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20055040090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504013,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "——心、心菜，静香。/n……你们已经回来了吗？　我能进去吗？",
+      "VoiceFileName": "20055040100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504014,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 12,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "521",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 2005504015,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "啊，卡特莉娜。晚上好。",
+      "VoiceFileName": "20055040110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2005504016,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "诶？",
+      "VoiceFileName": "20055040120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504017,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "怎么了，卡特莉娜？",
+      "VoiceFileName": "20055040130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504018,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "抱歉，我不知道八惠也在……。",
+      "VoiceFileName": "20055040140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504019,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "我和心菜在公园自主练习时，/n八惠刚好在和柊小姐她们开别的工作会议，给我们发了消息。",
+      "VoiceFileName": "20055040150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2005504020,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "问我们要不要一起讨论一下公演内容。",
+      "VoiceFileName": "20055040160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2005504021,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "对！　所以我们就赶快回来了。",
+      "VoiceFileName": "20055040170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504022,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "你是找心菜她们有事吗？/n要不要我先离开一下？",
+      "VoiceFileName": "20055040180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2005504023,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "不、不用。/n没关系。……打扰你们了，抱歉。",
+      "VoiceFileName": "20055040190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504024,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 22,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1131",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 2005504025,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "唉……。",
+      "VoiceFileName": "20055040200",
+      "CharacterMotions": [],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504026,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "已经基本完成的A公演组，居然还在为了继续打磨/n召开会议……。",
+      "VoiceFileName": "20055040210",
+      "CharacterMotions": [],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504027,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "差距又被拉开了。/n现在每一分每一秒都很宝贵。",
+      "VoiceFileName": "20055040220",
+      "CharacterMotions": [],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504028,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "可是，因为我说了不该说的话，事情反而更糟了……。",
+      "VoiceFileName": "20055040230",
+      "CharacterMotions": [],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504029,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "“我要成为能挺起胸膛，站到爸爸妈妈身旁的演员”什么的……。/n现在的我绝对不能让他们看到。",
+      "VoiceFileName": "20055040240",
+      "CharacterMotions": [],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504030,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "到底怎么办才好……。",
+      "VoiceFileName": "20055040250",
+      "CharacterMotions": [],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504031,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……以前，我是怎么做的来着。",
+      "VoiceFileName": "20055040260",
+      "CharacterMotions": [],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504032,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 30,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1770",
+      "BackgroundImageFileFadeType": 2,
+      "WindowEffect": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 2005504033,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "等等，你们两个！/n在这里互相敌视也解决不了问题吧？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20055040270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2005504034,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "卡特莉娜也是，别总说会伤到别人的话。/n既然是共演者，就应该彼此体谅、携手合作吧？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20055040280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2005504035,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 33,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "481",
+      "BackgroundImageFileFadeType": 2,
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 2005504036,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……是莫娜小姐的帮助啊。/n不，我连那份帮助都推开，直接逃走了。",
+      "VoiceFileName": "20055040290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504037,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "以前总和剧团里的人针锋相对，净在吵架。/n……说了太多过分的话。",
+      "VoiceFileName": "20055040300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504038,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "这样的我居然还会为了“好好相处”去骂别人……。/n静香会笑我也很正常。",
+      "VoiceFileName": "20055040310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504039,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "不行，不能垮下去。我必须振作。",
+      "VoiceFileName": "20055040320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504040,
+      "EpisodeMasterId": 2005504,
+      "Order": 2,
+      "GroupOrder": 37,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "可到底要我怎么办啊。",
+      "VoiceFileName": "20055040321",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504041,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……再这样下去，公演会失败。/n只有这个，我绝对不要。",
+      "VoiceFileName": "20055040330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504042,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "如果我是像心菜、像温蒂那样温柔的女孩，/n是不是就能更温柔地对潘达说话……？",
+      "VoiceFileName": "20055040340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504043,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "到底要怎么样，才能成为温柔的女孩。/n……像心菜那样……。",
+      "VoiceFileName": "20055040350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504044,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……邮件？",
+      "VoiceFileName": "20055040360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504045,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "“卡特莉娜，你现在在哪？”",
+      "BackgroundImageFileName": "1630",
+      "VoiceFileName": "20055040370",
+      "CharacterMotions": [],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504046,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20055040380",
+      "CharacterMotions": [],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504047,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "“剧场屋顶。”",
+      "VoiceFileName": "20055040390",
+      "CharacterMotions": [],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504048,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 45,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "481",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "103",
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 2005504049,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "对不起，卡特莉娜！　久等了。",
+      "VoiceFileName": "20055040400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504050,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……没什么，也没等多久。/n讨论结束了？",
+      "VoiceFileName": "20055040410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504051,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "嗯。刚才的卡特莉娜实在让我放心不下，/n所以就请大家早点结束了。",
+      "VoiceFileName": "20055040420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504052,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……不用这样的。/n根本不用为了我分心……。",
+      "VoiceFileName": "20055040430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "HeadDirectionMasterId": 3,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504053,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 50,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "是我自己会在意。/n如果打扰你了，对不起。我只是忍不住想，是不是发生了什么。",
+      "VoiceFileName": "20055040440",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504054,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 51,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "不会，不打扰。",
+      "VoiceFileName": "20055040450",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504055,
+      "EpisodeMasterId": 2005504,
+      "Order": 2,
+      "GroupOrder": 51,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……心菜。",
+      "VoiceFileName": "20055040451",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504056,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "怎么了，卡特莉娜。",
+      "VoiceFileName": "20055040460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504057,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 53,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "我失败了。/n没能成为温柔的女孩。",
+      "VoiceFileName": "20055040470",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504058,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 54,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "温柔的女孩？",
+      "VoiceFileName": "20055040480",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504059,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 55,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "我……我本来想变得像你们一样。/n像心菜、像温蒂一样，成为既温柔又懂得体谅别人的女孩。",
+      "VoiceFileName": "20055040490",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504060,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 56,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "可是今天的我，完全相反。",
+      "VoiceFileName": "20055040500",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504061,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 57,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "完全相反……？",
+      "VoiceFileName": "20055040510",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504062,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 58,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "说我“温柔”，怪不好意思的。谢谢你夸我。",
+      "VoiceFileName": "20055040520",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 114,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504063,
+      "EpisodeMasterId": 2005504,
+      "Order": 2,
+      "GroupOrder": 58,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "……和潘达她们发生什么了吗？",
+      "VoiceFileName": "20055040521",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504064,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 59,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "你知道潘达和知冴关系不顺吧。/n所以排练也一直在重复同样的内容。",
+      "VoiceFileName": "20055040530",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504065,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 60,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "于是我就觉得……必须做点什么。/n得赶紧让她们和好。",
+      "VoiceFileName": "20055040540",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504066,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 61,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "然后……我对潘达说了很过分的话。明知道她在烦恼，/n还说什么“把这些带到舞台上就是不够资格当专业演员”。",
+      "VoiceFileName": "20055040550",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 73,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504067,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 62,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "……原来如此。",
+      "VoiceFileName": "20055040560",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504068,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 63,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……结果，潘达哭了……。/n我……伤到潘达了……。",
+      "VoiceFileName": "20055040570",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "HeadDirectionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504069,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 64,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "……潘达哭了？",
+      "VoiceFileName": "20055040580",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504070,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 65,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20055040590",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 73,
+          "HeadDirectionMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504071,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 66,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "我明明只是觉得必须想办法！/n再不解决，舞台就会失败……。",
+      "VoiceFileName": "20055040600",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 104,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504072,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 67,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "我只是想让她们尽快好好谈一谈，把问题解决。",
+      "VoiceFileName": "20055040610",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504073,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 68,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……我本来想更温柔地说。/n根本没想伤害她。",
+      "VoiceFileName": "20055040620",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504074,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 69,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "可是我……。/n又失败了……。",
+      "VoiceFileName": "20055040630",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "HeadDirectionMasterId": 4,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504075,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 70,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "……卡特莉娜。",
+      "VoiceFileName": "20055040640",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504076,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 71,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "对不起，和你说这些……。/n你明明还在另一场公演，只会让你多操心。",
+      "VoiceFileName": "20055040650",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504077,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 72,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "没关系。/n谢谢你愿意告诉我。",
+      "VoiceFileName": "20055040660",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504078,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 73,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "我能理解。/n既想让舞台绝对成功，也担心潘达她们，对吧。",
+      "VoiceFileName": "20055040670",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504079,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 74,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……嗯。",
+      "VoiceFileName": "20055040680",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504080,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 75,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "陪着正在烦恼的人，真的很难。/n我也总会后悔“要是当时换种说法就好了”。",
+      "VoiceFileName": "20055040690",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504081,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 76,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "但卡特莉娜会这样开始关心大家，/n我觉得是非常好的事，而且我也很开心。",
+      "VoiceFileName": "20055040700",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504082,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 77,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "只是还不太熟练而已。/n卡特莉娜的话，一定会慢慢学会怎么选择语言。",
+      "VoiceFileName": "20055040710",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504083,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 78,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……心菜。",
+      "VoiceFileName": "20055040720",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504084,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 79,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "是有什么契机吗？/n让你产生“想成为温柔的女孩”这个念头。",
+      "VoiceFileName": "20055040730",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504085,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 80,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20055040740",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "HeadDirectionMasterId": 4,
+          "BodyMotionMasterId": 13,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504086,
+      "EpisodeMasterId": 2005504,
+      "Order": 2,
+      "GroupOrder": 80,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "没有。",
+      "VoiceFileName": "20055040741",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504087,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 81,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "我只是觉得，如果要成为World Dai Star，/n就不能只靠自己，必须和大家一起做戏剧。",
+      "VoiceFileName": "20055040750",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504088,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 82,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "不再把“所有人都当敌人”，而是一起走下去。/n我已经决定，要学会和大家一起走下去。",
+      "VoiceFileName": "20055040760",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 74,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504089,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 83,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "这样啊。/n从我们第一次说话时起，卡特莉娜真的变了。",
+      "BackgroundCharacterImageFileName": "130870_0",
+      "VoiceFileName": "20055040770",
+      "CharacterMotions": [],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504090,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 84,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "而且，是非常好的变化。",
+      "BackgroundCharacterImageFileName": "130870_0",
+      "VoiceFileName": "20055040780",
+      "CharacterMotions": [],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504091,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 85,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……可是今天我又失败了，/n潘达她们的问题也完全没解决。",
+      "VoiceFileName": "20055040790",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504092,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 86,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "明明公演日越来越近。",
+      "VoiceFileName": "20055040800",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504093,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 87,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "是啊。这件事，还是得和潘达她们谈。",
+      "VoiceFileName": "20055040810",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504094,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 88,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "我……要是又做错了怎么办。",
+      "VoiceFileName": "20055040820",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504095,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 89,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "那就对潘达她们说，/n“一起试试看”怎么样？",
+      "VoiceFileName": "20055040830",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504096,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 90,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "我也一直受到静香、卡特莉娜、八惠，/n还有剧团大家和很多很多人的帮助。",
+      "VoiceFileName": "20055040840",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504097,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 91,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "一个人很难做到的话，和大家一起试试看，/n也没关系吧。",
+      "VoiceFileName": "20055040850",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504098,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 92,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "一起……。",
+      "VoiceFileName": "20055040860",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504099,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 93,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……我能做到吗。",
+      "VoiceFileName": "20055040870",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2005504100,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 94,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "那我们就一起做？",
+      "VoiceFileName": "20055040880",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504101,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 95,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "既然目标是大家一起走下去，/n我也想和卡特莉娜、潘达她们一起努力。",
+      "VoiceFileName": "20055040890",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504102,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 96,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "就算是不同场次，我们也是同一个天狼星的同伴。",
+      "VoiceFileName": "20055040900",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504103,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 97,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "要不要我们两个一起去找知冴谈谈？/n知冴之前也稍微找我商量过，我一直有点在意。",
+      "VoiceFileName": "20055040910",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2005504104,
+      "EpisodeMasterId": 2005504,
+      "Order": 1,
+      "GroupOrder": 98,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……好。",
+      "VoiceFileName": "20055040920",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    }
+  ]
+}

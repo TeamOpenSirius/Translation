@@ -1,0 +1,1200 @@
+{
+  "EpisodeId": 2003106,
+  "StoryType": 2,
+  "Order": 6,
+  "Prev": 2003105,
+  "Next": 2003107,
+  "Chapter": "无声映照",
+  "Title": "无言剧",
+  "EpisodeDetail": [
+    {
+      "Id": 2003106001,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "讲师",
+      "FontSize": 2,
+      "Phrase": "那么进入下一个环节。/n接下来请大家表演无言剧。",
+      "BackgroundImageFileName": "1110",
+      "BgmFileName": "23",
+      "VoiceFileName": "20031060010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003106002,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "讲师",
+      "FontSize": 2,
+      "Phrase": "在舞台上扮演角色时，表演不只包括说出台词，/n表情、肢体动作和站姿，也都属于表演的一部分吧。",
+      "VoiceFileName": "20031060020",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003106003,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "讲师",
+      "FontSize": 2,
+      "Phrase": "接下来请大家不用台词，只靠动作传达感情和故事。/n可能会觉得很难，不过请放松来尝试。",
+      "VoiceFileName": "20031060030",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003106004,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "无言剧啊。/n我以前不太演过，所以挺感兴趣的。",
+      "VoiceFileName": "20031060040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 10203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2003106005,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "交给我。猜动作游戏我很擅长。",
+      "VoiceFileName": "20031060050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2003106006,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "又不是那种东西……。",
+      "VoiceFileName": "20031060060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 10303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2003106007,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "讲师",
+      "FontSize": 2,
+      "Phrase": "题目是『孤独中的绝望与希望』。/n无言剧当然也是一人一个来演。",
+      "VoiceFileName": "20031060070",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003106008,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "讲师",
+      "FontSize": 2,
+      "Phrase": "主题比较抽象，可能会有些难，/n但请把各位心中的故事，从开端一直演到结尾。",
+      "VoiceFileName": "20031060080",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003106009,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "孤独中的绝望，还有希望……。",
+      "VoiceFileName": "20031060090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 4,
+          "SpineId": 10203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2003106010,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "讲师",
+      "FontSize": 2,
+      "Phrase": "表达方式不必拘泥于现实中的动作。除了哑剧，/n舞蹈、芭蕾等各种肢体表现也可以自由加入。",
+      "VoiceFileName": "20031060100",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003106011,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "不错。听起来很好玩。",
+      "VoiceFileName": "20031060110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2003106012,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "舞蹈啊……。/n确实非常适合表现内心景象。",
+      "VoiceFileName": "20031060120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 10303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2003106013,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "讲师",
+      "FontSize": 2,
+      "Phrase": "这次给大家稍微长一点的思考时间。不要紧张，/n自由地，把自己内心深处的感情表现出来吧。",
+      "VoiceFileName": "20031060130",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003106014,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20031060140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "SpineId": 10203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2003106015,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "自己内心深处的心情啊。",
+      "VoiceFileName": "20031060150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2003106016,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "平时要求的是彻底成为角色，但这次不一样。",
+      "VoiceFileName": "20031060160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 10303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2003106017,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "嗯……。/n这种经历不多，可能会有点不知道该怎么办。",
+      "VoiceFileName": "20031060170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 409,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2003106018,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "这和作为心菜理想中的范本去表演，也完全不同……。",
+      "VoiceFileName": "20031060180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2003106019,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "啊……你平时一直都在教心菜表演嘛。",
+      "VoiceFileName": "20031060190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2003106020,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "嗯。/n不过，这也是成长的机会吧。我会把能做的都试试看。",
+      "VoiceFileName": "20031060200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2003106021,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "讲师",
+      "FontSize": 2,
+      "Phrase": "大家都准备好了吗？/n那么，被叫到名字的人请依次上台。",
+      "VoiceFileName": "20031060210",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003106022,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 22,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "2",
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": -0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2003106023,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "讲师",
+      "FontSize": 2,
+      "Phrase": "流石小姐，辛苦了。/n明明才刚刚教过，您的哑剧完成度已经非常高了。",
+      "VoiceFileName": "20031060220",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003106024,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "嘿嘿，谢谢。",
+      "VoiceFileName": "20031060230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2003106025,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "你吸收得也太快了吧……。",
+      "VoiceFileName": "20031060240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 512,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 10303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2003106026,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "讲师",
+      "FontSize": 2,
+      "Phrase": "……不过，我没能明确看出你真正想传达的心情。/n下一次请试着把自己想表达的主题，真正放进表演里。",
+      "VoiceFileName": "20031060250",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003106027,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "好——……。",
+      "VoiceFileName": "20031060260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 72,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 10603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2003106028,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "讲师",
+      "FontSize": 2,
+      "Phrase": "那么下一位，卡特莉娜小姐。",
+      "BgmFileName": "999",
+      "VoiceFileName": "20031060270",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003106029,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "好。",
+      "VoiceFileName": "20031060280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2003106030,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "（无言剧……虽然我自己没真正演过，/n　但我以前演过失去声音的人鱼公主）",
+      "VoiceFileName": "20031060290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 11,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2003106031,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "卡特莉娜……抱着膝盖坐在舞台上。",
+      "VoiceFileName": "20031060300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2003106032,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "是在表现什么呢……？/n蛋壳里面……之类的？",
+      "VoiceFileName": "20031060310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 10203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2003106033,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "（那个故事有着悲伤的结局。她没能和王子在一起，/n　最后选择独自化作泡沫）",
+      "VoiceFileName": "20031060320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadDirectionMasterId": 4,
+          "BodyMotionMasterId": 4,
+          "SpineId": 10303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2003106034,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "（人鱼公主因为不自由而感到孤独。无法传达自己的心意，/n　焦急，又痛苦。那种感觉……我也很明白）",
+      "VoiceFileName": "20031060330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2003106035,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "（可是……即使身处绝望，/n　她仍然知道了喜欢上一个人的心情，知道了那份喜悦）",
+      "VoiceFileName": "20031060340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 78,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 14,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2003106036,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "（曾经的我也和人鱼公主一样。不知道外面的世界。/n　把自己关在壳里……害怕着……还伤害了周围的人，远远超过必要的程度）",
+      "VoiceFileName": "20031060350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "HeadDirectionMasterId": 4,
+          "BodyMotionMasterId": 13,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2003106037,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "（可是，那样的我却得到了天狼星大家的陪伴）",
+      "BackgroundCharacterImageFileName": "140810_0",
+      "VoiceFileName": "20031060360",
+      "CharacterMotions": [],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2003106038,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "（于是我终于能从壳里飞向外面的世界。/n　也能重新作为一名演员获得新生）",
+      "BackgroundCharacterImageFileName": "140810_0",
+      "VoiceFileName": "20031060370",
+      "CharacterMotions": [],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2003106039,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "是在演雏鸟……吗？",
+      "VoiceFileName": "20031060380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 10603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2003106040,
+      "EpisodeMasterId": 2003106,
+      "Order": 2,
+      "GroupOrder": 39,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "和还在蛋里的时候不一样，看起来很开心呢。",
+      "VoiceFileName": "20031060381",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2003106041,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "……很美。/n她找到伙伴了。",
+      "VoiceFileName": "20031060390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 512,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 10203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2003106042,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 41,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "250",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "WindowEffect": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": -0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2003106043,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "幼年静香",
+      "FontSize": 2,
+      "Phrase": "——你很喜欢戏剧呢。",
+      "BgmFileName": "10",
+      "SeFileName": "271",
+      "WindowEffect": 1,
+      "VoiceFileName": "20031060400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 10220,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003106044,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "幼年心菜",
+      "FontSize": 2,
+      "Phrase": "……欸？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20031060410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10120,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10220,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003106045,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "幼年静香",
+      "FontSize": 2,
+      "Phrase": "我也是！　我也最喜欢戏剧！",
+      "WindowEffect": 1,
+      "VoiceFileName": "20031060420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003106046,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "幼年心菜",
+      "FontSize": 2,
+      "Phrase": "……那我们一起演吧！",
+      "WindowEffect": 1,
+      "VoiceFileName": "20031060430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003106047,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 46,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1050",
+      "BackgroundImageFileFadeType": 2,
+      "BgmFileName": "9",
+      "SeFileName": "641",
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": -0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2003106048,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "为什么……/n为什么我没有。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20031060440",
+      "CharacterMotions": [],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2003106049,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "没有Sense的话，我怎么可能成为Dai Star……。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20031060450",
+      "CharacterMotions": [],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2003106050,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "心菜……。",
+      "BackgroundCharacterImageFileName": "140440_0",
+      "WindowEffect": 1,
+      "VoiceFileName": "20031060460",
+      "CharacterMotions": [],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2003106051,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 50,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "心菜！　听我说！　是我！　静香！",
+      "BackgroundCharacterImageFileName": "140440_0",
+      "WindowEffect": 1,
+      "VoiceFileName": "20031060470",
+      "CharacterMotions": [],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2003106052,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 51,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "心菜有的！/n真的……有的。因为我……！",
+      "BackgroundCharacterImageFileName": "140440_0",
+      "WindowEffect": 1,
+      "VoiceFileName": "20031060480",
+      "CharacterMotions": [],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2003106053,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "我一定就是……心菜的Sense。",
+      "BackgroundCharacterImageFileName": "140440_0",
+      "WindowEffect": 1,
+      "VoiceFileName": "20031060490",
+      "CharacterMotions": [],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2003106054,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 53,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1110",
+      "BackgroundImageFileFadeType": 2,
+      "BgmFileName": "999",
+      "SeFileName": "641",
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": -0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2003106055,
+      "EpisodeMasterId": 2003106,
+      "Order": 1,
+      "GroupOrder": 54,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20031060500",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 506,
+          "BodyMotionMasterId": 13,
+          "SpineId": 10203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    }
+  ]
+}

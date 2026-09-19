@@ -1,0 +1,829 @@
+{
+  "EpisodeId": 2005907,
+  "StoryType": 2,
+  "Order": 7,
+  "Prev": 2005906,
+  "Next": 2005908,
+  "Chapter": "就算不擅长运动，也要让你们刮目相看！",
+  "Title": "运动会，开始",
+  "EpisodeDetail": [
+    {
+      "Id": 2005907001,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "旁白",
+      "FontSize": 2,
+      "Phrase": "然后，运动会当天——",
+      "BackgroundImageFileName": "2140",
+      "BgmFileName": "26",
+      "VoiceFileName": "20059070010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005907002,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "时雨的母亲",
+      "FontSize": 2,
+      "Phrase": "时雨在哪里呢……。/n啊，看到了！亲爱的！",
+      "VoiceFileName": "20059070020",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005907003,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "时雨的父亲",
+      "FontSize": 2,
+      "Phrase": "在那里！时雨——！",
+      "VoiceFileName": "20059070030",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005907004,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "啊……妈妈、爸爸！",
+      "VoiceFileName": "20059070040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 20507,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005907005,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（妈妈和爸爸在朝我挥手。/n　他们是为了这个才特意请假来的吧……。）",
+      "VoiceFileName": "20059070050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005907006,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（所以，我不想失败。我都不像自己地努力到现在了。/n　想让他们亲眼看到这些成果。）",
+      "VoiceFileName": "20059070060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 26,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005907007,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（得打起精神……。）",
+      "VoiceFileName": "20059070070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 14,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005907008,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "莉子",
+      "FontSize": 2,
+      "Phrase": "目前比分是85比79，白组领先……。",
+      "VoiceFileName": "20059070080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 50607,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "506"
+    },
+    {
+      "Id": 2005907009,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "小春",
+      "FontSize": 2,
+      "Phrase": "上午最后的投球项目，白组的班级拿了第一嘛……。",
+      "VoiceFileName": "20059070090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 401,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 50807,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "508"
+    },
+    {
+      "Id": 2005907010,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "杏",
+      "FontSize": 2,
+      "Phrase": "不过，再下一个就是骑马战唧！/n在那里努力逆转唧——！",
+      "VoiceFileName": "20059070100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 26,
+          "LipSyncMasterId": 1,
+          "SpineId": 50707,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "507"
+    },
+    {
+      "Id": 2005907011,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "是啊……。",
+      "VoiceFileName": "20059070110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 20507,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 50707,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005907012,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "广播",
+      "FontSize": 2,
+      "Phrase": "接下来是白组的啦啦操。",
+      "VoiceFileName": "20059070120",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005907013,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "Let's Go 白组♪　Go fight win ♪/nV！V！Victory！！",
+      "BackgroundCharacterImageFileName": "141760_0",
+      "VoiceFileName": "20059070130",
+      "CharacterMotions": [],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2005907014,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "观众",
+      "FontSize": 2,
+      "Phrase": "哇——，快看那个孩子！好可爱！",
+      "BackgroundCharacterImageFileName": "141760_0",
+      "VoiceFileName": "20059070140",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005907015,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "观众",
+      "FontSize": 2,
+      "Phrase": "看着就让人有精神呢。",
+      "BackgroundCharacterImageFileName": "141760_0",
+      "VoiceFileName": "20059070150",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005907016,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "哼～，跳得还不错嘛！",
+      "VoiceFileName": "20059070160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 20507,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005907017,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "预——备！谢谢大家——！",
+      "VoiceFileName": "20059070170",
+      "CharacterMotions": [],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2005907018,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "啦啦队员们",
+      "FontSize": 2,
+      "Phrase": "谢谢大家——！",
+      "VoiceFileName": "20059070180",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005907019,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "……！/n呵呵♪",
+      "VoiceFileName": "20059070190",
+      "CharacterMotions": [],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2005907020,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "！？",
+      "VoiceFileName": "20059070200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "SpineId": 20507,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005907021,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（新妻刚才对时雨眨眼……！？）",
+      "VoiceFileName": "20059070210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 6,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005907022,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "难道她明明是敌队，却真的打算给时雨加油……？",
+      "VoiceFileName": "20059070220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 104,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005907023,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "呵呵，好啊。",
+      "VoiceFileName": "20059070230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005907024,
+      "EpisodeMasterId": 2005907,
+      "Order": 2,
+      "GroupOrder": 23,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "骑马战我一定好好表现，让你后悔在这里给时雨加油！",
+      "VoiceFileName": "20059070231",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 10,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005907025,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 24,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.10000000149011612,
+      "FadeValue2": 0.20000000298023224,
+      "FadeValue3": 0.10000000149011612
+    },
+    {
+      "Id": 2005907026,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "红组学生们",
+      "FontSize": 2,
+      "Phrase": "“马上就是骑马战了。”“哇，好紧张……！”/n“这里不拿分就没法逆转了吧？”“加油！”",
+      "SeFileName": "141",
+      "VoiceFileName": "20059070240",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005907027,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "莉子",
+      "FontSize": 2,
+      "Phrase": "各位，这是时雨大人的话哦。/n请保持安静。",
+      "VoiceFileName": "20059070250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 4,
+          "SpineId": 50607,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "506"
+    },
+    {
+      "Id": 2005907028,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "红组学生们",
+      "FontSize": 2,
+      "Phrase": "……！",
+      "VoiceFileName": "20059070260",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005907029,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "小春",
+      "FontSize": 2,
+      "Phrase": "来，时雨大人！请对大家说两句！",
+      "VoiceFileName": "20059070270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 9,
+          "LipSyncMasterId": 1,
+          "SpineId": 50807,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "508"
+    },
+    {
+      "Id": 2005907030,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "杏",
+      "FontSize": 2,
+      "Phrase": "大家都在等时雨大人唧！",
+      "VoiceFileName": "20059070280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 50707,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 50807,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "507"
+    },
+    {
+      "Id": 2005907031,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（骑马战前让我说一句……。/n　不过嘛，能做的准备都做了。）",
+      "VoiceFileName": "20059070290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 104,
+          "BodyMotionMasterId": 3,
+          "SpineId": 20507,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005907032,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（而且在场所有人，都是我们红组赢下骑马战不可缺少的力量。/n　如果时雨几句话能让她们更有干劲……那当然没有不做的理由。）",
+      "VoiceFileName": "20059070300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005907033,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "呼～……。",
+      "VoiceFileName": "20059070310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005907034,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "战术和之前说的一样，总之由时雨这个总大将好好完成最后一击。/n所以，把你们的力量借给时雨！",
+      "VoiceFileName": "20059070320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005907035,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "先手必胜！绝不给她们做好心理准备！/n让掉以轻心的白组看看我们的厉害！",
+      "VoiceFileName": "20059070330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005907036,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "红组学生A",
+      "FontSize": 2,
+      "Phrase": "有时雨大人想好的战术，我们一定能赢！",
+      "VoiceFileName": "20059070340",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005907037,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "红组学生B",
+      "FontSize": 2,
+      "Phrase": "把胜利献给时雨大人！/n我们获胜的概率……99％。",
+      "VoiceFileName": "20059070350",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005907038,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "红组学生C",
+      "FontSize": 2,
+      "Phrase": "我，打倒白组。/n然后让时雨大人，夸我！",
+      "VoiceFileName": "20059070360",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005907039,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "红组学生们",
+      "FontSize": 2,
+      "Phrase": "时雨大人！时雨大人！",
+      "VoiceFileName": "20059070370",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005907040,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（太好了，大家都有干劲……。/n　不、不过？毕竟是时雨号召的，当然啦～？）",
+      "VoiceFileName": "20059070380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 15,
+          "SpineId": 20507,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005907041,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "好，出发了，你们！/n一二，加油！",
+      "VoiceFileName": "20059070390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2005907042,
+      "EpisodeMasterId": 2005907,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "红组全体学生",
+      "FontSize": 2,
+      "Phrase": "一二，加油！！",
+      "VoiceFileName": "20059070400",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    }
+  ]
+}

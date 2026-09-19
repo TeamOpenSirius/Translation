@@ -1,0 +1,738 @@
+{
+  "EpisodeId": 2006502,
+  "StoryType": 2,
+  "Order": 2,
+  "Prev": 2006501,
+  "Next": 2006503,
+  "Chapter": "开运！捣年糕声与钟声",
+  "Title": "天狼星的新年",
+  "EpisodeDetail": [
+    {
+      "Id": 2006502001,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "受访女性",
+      "FontSize": 2,
+      "Phrase": "“和男朋友一起过年末年初，会有种一年真的要结束了的感觉，/n　我挺喜欢的。”",
+      "BackgroundImageFileName": "540",
+      "BgmFileName": "101",
+      "VoiceFileName": "20065020010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006502002,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "播音员",
+      "FontSize": 2,
+      "Phrase": "“周末准备返回家乡的人们让机场十分热闹，/n　其中也有这样的旅客——”",
+      "VoiceFileName": "20065020020",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006502003,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "受访男性",
+      "FontSize": 2,
+      "Phrase": "“这也太挤了吧，登机队伍爆长。/n　这都不是能不能回家的程度了！”",
+      "VoiceFileName": "20065020030",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006502004,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哇～，看起来好辛苦～。/n说起来心菜亲和卡特亲不回老家吗？",
+      "VoiceFileName": "20065020040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006502005,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "嗯，演《恶魔的友人》的时候已经回去过一次了。",
+      "VoiceFileName": "20065020050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006502006,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "我嘛，主要还是物理距离的问题……。",
+      "VoiceFileName": "20065020060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 2,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2006502007,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "嘿嘿，所以今年就在这边悠闲地过～。/n有暖桌，也可以慢慢吃御节料理～。",
+      "VoiceFileName": "20065020070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006502008,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "那也不错，不过寒假作业也要好好做。/n你不想再变成暑假那样吧？",
+      "VoiceFileName": "20065020080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2006502009,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "也是……而且你还得陪我练演技。/n难得年末还能让我们用排练场。",
+      "VoiceFileName": "20065020090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2006502010,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "呜呜呜……好刺耳。/n我、我知道啦……但至少稍微享受一下假期嘛～。",
+      "VoiceFileName": "20065020100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006502011,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "潘达大概会直播吧～？正月大家都比较闲，/n对主播来说可是开摄像头的好时机！",
+      "VoiceFileName": "20065020110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006502012,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "靠栏目拉开差距……就是这么回事吧。",
+      "VoiceFileName": "20065020120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006502013,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "呃，虽然意思差不多……。/n不过嘛，关键还是要播什么内容～。",
+      "VoiceFileName": "20065020130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006502014,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "呵呵……那料理就交给我吧。",
+      "VoiceFileName": "20065020140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006502015,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "我有一家经常光顾的年糕店。/n杂煮就用他们家的年糕。",
+      "VoiceFileName": "20065020150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 70,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006502016,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "啊，对了……御节料理也得从现在开始准备。",
+      "VoiceFileName": "20065020160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006502017,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "啊～～！好耶～！/n杂煮，还有御节料理……！",
+      "VoiceFileName": "20065020170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006502018,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "还不只这些。再准备些刺身，/n御节料理和刺身都是凉的，所以新年头三天里挑一天吃火锅……。",
+      "VoiceFileName": "20065020180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006502019,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "吸溜……。",
+      "VoiceFileName": "20065020190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006502020,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "也拜托准备好吃的肉料理哦，知冴。",
+      "VoiceFileName": "20065020200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2006502021,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "还真是一如既往啊，卡特亲。",
+      "VoiceFileName": "20065020210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006502022,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "不过，光是现在听起来就已经这么开心了。/n要是八惠也能来就好了。",
+      "VoiceFileName": "20065020230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 2,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006502023,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "没办法啊，八惠不是说正月要和家人一起过吗？/n八惠也会和家人度过一个开心的新年。",
+      "VoiceFileName": "20065020240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2006502024,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "她还是小学生嘛，当然会和父母一起过～。",
+      "VoiceFileName": "20065020250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006502025,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "嗯嗯。",
+      "VoiceFileName": "20065020260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006502026,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "所以我们也要尽情享受，/n到时候才能有很多事讲给八惠听，对吧？",
+      "VoiceFileName": "20065020270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2006502027,
+      "EpisodeMasterId": 2006502,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "静香……嗯！/n我要尽全力享受，御节料理、杂煮还有新年参拜都要！",
+      "VoiceFileName": "20065020280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    }
+  ]
+}

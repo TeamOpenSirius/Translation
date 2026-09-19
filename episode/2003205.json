@@ -1,0 +1,1966 @@
+{
+  "EpisodeId": 2003205,
+  "StoryType": 2,
+  "Order": 5,
+  "Prev": 2003204,
+  "Next": 2003206,
+  "Chapter": "纯真，请告诉我",
+  "Title": "儿童馆",
+  "EpisodeDetail": [
+    {
+      "Id": 2003205001,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "保育员",
+      "FontSize": 2,
+      "Phrase": "真的帮大忙了。/n平时会来的志愿者今天都请假了……。",
+      "BackgroundImageFileName": "1720",
+      "BgmFileName": "102",
+      "VoiceFileName": "20032050010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205002,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哪里哪里。/n只要多少能帮上忙就最好不过了。",
+      "VoiceFileName": "20032050020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205003,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "助人为乐，尽管放马过来。",
+      "VoiceFileName": "20032050030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2003205004,
+      "EpisodeMasterId": 2003205,
+      "Order": 2,
+      "GroupOrder": 3,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "那么，我们要做什么？",
+      "VoiceFileName": "20032050031",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2003205005,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "保育员",
+      "FontSize": 2,
+      "Phrase": "想拜托两位做的，主要是协助我们。/n来这里玩的，大多是幼儿园和小学生的孩子。",
+      "VoiceFileName": "20032050040",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205006,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "保育员",
+      "FontSize": 2,
+      "Phrase": "所以想请你们帮忙照看、陪孩子们玩……。/n啊，当然会由我们保育员主导，也会注意安全。",
+      "VoiceFileName": "20032050050",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205007,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "保育员",
+      "FontSize": 2,
+      "Phrase": "不过来这里的孩子都很活泼，也很亲人，/n如果能多陪他们玩，他们一定会很开心。",
+      "VoiceFileName": "20032050060",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205008,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "陪他们玩啊……。/n总觉得想起小时候了。",
+      "VoiceFileName": "20032050070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205009,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "好嘞～交给我们！/n保证让他们玩个痛快！",
+      "VoiceFileName": "20032050080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205010,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "潘达，干劲十足。",
+      "VoiceFileName": "20032050090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2003205011,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "呵呵，很有精神呢。/n真的帮了大忙。",
+      "VoiceFileName": "20032050100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2003205012,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 11,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2003205013,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "孩子A",
+      "FontSize": 2,
+      "Phrase": "啊——，那是我的积木！/n还给我～。",
+      "SeFileName": "141",
+      "VoiceFileName": "20032050110",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205014,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "孩子B",
+      "FontSize": 2,
+      "Phrase": "去院子里玩吧——！",
+      "VoiceFileName": "20032050120",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205015,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "孩子C",
+      "FontSize": 2,
+      "Phrase": "老师，给我念绘本～。",
+      "VoiceFileName": "20032050130",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205016,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "保育员",
+      "FontSize": 2,
+      "Phrase": "好呀——。稍微等一下哦。",
+      "VoiceFileName": "20032050140",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205017,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哦哦……。/n好多精神十足的小朋友。",
+      "VoiceFileName": "20032050150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205018,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "大家有的玩玩具，有的看绘本，都很自由呢。",
+      "VoiceFileName": "20032050160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2003205019,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "再加上来帮忙的志愿者……。/n这种场景总觉得很像儿童教育节目。",
+      "VoiceFileName": "20032050170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205020,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "就是大家和布偶一起唱歌的那种？",
+      "VoiceFileName": "20032050180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2003205021,
+      "EpisodeMasterId": 2003205,
+      "Order": 2,
+      "GroupOrder": 19,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "那潘达就是“潘达姐姐”了。",
+      "VoiceFileName": "20032050181",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2003205022,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "不错。采用！",
+      "VoiceFileName": "20032050190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 600,
+          "BodyMotionMasterId": 10,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205023,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "啊，那边有画纸。/n我过去看看。",
+      "VoiceFileName": "20032050200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2003205024,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "你可得好好陪孩子们玩啊——？",
+      "VoiceFileName": "20032050210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205025,
+      "EpisodeMasterId": 2003205,
+      "Order": 2,
+      "GroupOrder": 22,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "跑掉了……。",
+      "VoiceFileName": "20032050211",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205026,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "没办法，该让潘达姐姐露一手了……！",
+      "VoiceFileName": "20032050220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205027,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "（照片肯定不能拍，不过最近发帖内容正好有点千篇一律，拿这事当素材绝对不错！）",
+      "VoiceFileName": "20032050230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 26,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205028,
+      "EpisodeMasterId": 2003205,
+      "Order": 2,
+      "GroupOrder": 24,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "（形象好感度肯定蹭蹭上涨！）",
+      "VoiceFileName": "20032050231",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 600,
+          "BodyMotionMasterId": 8,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205029,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "孩子D",
+      "FontSize": 2,
+      "Phrase": "涂涂～……涂涂～……。/n画好啦！　汽车！",
+      "VoiceFileName": "20032050240",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205030,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哦，真的。/n画得好帅啊～，真厉害！",
+      "VoiceFileName": "20032050250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205031,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "孩子D",
+      "FontSize": 2,
+      "Phrase": "很帅？　真的吗？/n它会在天上嗡——地跑哦。",
+      "VoiceFileName": "20032050260",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205032,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "未来汽车啊～，那可真方便。/n潘达……不，潘达姐姐也想坐坐看。",
+      "VoiceFileName": "20032050270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205033,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "孩子D",
+      "FontSize": 2,
+      "Phrase": "可以呀！　让你坐。/n画画～……画画～……。",
+      "VoiceFileName": "20032050280",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205034,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "要把我也画进去吗？/n谢谢，姐姐好开心！",
+      "VoiceFileName": "20032050290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205035,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "（怎么说呢，天真得好可爱。/n　反倒是我被治愈了……）",
+      "VoiceFileName": "20032050300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205036,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "八惠亲那边……。",
+      "VoiceFileName": "20032050310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205037,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "港口有许多海鸥在飞翔。/n辽阔的海面上，一艘船孤零零地漂着。",
+      "BackgroundCharacterImageFileName": "140830_0",
+      "VoiceFileName": "20032050320",
+      "CharacterMotions": [],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2003205038,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "灿烂的阳光倾泻而下，/n船迎着凉爽的海风，驶向了远海。",
+      "BackgroundCharacterImageFileName": "140830_0",
+      "VoiceFileName": "20032050330",
+      "CharacterMotions": [],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2003205039,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "孩子C",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "BackgroundCharacterImageFileName": "140830_0",
+      "VoiceFileName": "20032050340",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205040,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "厉害……把孩子完全带进童话世界了。/n她是真的很熟练啊。",
+      "VoiceFileName": "20032050350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205041,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "（八惠亲自己也是小学生，/n　这里甚至还有和她没差几岁的孩子……）",
+      "VoiceFileName": "20032050360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 20,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205042,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "孩子的声音",
+      "FontSize": 2,
+      "Phrase": "哇——！　火箭——！",
+      "VoiceFileName": "20032050370",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205043,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "嗯？",
+      "VoiceFileName": "20032050380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205044,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "这个火箭是真的能飞哦。/n看好了。",
+      "VoiceFileName": "20032050390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2003205045,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "Three, two, one……Ignition。",
+      "VoiceFileName": "20032050400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2003205046,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "孩子E",
+      "FontSize": 2,
+      "Phrase": "飞起来了——！/n好帅！　好厉害！",
+      "VoiceFileName": "20032050410",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205047,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "（知冴亲看来也有好好干活，太好了。/n　而且不知不觉间还成了男孩子们崇拜的对象……）",
+      "VoiceFileName": "20032050420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205048,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "孩子A",
+      "FontSize": 2,
+      "Phrase": "潘达姐姐，快看快看！/n我搭了城堡！",
+      "VoiceFileName": "20032050430",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205049,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哦哦，是积木啊。搭得真棒！/n这里住着谁呀？",
+      "VoiceFileName": "20032050440",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205050,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "孩子A",
+      "FontSize": 2,
+      "Phrase": "公主和王子！/n还有一万个家臣！",
+      "VoiceFileName": "20032050450",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205051,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哇、哇～，好气派的城堡呢～。",
+      "VoiceFileName": "20032050460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205052,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "孩子A",
+      "FontSize": 2,
+      "Phrase": "我呀，将来要做盖房子和建筑的工作。/n爸爸妈妈也是做这个的。",
+      "VoiceFileName": "20032050470",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205053,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哦哦，是建筑方面的？",
+      "VoiceFileName": "20032050480",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205054,
+      "EpisodeMasterId": 2003205,
+      "Order": 2,
+      "GroupOrder": 49,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "这个梦想超棒！",
+      "VoiceFileName": "20032050481",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205055,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 50,
+      "SpeakerName": "孩子A",
+      "FontSize": 2,
+      "Phrase": "嘿嘿～。/n下一个要搭剧场！",
+      "VoiceFileName": "20032050490",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205056,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 51,
+      "SpeakerName": "保育员",
+      "FontSize": 2,
+      "Phrase": "潘达小姐一下子就和孩子们混熟了呢。",
+      "VoiceFileName": "20032050500",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205057,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "是吗……？　真是这样就好了。",
+      "VoiceFileName": "20032050510",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 404,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205058,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 53,
+      "SpeakerName": "孩子A",
+      "FontSize": 2,
+      "Phrase": "嗯！　我喜欢潘达姐姐！",
+      "VoiceFileName": "20032050520",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205059,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 54,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "欸！？",
+      "VoiceFileName": "20032050530",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205060,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 55,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "呵呵。/n她是这么说的哦。",
+      "VoiceFileName": "20032050540",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2003205061,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 56,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哎、哎呀～……。/n这种话还真让人有点不好意思。",
+      "VoiceFileName": "20032050550",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 114,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205062,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 57,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "我刚才也一直在看，真的很有姐姐的样子。/n做得很好哦♪",
+      "VoiceFileName": "20032050560",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2003205063,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 58,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "嘿嘿。/n偶尔这样也不错嘛。",
+      "VoiceFileName": "20032050570",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205064,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 59,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "真的帮大忙了。/n如果只有我一个人，今天大概会相当辛苦。",
+      "VoiceFileName": "20032050580",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2003205065,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 60,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哪里哪里。/n只要能稍微帮上八惠亲，我就很高兴。",
+      "VoiceFileName": "20032050590",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205066,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 61,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "啊……不用担心，今天就交给我们吧！/n平时也很少有机会让你依靠，至少今天让我来。",
+      "VoiceFileName": "20032050600",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205067,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 62,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "是这样吗？",
+      "VoiceFileName": "20032050610",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2003205068,
+      "EpisodeMasterId": 2003205,
+      "Order": 2,
+      "GroupOrder": 62,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "潘达小姐平时就经常帮到我哦。",
+      "VoiceFileName": "20032050611",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2003205069,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 63,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "你这种接话方式就已经成熟得不像小孩子啦。",
+      "VoiceFileName": "20032050620",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 104,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205070,
+      "EpisodeMasterId": 2003205,
+      "Order": 2,
+      "GroupOrder": 63,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "不过，这也是八惠亲的魅力嘛。",
+      "VoiceFileName": "20032050621",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205071,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 64,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "你最近又要拍电视剧，很忙的，/n今天就放松一点吧。",
+      "VoiceFileName": "20032050630",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205072,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 65,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "电视剧……。",
+      "VoiceFileName": "20032050640",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2003205073,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 66,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "对了……为了演好儿童角色，/n观察真正的孩子，模仿他们“像孩子”的地方，或许也很好。",
+      "VoiceFileName": "20032050650",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2003205074,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 67,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "嗯？　啊，原来是这么回事。/n由还是孩子的八惠亲来说这话，感觉真奇妙。",
+      "VoiceFileName": "20032050660",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205075,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 68,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "不过我会配合的！　陪孩子们玩的事由潘达负责，/n八惠亲就专心观察吧！",
+      "VoiceFileName": "20032050670",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205076,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 69,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "谢谢你，潘达小姐。/n今天就让我依靠你了♪",
+      "VoiceFileName": "20032050680",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 2003205077,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 70,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2003205078,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 71,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "（哎呀哎呀……居然被夸了。/n　自己太能干真让人困扰……）",
+      "VoiceFileName": "20032050690",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 17,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205079,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 72,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "（孩子们也挺买账的，今天这波感觉相当不错吧？/n　发出去的话，潘达的口碑不是要大涨？）",
+      "VoiceFileName": "20032050700",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205080,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 73,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "（可恶～！　好想赶紧发帖～！/n　脑子里标签一个接一个地往外冒！）",
+      "VoiceFileName": "20032050710",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 600,
+          "BodyMotionMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205081,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 74,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "好嘞！/n就照这个势头继续干吧～。",
+      "VoiceFileName": "20032050720",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205082,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 75,
+      "SpeakerName": "孩子B",
+      "FontSize": 2,
+      "Phrase": "潘达姐姐！/n我想玩鬼抓人！　一起去院子吧！",
+      "VoiceFileName": "20032050730",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2003205083,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 76,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "OK！",
+      "VoiceFileName": "20032050740",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205084,
+      "EpisodeMasterId": 2003205,
+      "Order": 2,
+      "GroupOrder": 76,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "鬼抓人啊，活动身体也很重要嘛！",
+      "VoiceFileName": "20032050741",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2003205085,
+      "EpisodeMasterId": 2003205,
+      "Order": 1,
+      "GroupOrder": 77,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "那么，想和潘达姐姐玩鬼抓人的小朋友，/n现在跟我来哦～♪",
+      "VoiceFileName": "20032050750",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 18,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    }
+  ]
+}

@@ -1,0 +1,767 @@
+{
+  "EpisodeId": 2006804,
+  "StoryType": 2,
+  "Order": 4,
+  "Prev": 2006803,
+  "Next": 2006805,
+  "Chapter": "Easter Attraction！",
+  "Title": "出发，前往主题乐园！",
+  "EpisodeDetail": [
+    {
+      "Id": 2006804001,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "SNS反应",
+      "FontSize": 2,
+      "Phrase": "“欸，连心菜和静香都要出镜！？”/n“神秘演员静香，连知冴大人也会出场……！这绝对不能错过！！”",
+      "BackgroundImageFileName": "540",
+      "BgmFileName": "102",
+      "VoiceFileName": "20068040010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006804002,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "呵呵呵……事先在SNS上预告果然很有效，/n现在热度已经完全起来了～……！嘿嘿嘿……。",
+      "VoiceFileName": "20068040020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 2,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006804003,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "真是的……势利眼。",
+      "VoiceFileName": "20068040030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2006804004,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "啊哈哈……。",
+      "VoiceFileName": "20068040040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006804005,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "很有潘达的风格呢。",
+      "VoiceFileName": "20068040050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006804006,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 6,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "610",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 2006804007,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "哇！客人好多！",
+      "VoiceFileName": "20068040060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006804008,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "是啊，不愧是主题乐园。",
+      "VoiceFileName": "20068040070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2006804009,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "在这里的所有人，都是我们的竞争对手吧……。/n彩蛋……我一个都不会让出去！",
+      "VoiceFileName": "20068040080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006804010,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "你怎么一副要打大逃杀的气势。/n这又不是那种活动。",
+      "VoiceFileName": "20068040090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 27,
+          "LipSyncMasterId": 4,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006804011,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "而且，我们还没进复活节庆典的会场呢。/n入口不是在那里吗？",
+      "VoiceFileName": "20068040100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2006804012,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "原来场地是专门划分出来的。",
+      "VoiceFileName": "20068040110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006804013,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "嘛，再怎么说，也不可能让大家在整个游乐园里找藏起来的彩蛋，/n那也太离谱了～。",
+      "VoiceFileName": "20068040120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006804014,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "不过，目标区域其实也挺大，/n活动方确实下了不少功夫。",
+      "VoiceFileName": "20068040130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006804015,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "可是，你还要在这里面拍Vlog吧？/n不会很辛苦吗？",
+      "VoiceFileName": "20068040140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2006804016,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "呵呵呵……不用担心！/n为了这一天，我已经仔细筛选了各种设备，也把地图研究透了！",
+      "VoiceFileName": "20068040150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006804017,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "接下来只要准备好拍摄！/n请稍微等一下哦～？",
+      "VoiceFileName": "20068040160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006804018,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "啊，跑掉了。",
+      "VoiceFileName": "20068040170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 4,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006804019,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "潘达干劲满满呢！/n好——我也要加油～～！",
+      "VoiceFileName": "20068040180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006804020,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "是啊，我平时也很少来这种地方，/n人这么多，感觉都要晕人群了……。",
+      "VoiceFileName": "20068040190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2006804021,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "要吃……晕车药吗？",
+      "VoiceFileName": "20068040200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006804022,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "第一次听到有人不是坐车时说这句话……！？",
+      "VoiceFileName": "20068040210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006804023,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "你还随身带着……？",
+      "VoiceFileName": "20068040220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2006804024,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "当然，要尽可能让身体保持最佳状态。/n毕竟难得来参加彩蛋寻宝。",
+      "VoiceFileName": "20068040230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006804025,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "为了找到彩蛋，我会努力理解彩蛋的心情！",
+      "VoiceFileName": "20068040240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006804026,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "哦哦，好强的斗志……！",
+      "VoiceFileName": "20068040250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006804027,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "彩蛋的心情……是什么？",
+      "VoiceFileName": "20068040260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2006804028,
+      "EpisodeMasterId": 2006804,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "喂——！各位——！/n要开始拍啦～！",
+      "VoiceFileName": "20068040270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 18,
+          "LipSyncMasterId": 2,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    }
+  ]
+}

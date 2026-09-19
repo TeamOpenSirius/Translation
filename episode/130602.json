@@ -1,0 +1,2983 @@
+{
+  "EpisodeId": 130602,
+  "StoryType": 3,
+  "Order": 2,
+  "Prev": 130601,
+  "Next": null,
+  "Chapter": "今日晴天，正是泳池好天气",
+  "Title": "别扭的善意",
+  "EpisodeDetail": [
+    {
+      "Id": 130602001,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "杏",
+      "FontSize": 2,
+      "Phrase": "成功啦！/n时雨大人，谢谢你！",
+      "BackgroundImageFileName": "80",
+      "BgmFileName": "403",
+      "VoiceFileName": "1306020010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 50701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "507"
+    },
+    {
+      "Id": 130602002,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "莉子",
+      "FontSize": 2,
+      "Phrase": "真没想到连我都能游完25米，/n之前完全没想过！",
+      "VoiceFileName": "1306020020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 50601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "506"
+    },
+    {
+      "Id": 130602003,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "小春",
+      "FontSize": 2,
+      "Phrase": "不愧是时雨大人！/n老师还说，我们班会游泳的人比其他班都多了！",
+      "VoiceFileName": "1306020030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 50801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "508"
+    },
+    {
+      "Id": 130602004,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "那不是当然的吗？可是我给你们提过建议的！",
+      "VoiceFileName": "1306020040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602005,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（……嘴上是这么说。/n　但我教的东西几乎全是照搬仁花子前辈的……）",
+      "VoiceFileName": "1306020050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602006,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（要不要道个谢什么的……）",
+      "VoiceFileName": "1306020060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602007,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（道谢…………？）",
+      "VoiceFileName": "1306020070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602008,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 8,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1050",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": -1.0,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 130602009,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（……现在才想到～～～！？）",
+      "VoiceFileName": "1306020080",
+      "CharacterMotions": [],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602010,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 10,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "170",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.0,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 130602011,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "哈、哈、呼……！",
+      "VoiceFileName": "1306020090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602012,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "……！……！",
+      "VoiceFileName": "1306020100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602013,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "集中在表演上！你们现在是生活在非洲的跳鼠！/n用全身表现出在灼热沙漠中燃烧的生命力！",
+      "VoiceFileName": "1306020110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 130602014,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "吱、吱！",
+      "VoiceFileName": "1306020120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 207,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602015,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "吱！",
+      "VoiceFileName": "1306020130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 207,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602016,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "平时白天太热，它们会待在洞穴里休息。/n可现在因为某种原因，安宁被打破了！",
+      "VoiceFileName": "1306020140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 130602017,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "用两只跳鼠求生的姿态，让观众屏住呼吸！/n不要给他们插入多余思考的余地！",
+      "VoiceFileName": "1306020150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 130602018,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "吱——！！！！",
+      "VoiceFileName": "1306020160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602019,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "初魅突然说即兴练习要演动物，我还担心会怎样。/n结果她们两个都演得不错嘛。",
+      "VoiceFileName": "1306020170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 130602020,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "尤其是仁花子，专注力太强了。完全进入状态。",
+      "VoiceFileName": "1306020180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 130602021,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "也有我主指导得好的原因吧，/n真的就像在沙漠里四处逃命一样……。",
+      "VoiceFileName": "1306020190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 130602022,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "相比之下那个小鬼……虽说不差，但你是在故作冷静耍帅吗？/n再多配合一下仁花亲——",
+      "VoiceFileName": "1306020200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 130602023,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "等等，怎么了！？",
+      "VoiceFileName": "1306020210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 130602024,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "没错，为了活下去磨利你的感官！/n谁也不知道会遇上什么意外——",
+      "VoiceFileName": "1306020220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 130602025,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "——不好意思。/n可以先停一下吗？",
+      "VoiceFileName": "1306020230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602026,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "哈、哈、哈……？",
+      "VoiceFileName": "1306020240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602027,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "居然擅自叫停排练，你以为自己是谁……！？/n难道你还敢对我主的指导有意见……！！",
+      "VoiceFileName": "1306020250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 130602028,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "真少见，时雨居然会那样喊停。",
+      "VoiceFileName": "1306020260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 130602029,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "怎么了，时雨。",
+      "VoiceFileName": "1306020270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 130602030,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "这个地板，被汗弄得很滑好吗？/n前面的人有认真擦过吗？",
+      "VoiceFileName": "1306020280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602031,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "欸，真的！？抱歉——！/n我没想到已经湿成这样了！",
+      "VoiceFileName": "1306020290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 130602032,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "你看，仁花子前辈脚边都湿透了。/n太危险了，我去拿拖把。",
+      "VoiceFileName": "1306020300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602033,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "哈、哈……等、等等时雨亲。/n我也来帮忙。",
+      "VoiceFileName": "1306020310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602034,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "两三个人都不用啦。/n你都累成这样了，休息一下不就好了？",
+      "VoiceFileName": "1306020320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602035,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "对、对不起……。",
+      "VoiceFileName": "1306020330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602036,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "又、又不是仁花子前辈的错。/n根本没必要道歉好吗。",
+      "VoiceFileName": "1306020340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602037,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "哦。",
+      "VoiceFileName": "1306020350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 130602038,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "真是个嚣张的小鬼……。",
+      "VoiceFileName": "1306020360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 130602039,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "……是这样吗？",
+      "VoiceFileName": "1306020370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 130602040,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……？",
+      "VoiceFileName": "1306020380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 11,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 130602041,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "呼，弄完了。",
+      "VoiceFileName": "1306020390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602042,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "谢谢你，时雨亲！",
+      "VoiceFileName": "1306020400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602043,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "好。那么继续——",
+      "VoiceFileName": "1306020410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 130602044,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "哈啊，我口渴了。/n我去拿饮料。",
+      "VoiceFileName": "1306020420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "BodyMotionMasterId": 24,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602045,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "……啊～，原来是这么回事。",
+      "VoiceFileName": "1306020430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 130602046,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "我已经忍不住了……！/n那个小鬼是想把排练彻底搅乱吗！",
+      "VoiceFileName": "1306020440",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 130602047,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "好啦好啦，大黑小姐。换个角度看看。/n虽然我也是刚刚才注意到。",
+      "VoiceFileName": "1306020450",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 130602048,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "欸……？角度……。",
+      "VoiceFileName": "1306020460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 130602049,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "……那个。",
+      "VoiceFileName": "1306020470",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602050,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 50,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "嗯，那仁花子也稍微休息一下？",
+      "VoiceFileName": "1306020480",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 130602051,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 51,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "不用！我还想再练一会儿！/n现在感觉正好！吱！",
+      "VoiceFileName": "1306020490",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602052,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "这样啊。",
+      "VoiceFileName": "1306020500",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 130602053,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 53,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "仁花子前——辈，接住！",
+      "VoiceFileName": "1306020510",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602054,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 54,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "欸！？哇！？",
+      "VoiceFileName": "1306020520",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602055,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 55,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "……运动饮料？",
+      "VoiceFileName": "1306020530",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602056,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 56,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "那个运动饮料是限定款。/n我不小心买了两瓶，就给你一瓶。",
+      "VoiceFileName": "1306020540",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "HeadDirectionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602057,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 57,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "欸、欸欸？这不是很珍贵吗！？/n这种东西我不能收！",
+      "VoiceFileName": "1306020550",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602058,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 58,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "都、都说了拿着啦。/n现在还回来我反而很困扰！",
+      "VoiceFileName": "1306020560",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602059,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 59,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "好、好吧。那我就心怀感激收下……。",
+      "VoiceFileName": "1306020570",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602060,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 60,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "啊！更重要的是，对不起，我一直没发现！/n时雨亲，你原来累了……。",
+      "VoiceFileName": "1306020580",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602061,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 61,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "噗。",
+      "VoiceFileName": "1306020590",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 130602062,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 62,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "我、我才没累！/n能不能别擅自向我道歉啊！？",
+      "VoiceFileName": "1306020600",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602063,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 63,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "欸，可是，你刚刚要休息……。",
+      "VoiceFileName": "1306020610",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602064,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 64,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "我不是说了只是口渴吗！",
+      "VoiceFileName": "1306020620",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 207,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602065,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 65,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "哈哈哈，时雨真不坦率啊。",
+      "VoiceFileName": "1306020630",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 130602066,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 66,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "啊，原来如此……。",
+      "VoiceFileName": "1306020640",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 130602067,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 67,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "连初魅都看得开心起来了。/n差不多该去收拾场面了～。",
+      "VoiceFileName": "1306020650",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 130602068,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 68,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "总、总之～，快把那瓶运动饮料喝了～！/n运动后喝很合适的～！",
+      "VoiceFileName": "1306020660",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602069,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 69,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "那至少让我把钱付给你。",
+      "VoiceFileName": "1306020670",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602070,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 70,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "不～需～要～～～！",
+      "VoiceFileName": "1306020680",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602071,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 71,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "初魅～。时间也差不多了，先休息一下怎么样？",
+      "VoiceFileName": "1306020690",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 130602072,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 72,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "哦，也对。/n那就10分钟后再开始。",
+      "VoiceFileName": "1306020700",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 130602073,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 73,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "就是这样。仁花子小姐。/n一起休息一下吧。",
+      "VoiceFileName": "1306020710",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 130602074,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 74,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "欸？啊？饮、饮料钱～！",
+      "VoiceFileName": "1306020720",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602075,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 75,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……小鬼。/n你就不能更坦率地说声谢谢吗……？",
+      "VoiceFileName": "1306020730",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 130602076,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 76,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "哈、哈啊！？/n我根本不知道你在说什么谢谢好吗！？",
+      "VoiceFileName": "1306020740",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 306,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602077,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 77,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "唉～～～～～……。",
+      "VoiceFileName": "1306020750",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 130602078,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 78,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "干嘛啊，叹那么大一口气！/n烦死人了！！",
+      "VoiceFileName": "1306020760",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 407,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602079,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 79,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "（好了，那边怎么样了？）",
+      "VoiceFileName": "1306020770",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 130602080,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 80,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "刚才时雨是在关心仁花子哦。/n虽然确实很难看出来。",
+      "VoiceFileName": "1306020780",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 130602081,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 81,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "……啊，果然是这样吗？",
+      "VoiceFileName": "1306020790",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602082,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 82,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "咦，你注意到了？",
+      "VoiceFileName": "1306020800",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 130602083,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 83,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "是中途才意识到的。就想，会不会是这样。",
+      "VoiceFileName": "1306020810",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602084,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 84,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "汗的事，是时雨亲提醒我才发现的。/n不过那时候我还没完全明白。",
+      "VoiceFileName": "1306020820",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602085,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 85,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "这瓶饮料也是，拿到以后我才发现自己渴了。/n她又硬是要我喝，我到那时候才“啊”地反应过来……。",
+      "VoiceFileName": "1306020830",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602086,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 86,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "咕噜咕噜……哈啊。/n好喝～！",
+      "VoiceFileName": "1306020840",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602087,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 87,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "如果没有时雨亲，我说不定会因为汗滑倒受伤。/n也可能会因为脱水倒下吧。",
+      "VoiceFileName": "1306020850",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602088,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 88,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "她一定是想回报之前泳池的事……吧？",
+      "VoiceFileName": "1306020860",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602089,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 89,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "大概吧。除此之外我也想不到别的。/n不过话说回来，时雨居然已经会这么关心别人了。",
+      "VoiceFileName": "1306020870",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 130602090,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 90,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "（……其实本来应该是身为前辈的我先注意到。/n　初魅完全没变样，我就彻底放松警惕了。得反省啊）",
+      "VoiceFileName": "1306020880",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 130602091,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 91,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "我觉得，真正理解连小姐所说的“专注”的，/n一定是时雨亲。",
+      "VoiceFileName": "1306020890",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602092,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 92,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "我满脑子都只想着要变成跳鼠。/n可时雨亲一边表演，还能一直观察周围。",
+      "VoiceFileName": "1306020900",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602093,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 93,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "时雨亲真的好厉害。",
+      "VoiceFileName": "1306020910",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602094,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 94,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "嗯。我们也得向她学习。/n虽然我也觉得，她最好能再坦率一点。",
+      "VoiceFileName": "1306020920",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 130602095,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 95,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "这也是她的魅力点啊！",
+      "VoiceFileName": "1306020930",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 130602096,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 96,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "嗯嗯，我懂。",
+      "VoiceFileName": "1306020940",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 130602097,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 97,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "呵……。",
+      "VoiceFileName": "1306020950",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 130602098,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 98,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": -1.0,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 130602099,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 99,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "我回来啦～。抱歉抱歉，已经超过10分钟了？",
+      "VoiceFileName": "1306020960",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 130602100,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 100,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "太慢了！害得大黑前辈一直对我演的跳鼠/n疯狂挑刺好吗？",
+      "VoiceFileName": "1306020970",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602101,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 101,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……小鬼。",
+      "VoiceFileName": "1306020980",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 130602102,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 102,
+      "SpeakerName": "仁花子＆容",
+      "FontSize": 2,
+      "Phrase": "呵呵。/n哈哈。",
+      "VoiceFileName": "1306020990",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 130602103,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 103,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "你们说什么了！？",
+      "VoiceFileName": "1306021000",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602104,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 104,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "时雨真可爱。呵呵。",
+      "VoiceFileName": "1306021010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 130602105,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 105,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "等、等等？/n能别一直拍人家的头吗？",
+      "VoiceFileName": "1306021020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602106,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 106,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "这种个性，要好好珍惜哦。呵呵呵。",
+      "VoiceFileName": "1306021030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 130602107,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 107,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "到底是在干嘛啊！？",
+      "VoiceFileName": "1306021040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 407,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130602108,
+      "EpisodeMasterId": 130602,
+      "Order": 1,
+      "GroupOrder": 108,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "真是的～～～！！",
+      "VoiceFileName": "1306021050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 211,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    }
+  ]
+}

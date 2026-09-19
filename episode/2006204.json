@@ -1,0 +1,998 @@
+{
+  "EpisodeId": 2006204,
+  "StoryType": 2,
+  "Order": 4,
+  "Prev": 2006203,
+  "Next": 2006205,
+  "Chapter": "跨越心之牢笼",
+  "Title": "大家一起去吧！",
+  "EpisodeDetail": [
+    {
+      "Id": 2006204001,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "所以说，大黑亲是为了校外学习，/n想克服自己害怕动物的毛病！",
+      "BackgroundImageFileName": "170",
+      "BgmFileName": "402",
+      "VoiceFileName": "20062040010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 2006204002,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "诶～？大黑前辈怕动物啊？/n不擅长的东西这么多，还真辛苦呢～？",
+      "VoiceFileName": "20062040020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2006204003,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "好啦好啦，别老戳她。/n愿意努力克服自己的弱点，不是挺好的吗！",
+      "VoiceFileName": "20062040030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2006204004,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "没错。逃避不擅长的东西很简单。/n可愿意挑战的这种态度……我觉得很了不起，大黑。",
+      "VoiceFileName": "20062040040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2006204005,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "哪、哪里，吾主……这话我受之有愧……。",
+      "VoiceFileName": "20062040050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 505,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 1,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006204006,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（连吾主都夸我了……其实只是想让潘达吃瘪，/n　怎么可能说得出口。本来该高兴的话，听着却好痛……。）",
+      "VoiceFileName": "20062040060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006204007,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "什、什么嘛……这气氛。时雨只是，/n身边没有怕动物的人，所以好奇而已！",
+      "VoiceFileName": "20062040070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 3,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2006204008,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "这样啊，你身边的人还真幸福。/n我身边那种人可一点都不少见。",
+      "VoiceFileName": "20062040080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006204009,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "光是想起就来气，那只浣熊。/n糟蹋认识的人的稻田，最后还对我龇牙威吓……！",
+      "VoiceFileName": "20062040090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "LipSyncMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006204010,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "大黑亲说过，自己有段时间住在东北那边呢。/n原来当时还发生过这种事。",
+      "VoiceFileName": "20062040100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 2006204011,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "嗯。从那以后我就不行了。/n附近的农户也都被浣熊折腾得够呛。",
+      "VoiceFileName": "20062040110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006204012,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "所以像我这样的人根本不稀奇。/n……那你又为什么约仁花亲去动物园？",
+      "VoiceFileName": "20062040120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006204013,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "学校布置了个麻烦死了的作业，要实地看动物、做观察。/n时雨可是正经为了学习哦！",
+      "VoiceFileName": "20062040130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2006204014,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "说到自然和动物，仁花子前辈感觉很懂。/n这不是最合适的人选吗？",
+      "VoiceFileName": "20062040140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2006204015,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "什、我也不是去玩的！",
+      "VoiceFileName": "20062040150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 3,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006204016,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "就算纯粹去动物园玩，我觉得也完全没问题啊。",
+      "VoiceFileName": "20062040160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2006204017,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "抱歉哦，大黑亲。/n我已经先和时雨亲约好了，所以没法马上答应你……。",
+      "VoiceFileName": "20062040170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 2006204018,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "仁花亲……。/n没事，你不用在意。",
+      "VoiceFileName": "20062040180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006204019,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "不过说不定时机正好。我星期日也没安排，/n仁花子本来就是打算陪时雨去的吧？",
+      "VoiceFileName": "20062040190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2006204020,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "那大家一起去不就好了。",
+      "VoiceFileName": "20062040200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2006204021,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "大黑、时雨",
+      "FontSize": 2,
+      "Phrase": "诶……。",
+      "VoiceFileName": "20062040210",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006204022,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "好啊，容容！大黑亲邀请我的时候，/n我本来也想着问问时雨亲呢！",
+      "VoiceFileName": "20062040220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 2006204023,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "既然如此，我也一起去。/n星期日正好没有安排。",
+      "VoiceFileName": "20062040230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2006204024,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "你、你们不要擅自就决定大家一起啊！/n连休息日都要和大黑前辈在一起，绝对不要！",
+      "VoiceFileName": "20062040240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2006204025,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "我才求之不得呢！",
+      "VoiceFileName": "20062040250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 3,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006204026,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "可你们俩下周之前都得去动物园吧？/n大黑是校外学习，时雨是作业。",
+      "VoiceFileName": "20062040260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2006204027,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "大黑、时雨",
+      "FontSize": 2,
+      "Phrase": "唔……。",
+      "VoiceFileName": "20062040270",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006204028,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "大家一起观察动物的话，/n说不定还能找到能运用到表演里的东西。",
+      "VoiceFileName": "20062040280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2006204029,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "唔唔……可别因为害怕就拖后腿哦！/n大黑前辈！！",
+      "VoiceFileName": "20062040290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 3,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2006204030,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "你才别多嘴把我惹火！/n我听说动物会察觉这种情绪，然后逃掉的！",
+      "VoiceFileName": "20062040300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 3,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006204031,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "看来谈妥了！",
+      "VoiceFileName": "20062040310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2006204032,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "吾主，当天我或许会让您看到丢脸的一面，/n还请多多关照……！",
+      "VoiceFileName": "20062040320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006204033,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "为了克服弱点而主动挑战，有什么好丢脸的。/n一起努力吧，大黑。",
+      "VoiceFileName": "20062040330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2006204034,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "吾、吾主……！/n如此厚爱，我不胜惶恐！",
+      "VoiceFileName": "20062040340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 505,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 2,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2006204035,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "唉，对时雨的时候态度还是这么不一样……。/n看人下菜碟真的好吗～？",
+      "VoiceFileName": "20062040350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2006204036,
+      "EpisodeMasterId": 2006204,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "这就是……少女心吧。",
+      "VoiceFileName": "20062040360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    }
+  ]
+}

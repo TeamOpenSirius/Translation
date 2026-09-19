@@ -1,0 +1,786 @@
+{
+  "EpisodeId": 2005403,
+  "StoryType": 2,
+  "Order": 3,
+  "Prev": 2005402,
+  "Next": 2005404,
+  "Chapter": "如今才注意到纷飞的樱花",
+  "Title": "少女无暇赏樱",
+  "EpisodeDetail": [
+    {
+      "Id": 2005403001,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "招待宾客的情况如何？/n冰川。",
+      "BackgroundImageFileName": "2093",
+      "BgmFileName": "21",
+      "VoiceFileName": "20054030010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005403002,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "冰川",
+      "FontSize": 2,
+      "Phrase": "一切准备周全，来宾的接待也没有任何问题。/n千寿历小姐。",
+      "VoiceFileName": "20054030020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 50406,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "504"
+    },
+    {
+      "Id": 2005403003,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "这样。/n之后也请继续拜托你了。",
+      "VoiceFileName": "20054030030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005403004,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "冰川",
+      "FontSize": 2,
+      "Phrase": "遵命。/n我冰川定当竭尽诚意完成职责。",
+      "VoiceFileName": "20054030040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "504"
+    },
+    {
+      "Id": 2005403005,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20054030050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 4,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005403006,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "后援会老人",
+      "FontSize": 2,
+      "Phrase": "哎呀，是千寿历小姐！/n我一直想亲眼见见你呢～。",
+      "VoiceFileName": "20054030060",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005403007,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（这位是银河座后援会的……）",
+      "VoiceFileName": "20054030070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005403008,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "后援会老人",
+      "FontSize": 2,
+      "Phrase": "前阵子的舞台真不错～。/n你演戏的样子越来越像你母亲了呢，我会继续支持你的！",
+      "VoiceFileName": "20054030080",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005403009,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "感谢您的支持。/n为了能作为演员追上母亲，我今后也会继续努力。",
+      "VoiceFileName": "20054030090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005403010,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "艺术家",
+      "FontSize": 2,
+      "Phrase": "贵安，千寿历小姐。/n今日天气如此宜人，多谢您举办这般雅致的活动。",
+      "VoiceFileName": "20054030100",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005403011,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（这位是不久前因画作引发话题的艺术家。/n　好像说是擅长描绘女性的柔美……）",
+      "VoiceFileName": "20054030110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005403012,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "承蒙夸奖，我十分惶恐，/n不过这场活动并非我一人，而是千寿家全家一起筹办的。",
+      "VoiceFileName": "20054030120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005403013,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "我拜读过您的作品。/n独创而又情感丰沛的笔触，让我不禁屏住呼吸。",
+      "VoiceFileName": "20054030130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005403014,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "艺术家",
+      "FontSize": 2,
+      "Phrase": "竟然能得到千寿历小姐这样的评价，实在荣幸。/n不过这样的话，说不定正是难得的缘分。",
+      "VoiceFileName": "20054030140",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005403015,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "缘分……吗？",
+      "VoiceFileName": "20054030150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005403016,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "艺术家",
+      "FontSize": 2,
+      "Phrase": "是。饰演麦克白夫人的莉莉亚小姐，/n我非常希望能请她担任我的绘画模特……。",
+      "VoiceFileName": "20054030160",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005403017,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "艺术家",
+      "FontSize": 2,
+      "Phrase": "听说银河座曾破例接受过那位现代艺术家的委托。/n所以我也想请千寿历小姐帮忙牵个线……。",
+      "VoiceFileName": "20054030170",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2005403018,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（啊，原来如此……。/n　是这种人啊）",
+      "VoiceFileName": "20054030180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005403019,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "很抱歉，各位演员的工作都由银河座决定，/n我实在无从插手……。",
+      "VoiceFileName": "20054030190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 1,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005403020,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 20,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1641",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "203",
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.4000000059604645,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2005403021,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "呼……。",
+      "VoiceFileName": "20054030200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005403022,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "冰川",
+      "FontSize": 2,
+      "Phrase": "辛苦了，千寿历小姐。/n您对来宾的接待滴水不漏，实在令人佩服。",
+      "VoiceFileName": "20054030210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 50406,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "504"
+    },
+    {
+      "Id": 2005403023,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "嗯……毕竟事先想过各种应对方式，",
+      "VoiceFileName": "20054030220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005403024,
+      "EpisodeMasterId": 2005403,
+      "Order": 2,
+      "GroupOrder": 23,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "也算没有白准备吧，嗯。",
+      "VoiceFileName": "20054030221",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005403025,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "冰川",
+      "FontSize": 2,
+      "Phrase": "老夫人和夫人一定也会为您感到骄傲。",
+      "VoiceFileName": "20054030230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "504"
+    },
+    {
+      "Id": 2005403026,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "那样的话……就好。",
+      "VoiceFileName": "20054030240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005403027,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "冰川",
+      "FontSize": 2,
+      "Phrase": "您忙着招待宾客，似乎连饭都没吃，/n要不要先用晚餐？",
+      "VoiceFileName": "20054030250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "504"
+    },
+    {
+      "Id": 2005403028,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "也是……不过现在比起吃饭，我更想先洗澡。/n可以帮我准备吗，冰川？",
+      "VoiceFileName": "20054030260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005403029,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "冰川",
+      "FontSize": 2,
+      "Phrase": "遵命，我马上准备。/n请稍等。",
+      "VoiceFileName": "20054030270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "504"
+    },
+    {
+      "Id": 2005403030,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "呼……。",
+      "VoiceFileName": "20054030280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005403031,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（招待没有出问题，/n　对各位宾客的回应应该也没有失礼或纰漏）",
+      "VoiceFileName": "20054030290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2005403032,
+      "EpisodeMasterId": 2005403,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "今年也总算……平安顺利地结束了。",
+      "VoiceFileName": "20054030300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    }
+  ]
+}

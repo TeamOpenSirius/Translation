@@ -1,0 +1,733 @@
+{
+  "EpisodeId": 2006701,
+  "StoryType": 2,
+  "Order": 1,
+  "Prev": null,
+  "Next": 2006702,
+  "Chapter": "镇抚荒神，成就荣达",
+  "Title": "最好的方法",
+  "EpisodeDetail": [
+    {
+      "Id": 2006701001,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "BackgroundImageFileName": "1600",
+      "BgmFileName": "403",
+      "VoiceFileName": "20067010010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 7,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2006701002,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "哎呀，初魅……在想什么呢？",
+      "VoiceFileName": "20067010020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 20601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2006701003,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "泰特拉！/n没什么……只是在考虑包括下一次公演在内，今后的Eden。",
+      "VoiceFileName": "20067010030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2006701004,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "今后的Eden……啊。",
+      "VoiceFileName": "20067010040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2006701005,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "怎么了？我说了什么奇怪的话吗？",
+      "VoiceFileName": "20067010050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2006701006,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "没有，只是觉得如今的Eden，已经好到能让人积极考虑未来了。/n我是在想这个。",
+      "VoiceFileName": "20067010060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2006701007,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "在你加入之前，Eden一直在不断衰退。/n说实话，那时候根本没必要考虑什么未来吧。",
+      "VoiceFileName": "20067010070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2006701008,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "泰特拉……。",
+      "VoiceFileName": "20067010080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2006701009,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "现在的Eden，就算哪天我退休了，也能放心。",
+      "VoiceFileName": "20067010090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2006701010,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "喂喂，这也太心急了吧？/n我还想让你继续看着我的剧团很久呢。",
+      "VoiceFileName": "20067010100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2006701011,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "还真会使唤老人家，/n不过，我只是说我放心了。",
+      "VoiceFileName": "20067010110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2006701012,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "原本那么固执的你，也借着《俄狄浦斯王》的契机，/n获得了演员所需要的“柔软”。",
+      "VoiceFileName": "20067010120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2006701013,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "是啊。",
+      "VoiceFileName": "20067010130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2006701014,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "等我退休以后，Eden说不定会成长到和现在完全不同的规模呢。",
+      "VoiceFileName": "20067010140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2006701015,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "我并不打算只为了扩大而扩大。/n我只是要把自己理想的舞台送到观众面前，仅此而已。",
+      "VoiceFileName": "20067010150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2006701016,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "真能做到的话，剧团自然也会成长到与之相称的规模。",
+      "VoiceFileName": "20067010160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2006701017,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "好的剧团，自然会吸引好的演员和观众。/n不管你愿不愿意都是如此。",
+      "VoiceFileName": "20067010170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 70,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2006701018,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "……确实，泰特拉说得没错。/n只要舞台得到评价，随之而来的规模扩大就不可避免。",
+      "VoiceFileName": "20067010180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 104,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2006701019,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "而这应该也会成为变化中好的一面。/n就像现在Eden的变化一样。",
+      "VoiceFileName": "20067010190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2006701020,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "……不过，也有不能改变的东西。/n不，甚至应该有某些方面，必须恢复成泰特拉所熟悉的模样。",
+      "VoiceFileName": "20067010200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2006701021,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "我熟悉的模样？/n什么意思？",
+      "VoiceFileName": "20067010210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2006701022,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "我想让Eden恢复昔日的姿态。/n……我要重新做巡回剧团。",
+      "VoiceFileName": "20067010220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2006701023,
+      "EpisodeMasterId": 2006701,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "因为这大概就是按照我所希望的方式，把理想的舞台送到更多观众面前。/n最好的方法。",
+      "VoiceFileName": "20067010230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    }
+  ]
+}

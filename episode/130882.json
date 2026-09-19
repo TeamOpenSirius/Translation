@@ -1,0 +1,1010 @@
+{
+  "EpisodeId": 130882,
+  "StoryType": 3,
+  "Order": 2,
+  "Prev": 130881,
+  "Next": null,
+  "Chapter": "和平使者不断追寻",
+  "Title": "去游戏厅吧！",
+  "EpisodeDetail": [
+    {
+      "Id": 130882001,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "哦～，这里就是游戏厅啊。/n感觉闹哄哄的，好忙乱。",
+      "BackgroundImageFileName": "1620",
+      "BgmFileName": "402",
+      "VoiceFileName": "1308820010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130882002,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "小春",
+      "FontSize": 2,
+      "Phrase": "很有活力吧？",
+      "VoiceFileName": "1308820020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 50801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "508"
+    },
+    {
+      "Id": 130882003,
+      "EpisodeMasterId": 130882,
+      "Order": 2,
+      "GroupOrder": 2,
+      "SpeakerName": "小春",
+      "FontSize": 2,
+      "Phrase": "这边哦，时雨大人！",
+      "VoiceFileName": "1308820021",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "508"
+    },
+    {
+      "Id": 130882004,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "莉子",
+      "FontSize": 2,
+      "Phrase": "这一台游戏，就是CHUNITHM。/n时雨大人。",
+      "VoiceFileName": "1308820030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 50601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "506"
+    },
+    {
+      "Id": 130882005,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "哦——，这就是啊。",
+      "VoiceFileName": "1308820040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130882006,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "小春",
+      "FontSize": 2,
+      "Phrase": "嗯！/n按这里的滑条就行。",
+      "VoiceFileName": "1308820050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 50801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "508"
+    },
+    {
+      "Id": 130882007,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "杏",
+      "FontSize": 2,
+      "Phrase": "触摸哒！",
+      "VoiceFileName": "1308820060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 50701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 50801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "507"
+    },
+    {
+      "Id": 130882008,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "就是这个一直在发光的地方吧？/n嘿！以游客身份游玩……这个也选“是”就行吧？",
+      "VoiceFileName": "1308820070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130882009,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "杏",
+      "FontSize": 2,
+      "Phrase": "对哒！/n接下来只要投币就行哒！",
+      "VoiceFileName": "1308820080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 50701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "507"
+    },
+    {
+      "Id": 130882010,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "莉子",
+      "FontSize": 2,
+      "Phrase": "里面收录了很多歌曲，包括最近流行的曲子。/n应该能玩得开心……怎么样，时雨大人？",
+      "VoiceFileName": "1308820090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 50601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 50701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "506"
+    },
+    {
+      "Id": 130882011,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "哦——，这样啊？/n那我就试试看吧。",
+      "VoiceFileName": "1308820100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130882012,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 11,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 3,
+      "CharacterMotions": []
+    },
+    {
+      "Id": 130882013,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "这里这样……。和长按一起出现的音符，/n第一次确实被坑到了，不过同一招对时雨可不会奏效两次！",
+      "VoiceFileName": "1308820110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 2,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130882014,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "杏",
+      "FontSize": 2,
+      "Phrase": "进步速度也太快了哒——！",
+      "VoiceFileName": "1308820120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 2,
+          "SpineId": 50701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "507"
+    },
+    {
+      "Id": 130882015,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "小春",
+      "FontSize": 2,
+      "Phrase": "嗯嗯，明明今天才刚开始玩，居然就在EXPERT拿到A级！/n不愧是时雨大人！",
+      "VoiceFileName": "1308820130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 2,
+          "SpineId": 50801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "508"
+    },
+    {
+      "Id": 130882016,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "哼哼——，那当然吧？",
+      "VoiceFileName": "1308820140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 2,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130882017,
+      "EpisodeMasterId": 130882,
+      "Order": 2,
+      "GroupOrder": 15,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "看好了……嘿！你看！",
+      "VoiceFileName": "1308820141",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130882018,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "莉子",
+      "FontSize": 2,
+      "Phrase": "S、SS评级！？",
+      "VoiceFileName": "1308820150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 50601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "506"
+    },
+    {
+      "Id": 130882019,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "小春",
+      "FontSize": 2,
+      "Phrase": "这种分数我玩这么久都没拿过！/n不愧是时雨大人，实在太厉害了！！",
+      "VoiceFileName": "1308820160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 50801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "508"
+    },
+    {
+      "Id": 130882020,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "杏",
+      "FontSize": 2,
+      "Phrase": "简、简直已经是职业选手哒……第一次玩就能拿这种分数，/n根本就是才能的集合体哒——！！",
+      "VoiceFileName": "1308820170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 2,
+          "SpineId": 50701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 50801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "507"
+    },
+    {
+      "Id": 130882021,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "莉子",
+      "FontSize": 2,
+      "Phrase": "照这个成长速度，说不定有一天还能看到时雨大人/n完美打通那首恶名昭著、总音符数1777的曲子……！",
+      "VoiceFileName": "1308820180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "506"
+    },
+    {
+      "Id": 130882022,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "你们太夸张了。/n这种程度对时雨来说根本算不上多难吧？",
+      "VoiceFileName": "1308820190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130882023,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "哼哼，下次我要拿SSS！",
+      "VoiceFileName": "1308820200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130882024,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "莉子",
+      "FontSize": 2,
+      "Phrase": "啊，时雨大人。差不多快到该回去的时间了，/n我觉得今天先到这里比较好……。",
+      "VoiceFileName": "1308820210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 50601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "506"
+    },
+    {
+      "Id": 130882025,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "啊……也是。",
+      "VoiceFileName": "1308820220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130882026,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 24,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "122",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "403",
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 130882027,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "小春",
+      "FontSize": 2,
+      "Phrase": "今天真开心呢～。",
+      "VoiceFileName": "1308820230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 50801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "508"
+    },
+    {
+      "Id": 130882028,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "杏",
+      "FontSize": 2,
+      "Phrase": "又见到帅气的时雨大人了哒～！",
+      "VoiceFileName": "1308820240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 50701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 50801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "507"
+    },
+    {
+      "Id": 130882029,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "莉子",
+      "FontSize": 2,
+      "Phrase": "感觉怎么样？时雨大人。",
+      "VoiceFileName": "1308820250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 50601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 50701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 50801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "506"
+    },
+    {
+      "Id": 130882030,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "嗯，还不坏。",
+      "VoiceFileName": "1308820260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130882031,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "下次我会让你们看看我拿到SSS……不，连MASTER都轻松通关的样子。",
+      "VoiceFileName": "1308820270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130882032,
+      "EpisodeMasterId": 130882,
+      "Order": 2,
+      "GroupOrder": 29,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "……所、所以下次记得再叫我。",
+      "VoiceFileName": "1308820271",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 114,
+          "BodyMotionMasterId": 10,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130882033,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "小春",
+      "FontSize": 2,
+      "Phrase": "时雨大人……当然！",
+      "VoiceFileName": "1308820280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 50801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "508"
+    },
+    {
+      "Id": 130882034,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "莉子",
+      "FontSize": 2,
+      "Phrase": "既然这样，去看看相关装备说不定也挺有意思。",
+      "VoiceFileName": "1308820290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 50601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 50801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "506"
+    },
+    {
+      "Id": 130882035,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "杏",
+      "FontSize": 2,
+      "Phrase": "我要拜托爸爸给我买打游戏用的手套哒！",
+      "VoiceFileName": "1308820300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 50601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 50701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 50801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "507"
+    },
+    {
+      "Id": 130882036,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "唉，你们倒是自己先兴奋起来了。",
+      "VoiceFileName": "1308820310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 130882037,
+      "EpisodeMasterId": 130882,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "（呵呵，真好玩……而且在家又不能玩游戏。/n为了下次再来，得先查查还有哪些曲子才行！）",
+      "VoiceFileName": "1308820320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    }
+  ]
+}

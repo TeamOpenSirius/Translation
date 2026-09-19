@@ -1,0 +1,1203 @@
+{
+  "EpisodeId": 2006506,
+  "StoryType": 2,
+  "Order": 6,
+  "Prev": 2006505,
+  "Next": 2006507,
+  "Chapter": "开运！捣年糕声与钟声",
+  "Title": "没有年糕！",
+  "EpisodeDetail": [
+    {
+      "Id": 2006506001,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "年糕店老板",
+      "FontSize": 2,
+      "Phrase": "哎呀～，抱歉啊，知冴。/n今天只剩这么一点了。",
+      "BackgroundImageFileName": "120",
+      "BgmFileName": "6",
+      "VoiceFileName": "20065060010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006506002,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "只有3个年糕……/n这样连大家一人吃一个都做不到吧……。",
+      "VoiceFileName": "20065060020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006506003,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "怎么会……这不是真的……。",
+      "VoiceFileName": "20065060030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 3,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006506004,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "别跪在人家店门口啊，知冴。/n谁让你没有预约，没办法吧？",
+      "VoiceFileName": "20065060040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2006506005,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "静香亲说得对！/n真的非常抱歉！我们家知冴亲给您添麻烦了。",
+      "VoiceFileName": "20065060050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006506006,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "年糕店老板",
+      "FontSize": 2,
+      "Phrase": "不会不会，反倒是我觉得不好意思。/n没想到常客知冴会这么想要年糕。",
+      "VoiceFileName": "20065060060",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006506007,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "年糕店老板",
+      "FontSize": 2,
+      "Phrase": "既然没预约，我也不能提前给你留嘛。/n真的很抱歉。",
+      "VoiceFileName": "20065060070",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006506008,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "怎么看数量都不够，你打算怎么办？/n现在再去别的地方买年糕？",
+      "VoiceFileName": "20065060080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2006506009,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "不，这家店卖的是现捣年糕。/n天狼星的杂煮非得用现捣年糕不可。",
+      "VoiceFileName": "20065060090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006506010,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "这个我还是第一次听说……。",
+      "VoiceFileName": "20065060100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2006506011,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "我说啊，就算你这么讲，现在也只能去买市售的了吧？/n而且忘记预约的不就是知冴亲你自己吗。",
+      "VoiceFileName": "20065060110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006506012,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "呜！完全无法反驳……。",
+      "VoiceFileName": "20065060120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006506013,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "？？？",
+      "FontSize": 2,
+      "Phrase": "喂——！",
+      "VoiceFileName": "20065060130",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2006506014,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "嗯？……卡米拉！？/n连剧团电姬的大家也在！",
+      "VoiceFileName": "20065060140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006506015,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "欸，你们怎么会在这儿？居然在这种地方碰到！",
+      "VoiceFileName": "20065060150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006506016,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "我们就是刚从游戏中心回来吧？/n不过你们怎么这么阴沉？咋了？",
+      "VoiceFileName": "20065060160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 40321,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2006506017,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "这个……。",
+      "VoiceFileName": "20065060170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006506018,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 18,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 3,
+      "CharacterMotions": [],
+      "FadeValue1": 0.10000000149011612,
+      "FadeValue2": 0.20000000298023224,
+      "FadeValue3": 0.10000000149011612
+    },
+    {
+      "Id": 2006506019,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "原来如此……需要现捣年糕，/n但因为忘记预约，没能买到足够的数量。",
+      "VoiceFileName": "20065060180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 40401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 2006506020,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "一共买到多少年糕？",
+      "VoiceFileName": "20065060190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 40101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2006506021,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "3个。/n顺便说一句，我们打算新年头三天每天早上大家一起吃杂煮。",
+      "VoiceFileName": "20065060200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2006506022,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "明显……不够吧。",
+      "VoiceFileName": "20065060210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2006506023,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "真的有必要那么执着现捣年糕吗？/n多跑几家超市，不就能把需要的数量凑齐？",
+      "VoiceFileName": "20065060230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 27,
+          "LipSyncMasterId": 1,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2006506024,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "低沉……。",
+      "VoiceFileName": "20065060240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006506025,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "看来不是买市售的就行啊。/n需要的是经人手捣制、吸纳新年之气的年糕吗。",
+      "VoiceFileName": "20065060250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 40401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 2006506026,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "（其实我觉得市售年糕就完全可以……）",
+      "VoiceFileName": "20065060260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 13,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2006506027,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "既然这样，心菜亲她们也来参加捣年糕……怎么样？",
+      "VoiceFileName": "20065060270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 40321,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2006506028,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "欸！？",
+      "BgmFileName": "2",
+      "VoiceFileName": "20065060280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40321,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006506029,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "捣年糕！！？",
+      "VoiceFileName": "20065060290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 501,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006506030,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "对啊对啊。待会儿我认识的住持要办捣年糕活动，/n但人手不足，所以我们大家本来就准备一起去～。",
+      "VoiceFileName": "20065060300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 40321,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2006506031,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "我就想着心菜亲她们要不要也一起来。/n你看，年糕当然也会分给大家嘛。",
+      "VoiceFileName": "20065060310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 40321,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2006506032,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "这样真的没问题吗……？虽说人手不足，/n但我们也一起去的话，会不会人数太多？",
+      "VoiceFileName": "20065060320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40321,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2006506033,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "没事没事！住持每年还会给寺院周边的人发年糕呢！",
+      "VoiceFileName": "20065060330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2006506034,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "而且每次捣的量多到所有参加者一起吃都吃不完，/n只是多几个人来吃年糕完全没问题！",
+      "VoiceFileName": "20065060340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2006506035,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "好呀！和天狼星的大家一起捣年糕！/n感觉很有趣！对吧，美兔！",
+      "VoiceFileName": "20065060350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 40101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2006506036,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "嗯、嗯……！这种机会很少见，感觉会很好玩……！",
+      "VoiceFileName": "20065060360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 40101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2006506037,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "挺好的嘛——，老实说我本来估计也要被塞木杵吧？/n人多了，我需要捣年糕的时间不也会减少。",
+      "VoiceFileName": "20065060370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 2006506038,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "本巢还是老样子……。/n不过对我来说，与天狼星的人们分享纯白之气也不坏。",
+      "VoiceFileName": "20065060380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 40401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 2006506039,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "对我们来说正是求之不得……。/n等等，知冴！？",
+      "VoiceFileName": "20065060390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 3,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2006506040,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "呵呵，神明还没有抛弃我呢……。/n这样就能做天狼星的杂煮了……！",
+      "VoiceFileName": "20065060400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 2,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2006506041,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "你感动过头了吧……。/n而且“天狼星的杂煮”到底是什么啦……。",
+      "VoiceFileName": "20065060410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2006506042,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "好啦好啦！难得卡米拉都提出邀请了！/n我们就接受这份好意嘛！",
+      "VoiceFileName": "20065060420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006506043,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "（卡米拉和潘达……不，甚至是剧团电姬和天狼星联动！/n　这不是超级不得了的视频素材吗～！）",
+      "VoiceFileName": "20065060430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 7,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2006506044,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "说得也是！那我们也可以一起去捣年糕吗？",
+      "VoiceFileName": "20065060440",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2006506045,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "当——然！",
+      "VoiceFileName": "20065060450",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 40321,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2006506046,
+      "EpisodeMasterId": 2006506,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "那么，向捣年糕活动出发！",
+      "VoiceFileName": "20065060460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 26,
+          "LipSyncMasterId": 2,
+          "SpineId": 40101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    }
+  ]
+}

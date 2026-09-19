@@ -1,0 +1,2365 @@
+{
+  "EpisodeId": 2004107,
+  "StoryType": 2,
+  "Order": 7,
+  "Prev": 2004106,
+  "Next": 2004108,
+  "Chapter": "Petrichor与推论",
+  "Title": "她如是说",
+  "EpisodeDetail": [
+    {
+      "Id": 2004107001,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "那天，我硬撑着生病的身体，/n为了和初魅谈谈，去了Eden Hall。",
+      "BackgroundImageFileName": "1050",
+      "BgmFileName": "5",
+      "VoiceFileName": "20041070010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107002,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "偏偏天气很差，突然下起了雨。/n真叫人郁闷。",
+      "VoiceFileName": "20041070020",
+      "CharacterMotions": [],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107003,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "可就在路上，我看见了初魅。/n——那家伙没打伞，就那么淋在雨里。",
+      "BackgroundCharacterImageFileName": "141160_0",
+      "VoiceFileName": "20041070030",
+      "CharacterMotions": [],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107004,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "她一脸发呆地站在那里。/n我吓了一跳，马上过去叫她。",
+      "BackgroundImageFileName": "143",
+      "BackgroundCharacterImageFileName": "141160_0",
+      "VoiceFileName": "20041070040",
+      "CharacterMotions": [],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107005,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "哟。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107006,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "你……没带伞吗？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 20601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107007,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "两小时前还没下雨。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107008,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "你在这里待了两个小时……？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 110,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107009,
+      "EpisodeMasterId": 2004107,
+      "Order": 2,
+      "GroupOrder": 8,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "站在这种地方干什么。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070081",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107010,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "我也不是喜欢才站在这儿的。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107011,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "我想进去，可出去了一小会儿就被关在外面了。/n……东西还放在里面，正头疼呢。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107012,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "——工作人员出口被锁了……。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 20601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107013,
+      "EpisodeMasterId": 2004107,
+      "Order": 2,
+      "GroupOrder": 11,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "原来如此，是有人从里面上了锁。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070111",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107014,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "真是个粗心的家伙。/n按门铃也没人应。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107015,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 15,
+          "SpineId": 20601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107016,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "排练也快结束了。/n再等一会儿，总会有人出来。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107017,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "那可未必。说不定人家知道你等在外面，/n反而开始热心地留下来加练了。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107018,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "有干劲是好事。/n平时也能这么认真就好了。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "HeadDirectionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107019,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "……钥匙我有。/n我给你开门。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 20601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107020,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "谢了。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107021,
+      "EpisodeMasterId": 2004107,
+      "Order": 2,
+      "GroupOrder": 18,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "……贵重物品还放在里面，帮大忙了。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070181",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107022,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "你接下来准备怎么办？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 20601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107023,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "接下来？/n打算回家。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107024,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "就这么浑身湿透地回去？/n你家离这里也不算近吧。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107025,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "嗯，路人看到我可能会吓一跳。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107026,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "这样下去会感冒。/n跟我来。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107027,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 24,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1821",
+      "BackgroundImageFileFadeType": 1,
+      "WindowEffect": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2004107028,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "谢谢你借我浴室。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107029,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "身体暖起来了吗？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 20601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107030,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "嗯，麻烦你了。/n连衣服都帮我烘干，抱歉。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107031,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "我煮了咖啡，一份糖一份奶没问题吧？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 20601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107032,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "不用这么照顾我……。/n黑咖啡就行。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107033,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "抱歉，已经加进去了。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107034,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 25,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107035,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "衣服完全干还得再等一会儿。/n这段时间陪我聊聊。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107036,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "你都对我这么好了，要聊多久我都奉陪。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107037,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "那就跟我说说你的事。",
+      "BgmFileName": "999",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107038,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "哦，面试继续？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107039,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "刚才你在想什么？",
+      "BgmFileName": "404",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107040,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "刚才？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107041,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "就是站在雨里的时候。/n我还是第一次看见你露出那么恍惚的表情。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 79,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107042,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "没什么。/n只是稍微……想起了以前的事。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107043,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "在银河座的时候？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107044,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "不……不是。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "HeadDirectionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107045,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "你是从银河座才开始当演员的吗？/n可从你的演技里，我感觉不到多少银河座的风格。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107046,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "嗯，我以前经常把演技给别人——",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "HeadDirectionMasterId": 1,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107047,
+      "EpisodeMasterId": 2004107,
+      "Order": 2,
+      "GroupOrder": 43,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "给家里人看。也许是这个缘故。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070421",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107048,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "是家里人教你演戏的吗？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107049,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "不是，自学的。我家里开餐饮店。/n我一边帮忙，一边经常观察客人。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070440",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107050,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "哦，所以是观察人练出来的本事。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070450",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107051,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "也可以这么说。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107052,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070470",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 15,
+          "SpineId": 20601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107053,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "你说过，想要一个能任你心意改变的剧团吧。/n为什么？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070480",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107054,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 50,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "面试的时候倒没问这个。/n需要回答吗？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070490",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107055,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 51,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "团员来找过我，说因为你，辞团的人一个接一个。/n在我亲手创建的剧团里为所欲为，还想让我闭嘴？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070500",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 20601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107056,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "说吧。为什么非要把自己的任性贯彻到底？/n你究竟在追求什么，又是为了什么掀起这么大的风波？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070510",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107057,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 53,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "为了那个曾经说喜欢我的戏剧的人。/n我想演出能得到那个人认可的戏。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070520",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107058,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 54,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "我必须为了那个人，创造出理想的舞台。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070530",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107059,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 55,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "理想……？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070540",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 20601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107060,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 56,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "我想看的，是从来没有任何人见过的戏。/n演员将自己彻底袒露，以发自灵魂的演技彼此推动，让舞台升华。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070550",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107061,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 57,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "发自灵魂的演技啊……。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070560",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107062,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 58,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "人们在不知不觉中饥渴着，却没有察觉自己的渴望。/n我要把那样的舞台展现给他们，治愈人们的饥渴。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070570",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107063,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 59,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "这么说来，我看最渴的反而是你自己。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070580",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107064,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 60,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "我不否认。/n不过，你也有同样的感受吧？世罗泰特拉。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070590",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107065,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 61,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "哼……。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070600",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107066,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 62,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "想做出从没人看过的舞台，这份心情我懂。/n过去我也是这样。正因如此，我才创建了Eden。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070610",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 70,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107067,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 63,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "只是，以现在的Eden能不能实现——",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070620",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107068,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 64,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "但不试试看，又怎么知道。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070630",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107069,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 65,
+      "FontSize": 2,
+      "Phrase": "",
+      "WindowEffect": 1,
+      "CharacterMotions": []
+    },
+    {
+      "Id": 2004107070,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 66,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "163",
+      "BackgroundImageFileFadeType": 4,
+      "WindowEffect": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2004107071,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 67,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "事物总会变化，不断经历繁荣与衰退。/n如今的Eden已经没有往日的气势，但我没打算让它一直这样。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070640",
+      "CharacterMotions": [],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107072,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 68,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "是等着乐园腐朽，还是亲眼看着它在我手中重获新生，/n哪一种更好，你心里也明白吧？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070650",
+      "CharacterMotions": [],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107073,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 69,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1821",
+      "BackgroundImageFileFadeType": 4,
+      "WindowEffect": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2004107074,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 70,
+      "FontSize": 2,
+      "Phrase": "",
+      "WindowEffect": 1,
+      "CharacterMotions": []
+    },
+    {
+      "Id": 2004107075,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 71,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "……你觉得我会允许吗？",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070660",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 20601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107076,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 72,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "……你会允许的。因为最终把我招进来的人，就是你。/n因为你——同样渴得厉害。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070670",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 20601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2004107077,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 73,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20041070680",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "HeadDirectionMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107078,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 74,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1050",
+      "BackgroundImageFileFadeType": 1,
+      "WindowEffect": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": -1.0,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2004107079,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 75,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "我什么都反驳不了。/n本来想说服她，结果却一直被她牵着鼻子走。",
+      "VoiceFileName": "20041070690",
+      "CharacterMotions": [],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107080,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 76,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "我当时并不知道初魅所说的『渴』究竟是什么，却也无法否定。/n毕竟从遇见她开始，我就感觉到我们之间有相通之处。",
+      "VoiceFileName": "20041070700",
+      "CharacterMotions": [],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107081,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 77,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "说到底，我还是对她抱了期待。",
+      "VoiceFileName": "20041070710",
+      "CharacterMotions": [],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107082,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 78,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1821",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": -1.0,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2004107083,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 79,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "我也懂那种心情。在那么多人离开的情况下，/n我最后还留在Eden，也是因为心里想赌一把初魅。",
+      "VoiceFileName": "20041070720",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2004107084,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 80,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "之后初魅做了什么、Eden经历了怎样的变化，容她们应该都很清楚。/n留下来的成员只剩愿意跟随她的人，她也成了事实上的领袖。",
+      "VoiceFileName": "20041070730",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 20601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107085,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 81,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "不只是作为招牌演员。剧本和舞台方向也都握在她手里。/n她到各地挖掘演员，把剧团改造成自己喜欢的样子。",
+      "VoiceFileName": "20041070740",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107086,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 82,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "我也是这样被邀请进Eden的人之一，对吧。",
+      "VoiceFileName": "20041070750",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 4,
+          "SpineId": 20301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 2004107087,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 83,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "时雨可是自己找来的哦——。/n因为初魅小姐的戏看起来很有意思嘛♪",
+      "VoiceFileName": "20041070760",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2004107088,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 84,
+      "SpeakerName": "泰特拉",
+      "FontSize": 2,
+      "Phrase": "嗯。我能讲的大概就是这些。/n好像喝得有点多了，我去拿水。",
+      "VoiceFileName": "20041070770",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 20601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "206"
+    },
+    {
+      "Id": 2004107089,
+      "EpisodeMasterId": 2004107,
+      "Order": 1,
+      "GroupOrder": 85,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……等等。/n我还有件事很在意……。",
+      "VoiceFileName": "20041070780",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 20201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    }
+  ]
+}

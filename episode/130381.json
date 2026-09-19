@@ -1,0 +1,1935 @@
+{
+  "EpisodeId": 130381,
+  "StoryType": 3,
+  "Order": 1,
+  "Prev": null,
+  "Next": 130382,
+  "Chapter": "开运也是实力吧！",
+  "Title": "降临的强运",
+  "EpisodeDetail": [
+    {
+      "Id": 130381001,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "卡特莉娜亲，没事吧……。",
+      "BackgroundImageFileName": "1293",
+      "BgmFileName": "21",
+      "VoiceFileName": "1303810010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 130381002,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "她只是去把御神签系起来而已吧？/n不用那么担心。",
+      "VoiceFileName": "1303810020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381003,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "就是啊。就算抽到了大凶，/n也不会立刻就遇上什么倒霉事。",
+      "VoiceFileName": "1303810030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130381004,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "说得也是……。/n御神签上写的也不一定绝对会发生嘛。",
+      "VoiceFileName": "1303810040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 130381005,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "要是那么不安，心菜也抽一张看看。/n说不定能得到把卡特莉娜的大凶吹跑的力量。",
+      "VoiceFileName": "1303810050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 130381006,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "知冴亲说得对。/n心菜亲也跟潘达一起抽吧！",
+      "VoiceFileName": "1303810060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130381007,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "嗯、嗯！",
+      "VoiceFileName": "1303810070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 130381008,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 8,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 130381009,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "哇，是小吉！",
+      "VoiceFileName": "1303810080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 130381010,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "潘达是末吉～。/n不管哪边，都是让人不知道该怎么反应的结果呢。",
+      "VoiceFileName": "1303810090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130381011,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "总之先看看签上写什么吧。/n让我看看……“所思之事可成，但多有艰难”……？",
+      "VoiceFileName": "1303810100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130381012,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "我的写着……“遇到困难时，朋友将成为你的助力”。",
+      "VoiceFileName": "1303810110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 130381013,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "你们两个都是既有好事也有坏事的内容呢。",
+      "VoiceFileName": "1303810120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381014,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "嘛，真有什么情况就来依靠我和知冴吧。/n毕竟我们可是抽到大吉的强运持有者！",
+      "VoiceFileName": "1303810130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381015,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "心菜＆潘达",
+      "FontSize": 2,
+      "Phrase": "拜服～！",
+      "VoiceFileName": "1303810140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 130381016,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "知冴也是大吉，我们这对大吉组合一起保护心菜她们吧！",
+      "VoiceFileName": "1303810150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381017,
+      "EpisodeMasterId": 130381,
+      "Order": 2,
+      "GroupOrder": 16,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "……咦？知冴不见了……？",
+      "VoiceFileName": "1303810151",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381018,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "真的。跑哪去了？",
+      "VoiceFileName": "1303810160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 130381019,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "以知冴亲的性格，估计就在附近晃悠吧……。",
+      "VoiceFileName": "1303810170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130381020,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "怎么了？",
+      "VoiceFileName": "1303810180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 130381021,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "哇！？知冴亲，你什么时候回来的！？",
+      "VoiceFileName": "1303810190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 130381022,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "刚才突然消失，/n现在又突然回来了……。",
+      "VoiceFileName": "1303810200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381023,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "神出鬼没也该有个限度吧。/n你去哪了？",
+      "VoiceFileName": "1303810210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130381024,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "去买了罐装红豆汤。",
+      "VoiceFileName": "1303810220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 130381025,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "可是为什么拿着三罐？",
+      "VoiceFileName": "1303810230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381026,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "难道也顺便给潘达她们买了？/n挺会照顾人的嘛，知冴亲！",
+      "VoiceFileName": "1303810240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 2,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130381027,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "谢谢。多少钱？",
+      "VoiceFileName": "1303810250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 130381028,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "不用给钱。/n只是抽了个奖，结果变成了三罐。",
+      "VoiceFileName": "1303810260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 130381029,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "这是什么意思……？",
+      "VoiceFileName": "1303810270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381030,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "好像就是那种促销活动。/n趁还没凉快喝吧。",
+      "VoiceFileName": "1303810280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 130381031,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "谢谢！说不定大吉的力量已经开始生效了！",
+      "VoiceFileName": "1303810290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 130381032,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "可是没中奖到卡特莉娜那一份。遗憾……。",
+      "VoiceFileName": "1303810300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 72,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 130381033,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "卡特亲那边，大概已经开始受到大凶力量的影响了吧……。",
+      "VoiceFileName": "1303810310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130381034,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "说起来，卡特莉娜亲……回来得好慢啊？",
+      "VoiceFileName": "1303810320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 130381035,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "系御神签的地方排了很长的队。/n她应该还得一会儿。",
+      "VoiceFileName": "1303810330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 130381036,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "原来如此。不过就这么干等着也很无聊啊。",
+      "VoiceFileName": "1303810340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130381037,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "那就趁现在试试静香的运气。/n正是挥舞寄宿于你体内那股力量的时候。",
+      "VoiceFileName": "1303810350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 130381038,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "诶？",
+      "VoiceFileName": "1303810360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381039,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 38,
+      "FontSize": 2,
+      "Phrase": "",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 130381040,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 39,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1333",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "25",
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 130381041,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "拉绳抽奖的摊位啊……确实挺适合试运气……。",
+      "VoiceFileName": "1303810370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381042,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "来吧，我的大吉同伴静香啊。/n华丽地把三等奖“桌面流水素面套装DX”抽出来吧——。",
+      "VoiceFileName": "1303810380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 130381043,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "不是一等奖也行啊。/n话说这种东西，知冴亲你不是已经有了吗？",
+      "VoiceFileName": "1303810390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 110,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130381044,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "那个DX可是最新款的不得了的家伙。流水速度大幅提升。/n而且还增加了能收纳配料的空间。",
+      "VoiceFileName": "1303810400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 130381045,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "你说的“不得了”是这个方向吗！",
+      "VoiceFileName": "1303810410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130381046,
+      "EpisodeMasterId": 130381,
+      "Order": 2,
+      "GroupOrder": 44,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "不过嘛，如果真能抽到自己想要的东西，那就说明真的是强运。",
+      "VoiceFileName": "1303810411",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130381047,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "我的运气还在充能中。/n这里想拜托静香。也帮我一起抽一根。",
+      "VoiceFileName": "1303810420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 130381048,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "知冴亲的流水素面生活就靠你了！/n静香亲，加油！",
+      "VoiceFileName": "1303810430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 130381049,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "总之抽两根就行，对吧？",
+      "VoiceFileName": "1303810440",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381050,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "嗯——……那就这根……还有旁边那根。",
+      "VoiceFileName": "1303810450",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381051,
+      "EpisodeMasterId": 130381,
+      "Order": 2,
+      "GroupOrder": 48,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "……嘿！",
+      "VoiceFileName": "1303810451",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381052,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "摊主",
+      "FontSize": 2,
+      "Phrase": "特等奖的游戏机居、居然同时中了两台！？大、大中奖——！！",
+      "VoiceFileName": "1303810460",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 130381053,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 50,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "诶……。",
+      "VoiceFileName": "1303810470",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381054,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 51,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "好、好厉害——！！太好了，静香亲！",
+      "VoiceFileName": "1303810480",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 130381055,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "大吉的力量也太夸张了吧……。",
+      "VoiceFileName": "1303810490",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130381056,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 53,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "静香的运气，挺有看头。/n不过目标是三等奖。控制力还差得远——",
+      "VoiceFileName": "1303810500",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 130381057,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 54,
+      "FontSize": 2,
+      "Phrase": "",
+      "SeFileName": "2900",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 130381058,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 55,
+      "SpeakerName": "摊主",
+      "FontSize": 2,
+      "Phrase": "又中大奖啦——！这次是三等奖流水素面套装——！",
+      "VoiceFileName": "1303810510",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 130381059,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 56,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "什么！？",
+      "VoiceFileName": "1303810520",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 501,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 130381060,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 57,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "好像是后面排队的那对兄妹抽到了……。",
+      "VoiceFileName": "1303810530",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 402,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381061,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 58,
+      "SpeakerName": "少女",
+      "FontSize": 2,
+      "Phrase": "哥哥，本来想要游戏机吧……。",
+      "VoiceFileName": "1303810540",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 130381062,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 59,
+      "SpeakerName": "少年",
+      "FontSize": 2,
+      "Phrase": "没办法……回家一起吃流水素面吧。",
+      "VoiceFileName": "1303810550",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 130381063,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 60,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "……那个，你们两个。/n如果愿意的话，要不要用游戏机跟流水素面套装交换？",
+      "VoiceFileName": "1303810560",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381064,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 61,
+      "SpeakerName": "少年",
+      "FontSize": 2,
+      "Phrase": "诶！？真的可以吗！？",
+      "VoiceFileName": "1303810570",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 130381065,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 62,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "嗯。我们正好更想要你们那个。",
+      "VoiceFileName": "1303810580",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381066,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 63,
+      "SpeakerName": "少年",
+      "FontSize": 2,
+      "Phrase": "谢谢！喂，你也快道谢！",
+      "VoiceFileName": "1303810590",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 130381067,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 64,
+      "SpeakerName": "少女",
+      "FontSize": 2,
+      "Phrase": "嗯！谢谢你，大姐姐！",
+      "VoiceFileName": "1303810600",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 130381068,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 65,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "静香亲做了件好事呢！",
+      "VoiceFileName": "1303810610",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 130381069,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 66,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "也没什么，我只是算过得失。/n双方都拿到想要的东西不是更好吗。",
+      "VoiceFileName": "1303810620",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381070,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 67,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哎呀？静香亲在害羞呢？",
+      "VoiceFileName": "1303810630",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130381071,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 68,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "吵死了。",
+      "VoiceFileName": "1303810640",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 306,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 130381072,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 69,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "对了！能不能用强运的力量在这附近建一家咖啡店？/n一直站着，潘达有点累了。",
+      "VoiceFileName": "1303810650",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130381073,
+      "EpisodeMasterId": 130381,
+      "Order": 1,
+      "GroupOrder": 70,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "那已经不是靠运气能解决的事了吧。/n那边有茶铺摆摊，我们去那里吧。",
+      "VoiceFileName": "1303810660",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    }
+  ]
+}
