@@ -1,0 +1,610 @@
+{
+    "EpisodeId": 142391,
+    "StoryType": 3,
+    "Order": 1,
+    "Prev": null,
+    "Next": 142392,
+    "Chapter": "龙骑兵为妹妹挺身而出",
+    "Title": "聚集于乐园的伙伴",
+    "EpisodeDetail": [
+        {
+            "Id": 142391001,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "时雨已经没有时间了。其实我和爸爸妈妈有个约定……。/n要在小学毕业以前成为Dai Star。",
+            "BackgroundImageFileName": "1680",
+            "BgmFileName": "11",
+            "WindowEffect": 1,
+            "VoiceFileName": "1423910010",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 142391002,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "如果做不到，就要放弃当演员……。",
+            "WindowEffect": 1,
+            "VoiceFileName": "1423910020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 142391003,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 3,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileFadeType": 2,
+            "BgmFileName": "403",
+            "SeFileName": "641",
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 142391004,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（如果有机会，我不想错过，可是……。/n　她想在我创造的Eden里，演出我所描绘的舞台吗……）",
+            "VoiceFileName": "1423910030",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391005,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（……还真是惹人怜爱的告白啊。/n　就连我，都像是被她抓住了心）",
+            "VoiceFileName": "1423910040",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391006,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（不过，我的心还没有完全被夺走。/n　因为我不能成为某一个人的所有物）",
+            "VoiceFileName": "1423910050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391007,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（我贯彻至今的信念，是为了实现我、双叶……以及最重要的，/n　Eden所有人所追求的理想舞台的指针）",
+            "VoiceFileName": "1423910060",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 14,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391008,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "……虽然我是这么想的，但既然听到了那样的话……。/n也不能就这样放着不管吧。",
+            "VoiceFileName": "1423910070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391009,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（没想到时雨一直背负着那么沉重的东西，/n　站在舞台上……我知道她肯定有些事情，却没想到会到这种程度）",
+            "VoiceFileName": "1423910080",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 15,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391010,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（时雨说她想继续留在Eden当演员。/n　但也不能就这样无视她父母说的话）",
+            "VoiceFileName": "1423910090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391011,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（先不论是否具有强制力……她父母的担忧本身很合理。/n　演员确实是个严酷的世界，谁也不知道什么时候就会无法靠它生活）",
+            "VoiceFileName": "1423910100",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391012,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（……我的父母在我决定加入银河座时，/n　值得庆幸的是，他们选择支持我……）",
+            "VoiceFileName": "1423910110",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 15,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391013,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（但实际上，他们一定也和时雨的父母一样有过不安。/n　所以“没有成绩的话就……”这种想法，我完全能够理解）",
+            "VoiceFileName": "1423910120",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 79,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391014,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（既然如此，作为剧团负责人，为了斩断我Eden演员的忧虑，/n　就去寻找能成为“成绩”的某种东西吧。走世界戏剧联盟以外的道路）",
+            "VoiceFileName": "1423910130",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391015,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（……不过我早就知道戏剧界很容易被旧观念束缚……。/n　可这些奖项和比赛，还真是一个比一个大同小异……）",
+            "VoiceFileName": "1423910140",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391016,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "真是的，一个个都跟着世界戏剧联盟走，缩在自己的小圈子里……。/n连刊载最新戏剧界消息的杂志里，都找不到我想要的东西吗。",
+            "VoiceFileName": "1423910150",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391017,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（就没有别的了吗……。/n　能和世界戏剧联盟的评价相匹敌的奖项或比赛……）",
+            "VoiceFileName": "1423910160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391018,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（而且，还得是我们Eden值得去争取，真正有意义的东西——）",
+            "VoiceFileName": "1423910170",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391019,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "嗯？这是……关于“普罗米修斯奖”的报道……。",
+            "VoiceFileName": "1423910180",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 511,
+                    "BodyMotionMasterId": 6,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391020,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（“如今的戏剧界以Sense至上主义为主流，但舞台本来应由/n　每位演员的个性和演技、舞台装置与道具等营造出的情景表现……”）",
+            "VoiceFileName": "1423910190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391021,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（“以及剧本之间相辅相成的效果，才能真正塑造而成……”）",
+            "VoiceFileName": "1423910200",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 15,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391022,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "哦……原来如此。",
+            "VoiceFileName": "1423910210",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391023,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（这个奖，我从以前开始就一直有些在意……）",
+            "VoiceFileName": "1423910220",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391024,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（毕竟被选为“普罗米修斯奖”获奖剧团的那些剧团，/n　几乎都很接近我心目中理想舞台的形态）",
+            "VoiceFileName": "1423910230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391025,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（“衷心期待本期比赛收到的参赛作品，/n　也都能是富有独创性且精彩绝伦的舞台”吗——）",
+            "VoiceFileName": "1423910240",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 11,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 142391026,
+            "EpisodeMasterId": 142391,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "哼，正合我意。",
+            "VoiceFileName": "1423910250",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        }
+    ]
+}

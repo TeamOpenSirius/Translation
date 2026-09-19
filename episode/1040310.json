@@ -1,0 +1,955 @@
+{
+  "EpisodeId": 1040310,
+  "StoryType": 1,
+  "Order": 10,
+  "Prev": 1040309,
+  "Next": 1040311,
+  "Chapter": "剧团电姬　第3章",
+  "Title": "与自己对话",
+  "EpisodeDetail": [
+    {
+      "Id": 1040310001,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "现在的我，还只是单纯的我。",
+      "BackgroundImageFileName": "940",
+      "BgmFileName": "8",
+      "VoiceFileName": "10403100010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310002,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "不是东上野高中的学生。不是辣妹。/n也不是电姬的演员。就只是我。",
+      "VoiceFileName": "10403100020",
+      "CharacterMotions": [],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310003,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "——呼。",
+      "VoiceFileName": "10403100030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 40321,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310004,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "（回想一下吧。我为什么加入电姬，/n　又为什么一直在电姬当演员）",
+      "VoiceFileName": "10403100040",
+      "CharacterMotions": [],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310005,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "（那是因为——/n　这跟化妆有点像）",
+      "VoiceFileName": "10403100050",
+      "CharacterMotions": [],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310006,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "打底先上防晒。提亮是必须的！　/n粉底要有清晰感——等等，黑眼圈都出来了！　这是熊出没吗！？",
+      "VoiceFileName": "10403100060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 205,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 40321,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310007,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "别涂太厚……遮瑕就用橘色系。/n橘色真的好啊～。光看着就让人来劲！",
+      "VoiceFileName": "10403100070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310008,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "不过连黑眼圈冒出来都没注意到，我自己都想笑。/n——好了，熊熊回森林去吧。拜～拜！",
+      "VoiceFileName": "10403100080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310009,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "然后我属于先画眼妆派。眼睛当然要最先啪地定下来！",
+      "VoiceFileName": "10403100090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310010,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "眼影自然加深层次，再用眼线啪地把眼神拉满！　/n能画出像猫一样可爱的感觉，心情一下就会飞起来！　这可是小知识！",
+      "VoiceFileName": "10403100100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 205,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310011,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "等等，又没在直播，我怎么还自己说起来了。笑死。/n都这样了，是不是干脆开直播更好？",
+      "VoiceFileName": "10403100110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310012,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "不过这个不一样啦～。按蕾前辈的说法，/n这是让我变成“我”的仪式？　之类的？",
+      "VoiceFileName": "10403100120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310013,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "嘿嘿，原来对我来说已经这么理所当然了。",
+      "VoiceFileName": "10403100130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310014,
+      "EpisodeMasterId": 1040310,
+      "Order": 2,
+      "GroupOrder": 13,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "——好，继续！",
+      "VoiceFileName": "10403100131",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310015,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "接下来是眉毛。我的重点是……眉峰的位置。/n我喜欢细眉，所以别显得太凶……好。",
+      "VoiceFileName": "10403100140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310016,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "左右平衡……OK！　/n把多出来的地方修一下……好，感觉不错！",
+      "VoiceFileName": "10403100150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310017,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "再用眉粉做出一点蓬松感，然后就轮到睫毛膏！　/n先逆着毛流刷一遍，再顺着刷回来，两段式！",
+      "VoiceFileName": "10403100160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 10,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310018,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "眉毛的存在感别太强，要细一点。/n不然好不容易画出来的眼神都被抢掉，那就没意义了！",
+      "VoiceFileName": "10403100170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310019,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "腮红也一样。淡淡有点粉就够。/n就是要有好气色，看起来有精神嘛！　毕竟是辣妹！",
+      "VoiceFileName": "10403100180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310020,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "然后是唇妆……。/n……再用唇蜜做出光泽……。",
+      "VoiceFileName": "10403100190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310021,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "………………嗯！　超可爱！！　/n真的，我已经能把自己化得这么可爱了！",
+      "VoiceFileName": "10403100200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310022,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "刚开始那会儿可是一塌糊涂！　/n现在看到当时的照片，我都想大喊“这也太离谱了吧～！”",
+      "VoiceFileName": "10403100210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310023,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "可是，我就是想变成够潮的辣妹。/n看视频、失败、读文章、再试……。",
+      "VoiceFileName": "10403100220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310024,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "……跟这个是一样的。/n想闪闪发亮。像帅气的辣妹一样。像电姬的舞台一样。",
+      "VoiceFileName": "10403100230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310025,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "所以，我才会想站上那个舞台，对吧？",
+      "VoiceFileName": "10403100240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310026,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 25,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1131",
+      "BackgroundImageFileFadeType": 2,
+      "BgmFileName": "9",
+      "SeFileName": "641",
+      "WindowEffect": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 1040310027,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "朋友",
+      "FontSize": 2,
+      "Phrase": "“真的？”“想进剧团？”“算了吧算了吧”“就是啊。很辛苦的”/n“笑死。舞蹈社你连一年都没待满吧”“先别说这个，快看这个。超可爱”",
+      "WindowEffect": 1,
+      "VoiceFileName": "10403100250",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040310028,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 27,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "940",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 1040310029,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "嗯，我当时也觉得她们说得对。/n可是啊……那不就是命运吗。",
+      "VoiceFileName": "10403100260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 40321,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310030,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 29,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1131",
+      "BackgroundImageFileFadeType": 2,
+      "BgmFileName": "10",
+      "SeFileName": "641",
+      "WindowEffect": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 1040310031,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "——伊吕波亲！　我也想试试！　/n想在电姬跟你一起，闪闪发亮！",
+      "WindowEffect": 1,
+      "VoiceFileName": "10403100270",
+      "CharacterMotions": [],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310032,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 31,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "940",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 1040310033,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "所以，我不是也努力过了吗。/n就连奥林匹斯差点收购电姬的时候。",
+      "VoiceFileName": "10403100280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 40321,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310034,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "因为想让电姬继续存在得更久，/n想为电姬派上更多更多用场。",
+      "VoiceFileName": "10403100290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310035,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 34,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "900",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "WindowEffect": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 1040310036,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "再来一次！　别让注意力断掉！",
+      "WindowEffect": 1,
+      "VoiceFileName": "10403100300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 3,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040310037,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "唔……对不起！　/n你明明休假还陪我练……我却一直出错。",
+      "WindowEffect": 1,
+      "VoiceFileName": "10403100310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310038,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "别道歉。失误当然不好，/n但更糟的是慌掉。把它当成节目效果，给我接回来。",
+      "WindowEffect": 1,
+      "VoiceFileName": "10403100320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040310039,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 38,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "940",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 1040310040,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "虽然国王出场不多，可我就是绝对不想出错。/n所以才拜托要姐陪我一对一排练。",
+      "VoiceFileName": "10403100330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 40321,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310041,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "那时候我专心得，连胡思乱想的空闲都没有。",
+      "VoiceFileName": "10403100340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310042,
+      "EpisodeMasterId": 1040310,
+      "Order": 2,
+      "GroupOrder": 40,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "……对啊。就是这样。除了这个还有什么！",
+      "VoiceFileName": "10403100341",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310043,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "别磨磨蹭蹭了，阿岐留卡米拉！　/n总之就是努力。只能狠狠干了！",
+      "VoiceFileName": "10403100350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040310044,
+      "EpisodeMasterId": 1040310,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "好！　既然这样，第一步先行动！　/n那要演好帕克，最需要的就是“那个”吧！",
+      "VoiceFileName": "10403100360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    }
+  ]
+}

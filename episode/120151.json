@@ -1,0 +1,1270 @@
+{
+  "EpisodeId": 120151,
+  "StoryType": 3,
+  "Order": 1,
+  "Prev": null,
+  "Next": 120152,
+  "Chapter": "白银美少女",
+  "Title": "信不信由你……",
+  "EpisodeDetail": [
+    {
+      "Id": 120151001,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "大、大事不好！大事不好！/n快帮我一起找莉莉亚！",
+      "BackgroundImageFileName": "700",
+      "BgmFileName": "202",
+      "VoiceFileName": "1201510010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 3,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 120151002,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "这么慌张是怎么了？/n她这个时间应该还在房间里睡觉吧……。",
+      "VoiceFileName": "1201510020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120151003,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "再这样下去会被亲鸟抛弃的！太可怜了！/n所以得让莉莉亚帮忙看看！",
+      "VoiceFileName": "1201510030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 120151004,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "亲鸟？我完全听不懂你在说什么……。",
+      "VoiceFileName": "1201510040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120151005,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "你说的是住在屋檐下的燕子吧。不是吗？",
+      "VoiceFileName": "1201510050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120151006,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "对，就是那个！莉莉亚，快帮帮它！/n莉莉亚能和燕子说话！",
+      "VoiceFileName": "1201510060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 104,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 120151007,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "哈哈，真有意思的玩笑啊，绯花里。",
+      "VoiceFileName": "1201510070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 2,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120151008,
+      "EpisodeMasterId": 120151,
+      "Order": 2,
+      "GroupOrder": 7,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "不过就算莉莉亚再怎么超乎常识，也没法跟鸟说话吧？",
+      "VoiceFileName": "1201510071",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120151009,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "嗯。一般都会这么反应。",
+      "VoiceFileName": "1201510080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120151010,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "等等，你这是什么说法。莫名让我很在意……。",
+      "VoiceFileName": "1201510090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120151011,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……在意的话就跟来？呵呵。",
+      "VoiceFileName": "1201510100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120151012,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "燕子幼鸟",
+      "FontSize": 2,
+      "Phrase": "啾……。",
+      "BackgroundImageFileName": "840",
+      "BackgroundImageFileFadeType": 1,
+      "VoiceFileName": "1201510110",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1",
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 120151013,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "呜呜，感觉比刚才更没精神了……。/n莉莉亚，你听得懂它在说什么吗……？",
+      "VoiceFileName": "1201510120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 120151014,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "1201510130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 104,
+          "BodyMotionMasterId": 7,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120151015,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "燕子幼鸟",
+      "FontSize": 2,
+      "Phrase": "啾啾……啾……。",
+      "VoiceFileName": "1201510140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 120151016,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……原来如此。",
+      "VoiceFileName": "1201510150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120151017,
+      "EpisodeMasterId": 120151,
+      "Order": 2,
+      "GroupOrder": 15,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "嗯……嗯……。",
+      "VoiceFileName": "1201510151",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 76,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120151018,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "那家伙到底在干什么……。/n真以为自己在和燕子说话吗？",
+      "VoiceFileName": "1201510160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120151019,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "不是“以为”，是真的哦！/n莉莉亚能和很多动物说话！很厉害的！",
+      "VoiceFileName": "1201510170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 120151020,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……也有一些动物比较难沟通。",
+      "VoiceFileName": "1201510180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120151021,
+      "EpisodeMasterId": 120151,
+      "Order": 2,
+      "GroupOrder": 18,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "比如猫。虽然能说话，但它们完全不理会这边的意思。",
+      "VoiceFileName": "1201510181",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120151022,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "连莉莉亚都不行！？不愧是猫……真自由。",
+      "VoiceFileName": "1201510190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 120151023,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "虽然不想破坏你的梦想，不过你被骗了……。",
+      "VoiceFileName": "1201510200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120151024,
+      "EpisodeMasterId": 120151,
+      "Order": 2,
+      "GroupOrder": 20,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "莉莉亚，你也别开这种恶作剧玩笑了。",
+      "VoiceFileName": "1201510201",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120151025,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "世上也有无法用常识衡量的事情。",
+      "VoiceFileName": "1201510210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120151026,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "就算你故弄玄虚地这么说——",
+      "VoiceFileName": "1201510220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 76,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 3,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120151027,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "我跟燕子聊过了。/n这孩子好像有轻微脑震荡。",
+      "VoiceFileName": "1201510230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120151028,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "诶！？它没事吧！？",
+      "VoiceFileName": "1201510240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 401,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 3,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 120151029,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "只是撞到玻璃门后昏过去了。/n现在已经恢复精神，说自己能飞了。",
+      "VoiceFileName": "1201510250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120151030,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "又说这种无聊的谎话……。",
+      "VoiceFileName": "1201510260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120151031,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "真的是谎话吗？呵呵。",
+      "VoiceFileName": "1201510270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120151032,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……好了，已经没事了。/n张开翅膀，飞起来吧。",
+      "VoiceFileName": "1201510280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120151033,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "燕子幼鸟",
+      "FontSize": 2,
+      "Phrase": "啾——！！！",
+      "VoiceFileName": "1201510290",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 120151034,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "哇！它精神满满地飞走了——！",
+      "VoiceFileName": "1201510300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 120151035,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "燕子让我转告绯花里。/n谢谢你发现它。",
+      "VoiceFileName": "1201510310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120151036,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "嘿嘿，是吗！",
+      "VoiceFileName": "1201510320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 205,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 120151037,
+      "EpisodeMasterId": 120151,
+      "Order": 2,
+      "GroupOrder": 32,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "好——！我也不能输，要继续努力！",
+      "VoiceFileName": "1201510321",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 120151038,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "原来如此，我明白了。莉莉亚很懂兽医学吧？/n所以看一眼就能判断燕子的情况。",
+      "VoiceFileName": "1201510330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120151039,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "只是本人告诉我的。",
+      "VoiceFileName": "1201510340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120151040,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "所以我不是说了吗，那不可能。/n人类无法和动物说话，这是世界常识。",
+      "VoiceFileName": "1201510350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 104,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120151041,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "但如果是超乎常识的莉莉亚·库尔特贝呢？/n拉莫，这可是你自己说的。",
+      "VoiceFileName": "1201510360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120151042,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "可是，但是……！",
+      "VoiceFileName": "1201510370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 110,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120151043,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "信还是不信，就看拉莫你自己……。",
+      "VoiceFileName": "1201510380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120151044,
+      "EpisodeMasterId": 120151,
+      "Order": 2,
+      "GroupOrder": 38,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "动摇的拉莫，也别有一番美感。",
+      "VoiceFileName": "1201510381",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120151045,
+      "EpisodeMasterId": 120151,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "莉莉亚·库尔特贝……真是个充满谜团的女人。",
+      "VoiceFileName": "1201510390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    }
+  ]
+}

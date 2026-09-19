@@ -1,0 +1,84 @@
+{
+  "EpisodeId": 6006,
+  "StoryType": 4,
+  "Order": 1,
+  "Prev": null,
+  "Next": null,
+  "Chapter": null,
+  "Title": "啊。熊猫车。",
+  "EpisodeDetail": [
+    {
+      "Id": 6006001,
+      "EpisodeMasterId": 6006,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "啊。熊猫车。",
+      "VoiceFileName": "60060010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 6006002,
+      "EpisodeMasterId": 6006,
+      "Order": 2,
+      "GroupOrder": 1,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "身上有零钱吗……不知道这个能开到哪里。",
+      "VoiceFileName": "60060011",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 6006003,
+      "EpisodeMasterId": 6006,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "之后也推荐给潘达吧。/n骑着熊猫的潘达……呵呵。",
+      "VoiceFileName": "60060020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    }
+  ]
+}

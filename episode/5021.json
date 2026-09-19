@@ -1,0 +1,173 @@
+{
+  "EpisodeId": 5021,
+  "StoryType": 4,
+  "Order": 1,
+  "Prev": null,
+  "Next": null,
+  "Chapter": null,
+  "Title": "咦？怎么了，后辈。",
+  "EpisodeDetail": [
+    {
+      "Id": 5021001,
+      "EpisodeMasterId": 5021,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "咦？怎么了，后辈。/n居然会在电器街碰到你，挺少见的嘛。",
+      "VoiceFileName": "50210010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 5021002,
+      "EpisodeMasterId": 5021,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "呵呵，我今天就是来见前辈的。/n我们有一阵子没见了，所以想看看你过得好不好。",
+      "VoiceFileName": "50210020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 5021003,
+      "EpisodeMasterId": 5021,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "真的？欸——，就这么想见到我的脸啊？/n那难得碰上，要不要一起喝点东西？",
+      "VoiceFileName": "50210030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 5021004,
+      "EpisodeMasterId": 5021,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "可以吗？我有好多事情想跟前辈聊，/n特别开心！",
+      "VoiceFileName": "50210040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 500,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 5021005,
+      "EpisodeMasterId": 5021,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "嗯嗯。那我就带你去我常去的家庭餐厅吧。/n来，走咯。跟上我，后辈！",
+      "VoiceFileName": "50210050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    }
+  ]
+}

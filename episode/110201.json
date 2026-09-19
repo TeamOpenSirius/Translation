@@ -1,0 +1,988 @@
+{
+  "EpisodeId": 110201,
+  "StoryType": 3,
+  "Order": 1,
+  "Prev": null,
+  "Next": 110202,
+  "Chapter": "剧团电姬",
+  "Title": "学业优秀的前辈",
+  "EpisodeDetail": [
+    {
+      "Id": 110201001,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "团员A",
+      "FontSize": 2,
+      "Phrase": "啊——，考试什么的，为什么会存在啊……。",
+      "BackgroundImageFileName": "900",
+      "BgmFileName": "302",
+      "VoiceFileName": "1102010010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110201002,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "团员B",
+      "FontSize": 2,
+      "Phrase": "想回家看动画……。",
+      "VoiceFileName": "1102010020",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110201003,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "电姬虽然不在意成绩，但如果考不及格被家里人说了什么，/n我就会让你们以“个人原因”暂时不能参加活动哦——。",
+      "VoiceFileName": "1102010030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 110201004,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "团员们",
+      "FontSize": 2,
+      "Phrase": "呜诶～……。",
+      "VoiceFileName": "1102010040",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110201005,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "呜……排练之后……眼皮……好重……。",
+      "VoiceFileName": "1102010050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 23,
+          "LipSyncMasterId": 4,
+          "SpineId": 40101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 110201006,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "别睡，伊吕波亲……。回家之后，肯定会直接睡……。/n在这里的话，三个臭皮匠还能顶个诸葛亮……。",
+      "VoiceFileName": "1102010060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 201,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 20,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 110201007,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "就差一点了……加油。/n现在先学一点比较好。",
+      "VoiceFileName": "1102010070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 110201008,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "我知道。我是知道……。/n可是……呜呜，这题到底怎么解啊……？",
+      "VoiceFileName": "1102010080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 40101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 110201009,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "啊——，那里，我也卡住了……。",
+      "VoiceFileName": "1102010090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 500,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 20,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 110201010,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "呃……那里要用这个公式哦。",
+      "VoiceFileName": "1102010100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 110201011,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "原、原来如此……？",
+      "VoiceFileName": "1102010110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 401,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 40101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 110201012,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "你这明显是没懂的“原来如此”吧。/n虽然我自己也不知道该怎么套进去。",
+      "VoiceFileName": "1102010120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 20,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 110201013,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "那我从头开始讲。",
+      "VoiceFileName": "1102010130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 110201014,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "唉——，到处都是呻吟声。/n还好我是小学生。回去打游戏喽——。",
+      "VoiceFileName": "1102010140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110201015,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "叶羽，你以为自己还能笑多久？/n舍弃那浅薄的想法吧。若要开始学习，现在也正是时候。",
+      "VoiceFileName": "1102010150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 40401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 110201016,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "我可是为舞台而活的，没关系啦～。/n那我先走咯～。",
+      "VoiceFileName": "1102010160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110201017,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "啊——，好羡慕……我也想回到小学生时代……。",
+      "VoiceFileName": "1102010170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 40101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 300,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "SpineId": 40401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 110201018,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "别逃避现实。即使背过身不看痛苦的命运，也无路可走。/n那些家伙永远在伺机而动。只有持续磨炼，未来才会延续。",
+      "VoiceFileName": "1102010180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 74,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 110201019,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "那前辈您呢？/n看起来这么从容，不学习也没问题吗？",
+      "VoiceFileName": "1102010190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 110201020,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "愚问。学问之神已经降临在我身上。",
+      "VoiceFileName": "1102010200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 76,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 110201021,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "不不。前辈演技厉害是厉害，/n但学习这种事总不可能也一样吧。",
+      "VoiceFileName": "1102010210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 110201022,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "同一所学校，年级不同的话不知道也正常。/n蕾的成绩很好哦。",
+      "VoiceFileName": "1102010220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 2,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 110201023,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "真的假的！？",
+      "VoiceFileName": "1102010230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "SpineId": 40401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 110201024,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "这也是命运之牌的指引。为了与那些家伙战斗，理论学习也是必要的。/n越是邪恶的神，越会用甜言蜜语迷惑人。",
+      "VoiceFileName": "1102010240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 110201025,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "……对不起。/n我总觉得前辈也应该是我们这边的人。",
+      "VoiceFileName": "1102010250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 110201026,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "明白了吗。/n……那么，聚集于电姬空间的被选中之人啊！",
+      "VoiceFileName": "1102010260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 104,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 110201027,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "莫要懈怠修行，将智慧之刃刺入赤龙的巨颚！",
+      "VoiceFileName": "1102010270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 76,
+          "BodyMotionMasterId": 22,
+          "LipSyncMasterId": 3,
+          "SpineId": 40401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 110201028,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "电姬团员们",
+      "FontSize": 2,
+      "Phrase": "是、是！",
+      "VoiceFileName": "1102010280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110201029,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "我要说的就这些。/n好好努力吧。",
+      "VoiceFileName": "1102010290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 110201030,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "……好，努力吧。听了前辈的话我一下有干劲了。",
+      "VoiceFileName": "1102010300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "SpineId": 40101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 110201031,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "我也感觉燃起来了！",
+      "VoiceFileName": "1102010310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 110201032,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "大家一起，必须躲过挂科才行！",
+      "VoiceFileName": "1102010320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 110201033,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "电姬团员们",
+      "FontSize": 2,
+      "Phrase": "哦——！",
+      "VoiceFileName": "1102010330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110201034,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "那个……不应该只以不挂科为目标，应该……再高一点…………。",
+      "VoiceFileName": "1102010340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 110201035,
+      "EpisodeMasterId": 110201,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "唉——，青春啊——。/n今天的晚酌一定会特别香。",
+      "VoiceFileName": "1102010350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 2,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    }
+  ]
+}

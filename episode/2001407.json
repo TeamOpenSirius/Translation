@@ -1,0 +1,731 @@
+{
+  "EpisodeId": 2001407,
+  "StoryType": 2,
+  "Order": 7,
+  "Prev": 2001406,
+  "Next": 2001408,
+  "Chapter": "向回忆许下约定",
+  "Title": "静静怀抱的愿望",
+  "EpisodeDetail": [
+    {
+      "Id": 2001407001,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "一开始，我只是非常不甘心。",
+      "BackgroundImageFileName": "420",
+      "BgmFileName": "104",
+      "VoiceFileName": "20014070010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2001407002,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "不管是什么角色，我都不愿意让心菜的初舞台留下瑕疵。/n我满脑子都是“如果是我，一定能想办法做到”的焦躁。",
+      "VoiceFileName": "20014070020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "SpineId": 10109,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2001407003,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "而且，我也不想让赢过心菜的卡特莉娜露出胆怯的表情。/n虽然很不爽，但我不想看到那张漂亮的辉夜姬的脸扭曲。",
+      "VoiceFileName": "20014070030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 11,
+          "SpineId": 10309,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10109,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2001407004,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "我无法忍受自己最喜欢的舞台被扭曲。/n所以那时候，我……。",
+      "VoiceFileName": "20014070040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 14,
+          "SpineId": 10209,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2001407005,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 5,
+      "FontSize": 2,
+      "Phrase": "",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 2001407006,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 6,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "530",
+      "BackgroundImageFileFadeType": 4,
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 2001407007,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "走上了舞台。",
+      "VoiceFileName": "20014070050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2001407008,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "我们当时也吓了一跳——。/n一个不认识的人突然冲上舞台……。",
+      "VoiceFileName": "20014070060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2001407009,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "不过也多亏这样，舞台没有停下来，顺利演到了最后。",
+      "VoiceFileName": "20014070070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2001407010,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "最开始我以为，是心菜的感情推动了我。/n因为我是另一个心菜。",
+      "VoiceFileName": "20014070080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2001407011,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20014070090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2001407012,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "可是啊，不是那样。",
+      "VoiceFileName": "20014070100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2001407013,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 13,
+      "FontSize": 2,
+      "Phrase": "",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 2001407014,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 14,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "473",
+      "BackgroundImageFileFadeType": 4,
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 2001407015,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "阿拉丁那次也是，心菜只顾着八惠，彻底失去了自己的演技。/n看不见周围，只变成了一个仅仅为了八惠而演的人偶……。",
+      "VoiceFileName": "20014070110",
+      "CharacterMotions": [],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2001407016,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "我当时甚至有点轻蔑心菜，想着如果是我，绝不会演得那么难看。",
+      "VoiceFileName": "20014070120",
+      "CharacterMotions": [],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2001407017,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 17,
+      "FontSize": 2,
+      "Phrase": "",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 2001407018,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 18,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "530",
+      "BackgroundImageFileFadeType": 4,
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 2001407019,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "诶……？",
+      "VoiceFileName": "20014070130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2001407020,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "因为不是吗？一个说想成为 World Dai Star 的人，/n却只为了某一个人演戏……。",
+      "VoiceFileName": "20014070140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2001407021,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "我觉得那不对。",
+      "VoiceFileName": "20014070150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2001407022,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "对不起……。",
+      "VoiceFileName": "20014070160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 10121,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2001407023,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "不用。已经过去了。",
+      "VoiceFileName": "20014070170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 201,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2001407024,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "但从那时候起，我就感觉到了。/n我心里某个地方，有一个和心菜不同的“我”。",
+      "VoiceFileName": "20014070180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2001407025,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "和心菜不同的“我”……？",
+      "VoiceFileName": "20014070190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2001407026,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "对。和心菜一起生活，心菜考进天狼星……/n学习舞台。然后我越来越喜欢演剧……。",
+      "VoiceFileName": "20014070200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2001407027,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "我也想站上舞台。觉得我能做得更好。如果是我的话……。",
+      "VoiceFileName": "20014070210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2001407028,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "原本只是心菜另一个人格的静香亲，/n作为演员萌生了自我……大概就是这样吧？",
+      "VoiceFileName": "20014070220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2001407029,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "……嗯。按潘达的说法，也许就是这样。/n我作为一个独立的演员，也想站上舞台想得不得了。",
+      "VoiceFileName": "20014070230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2001407030,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "那就是从《竹取物语》时起，我一直安静地怀抱至今的梦想。/n是努力想做 Phantom 的我，不应该渴求的愿望。",
+      "VoiceFileName": "20014070240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2001407031,
+      "EpisodeMasterId": 2001407,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "所以我想把它还回去。因为再这样下去，心菜需要的自信和勇气，/n好像都会被我全部夺走。",
+      "VoiceFileName": "20014070250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    }
+  ]
+}

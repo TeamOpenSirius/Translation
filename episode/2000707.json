@@ -1,0 +1,992 @@
+{
+  "EpisodeId": 2000707,
+  "StoryType": 2,
+  "Order": 7,
+  "Prev": 2000706,
+  "Next": 2000708,
+  "Chapter": "FAIR IS FOUL, AND FOUL IS FAIR",
+  "Title": "决裂",
+  "EpisodeDetail": [
+    {
+      "Id": 2000707001,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "……这个麦克白，/n和老师给出的方向完全不同。",
+      "BackgroundImageFileName": "650",
+      "BgmFileName": "999",
+      "VoiceFileName": "20007070010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "SpineId": 30119,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000707002,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "等等，连尺野。",
+      "VoiceFileName": "20007070020",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000707003,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "你刚才是带着怎样的心情在演麦克白？",
+      "VoiceFileName": "20007070030",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000707004,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "麦克白本就多少怀有野心。/n被欲望驱使完成暗杀之后，再后悔也毫无意义。",
+      "VoiceFileName": "20007070040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707005,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "亲手杀死侍奉的国王所带来的兴奋，以及即将成为王的期待，/n他的情绪里反而应该混杂着高昂。",
+      "VoiceFileName": "20007070050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707006,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "……原来如此。/n在失去理智、陷入错乱的同时，又因期待未来而亢奋的麦克白。",
+      "VoiceFileName": "20007070060",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000707007,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "但银河座的演出方案里没有这种麦克白。/n再来一次，这次按要求的氛围演。",
+      "VoiceFileName": "20007070070",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000707008,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "……你说什么？",
+      "BgmFileName": "7",
+      "VoiceFileName": "20007070080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707009,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "剧本的基调、角色方向都已经传达过。/n我是在说，不要演出偏离既定轨道的东西。",
+      "VoiceFileName": "20007070090",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000707010,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "可真正饰演角色、共同创造舞台的是演员。",
+      "VoiceFileName": "20007070100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707011,
+      "EpisodeMasterId": 2000707,
+      "Order": 2,
+      "GroupOrder": 10,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "难道我们的意志完全不能参与其中吗？",
+      "VoiceFileName": "20007070101",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707012,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "你的说法也有道理。/n但我们同样是怀着自豪在工作。",
+      "VoiceFileName": "20007070110",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000707013,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "演员应该做的是，以导演和编剧提出的形象为基础，/n进一步发展并完善整个舞台。",
+      "VoiceFileName": "20007070120",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000707014,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20007070130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707015,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "照你现在这个麦克白，做不出银河座想要的舞台。",
+      "VoiceFileName": "20007070140",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000707016,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "这场舞台的导演是我。/n由我决定演出。",
+      "VoiceFileName": "20007070150",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000707017,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "……！",
+      "BgmFileName": "999",
+      "VoiceFileName": "20007070160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 301,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707018,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（不行，再这样下去……！）",
+      "VoiceFileName": "20007070170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "SpineId": 30119,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000707019,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "大众想看到的，一定是能窥见表演者灵魂的、/n全新的戏剧。",
+      "BgmFileName": "905",
+      "VoiceFileName": "20007070180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 3,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707020,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "这个剧本的内容太“王道”了。",
+      "VoiceFileName": "20007070190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707021,
+      "EpisodeMasterId": 2000707,
+      "Order": 2,
+      "GroupOrder": 19,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "这种用烂了的《麦克白》，我早就看腻了！",
+      "VoiceFileName": "20007070191",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707022,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "决定权不在你。/n指挥舞台的是我们。",
+      "VoiceFileName": "20007070200",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000707023,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "你只是演员，不是编剧，也不是导演。",
+      "VoiceFileName": "20007070210",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000707024,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "明明有无数种解读，却永远只会套用固定形式，/n无论观众还是演员，都不可能获得新的感动！",
+      "BackgroundCharacterImageFileName": "140290_0",
+      "VoiceFileName": "20007070220",
+      "CharacterMotions": [],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707025,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "剧团成员们",
+      "FontSize": 2,
+      "Phrase": "喂，那边……。",
+      "BackgroundCharacterImageFileName": "140290_0",
+      "VoiceFileName": "20007070230",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000707026,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "剧团成员们",
+      "FontSize": 2,
+      "Phrase": "是不是不妙？　在吵架？",
+      "BackgroundCharacterImageFileName": "140290_0",
+      "VoiceFileName": "20007070240",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000707027,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "啊……！",
+      "VoiceFileName": "20007070250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 511,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 30119,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000707028,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "……住手，连尺野……。",
+      "VoiceFileName": "20007070260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000707029,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "请停下来……求你了……！",
+      "VoiceFileName": "20007070270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 207,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000707030,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "不然的话，我又会……。",
+      "VoiceFileName": "20007070280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000707031,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "够了！　你到底还要任性到什么程度。/n如果不能遵从银河座想要的麦克白，现在就给我出去！",
+      "VoiceFileName": "20007070290",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000707032,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "既然不听指示，/n这场试镜就不需要你！",
+      "VoiceFileName": "20007070300",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000707033,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "为什么就是不明白进化的必要性……。",
+      "VoiceFileName": "20007070310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707034,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "……啊。",
+      "VoiceFileName": "20007070320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707035,
+      "EpisodeMasterId": 2000707,
+      "Order": 2,
+      "GroupOrder": 32,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "如你所愿，我退出。",
+      "VoiceFileName": "20007070321",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707036,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 33,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "663",
+      "BgmFileName": "999",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 2000707037,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "剧团成员们",
+      "FontSize": 2,
+      "Phrase": "喂，那个人真的要走了！？",
+      "VoiceFileName": "20007070330",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000707038,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "剧团成员们",
+      "FontSize": 2,
+      "Phrase": "她要退出试镜吗……？",
+      "VoiceFileName": "20007070340",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000707039,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "等等！/n你打算去哪里？",
+      "BgmFileName": "204",
+      "VoiceFileName": "20007070350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 401,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 3,
+          "SpineId": 30119,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000707040,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "别碰我。",
+      "VoiceFileName": "20007070360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707041,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "……虽然很不甘心，",
+      "VoiceFileName": "20007070370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707042,
+      "EpisodeMasterId": 2000707,
+      "Order": 2,
+      "GroupOrder": 38,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "但你之前说的话，也许是对的。",
+      "VoiceFileName": "20007070371",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707043,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "连尺野……。",
+      "VoiceFileName": "20007070380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000707044,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "我不会服从任何人。",
+      "VoiceFileName": "20007070390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707045,
+      "EpisodeMasterId": 2000707,
+      "Order": 2,
+      "GroupOrder": 40,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "我要靠自己实现愿望。",
+      "VoiceFileName": "20007070391",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000707046,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "20007070400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000707047,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 42,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1050",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 2000707048,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "她再也没有回到试镜现场。/n而几天后……剧团紧急宣布连尺野初魅退出银河座。",
+      "VoiceFileName": "20007070410",
+      "CharacterMotions": [],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000707049,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "她似乎把过去大家对问题行为的宽容全都辜负了，/n还和高层发生了非常激烈的冲突。",
+      "VoiceFileName": "20007070420",
+      "CharacterMotions": [],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000707050,
+      "EpisodeMasterId": 2000707,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "而我……。",
+      "VoiceFileName": "20007070430",
+      "CharacterMotions": [],
+      "SpeakerIconId": "301"
+    }
+  ]
+}

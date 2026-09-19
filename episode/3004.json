@@ -1,0 +1,60 @@
+{
+    "EpisodeId": 3004,
+    "StoryType": 4,
+    "Order": 1,
+    "Prev": null,
+    "Next": null,
+    "Chapter": null,
+    "Title": "老家的公园有湖…",
+    "EpisodeDetail": [
+        {
+            "Id": 3004001,
+            "EpisodeMasterId": 3004,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "莉莉娅",
+            "FontSize": 2,
+            "Phrase": "老家的公园里有湖，这里的公园则是喷泉呢。/n倒映在湖里的我很美，被喷泉水雾沾湿的我也很美……。",
+            "VoiceFileName": "30040010",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "304"
+        },
+        {
+            "Id": 3004002,
+            "EpisodeMasterId": 3004,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "莉莉娅",
+            "FontSize": 2,
+            "Phrase": "在日本也有这种能悠闲放松的地方真不错。/n要是再多一点动物就更好了。",
+            "VoiceFileName": "30040020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 70,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 6,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "304"
+        }
+    ]
+}

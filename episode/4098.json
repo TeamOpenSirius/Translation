@@ -1,0 +1,536 @@
+{
+  "EpisodeId": 4098,
+  "StoryType": 4,
+  "Order": 1,
+  "Prev": null,
+  "Next": null,
+  "Chapter": null,
+  "Title": "什么嘛，这里不卖酒……",
+  "EpisodeDetail": [
+    {
+      "Id": 4098001,
+      "EpisodeMasterId": 4098,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "什么嘛，这里好像不卖酒啊……。",
+      "VoiceFileName": "40980010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "SpineId": 20201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 24,
+          "LipSyncMasterId": 2,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "FacialExpressionMasterId": 103,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "SpineId": 20301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 4098002,
+      "EpisodeMasterId": 4098,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "那红茶和蛋糕怎么样？",
+      "VoiceFileName": "40980020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 4098003,
+      "EpisodeMasterId": 4098,
+      "Order": 2,
+      "GroupOrder": 2,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "我想吾主一定也会喜欢的……。",
+      "VoiceFileName": "40980021",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 4098004,
+      "EpisodeMasterId": 4098,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "哦？那大黑正在吃的那块蛋糕，/n能不能也喂我一口？",
+      "VoiceFileName": "40980030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 4098005,
+      "EpisodeMasterId": 4098,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "当、当然可以……来，啊——……。",
+      "VoiceFileName": "40980040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 114,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 4098006,
+      "EpisodeMasterId": 4098,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "啊——……嗯，味道相当不错。",
+      "VoiceFileName": "40980050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 4098007,
+      "EpisodeMasterId": 4098,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "吾主……就连吃蛋糕的样子都这么迷人……！",
+      "VoiceFileName": "40980060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 19,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 4098008,
+      "EpisodeMasterId": 4098,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "啊哈哈。大黑亲看起来比自己吃蛋糕的时候还幸福呢！",
+      "VoiceFileName": "40980070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 4098009,
+      "EpisodeMasterId": 4098,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "那当然……。/n吾主的幸福就是我的幸福……呵呵。",
+      "VoiceFileName": "40980080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 4098010,
+      "EpisodeMasterId": 4098,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "来，吾主。请再多吃一些！",
+      "VoiceFileName": "40980090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 19,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 4098011,
+      "EpisodeMasterId": 4098,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "……给这么多的话，大黑亲自己的那份就要没了哦？",
+      "VoiceFileName": "40980100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 4098012,
+      "EpisodeMasterId": 4098,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "呵呵……没关系，这样就好。",
+      "VoiceFileName": "40980110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 4098013,
+      "EpisodeMasterId": 4098,
+      "Order": 2,
+      "GroupOrder": 11,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "只要看到吾主幸福的表情，我就已经心满意足了！",
+      "VoiceFileName": "40980111",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 114,
+          "BodyMotionMasterId": 19,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    }
+  ]
+}

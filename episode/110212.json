@@ -1,0 +1,860 @@
+{
+  "EpisodeId": 110212,
+  "StoryType": 3,
+  "Order": 2,
+  "Prev": 110211,
+  "Next": null,
+  "Chapter": "剧团电姬",
+  "Title": "叶羽的矜持－同学篇－",
+  "EpisodeDetail": [
+    {
+      "Id": 110212001,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "小学生A",
+      "FontSize": 2,
+      "Phrase": "喂喂，昨天的《Liger》啊！",
+      "BackgroundImageFileName": "1080",
+      "BgmFileName": "301",
+      "VoiceFileName": "1102120010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110212002,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "（……嗯？　Liger？）",
+      "VoiceFileName": "1102120020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212003,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "小学生A",
+      "FontSize": 2,
+      "Phrase": "没想到瞬居然会登场！/n超级帅——！",
+      "VoiceFileName": "1102120030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110212004,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "小学生B",
+      "FontSize": 2,
+      "Phrase": "懂——！　预告里根本没有，吓死我了！/n我和姐姐一起“呀——”地叫，被妈妈骂了！",
+      "VoiceFileName": "1102120040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110212005,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "（那次回归当时确实火爆了嘛。",
+      "VoiceFileName": "1102120050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 11,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212006,
+      "EpisodeMasterId": 110212,
+      "Order": 2,
+      "GroupOrder": 5,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "　电影也就算了，没想到电视版真敢这么来）",
+      "VoiceFileName": "1102120051",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212007,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "小学生B",
+      "FontSize": 2,
+      "Phrase": "夏树也很帅，可瞬一出现，/n就感觉夏树特别小孩子气呢——。",
+      "VoiceFileName": "1102120060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110212008,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "（拿一个我出生前就在活动的老前辈，/n　和这一作才第一次主演的新人比较，也太欺负人了吧）",
+      "VoiceFileName": "1102120070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 15,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212009,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "小学生A",
+      "FontSize": 2,
+      "Phrase": "就是！　官方还把瞬的出道作《Liger》也放出来了！/n你看了吗？　那时候好青涩，超级可爱～！",
+      "VoiceFileName": "1102120080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110212010,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "小学生B",
+      "FontSize": 2,
+      "Phrase": "糟糕，我还没看～！　回家马上看～！",
+      "VoiceFileName": "1102120090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110212011,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "（出道作……我记得是和我当年出演时同一个导演？）",
+      "VoiceFileName": "1102120100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 25,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212012,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "（他那时还夸我是天才，不过那种片场我真是受够了。/n　特摄果然还是只负责看最好）",
+      "VoiceFileName": "1102120110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212013,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "小学生B",
+      "FontSize": 2,
+      "Phrase": "不过啊，黑化的瞬是不是超帅？",
+      "VoiceFileName": "1102120120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110212014,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "小学生A",
+      "FontSize": 2,
+      "Phrase": "超帅～！　夏树不是软绵绵又优柔寡断嘛？/n还整天只会谈梦想，看着就让人想说别光做梦了～。",
+      "VoiceFileName": "1102120130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110212015,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "小学生B",
+      "FontSize": 2,
+      "Phrase": "瞬那样一针见血地说出来，真的让我心跳加速。",
+      "VoiceFileName": "1102120140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 76,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110212016,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "……你、们……完全不懂——！",
+      "VoiceFileName": "1102120150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212017,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "小学生A・B",
+      "FontSize": 2,
+      "Phrase": "！？",
+      "VoiceFileName": "1102120160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110212018,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "夏树自己知道自己太天真！　他放走敌人，也因此失败过！",
+      "VoiceFileName": "1102120170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 76,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212019,
+      "EpisodeMasterId": 110212,
+      "Order": 2,
+      "GroupOrder": 17,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "可是他就是舍不得抛弃那份温柔！　原因过去回忆里也讲过了！",
+      "VoiceFileName": "1102120171",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 104,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212020,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "他一直抱着矛盾，而瞬也明白，所以才故意黑化成为敌人！",
+      "VoiceFileName": "1102120180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 10,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212021,
+      "EpisodeMasterId": 110212,
+      "Order": 2,
+      "GroupOrder": 18,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "夏树也理解这一点，所以才展现出贯彻信念的觉悟。可是——",
+      "VoiceFileName": "1102120181",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212022,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "小学生A・B",
+      "FontSize": 2,
+      "Phrase": "…………。",
+      "VoiceFileName": "1102120190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110212023,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "——啊！？",
+      "VoiceFileName": "1102120200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212024,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "啊……呃，抱歉，突然插进你们话题。/n你们继续聊。",
+      "VoiceFileName": "1102120210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212025,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "小学生A",
+      "FontSize": 2,
+      "Phrase": "叶羽也果然在看《Liger》吗！？",
+      "VoiceFileName": "1102120220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110212026,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "小学生B",
+      "FontSize": 2,
+      "Phrase": "你以前还出演过对吧！　姐姐告诉我的！/n所以我本来觉得，可能不该问你太多……。",
+      "VoiceFileName": "1102120230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110212027,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "小学生B",
+      "FontSize": 2,
+      "Phrase": "那个，如果可以的话，多讲一点给我们听嘛！",
+      "VoiceFileName": "1102120240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110212028,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "诶！？",
+      "VoiceFileName": "1102120250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 513,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212029,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "呃，啊……这个嘛……。",
+      "VoiceFileName": "1102120260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 407,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212030,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "小学生A",
+      "FontSize": 2,
+      "Phrase": "你看，果、果然还是不行吧……。/n专业圈子有保密义务……什么的。",
+      "VoiceFileName": "1102120270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110212031,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "小学生B",
+      "FontSize": 2,
+      "Phrase": "对、对哦。抱歉……。/n难得能听叶羽聊这些，一兴奋就忘了……。",
+      "VoiceFileName": "1102120280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110212032,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "啊、呃，如果只是聊演技……之类？",
+      "VoiceFileName": "1102120290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212033,
+      "EpisodeMasterId": 110212,
+      "Order": 2,
+      "GroupOrder": 29,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "或者对剧情做点分析的话。嗯，也不是不行。",
+      "VoiceFileName": "1102120291",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212034,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "小学生A・B",
+      "FontSize": 2,
+      "Phrase": "真的！？",
+      "VoiceFileName": "1102120300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110212035,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "嗯……嗯。",
+      "VoiceFileName": "1102120310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212036,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "小学生A・B",
+      "FontSize": 2,
+      "Phrase": "太好了——！",
+      "VoiceFileName": "1102120320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110212037,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "（唉～，还是搞成这样了。/n　好麻烦啊）",
+      "VoiceFileName": "1102120330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110212038,
+      "EpisodeMasterId": 110212,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "（不过，只要不是聊帅哥的话……也行吧）",
+      "VoiceFileName": "1102120340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    }
+  ]
+}

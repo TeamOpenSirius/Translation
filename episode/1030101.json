@@ -1,0 +1,610 @@
+{
+    "EpisodeId": 1030101,
+    "StoryType": 1,
+    "Order": 1,
+    "Prev": null,
+    "Next": 1030102,
+    "Chapter": "银河座　第1章",
+    "Title": "赴日",
+    "EpisodeDetail": [
+        {
+            "Id": 1030101001,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "大家，特地来送我，谢谢。/n明明今天在汉堡还有公演，真是不好意思。",
+            "BackgroundImageFileName": "1100",
+            "BgmFileName": "1",
+            "VoiceFileName": "10301010010",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1030101002,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "剧团成员A",
+            "FontSize": 2,
+            "Phrase": "怎么可能丢下同伴不来送行，然后若无其事地去演戏嘛。",
+            "VoiceFileName": "10301010020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1030101003,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "剧团成员B",
+            "FontSize": 2,
+            "Phrase": "比起这个，你真的没问题吗？在日本能适应吗？/n那个叫银河座的地方来挖你，真的可信吗？",
+            "VoiceFileName": "10301010030",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1030101004,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "没问题。我已经仔细确认过了。",
+            "VoiceFileName": "10301010040",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 70,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1030101005,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "剧团成员C",
+            "FontSize": 2,
+            "Phrase": "真正的问题，是拉米其实很怕寂寞吧～",
+            "VoiceFileName": "10301010050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1030101006,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "喂，别说了。/n我好不容易才逼自己不去想这件事。",
+            "VoiceFileName": "10301010060",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 404,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1030101007,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "剧团成员A",
+            "FontSize": 2,
+            "Phrase": "随时都可以回来哦。你的名额我们会一直留着。",
+            "VoiceFileName": "10301010070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1030101008,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "谢谢。不过这句话，我就当没听见。/n要是决心一动摇，我恐怕真的再也飞不起来了。",
+            "VoiceFileName": "10301010080",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 109,
+                    "HeadMotionMasterId": 1,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1030101009,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "机场广播",
+            "FontSize": 2,
+            "Phrase": "现在广播通知。汉堡飞往东京的国际航班，/n即将开始办理登机手续。",
+            "VoiceFileName": "10301010090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1030101010,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "好了，拉莫娜·沃尔芙的挑战就从这里开始。/n到了那边安顿下来，我会写信。那我出发了。",
+            "VoiceFileName": "10301010100",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 8,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1030101011,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 11,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1050",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "999",
+            "CharacterMotions": [],
+            "FadeValue1": 0.800000011920929,
+            "FadeValue2": 0.5,
+            "FadeValue3": 0.800000011920929
+        },
+        {
+            "Id": 1030101012,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "（故乡在视野里渐渐缩小，心中的不安让我闭上双眼，想象未来。）",
+            "VoiceFileName": "10301010110",
+            "CharacterMotions": [],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1030101013,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "（目的地是东京。/n　那里——也是她生活的地方。）",
+            "VoiceFileName": "10301010120",
+            "CharacterMotions": [],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1030101014,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 14,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1100",
+            "BackgroundImageFileFadeType": 2,
+            "SeFileName": "641",
+            "WindowEffect": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.800000011920929,
+            "FadeValue2": 0.5,
+            "FadeValue3": 0.800000011920929
+        },
+        {
+            "Id": 1030101015,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "太见外了，卡特莉娜。居然什么都不告诉我们就走了。",
+            "BgmFileName": "9",
+            "WindowEffect": 1,
+            "VoiceFileName": "10301010130",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1030101016,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "我们又没那么熟。就算告诉你，也只是给你添麻烦吧。",
+            "WindowEffect": 1,
+            "VoiceFileName": "10301010140",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 24,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 1030101017,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "我们可是一起吃过同一锅德式香肠的交情吧。/n而且为什么偏偏去日本？德国还有你母亲——",
+            "WindowEffect": 1,
+            "VoiceFileName": "10301010150",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1030101018,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "我要去哪里、做什么，都是我的自由吧！？/n我必须拿出成绩才行！",
+            "WindowEffect": 1,
+            "VoiceFileName": "10301010160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 300,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 1030101019,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "冷静一点，卡特莉娜。别一股脑往前冲。/n演员不能孤立自己，需要伙伴！",
+            "WindowEffect": 1,
+            "VoiceFileName": "10301010170",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 8,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1030101020,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "啊，是哦，要珍惜和伙伴之间的羁绊。那就这样。",
+            "WindowEffect": 1,
+            "VoiceFileName": "10301010180",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 76,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 1030101021,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 21,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1050",
+            "BackgroundImageFileFadeType": 2,
+            "BgmFileName": "999",
+            "SeFileName": "641",
+            "CharacterMotions": [],
+            "FadeValue1": 0.800000011920929,
+            "FadeValue2": 0.5,
+            "FadeValue3": 0.800000011920929
+        },
+        {
+            "Id": 1030101022,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "卡特莉娜，对不起。要是我当时能察觉你的焦虑，/n也许还能替你做更多事情。",
+            "VoiceFileName": "10301010190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 402,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1030101023,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "……不过，后悔就到这里。/n因为我很快就会追上你了。",
+            "VoiceFileName": "10301010200",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "HeadMotionMasterId": 2,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1030101024,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "……再等我一阵子吧，卡特莉娜。/n这一次，我一定要成为能够帮助你的人。",
+            "VoiceFileName": "10301010210",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1030101025,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 25,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1130",
+            "BackgroundImageFileFadeType": 2,
+            "CharacterMotions": [],
+            "FadeValue1": 0.800000011920929,
+            "FadeValue2": 0.5,
+            "FadeValue3": 0.800000011920929
+        },
+        {
+            "Id": 1030101026,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "（在这个戏剧鼎盛的时代，演员招募在世界各地进行。）",
+            "BgmFileName": "206",
+            "VoiceFileName": "10301010220",
+            "CharacterMotions": [],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1030101027,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "（不仅有历史悠久的百老汇、西区，/n　在东京，也有许多汇聚未来Dai Star候选人的剧团。）",
+            "VoiceFileName": "10301010230",
+            "CharacterMotions": [],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1030101028,
+            "EpisodeMasterId": 1030101,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "（而在无数星辰之中，有一颗位于东京上野的巨大剧团。/n　它的名字，叫作银河座。）",
+            "BackgroundImageFileName": "640",
+            "BackgroundImageFileFadeType": 2,
+            "SceneCameraMasterId": 7,
+            "VoiceFileName": "10301010240",
+            "CharacterMotions": [],
+            "SpeakerIconId": "302",
+            "FadeValue1": 0.5,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.5
+        }
+    ]
+}

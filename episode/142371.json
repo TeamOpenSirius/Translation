@@ -1,0 +1,934 @@
+{
+    "EpisodeId": 142371,
+    "StoryType": 3,
+    "Order": 1,
+    "Prev": null,
+    "Next": 142372,
+    "Chapter": "悠闲任务！",
+    "Title": "街头传闻",
+    "EpisodeDetail": [
+        {
+            "Id": 142371001,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "……嗯，今天也是大丰收。/n这样今晚就能办鱼料理派对了。",
+            "BackgroundImageFileName": "250",
+            "BgmFileName": "102",
+            "VoiceFileName": "1423710010",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371002,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "不知道潘达她们想吃什么料理。/n经典的盐烤当然少不了，炖鱼、香煎……生鱼片好像也不错。",
+            "VoiceFileName": "1423710020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371003,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "大叔",
+            "FontSize": 2,
+            "Phrase": "哦，知冴亲。今天也来啦！/n哎呀～，还是这么会钓。",
+            "VoiceFileName": "1423710030",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 142371004,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "哟，大叔。要不要拿一条？",
+            "VoiceFileName": "1423710040",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371005,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "大叔",
+            "FontSize": 2,
+            "Phrase": "不用不用，这是知冴亲你钓上来的成果吧！大叔我拿了多不好。/n好好全都带回去！",
+            "VoiceFileName": "1423710050",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 142371006,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "这样啊。知道了，大叔。/n那我就心怀感激地举办鱼料理派对吧。",
+            "VoiceFileName": "1423710060",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371007,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "大叔",
+            "FontSize": 2,
+            "Phrase": "哦哦，那敢情好！",
+            "VoiceFileName": "1423710070",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 142371008,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "大叔",
+            "FontSize": 2,
+            "Phrase": "……啊，对了，知冴亲你听说了吗。/n最近“那个”好像在这一带被发现了！……传说中的“槌之子”！",
+            "VoiceFileName": "1423710080",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 142371009,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "！？槌……之子……！？",
+            "VoiceFileName": "1423710090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371010,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "大叔",
+            "FontSize": 2,
+            "Phrase": "对啊！听说在堤坝附近的山里有人目击到了！/n其实我也一直偷偷去找呢。",
+            "VoiceFileName": "1423710100",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 142371011,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "没想到……那个“槌之子”，居然就在这么近的地方存在……。",
+            "VoiceFileName": "1423710110",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371012,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "大叔",
+            "FontSize": 2,
+            "Phrase": "嘛，也可能只是假消息！/n所以别太当真啊，知冴亲！……知冴亲？",
+            "VoiceFileName": "1423710120",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 142371013,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "槌之子……果然是存在的……！！",
+            "VoiceFileName": "1423710130",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 8,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 10601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371014,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "大叔",
+            "FontSize": 2,
+            "Phrase": "（糟糕～……我是不是说了不该说的话啊～……）",
+            "VoiceFileName": "1423710140",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 142371015,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 15,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "530",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 142371016,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "嗯嗯……要捕捉“槌之子”，捕捉网当然是必需品。/n然后进山的话，还得准备驱虫喷雾……还有……。",
+            "VoiceFileName": "1423710150",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371017,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "驱熊铃……哦哦……。/n确实，山里潜伏的可不一定只有“槌之子”。",
+            "VoiceFileName": "1423710160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371018,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "嗯——，还有……哦！这件防护服，看起来还挺帅的。",
+            "VoiceFileName": "1423710170",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 6,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371019,
+            "EpisodeMasterId": 142371,
+            "Order": 2,
+            "GroupOrder": 18,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "这样准备就完美……不！等等！",
+            "VoiceFileName": "1423710171",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371020,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "想捕捉“槌之子”，没有探测棒的话，/n几乎不可能找到……！？！？",
+            "VoiceFileName": "1423710180",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371021,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "探测棒……唔嗯，浅草附近好像没有卖。/n最近的店……秋叶原吗……。",
+            "VoiceFileName": "1423710190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 6,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371022,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 21,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "860",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 142371023,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "哼哼哼……终于拿到探测棒了……。/n这下准备才是真的万无一失。",
+            "VoiceFileName": "1423710200",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371024,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "等着吧，我的“槌之子”……！",
+            "VoiceFileName": "1423710210",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 8,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 10601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371025,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "喂，知冴……你这身打扮……到底是准备举行什么仪式？",
+            "VoiceFileName": "1423710220",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 142371026,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "蕾……真巧。/n其实啊……我要去“找槌之子”。",
+            "VoiceFileName": "1423710230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371027,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "听说有人目击过，我之后准备去找找看。/n“槌之子”……到底长什么样呢……能吃吗。",
+            "VoiceFileName": "1423710240",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371028,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "喂喂……那应该就是被视为传说中的未知生物，/n“幻之蛇”吧。你难道还打算吃掉它……？",
+            "VoiceFileName": "1423710250",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 142371029,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "说到底，“幻之蛇”也未必真的存在吧——",
+            "VoiceFileName": "1423710260",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 6,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 142371030,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "存在。一定存在。/n而且我要亲眼看到它。一定。",
+            "VoiceFileName": "1423710270",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371031,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "（知冴是真的相信“幻之蛇”存在啊……。/n　这份纯粹和好奇心……就算凭我的力量，也难以估量……）",
+            "VoiceFileName": "1423710280",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 6,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 142371032,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "啊，对了蕾。蕾要是愿意，要不要一起去？/n找“槌之子”。",
+            "VoiceFileName": "1423710290",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371033,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 32,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "哈……？",
+            "VoiceFileName": "1423710300",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 142371034,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 33,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "从未见过的神秘生命体……你不觉得好奇吗？/n现在说不定正是亲眼见证传说存在的机会……！",
+            "VoiceFileName": "1423710310",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 8,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142371035,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 34,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "唔……。",
+            "VoiceFileName": "1423710320",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 142371036,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "（居然用这么直率的眼神看着我……。/n　而且目的还是寻找未知生命体……说实话，我也无法否认自己有些心动……）",
+            "VoiceFileName": "1423710330",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 400,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 142371037,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 36,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "知、知道了……我也同行。",
+            "VoiceFileName": "1423710340",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 142371038,
+            "EpisodeMasterId": 142371,
+            "Order": 1,
+            "GroupOrder": 37,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "好，那就定了。/n我们两个一起，把“槌之子”找出来吧！",
+            "VoiceFileName": "1423710350",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        }
+    ]
+}

@@ -1,0 +1,756 @@
+{
+  "EpisodeId": 1050104,
+  "StoryType": 1,
+  "Order": 4,
+  "Prev": 1050103,
+  "Next": 1050105,
+  "Chapter": "最终章",
+  "Title": "被选中群星中的光芒",
+  "EpisodeDetail": [
+    {
+      "Id": 1050104001,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "工作人员",
+      "FontSize": 2,
+      "Phrase": "……时间到了，接下来开始全体连排。/n请各位做好准备。",
+      "BackgroundImageFileName": "1770",
+      "BgmFileName": "23",
+      "VoiceFileName": "10501040010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050104002,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "（终于到了……。/n　主角宙斯无论如何，出场次数都是最多的……）",
+      "VoiceFileName": "10501040020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050104003,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "那么，开始吧。/n……先从主演宙斯的新妻八惠小姐开始。",
+      "VoiceFileName": "10501040030",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050104004,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "『哈啊……赫拉倒也不坏，/n　可像这样在一起久了，果然还是会腻啊。』",
+      "VoiceFileName": "10501040040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050104005,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "『有没有哪位少女，能让这颗冷却的心再次燃烧起来，/n　就这样出现在某处呢？』",
+      "VoiceFileName": "10501040050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050104006,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "『……好。就当散心，看看人间吧……。/n　嗯？海边站着个少女？让我瞧瞧……』",
+      "VoiceFileName": "10501040060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050104007,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "『多么美丽的少女……！/n　地点是波塞冬的神殿，是兄长那里的巫女吗……？』",
+      "VoiceFileName": "10501040070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050104008,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "『看来得想个办法了啊……』",
+      "VoiceFileName": "10501040080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050104009,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "嗯……很好。/n那就直接进入歌唱部分吧。",
+      "VoiceFileName": "10501040090",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050104010,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "『～～～♪　～～～♪』",
+      "VoiceFileName": "10501040100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 9,
+          "LipSyncMasterId": 2,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050104011,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "演员们",
+      "FontSize": 2,
+      "Phrase": "哦哦哦……！",
+      "VoiceFileName": "10501040110",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050104012,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（不愧是在这些人中被选为主演的演员。/n　新妻八惠……这份歌唱实力，真是压倒性的。）",
+      "VoiceFileName": "10501040120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "SpineId": 30103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1050104013,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（而且借助Sense的力量，/n　她的魅力被发挥到了极致……）",
+      "VoiceFileName": "10501040130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 11,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1050104014,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（小小年纪就拥有这样的才能……无论看多少次都令人畏惧。）",
+      "VoiceFileName": "10501040140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1050104015,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（不过，我也是自幼便踏上演员之路、/n　一路磨炼至今的人……）",
+      "VoiceFileName": "10501040150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 13,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1050104016,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（作为千寿家的演员，作为率领银河座的星，/n　也作为Dai Star站在这里。）",
+      "VoiceFileName": "10501040160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 14,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1050104017,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（我会竭尽全力，回应八惠小姐的表演。）",
+      "VoiceFileName": "10501040170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1050104018,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "『哦……宙斯把她误认成我神殿里的巫女了吗？/n　哈哈，这可真滑稽。』",
+      "VoiceFileName": "10501040180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1050104019,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "『赫拉大概做梦也想不到，自己只是为了履行神职进入返老还童之泉，/n　竟会被自己的丈夫如此热烈地迷上。』",
+      "VoiceFileName": "10501040190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1050104020,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "『而且……呵呵，居然连自己的妻子都认不出来。/n　真是的，宙斯虽是我弟弟，也未免太有趣了吧？赫尔墨斯。』",
+      "VoiceFileName": "10501040200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1050104021,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "……千寿历，果然是名副其实的优秀演员。",
+      "VoiceFileName": "10501040210",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050104022,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "让人仿佛真能看见“波塞冬”这个角色本人的、有说服力的表演……。/n不愧是千寿家的演员。",
+      "VoiceFileName": "10501040220",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050104023,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "（大家明明突然就开始连排了，却都好厉害……）",
+      "VoiceFileName": "10501040230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 13,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1050104024,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "（和平时完全没区别……。/n　不，甚至比平时演得还要更好……）",
+      "VoiceFileName": "10501040240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "HeadMotionMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1050104025,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "下一位，饰演赫尔墨斯的白丸美兔小姐，到你了。",
+      "VoiceFileName": "10501040250",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050104026,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "好、好的……！",
+      "VoiceFileName": "10501040260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 511,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 3,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1050104027,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "（美兔也得努力，不能被大家甩下……！/n　好不容易才成为Dai Star……）",
+      "VoiceFileName": "10501040270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 14,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1050104028,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "（伊吕波亲她们也都在支持我……。/n　和平时一样……照着练习时那样做就好……）",
+      "VoiceFileName": "10501040280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1050104029,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "『是啊，正是如此，波塞冬大人！』",
+      "VoiceFileName": "10501040290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1050104030,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "『毕竟是宙斯大人当年爱上的年轻模样……是因为这个吗？/n　不管怎么说，这可是我们主神难得一见的样子。』",
+      "VoiceFileName": "10501040300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 27,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1050104031,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "『怎么样？我们平时也没少被宙斯大人折腾……/n　不如趁这个机会捉弄他一下？其他神明也都很有兴趣……』",
+      "VoiceFileName": "10501040310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1050104032,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "嗯……倒也不差……。/n不过似乎没能发挥出Sense，状态应该还没完全恢复吧……。",
+      "VoiceFileName": "10501040320",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050104033,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "工作人员",
+      "FontSize": 2,
+      "Phrase": "听说她是附身型的演员……。/n说不定之后还能有更惊人的变化。",
+      "VoiceFileName": "10501040330",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050104034,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "哈啊……哈啊……。",
+      "VoiceFileName": "10501040340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1050104035,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "（总、总算是撑过去了……吧……）",
+      "VoiceFileName": "10501040350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 11,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1050104036,
+      "EpisodeMasterId": 1050104,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "（……可是，这样下去不行……。/n　在排练重新开始之前，得好好找回状态才行……！）",
+      "VoiceFileName": "10501040360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 13,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    }
+  ]
+}

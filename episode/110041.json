@@ -1,0 +1,814 @@
+{
+  "EpisodeId": 110041,
+  "StoryType": 3,
+  "Order": 1,
+  "Prev": null,
+  "Next": 110042,
+  "Chapter": "天狼星",
+  "Title": "在实现愿望的背后",
+  "EpisodeDetail": [
+    {
+      "Id": 110041001,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "主人……主人……，/n再不起床可不行哦，主人！",
+      "BackgroundImageFileName": "520",
+      "BgmFileName": "3",
+      "VoiceFileName": "1100410010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 110041002,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "呼啊！？",
+      "VoiceFileName": "1100410020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 401,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 10105,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 110041003,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "怎、怎么了怎么了！？",
+      "VoiceFileName": "1100410030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 401,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 3,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 110041004,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "早上好，主人！/n真是的，主人也太爱赖床了。",
+      "VoiceFileName": "1100410040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 110041005,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "诶……八惠，你为什么会在这里！？",
+      "VoiceFileName": "1100410050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 1,
+          "LipSyncMasterId": 4,
+          "SpineId": 10105,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 25,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 110041006,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "这、这还在梦里吗……？",
+      "VoiceFileName": "1100410060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 110041007,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "心菜小姐和静香小姐还没睡醒吗？",
+      "VoiceFileName": "1100410070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 110041008,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "为了《阿拉伯之夜》的舞台，/n我们不是从昨天开始就一起生活了吗。",
+      "VoiceFileName": "1100410080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 110041009,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "啊，对哦……吓我一跳……。",
+      "VoiceFileName": "1100410090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10105,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 110041010,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "还没习惯这样的生活吗？",
+      "VoiceFileName": "1100410100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 110041011,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "当、当然啊！/n因为八惠居然一直都和我们待在一起……。",
+      "VoiceFileName": "1100410110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10105,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 25,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 110041012,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "怎么都会紧张起来呢……。",
+      "VoiceFileName": "1100410120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 402,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 110041013,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "其实我还挺享受这种生活的哦？",
+      "VoiceFileName": "1100410130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 2,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 110041014,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "当然，我们也特别开心！/n而且八惠还一直替我们操心各种事情。",
+      "VoiceFileName": "1100410140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 10105,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 110041015,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "八惠每天早上都来叫我们起床，简直像天堂一样。",
+      "VoiceFileName": "1100410150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 110041016,
+      "EpisodeMasterId": 110041,
+      "Order": 2,
+      "GroupOrder": 15,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "要是被粉丝知道，感觉会被嫉妒的火焰烧成灰……。",
+      "VoiceFileName": "1100410151",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 74,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 110041017,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "喂喂主人，每天早上叫你们起床的是俺吧？/n俺可不是新妻八惠，是神灯魔人才对。",
+      "VoiceFileName": "1100410160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 3,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 110041018,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "啊，说得也是……抱歉抱歉……。",
+      "VoiceFileName": "1100410170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 10105,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 110041019,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "不过，就算八惠真的成了神灯魔人，/n我也没法把你使唤来使唤去啊……。",
+      "VoiceFileName": "1100410180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 110041020,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "诶——，那可不行！/n替主人实现愿望可是俺的工作啊！",
+      "VoiceFileName": "1100410190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 401,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 3,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 110041021,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "只要能和八惠……不对，和神灯魔人待在一起，/n我们说不定就已经很幸福了……。",
+      "VoiceFileName": "1100410200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 110041022,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "嗯嗯。是啊……。",
+      "VoiceFileName": "1100410210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 19,
+          "LipSyncMasterId": 2,
+          "SpineId": 10105,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 110041023,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "呵呵，真拿主人没办法。",
+      "VoiceFileName": "1100410220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 110041024,
+      "EpisodeMasterId": 110041,
+      "Order": 2,
+      "GroupOrder": 22,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "……啊，差不多到晨练时间了吧？",
+      "VoiceFileName": "1100410221",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 110041025,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "哇！？真的，得快点了！",
+      "VoiceFileName": "1100410230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 501,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 10105,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 110041026,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "房间就交给俺来收拾。/n你们两个先去排练场吧。",
+      "VoiceFileName": "1100410240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 110041027,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "嗯，那就拜托你了！",
+      "VoiceFileName": "1100410250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 110041028,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "八惠，谢谢你——！",
+      "SeFileName": "30",
+      "VoiceFileName": "1100410260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "SpineId": 10105,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 110041029,
+      "EpisodeMasterId": 110041,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "……心菜小姐、静香小姐，对不起。",
+      "BgmFileName": "999",
+      "VoiceFileName": "1100410270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "LipSyncMasterId": 1,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 110041030,
+      "EpisodeMasterId": 110041,
+      "Order": 2,
+      "GroupOrder": 27,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "我们必须让这场舞台成功才行。",
+      "VoiceFileName": "1100410271",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    }
+  ]
+}

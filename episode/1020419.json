@@ -1,0 +1,1484 @@
+{
+    "EpisodeId": 1020419,
+    "StoryType": 1,
+    "Order": 19,
+    "Prev": 1020418,
+    "Next": 1020420,
+    "Chapter": "Eden　第4章",
+    "Title": "相连之路",
+    "EpisodeDetail": [
+        {
+            "Id": 1020419001,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "Eden剧团成员",
+            "FontSize": 2,
+            "Phrase": "这是……服装概念？记事本上写得满满的……信息量真大。/n而且想要实现的整体概念也很明确，帮大忙了。",
+            "BackgroundImageFileName": "170",
+            "BgmFileName": "401",
+            "VoiceFileName": "10204190010",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020419002,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "仁花子",
+            "FontSize": 2,
+            "Phrase": "真的吗？这是我和容容一起想的！/n太好了～！",
+            "VoiceFileName": "10204190020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 20303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "203"
+        },
+        {
+            "Id": 1020419003,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "仁花子",
+            "FontSize": 2,
+            "Phrase": "……对不起，莲姐。/n连服装的事我都擅自插嘴了……",
+            "VoiceFileName": "10204190030",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "203"
+        },
+        {
+            "Id": 1020419004,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "没关系。要是仁花子的提案不符合我想要的舞台，/n我只会直接否决而已。不过——",
+            "VoiceFileName": "10204190040",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020419005,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "我觉得这个想法不错。/n就采用它，继续完善服装吧。",
+            "VoiceFileName": "10204190050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020419006,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "仁花子",
+            "FontSize": 2,
+            "Phrase": "哇……！莲姐，谢谢你！！/n怎么办！居然被夸「不错」了……！",
+            "VoiceFileName": "10204190060",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "203"
+        },
+        {
+            "Id": 1020419007,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "看吧，我不是说过吗？/n不管什么事，不先试着撞上去，就永远不知道结果。",
+            "VoiceFileName": "10204190070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 20303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 1020419008,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "仁花子",
+            "FontSize": 2,
+            "Phrase": "嗯，真的！/n完全和容容说的一样……！！",
+            "VoiceFileName": "10204190080",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 20303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "203"
+        },
+        {
+            "Id": 1020419009,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "不过，既然都拿出了这么好的主意。/n演技当然也会给我看配得上它的水准吧？",
+            "VoiceFileName": "10204190090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 24,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020419010,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "仁花子",
+            "FontSize": 2,
+            "Phrase": "……好、好的！当然，我就是这么打算的！",
+            "VoiceFileName": "10204190100",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 101,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "203"
+        },
+        {
+            "Id": 1020419011,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "呵，回答得不错。/n我很期待哦，蓝发公爵？",
+            "VoiceFileName": "10204190110",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020419012,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "仁花子",
+            "FontSize": 2,
+            "Phrase": "是！！",
+            "VoiceFileName": "10204190120",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "203"
+        },
+        {
+            "Id": 1020419013,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 13,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileFadeType": 1,
+            "SeFileName": "30",
+            "CharacterMotions": [],
+            "FadeValue1": 0.10000000149011612,
+            "FadeValue2": 0.20000000298023224,
+            "FadeValue3": 0.10000000149011612
+        },
+        {
+            "Id": 1020419014,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "……居然给主演那么大的压力。/n要是她真被压垮了怎么办？",
+            "VoiceFileName": "10204190130",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 1020419015,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "她可不是会被这点程度压垮的器量。/n这一点，容你也明白吧？",
+            "VoiceFileName": "10204190140",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020419016,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "嘛，我也愿意相信她不会。",
+            "VoiceFileName": "10204190150",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 1020419017,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "相信啊……真是个好词。/n简直就像是在形容这个乐园本身。",
+            "VoiceFileName": "10204190160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020419018,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "过去我们相信初魅，一路跟着你跑到这里。/n而现在……以及今后，是我们彼此相信，继续一起奔跑。",
+            "VoiceFileName": "10204190170",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 1020419019,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "没错。这就是我们的Eden。/n而我，也相信这样的大家。",
+            "VoiceFileName": "10204190180",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020419020,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "被信任当然很高兴……/n不过期待太过头，我也会有点困扰啊。",
+            "VoiceFileName": "10204190190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 201,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 1020419021,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "正因为我觉得你们能回应我的期待，/n「信赖」这个词才成立。",
+            "VoiceFileName": "10204190200",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 24,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020419022,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "好好好，我会竭尽全力的，团长大人。",
+            "VoiceFileName": "10204190210",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 201,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 1020419023,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "嗯，我很期待。",
+            "VoiceFileName": "10204190220",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020419024,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "（……仁花子她们已经成长到，/n足以让初魅寄予这么深的期待了。）",
+            "VoiceFileName": "10204190230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 20403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 1020419025,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "（看来我也得拼命跟上去，/n不然说不定会在舞台上丢脸啊……）",
+            "VoiceFileName": "10204190240",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 201,
+                    "BodyMotionMasterId": 17,
+                    "SpineId": 20403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 1020419026,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 26,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 1020419027,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "……",
+            "VoiceFileName": "10204190250",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020419028,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "大黑",
+            "FontSize": 2,
+            "Phrase": "推理小说？/n为了塑造埃雷米娅，终于愿意学习了？",
+            "VoiceFileName": "10204190260",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "202"
+        },
+        {
+            "Id": 1020419029,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "哼，这不是没办法嘛。/n时雨还没到能结婚的年龄，却突然被选成新婚妻子。",
+            "VoiceFileName": "10204190270",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020419030,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "大黑",
+            "FontSize": 2,
+            "Phrase": "什么？你身为演员，还想拿年龄当借口？",
+            "VoiceFileName": "10204190280",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 110,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "202"
+        },
+        {
+            "Id": 1020419031,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "才不是那个意思～……只是说每个人都有擅长和不擅长的东西。/n不过嘛，以时雨的本事？很快就能把妻子的角色吃透啦。",
+            "VoiceFileName": "10204190290",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020419032,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 32,
+            "SpeakerName": "大黑",
+            "FontSize": 2,
+            "Phrase": "哦——？那就让我现在看看你的学习成果。",
+            "VoiceFileName": "10204190300",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "202"
+        },
+        {
+            "Id": 1020419033,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 33,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "哈？现在就要即兴表演吗？",
+            "VoiceFileName": "10204190310",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 110,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020419034,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 34,
+            "SpeakerName": "大黑",
+            "FontSize": 2,
+            "Phrase": "对，就是这样。这里本来就是排练场吧？/n既然是练戏的地方，演戏有什么不对？",
+            "VoiceFileName": "10204190320",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "202"
+        },
+        {
+            "Id": 1020419035,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "真拿你没办法～。/n看来历任妻子的亡灵太黏人，已经开始纠缠新婚妻子了呢。",
+            "VoiceFileName": "10204190330",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020419036,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 36,
+            "SpeakerName": "大黑",
+            "FontSize": 2,
+            "Phrase": "哈！？谁什么时候纠缠谁了！？/n是因为你一直演不好，我才陪你练习——",
+            "VoiceFileName": "10204190340",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 511,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "202"
+        },
+        {
+            "Id": 1020419037,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 37,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "可事实就是，现在大黑前辈也一样，/n一直缠着时雨找茬嘛。",
+            "VoiceFileName": "10204190350",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 600,
+                    "BodyMotionMasterId": 28,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020419038,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 38,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "就因为初魅小姐把主演的新婚妻子交给时雨，/n能不能别吃醋呀？「前任女人」♪",
+            "VoiceFileName": "10204190360",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020419039,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 39,
+            "SpeakerName": "大黑",
+            "FontSize": 2,
+            "Phrase": "我说你啊……！我很喜欢自己这个前妻的角色！/n所以对什么新婚妻子根本一点兴趣都没有！",
+            "VoiceFileName": "10204190370",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 300,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "202"
+        },
+        {
+            "Id": 1020419040,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 40,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "嘛，确实。大黑前辈一看就很有「我要诅咒你～」的感觉。/n亡灵这个角色真的太适合你了，又阴沉又晦气。",
+            "VoiceFileName": "10204190380",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020419041,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 41,
+            "SpeakerName": "大黑",
+            "FontSize": 2,
+            "Phrase": "你这家伙……！给我等着……！",
+            "VoiceFileName": "10204190390",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "202"
+        },
+        {
+            "Id": 1020419042,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 42,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "你看，就像刚才那句。",
+            "VoiceFileName": "10204190400",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 600,
+                    "BodyMotionMasterId": 10,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020419043,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 43,
+            "SpeakerName": "大黑",
+            "FontSize": 2,
+            "Phrase": "啊……——",
+            "VoiceFileName": "10204190410",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 511,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "202"
+        },
+        {
+            "Id": 1020419044,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 44,
+            "SpeakerName": "大黑",
+            "FontSize": 2,
+            "Phrase": "唔……！",
+            "VoiceFileName": "10204190420",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 110,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "202"
+        },
+        {
+            "Id": 1020419045,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 45,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 1020419046,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 46,
+            "SpeakerName": "泰特拉",
+            "FontSize": 2,
+            "Phrase": "排练看来很顺利啊。……大家表情都很好，很有活力。/n你的Eden，已经成了个很不错的剧团嘛。",
+            "VoiceFileName": "10204190430",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "206"
+        },
+        {
+            "Id": 1020419047,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 47,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "嗯，我也这么觉得。/n照这样下去，超越泰特拉那个时代的日子，应该也不远了。",
+            "VoiceFileName": "10204190440",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020419048,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 48,
+            "SpeakerName": "泰特拉",
+            "FontSize": 2,
+            "Phrase": "哈，口气不小嘛。/n我还真希望你们能做到。",
+            "VoiceFileName": "10204190450",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "206"
+        },
+        {
+            "Id": 1020419049,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 49,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "尽管期待吧。/n总有一天，会让你看到的。",
+            "VoiceFileName": "10204190460",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020419050,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 50,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（我们一定会实现梦想。/n　为此，「普罗米修斯奖」一定要拿下……）",
+            "VoiceFileName": "10204190470",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 3,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020419051,
+            "EpisodeMasterId": 1020419,
+            "Order": 1,
+            "GroupOrder": 51,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（不过，拿奖并不是终点。/n　道路的前方，还需要下一个路标。）",
+            "VoiceFileName": "10204190480",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 8,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        }
+    ]
+}

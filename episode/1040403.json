@@ -1,0 +1,887 @@
+{
+  "EpisodeId": 1040403,
+  "StoryType": 1,
+  "Order": 3,
+  "Prev": 1040402,
+  "Next": 1040404,
+  "Chapter": "剧团电姬　第4章",
+  "Title": "迈向电姬的新篇章",
+  "EpisodeDetail": [
+    {
+      "Id": 1040403001,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "剧团成员A·B",
+      "FontSize": 2,
+      "Phrase": "“既然是试镜，之前演过主要角色的人会更有利吧？”/n“反了反了！　就是为了让更多不同的人都有机会！”",
+      "BackgroundImageFileName": "900",
+      "BgmFileName": "302",
+      "VoiceFileName": "10404030010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040403002,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "剧团成员C·D",
+      "FontSize": 2,
+      "Phrase": "“说到《绿野仙踪》，大概会录取多少人啊？”/n“我想冲桃乐丝！　稻草人也行，不过难得有机会嘛。”",
+      "VoiceFileName": "10404030020",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040403003,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "哇～，大家已经马上开始意识到试镜了。/n怎么说呢，感觉跟以前的电姬不太一样……。",
+      "VoiceFileName": "10404030030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040403004,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "啊，确实跟崇尚自由的电姬氛围不太一样……/n不过Boss说的“绝佳机会”，我也赞同。",
+      "VoiceFileName": "10404030040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 40403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 1040403005,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "若永远停留在同一个地方，陷入停滞，/n总有一天会被世界甩在身后……。",
+      "VoiceFileName": "10404030050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 40403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 1040403006,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "到那时，电姬再次陷入财政困难也并非不可能……。/n换言之，我们电姬必须不断进化。",
+      "VoiceFileName": "10404030060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 1040403007,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "我等电子之姬，绝不能错过这个机会……/n必须持续掀起革命性的进步……就是这个意思。",
+      "VoiceFileName": "10404030070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 1040403008,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "唔——……进化啊。/n确实一直重复一样的东西，也挺无聊的。",
+      "VoiceFileName": "10404030080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040403009,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "当然，我们以前也一直为了让观众开心，/n做过各种尝试和调整。",
+      "VoiceFileName": "10404030090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040403010,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "但要是还能变得更好，那当然最好！/n挑战新东西虽然会让人紧张，但也很让人兴奋！",
+      "VoiceFileName": "10404030100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040403011,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "这样电姬能更有人气、更热闹，观众也能玩得开心，/n一石二鸟，大家Happy不就完了！",
+      "VoiceFileName": "10404030110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040403012,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "听了蕾姐和卡米拉的话……感觉稍微有点勇气了。",
+      "VoiceFileName": "10404030120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1040403013,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "有试镜，又有Horoscope Season……总觉得比平时更需要努力，/n所以之前一直特别紧张……。",
+      "VoiceFileName": "10404030130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1040403014,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "能让更多人知道电姬，本来就是好事……/n发生变化，也不一定是坏事……对吧。",
+      "VoiceFileName": "10404030140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1040403015,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "可能不会只有开心的事……但是，/n积极地把它当成机会，也没什么不好。",
+      "VoiceFileName": "10404030150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1040403016,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "对对！　肩膀太僵，表演也会跟着僵。/n来，笑一个笑一个！",
+      "VoiceFileName": "10404030160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040403017,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "……虽然这么说，其实我自己也有一点紧张……。/n可想再多也没用，只能往前看狠狠干了吧！",
+      "VoiceFileName": "10404030170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040403018,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "剧团成员A·B",
+      "FontSize": 2,
+      "Phrase": "“原来大家想的都差不多啊……”/n“不过多亏蕾前辈她们，我好像也稍微放松点了～”",
+      "VoiceFileName": "10404030180",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040403019,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "剧团成员C·D",
+      "FontSize": 2,
+      "Phrase": "“只能让他们看看全新的电姬了！”/n“嚯嚯，New Type吗……等等，这梗是不是太老了？”",
+      "VoiceFileName": "10404030190",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040403020,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "诶，什么什么，怎么突然这么热闹？/n大家都超有干劲了啊。呃～……。",
+      "VoiceFileName": "10404030200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040403021,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "我最嫌这种麻烦事，Pass～。/n电姬诸君，就替我好好加油吧～。",
+      "VoiceFileName": "10404030210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 24,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040403022,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "别这么说嘛！　叶羽也一起努力吧！　好不好！/n没有叶羽，就没有现在的电姬！",
+      "VoiceFileName": "10404030220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040403023,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "诶～？/n我就算了，好麻烦。",
+      "VoiceFileName": "10404030230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040403024,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "你不想被试镜选中吗？/n明明叶羽不管演什么角色都很合适……。",
+      "VoiceFileName": "10404030240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040403025,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "无所谓～。该做的我会做，但我可没打算为了这个拼命～。/n我准备按自己的节奏来。",
+      "VoiceFileName": "10404030250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040403026,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "……倒是伊吕波，你好像干劲十足？",
+      "VoiceFileName": "10404030260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040403027,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "是！　当然！　《绿野仙踪》里，/n我会努力争取选上主要角色！",
+      "VoiceFileName": "10404030270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040403028,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "哦～。/n虽然搞不太懂你为什么这么认真，总之加油吧～。",
+      "VoiceFileName": "10404030280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040403029,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "谢谢叶羽！/n我会非常非常努力！",
+      "VoiceFileName": "10404030290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040403030,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（如果下一场公演能让我演桃乐丝……/n　再得到世界演剧联盟的认可……）",
+      "VoiceFileName": "10404030300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040403031,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（我就能做出不辱千寿家之名的表现，祖母一定也会……。/n　这样的话，姐姐肩上的负担应该也能稍微轻一点……）",
+      "VoiceFileName": "10404030310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040403032,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（而且……只要一直努力，说不定有一天我也会拥有Sense，/n　美好的Happy End，一定会像魔法一样来到我身边……）",
+      "VoiceFileName": "10404030320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040403033,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（正因为我相信这一点……我才……。/n　那时候没能演成的桃乐丝，这次我一定要演给大家看！）",
+      "VoiceFileName": "10404030330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 14,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040403034,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "BgmFileName": "999",
+      "VoiceFileName": "10404030340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "BodyMotionMasterId": 3,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040403035,
+      "EpisodeMasterId": 1040403,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "（伊吕波这家伙，好像绷得太紧了啊～。/n　别又像以前那样，一个人冲过头才好……）",
+      "VoiceFileName": "10404030350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    }
+  ]
+}

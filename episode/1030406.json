@@ -1,0 +1,962 @@
+{
+  "EpisodeId": 1030406,
+  "StoryType": 1,
+  "Order": 6,
+  "Prev": 1030405,
+  "Next": 1030407,
+  "Chapter": "銀河座　4章",
+  "Title": "分配的角色与重压",
+  "EpisodeDetail": [
+    {
+      "Id": 1030406001,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "大家都到齐了。/n那么现在公布《桥弁庆》的角色分配。",
+      "BackgroundImageFileName": "670",
+      "BgmFileName": "23",
+      "VoiceFileName": "10304060010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406002,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "这次是世界演剧联盟的人会到场的重要舞台。/n所有角色都由我们直接指定。",
+      "VoiceFileName": "10304060020",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406003,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "马上公布。/n首先是两位主角之一，弁庆——千寿历。",
+      "VoiceFileName": "10304060030",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406004,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "！……是。我会竭尽全力演好。",
+      "VoiceFileName": "10304060040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 30103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030406005,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（终于……还是来了）",
+      "VoiceFileName": "10304060050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030406006,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "接下来，另一位主角牛若丸——与那国绯花里。",
+      "VoiceFileName": "10304060060",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406007,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "咦？啊、是！我会拼尽全力！！",
+      "VoiceFileName": "10304060070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 3,
+          "SpineId": 30503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1030406008,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "銀河座劇団員A",
+      "FontSize": 2,
+      "Phrase": "千寿历前辈的对手戏，居然是绯花里前辈？/n对绯花里前辈来说，这算是大跃进吧？",
+      "VoiceFileName": "10304060080",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406009,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "銀河座劇団員B",
+      "FontSize": 2,
+      "Phrase": "在世界演剧联盟的人会来看的一场舞台上当主角，/n真好啊……好羡慕。",
+      "VoiceFileName": "10304060090",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406010,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "（怎么办、怎么办……！/n　我、我真的成主角了……！）",
+      "VoiceFileName": "10304060100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "SpineId": 30503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1030406011,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "太好了，绯花里！",
+      "VoiceFileName": "10304060110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030406012,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "嗯！谢谢你，拉莫姐！",
+      "VoiceFileName": "10304060120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 30503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1030406013,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "弁庆的随从，忍者——拉莫娜·沃尔芙。",
+      "VoiceFileName": "10304060130",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406014,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "是，请多关照。",
+      "VoiceFileName": "10304060140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030406015,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（这次看来也是和千寿历互动很多的角色。/n　我要全力挑战，争取能在舞台上支撑她）",
+      "VoiceFileName": "10304060150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030406016,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "牛若丸的母亲——王雪。",
+      "VoiceFileName": "10304060160",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406017,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "……是……。",
+      "VoiceFileName": "10304060170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 30303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030406018,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "（又是戏份很少的角色……！/n　这不就和《麦克白》那次完全一样吗……！）",
+      "VoiceFileName": "10304060180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030406019,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "京都百姓之一——鹿岛志穗。/n另一位京都百姓——宽·松甘。",
+      "VoiceFileName": "10304060190",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406020,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "志穗、宽",
+      "FontSize": 2,
+      "Phrase": "是！",
+      "VoiceFileName": "10304060200",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406021,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "最后，是弁庆与牛若丸的敌人——鬼，/n桥姬——莉莉亚·库尔特贝。",
+      "VoiceFileName": "10304060210",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406022,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……是。",
+      "VoiceFileName": "10304060220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 30403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 1030406023,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "银河座团员C",
+      "FontSize": 2,
+      "Phrase": "莉莉亚前辈演桥姬……！",
+      "VoiceFileName": "10304060230",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406024,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "银河座团员D",
+      "FontSize": 2,
+      "Phrase": "看过她演麦克白夫人之后，这选角确实让人信服呢——。",
+      "VoiceFileName": "10304060240",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406025,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "（与弁庆和牛若丸对峙的鬼……。/n　那就只需要追求比任何人都美、也比任何人都恐怖的鬼）",
+      "VoiceFileName": "10304060250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 14,
+          "SpineId": 30403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 1030406026,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "（肮脏，又美丽的我）",
+      "VoiceFileName": "10304060260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 1030406027,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "这是综合考虑各自适性后作出的决定。不接受异议。/n演出方面，也会采取符合这一剧目的高规格形式。",
+      "VoiceFileName": "10304060270",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406028,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "銀河座劇団員達",
+      "FontSize": 2,
+      "Phrase": "是！",
+      "VoiceFileName": "10304060280",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406029,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "正式排练开始后，我会再说明。/n……还有，与那国。",
+      "VoiceFileName": "10304060290",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406030,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "是、是！",
+      "VoiceFileName": "10304060300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 3,
+          "SpineId": 30503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1030406031,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "你这次是千寿的对手戏。/n牛若丸的完成度，会直接影响与之相对的弁庆能否闪耀。",
+      "VoiceFileName": "10304060310",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406032,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "认清这一点，之后的排练好好努力。",
+      "VoiceFileName": "10304060320",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406033,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "是，我明白！/n我会努力展现出好的表演！",
+      "VoiceFileName": "10304060330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 2,
+          "SpineId": 30503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1030406034,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "（呼……吓死我了～！不过老师会特意这样提醒我，/n　也说明他对我有所期待……对吧？）",
+      "VoiceFileName": "10304060340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 11,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1030406035,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "（好——更得努力了！我可不想拖千寿历的后腿！）",
+      "VoiceFileName": "10304060350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1030406036,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "銀河座劇団員A",
+      "FontSize": 2,
+      "Phrase": "与那国前辈没问题吧……。/n老师也不用给她那么大压力吧。",
+      "VoiceFileName": "10304060360",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406037,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "銀河座劇団員B",
+      "FontSize": 2,
+      "Phrase": "而且《桥弁庆》本来就是能乐和歌舞伎里会演的舞台吧？/n莉莉亚前辈她们应该也不熟悉，会不会很难？",
+      "VoiceFileName": "10304060370",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406038,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……就像大家说的，《桥弁庆》的古典色彩相当浓。/n没想到偏偏会在这个时候演它。",
+      "VoiceFileName": "10304060380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030406039,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "和《辉夜姬》不一样？",
+      "VoiceFileName": "10304060390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 30403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 1030406040,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "《辉夜姬》……《竹取物语》确实也是古典文学，/n不过氛围还是有些不同。",
+      "VoiceFileName": "10304060400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030406041,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "要更严谨，或者说台词表达方式也很独特。/n而且原型还是刚毅的僧人与武将源义经。",
+      "VoiceFileName": "10304060410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030406042,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "别说外国人不熟悉，/n即便日本出身的人，恐怕也会被要求拿出很高水平的演技。",
+      "VoiceFileName": "10304060420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030406043,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "哦……不过我要做的事不会变。/n依旧只是保持美丽。",
+      "VoiceFileName": "10304060430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 1030406044,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "莉莉亚始终很一致啊。/n我也同样只是做自己该做的事，不过……。",
+      "VoiceFileName": "10304060440",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030406045,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "银河座团员C",
+      "FontSize": 2,
+      "Phrase": "一定没问题的，拉莫娜前辈。/n大家齐心协力，一起努力吧！",
+      "VoiceFileName": "10304060450",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030406046,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……嗯，说得对。",
+      "VoiceFileName": "10304060460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030406047,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "（大家都在骚动。嘛，也没办法。/n　这大概会成为比上一次更重要的公演）",
+      "VoiceFileName": "10304060470",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "SpineId": 30303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030406048,
+      "EpisodeMasterId": 1030406,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "（比起这个……为什么老师要对绯花里说那种话？/n　偏偏在那种场合，特意拿千寿历来比较……）",
+      "VoiceFileName": "10304060480",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    }
+  ]
+}

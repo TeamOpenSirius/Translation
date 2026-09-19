@@ -1,0 +1,1046 @@
+{
+  "EpisodeId": 110161,
+  "StoryType": 3,
+  "Order": 1,
+  "Prev": null,
+  "Next": 110162,
+  "Chapter": "银河座",
+  "Title": "每天都很充实",
+  "EpisodeDetail": [
+    {
+      "Id": 110161001,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "学生A",
+      "FontSize": 2,
+      "Phrase": "OK，视频拍好了！　这个是不是超不错？/n绯花亲的舞跳得也太利落了吧！",
+      "BackgroundImageFileName": "60",
+      "BgmFileName": "202",
+      "VoiceFileName": "1101610010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110161002,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "嘿嘿——！　好，发布！",
+      "VoiceFileName": "1101610020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 30502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 110161003,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "学生B",
+      "FontSize": 2,
+      "Phrase": "不得了！　一秒就有人点赞了！/n而且通知根本停不下来！",
+      "VoiceFileName": "1101610030",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110161004,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "王雪！　快看快看！　出大事了！",
+      "VoiceFileName": "1101610040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 25,
+          "SpineId": 30302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 18,
+          "LipSyncMasterId": 1,
+          "SpineId": 30502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 110161005,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "怎么，你在搞视频直播？",
+      "VoiceFileName": "1101610050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 110161006,
+      "EpisodeMasterId": 110161,
+      "Order": 2,
+      "GroupOrder": 5,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "想让我出镜就付兼职费。",
+      "VoiceFileName": "1101610051",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 110161007,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "我哪有那么多钱，雇不起你啦～。",
+      "VoiceFileName": "1101610060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 201,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 110161008,
+      "EpisodeMasterId": 110161,
+      "Order": 2,
+      "GroupOrder": 6,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "啊，像刚才那种视频也不行？",
+      "VoiceFileName": "1101610061",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 110161009,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "视频？　那是什么？",
+      "VoiceFileName": "1101610070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 110161010,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "锵——！　这是刚才拍的视频。/n已经有一万次播放了。大爆款呢！",
+      "VoiceFileName": "1101610080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 110161011,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "……啊，老家的爸爸也帮我转发了。/n他说“视频看了哦”。总觉得有点害羞——！",
+      "VoiceFileName": "1101610090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 110161012,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "视频就是短视频啊……。/n真要做还不如直播，赚得更多吧？",
+      "VoiceFileName": "1101610100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 110161013,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "像现在这样边吃零食边随便聊聊天/n就行了，也挺轻松吧？",
+      "VoiceFileName": "1101610110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 110161014,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "这个嘛……也是这样没错啦——……？",
+      "VoiceFileName": "1101610120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 30502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 110161015,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "学生A",
+      "FontSize": 2,
+      "Phrase": "绯花亲光直播时吃的零食费/n就能把零花钱吃光嘛——。",
+      "VoiceFileName": "1101610130",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110161016,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "啊——。确实，这家伙很能吃。",
+      "VoiceFileName": "1101610140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 30302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 110161017,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "唔——，我又不只是吃东西。/n训练也要花钱的！",
+      "VoiceFileName": "1101610150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 30502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 110161018,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "比如？",
+      "VoiceFileName": "1101610160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 30302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 110161019,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "蛋白粉！　训练绝对少不了！/n最近还有好多好喝的口味！",
+      "VoiceFileName": "1101610170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 110161020,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "我推荐可可味和香蕉味混起来！/n用蛋白粉烤的松饼也很好吃哦——！",
+      "VoiceFileName": "1101610180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 110161021,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "学生A",
+      "FontSize": 2,
+      "Phrase": "等等，你不还是只在说吃的吗？",
+      "VoiceFileName": "1101610190",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110161022,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "啊，真的。哈哈哈哈……。",
+      "VoiceFileName": "1101610200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 2,
+          "SpineId": 30502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 110161023,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "学生B",
+      "FontSize": 2,
+      "Phrase": "喂——，绯花里——。/n美兔前辈来找你哦？",
+      "VoiceFileName": "1101610210",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110161024,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "啊，不用……其实不是什么大事，没必要特地叫她，/n那个……。",
+      "VoiceFileName": "1101610220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 40202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 110161025,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "美兔！　难道你也看我的视频了？",
+      "VoiceFileName": "1101610230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 30502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 110161026,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "视频？　啊，对、对不起，时机不太巧……。/n美兔是那个……发、发现了一家店，所以想一起……。",
+      "VoiceFileName": "1101610240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 40202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 110161027,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "嗯？",
+      "VoiceFileName": "1101610250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 110161028,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "一、一起去吃和果子……好吗？/n前阵子挖到一家店，真的特别好吃……。",
+      "VoiceFileName": "1101610260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 110161029,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "啊，不过……你不感兴趣的话也没关系——",
+      "VoiceFileName": "1101610270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 110161030,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "我超级高兴呀——！",
+      "VoiceFileName": "1101610280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 110161031,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "诶、诶……？",
+      "VoiceFileName": "1101610290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 40202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 110161032,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "视频也火了，和大家一起吃零食也最棒！",
+      "VoiceFileName": "1101610300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 30502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 110161033,
+      "EpisodeMasterId": 110161,
+      "Order": 2,
+      "GroupOrder": 30,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "而且前辈还约我去吃点心！　今天真是个好日子！",
+      "VoiceFileName": "1101610301",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 110161034,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "当然去！　不如现在马上就去！/n美兔的甜品雷达从来不会踩雷！",
+      "VoiceFileName": "1101610310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 26,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 110161035,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "你刚才不是还在吃零食吗？/n还要吃？　会胖的哦。",
+      "VoiceFileName": "1101610320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 30302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 110161036,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "没事！　全力跑到店里，热量就归零！/n我先走啦——！",
+      "VoiceFileName": "1101610330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 30502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 110161037,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "啊啊，等等，绯花里！？/n那家店今天……休息啊！",
+      "VoiceFileName": "1101610340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 40202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 110161038,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "学生A",
+      "FontSize": 2,
+      "Phrase": "绯花亲真有精神啊～。/n每天都过得好充实。耀眼……！",
+      "VoiceFileName": "1101610350",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110161039,
+      "EpisodeMasterId": 110161,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "我倒希望她稍微安静一点……。",
+      "VoiceFileName": "1101610360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    }
+  ]
+}

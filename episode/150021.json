@@ -1,0 +1,642 @@
+{
+    "EpisodeId": 150021,
+    "StoryType": 3,
+    "Order": 1,
+    "Prev": null,
+    "Next": 150022,
+    "Chapter": "Bomb Interruption !!",
+    "Title": "懒散的惩戒官与游击队",
+    "EpisodeDetail": [
+        {
+            "Id": 150021001,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "反抗军成员A",
+            "FontSize": 2,
+            "Phrase": "哈、哈……呼，这附近应该差不多了。/n这里绝望圈的家伙们，一定会吓一大跳吧！",
+            "BackgroundImageFileName": "1300",
+            "BgmFileName": "401",
+            "VoiceFileName": "1500210010",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150021002,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "反抗军成员B",
+            "FontSize": 2,
+            "Phrase": "完全打了对方一个措手不及呢。/n这一切都多亏时雨大人的精准指挥！",
+            "VoiceFileName": "1500210020",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150021003,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "喂～别闲聊了，动作麻利点啦～！/n趁着晚上没人注意，才是最好的机会～！",
+            "VoiceFileName": "1500210030",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 104,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20534,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 150021004,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "反抗军成员们",
+            "FontSize": 2,
+            "Phrase": "是！明白了，时雨大人！",
+            "VoiceFileName": "1500210040",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150021005,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "呵呵，感觉不错嘛♪/n不过，只要时雨出马？这种事当然轻轻松松啦♪",
+            "VoiceFileName": "1500210050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20534,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 150021006,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "反抗军成员C",
+            "FontSize": 2,
+            "Phrase": "你那边怎么样？",
+            "VoiceFileName": "1500210060",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150021007,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "反抗军成员D",
+            "FontSize": 2,
+            "Phrase": "嗯，这边的炸弹已经装好了。/n接下来只要点火就行。",
+            "VoiceFileName": "1500210070",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150021008,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "其实啊～这里绝望圈的惩戒官，可是出了名的超级懒～。/n也多亏这样，我们才这么轻松就潜进来了呢♪",
+            "BackgroundCharacterImageFileName": "150020_0",
+            "VoiceFileName": "1500210080",
+            "CharacterMotions": [],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 150021009,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "首先，把这个地方彻底炸掉～，/n再把革命的火种扩散到更多绝望圈。明白了吗～？",
+            "VoiceFileName": "1500210090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 10,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20534,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 150021010,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "反抗军成员们",
+            "FontSize": 2,
+            "Phrase": "是！一切遵从时雨大人的意志！",
+            "VoiceFileName": "1500210100",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150021011,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "（我们这些成员，全～都是时雨的忠实信徒。/n　在时雨的“Sense”作用下，对时雨的支持度比平时还要暴涨♪）",
+            "VoiceFileName": "1500210110",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 15,
+                    "SpineId": 20534,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 150021012,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "（也就是说，现在无论时雨说什～么，他们都会乖乖听话。/n　这不是已经等于赢了吗？而且对手看起来也没什么干劲～）",
+            "VoiceFileName": "1500210120",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 150021013,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 13,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.10000000149011612,
+            "FadeValue2": 0.20000000298023224,
+            "FadeValue3": 0.10000000149011612
+        },
+        {
+            "Id": 150021014,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "……这样就准备完毕啦♪",
+            "VoiceFileName": "1500210130",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20534,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 150021015,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 15,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1600",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "23",
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150021016,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "哈啊～，什么时候才能结束啊～。",
+            "VoiceFileName": "1500210140",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 72,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40534,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 150021017,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 17,
+            "FontSize": 2,
+            "Phrase": "",
+            "SeFileName": "50",
+            "CharacterMotions": []
+        },
+        {
+            "Id": 150021018,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "呃……有通信进来……。/n不想接，可不接又会被骂……。",
+            "VoiceFileName": "1500210150",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 106,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40534,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 150021019,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "喂～这里是叶羽。目前本人不在——",
+            "VoiceFileName": "1500210160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 150021020,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "？？？",
+            "FontSize": 2,
+            "Phrase": "叶羽小姐！您到底在胡闹些什么？/n今天的进度报告还没有送来呢。",
+            "VoiceFileName": "1500210170",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150021021,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "？？？",
+            "FontSize": 2,
+            "Phrase": "您那边情况怎么样？/n有好好顺利推进吗？",
+            "VoiceFileName": "1500210180",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150021022,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "啊，嗯，那当然。/n完全没问题——。一切OK。",
+            "VoiceFileName": "1500210190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40534,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 150021023,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "？？？",
+            "FontSize": 2,
+            "Phrase": "唉……您的实力，我是认可的。/n但是叶羽小姐，实在太缺乏上进心了。",
+            "VoiceFileName": "1500210200",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150021024,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "？？？",
+            "FontSize": 2,
+            "Phrase": "以您原本的能力，明明可以做得更多。/n可最近不是一直只完成最低限度的指标吗。",
+            "VoiceFileName": "1500210210",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150021025,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "？？？",
+            "FontSize": 2,
+            "Phrase": "您要是不认真起来，我会很困扰的。/n有在听吗，叶羽小姐？",
+            "VoiceFileName": "1500210220",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150021026,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "好好好，我知道了啦。/n那有事再联系～就这样～。",
+            "VoiceFileName": "1500210230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 12,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40534,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 150021027,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "？？？",
+            "FontSize": 2,
+            "Phrase": "等、等等，叶羽小姐！？进一步采集资源的事，/n就拜托您了……！？叶羽小——",
+            "VoiceFileName": "1500210240",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150021028,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "哈啊啊～……。/n真是的，总是这么啰嗦。",
+            "VoiceFileName": "1500210250",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 27,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 40534,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 150021029,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "（指标我明明有好好完成，/n　真心希望能放过我……）",
+            "VoiceFileName": "1500210260",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 150021030,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "（而且，想让Stellarium的产量超过一定程度，/n　设备检查的频率也得提高……）",
+            "VoiceFileName": "1500210270",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 150021031,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "（然后，还得增加监视劳动者的人手，/n　总之就是要动脑，麻烦死了）",
+            "VoiceFileName": "1500210280",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 150021032,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 32,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "（现在我就算只睡觉，也能把指标量赚出来，/n　反正没问题吧）",
+            "VoiceFileName": "1500210290",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 17,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 150021033,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 33,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "哈啊啊～……好困……。/n稍微睡个午觉、睡个午觉……——",
+            "VoiceFileName": "1500210300",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 70,
+                    "BodyMotionMasterId": 23,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 150021034,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 34,
+            "FontSize": 2,
+            "Phrase": "",
+            "BgmFileName": "999",
+            "SeFileName": "1660",
+            "CharacterMotions": []
+        },
+        {
+            "Id": 150021035,
+            "EpisodeMasterId": 150021,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "……哈？",
+            "VoiceFileName": "1500210310",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 106,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40534,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        }
+    ]
+}

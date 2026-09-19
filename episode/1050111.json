@@ -1,0 +1,711 @@
+{
+  "EpisodeId": 1050111,
+  "StoryType": 1,
+  "Order": 11,
+  "Prev": 1050110,
+  "Next": 1050112,
+  "Chapter": "最终章",
+  "Title": "战友们",
+  "EpisodeDetail": [
+    {
+      "Id": 1050111001,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "银河座剧团成员们",
+      "FontSize": 2,
+      "Phrase": "「啊——太厉害了……」「喂！现在可不是发呆的时候！」/n「下一个就轮到我们了」「灯光和音响麻烦再检查一遍！」",
+      "BackgroundImageFileName": "473",
+      "BgmFileName": "202",
+      "VoiceFileName": "10501110010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050111002,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "雪",
+      "FontSize": 2,
+      "Phrase": "千寿历的演技……比平时还要更加精湛了。",
+      "VoiceFileName": "10501110020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1050111003,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "嗯。四年一度的Dai Star盛典……对许多志在更高处的演员来说，/n能站上世界演剧联盟的舞台，本身就是一个目标。",
+      "VoiceFileName": "10501110030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1050111004,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "雪",
+      "FontSize": 2,
+      "Phrase": "太震撼了。/n看过那么完美的演技，实在挑不出任何毛病。",
+      "VoiceFileName": "10501110040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1050111005,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "雪",
+      "FontSize": 2,
+      "Phrase": "不过身为演员，总不能只在旁边看着就满足吧？/n德国人。",
+      "VoiceFileName": "10501110050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1050111006,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "嗯……当然。/n接下来，轮到我们了。",
+      "VoiceFileName": "10501110060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1050111007,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "各位，虽然马上就要正式上场了——但请听我说几句。",
+      "BgmFileName": "999",
+      "VoiceFileName": "10501110070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1050111008,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "银河座剧团成员们",
+      "FontSize": 2,
+      "Phrase": "「拉莫娜在叫我们！」「怎么了？拉莫姐」",
+      "VoiceFileName": "10501110080",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050111009,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "我想跟大家说点事情。",
+      "BgmFileName": "201",
+      "VoiceFileName": "10501110090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1050111010,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……我刚来到银河座的时候，剧团里的人际关系冷得像冰。/n一切以实力为准，几乎感受不到成员之间的横向联系。",
+      "VoiceFileName": "10501110100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1050111011,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "我一直想改变那种状况。",
+      "VoiceFileName": "10501110110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1050111012,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "戏剧不是一个人就能完成的。只有成员们携起手来，/n才能共同创造出更好的作品——我想把这一点告诉大家。",
+      "VoiceFileName": "10501110120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1050111013,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "关于成员之间相互切磋、共同进步的意义，/n至今为止，我也一直用自己的方式向银河座的大家传达。",
+      "VoiceFileName": "10501110130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1050111014,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "比如办工作坊，听大家说说烦恼和意见。",
+      "VoiceFileName": "10501110140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1050111015,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "銀河座劇団員Ａ",
+      "FontSize": 2,
+      "Phrase": "拉莫娜的工作坊真的特别好！/n虽然被银河座上面的大人物狠狠训了一顿……。",
+      "VoiceFileName": "10501110150",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050111016,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "銀河座劇団員Ｂ",
+      "FontSize": 2,
+      "Phrase": "以前我连演戏方面的烦恼都不敢跟别人说，/n多亏拉莫娜愿意听，我轻松了很多。",
+      "VoiceFileName": "10501110160",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050111017,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "能有人这么说，我很高兴。感觉连我自己也得到了救赎。",
+      "VoiceFileName": "10501110170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1050111018,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……不过，在历史悠久的银河座里，/n有人抱着与我不同的想法，也是理所当然的。",
+      "VoiceFileName": "10501110180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1050111019,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "就算我想证明自己的想法有意义，以我的演技，又远不及千寿历。/n和她相比，我在银河座里实在太缺乏说服力。",
+      "VoiceFileName": "10501110190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1050111020,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "銀河座劇団員Ａ",
+      "FontSize": 2,
+      "Phrase": "怎么会……。",
+      "VoiceFileName": "10501110200",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050111021,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "不，刚才看过Dai Star们的演技，我又一次深切体会到了。/n我的实力还远远不够。",
+      "VoiceFileName": "10501110210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1050111022,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "银河座剧团成员们",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "10501110220",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050111023,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "即便如此，作为银河座的演员，/n我也必须证明自己是有资格踏向天顶之星的人。",
+      "VoiceFileName": "10501110230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 4,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1050111024,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "銀河座劇団員Ｂ",
+      "FontSize": 2,
+      "Phrase": "拉莫娜……。",
+      "VoiceFileName": "10501110240",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050111025,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "我们都是一同奔向天顶的战友。/n不只有千寿历……我们也要证明，身为星辰的我们同样在闪耀。",
+      "VoiceFileName": "10501110250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1050111026,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "银河座剧团成员们",
+      "FontSize": 2,
+      "Phrase": "「拉莫娜……」「好，就让他们大吃一惊吧！」/n「我们也很快会追上千寿历她们的！」",
+      "VoiceFileName": "10501110260",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050111027,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……是不是说得有点太多了？/n不过，谢谢你们愿意听我说，各位。",
+      "VoiceFileName": "10501110270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1050111028,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "雪",
+      "FontSize": 2,
+      "Phrase": "喂，座长。/n刚才那番「演说」还不赖嘛。",
+      "VoiceFileName": "10501110280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1050111029,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "王雪……谢谢。/n没想到居然会从你嘴里听到这种话。",
+      "VoiceFileName": "10501110290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1050111030,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……大家今天的表情尤其不错呢。/n好了，我们走吧！",
+      "VoiceFileName": "10501110300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1050111031,
+      "EpisodeMasterId": 1050111,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "银河座剧团成员们",
+      "FontSize": 2,
+      "Phrase": "是！",
+      "VoiceFileName": "10501110310",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    }
+  ]
+}

@@ -1,0 +1,886 @@
+{
+    "EpisodeId": 1020117,
+    "StoryType": 1,
+    "Order": 17,
+    "Prev": 1020116,
+    "Next": 1020118,
+    "Chapter": "Eden 1章",
+    "Title": "特托拉与初魅",
+    "EpisodeDetail": [
+        {
+            "Id": 1020117001,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "特托拉",
+            "FontSize": 2,
+            "Phrase": "初魅，你的魅影还不够成熟。/n把这个角色更深层的东西表现出来！",
+            "BackgroundImageFileName": "170",
+            "BgmFileName": "23",
+            "VoiceFileName": "10201170010",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 300,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 20601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "206"
+        },
+        {
+            "Id": 1020117002,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "明白了……。/n特托拉女士，再陪我完整走一遍……！",
+            "VoiceFileName": "10201170020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 104,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020117003,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "……那个，你们两个……今天要不就到这里吧？/n时间已经很晚了……。",
+            "VoiceFileName": "10201170030",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 201,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 1020117004,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "特托拉",
+            "FontSize": 2,
+            "Phrase": "抱歉，还得再陪我一会儿。/n现在一松懈，感觉就会一下子全垮掉……！",
+            "VoiceFileName": "10201170040",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 104,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 20601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "206"
+        },
+        {
+            "Id": 1020117005,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "就是这样。/n你们也各自把自己的演技重新梳理一遍。",
+            "VoiceFileName": "10201170050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 109,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 100,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "SpineId": 20403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020117006,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "呼……现在说什么都没用了。/n那两个人已经彻底钻进表演里了。",
+            "VoiceFileName": "10201170060",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 1020117007,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "仁花子",
+            "FontSize": 2,
+            "Phrase": "我正好也想重新看看连小姐给我的建议，/n留下加练正合我意！",
+            "VoiceFileName": "10201170070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "203"
+        },
+        {
+            "Id": 1020117008,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "大黑",
+            "FontSize": 2,
+            "Phrase": "和仁花亲一样……。",
+            "VoiceFileName": "10201170080",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 102,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "202"
+        },
+        {
+            "Id": 1020117009,
+            "EpisodeMasterId": 1020117,
+            "Order": 2,
+            "GroupOrder": 8,
+            "SpeakerName": "大黑",
+            "FontSize": 2,
+            "Phrase": "不过，小鬼差不多也到该睡觉的时间了吧……？",
+            "VoiceFileName": "10201170081",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 104,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "202"
+        },
+        {
+            "Id": 1020117010,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "啊哈，你以为你是在跟谁说话啊。",
+            "VoiceFileName": "10201170090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 27,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020117011,
+            "EpisodeMasterId": 1020117,
+            "Order": 2,
+            "GroupOrder": 9,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "我还完全撑得住好吗～？",
+            "VoiceFileName": "10201170091",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020117012,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "大家都这么有干劲啊……。/n没办法，我也陪你们吧。",
+            "VoiceFileName": "10201170100",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 101,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 20303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 1020117013,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "仁花子",
+            "FontSize": 2,
+            "Phrase": "那我们就从后半段所有人一起登场的场景开始全面复盘吧！",
+            "VoiceFileName": "10201170110",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "203"
+        },
+        {
+            "Id": 1020117014,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 12,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "141",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "999",
+            "CharacterMotions": [],
+            "FadeValue1": 0.30000001192092896,
+            "FadeValue2": 0.5,
+            "FadeValue3": 0.30000001192092896
+        },
+        {
+            "Id": 1020117015,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "特托拉",
+            "FontSize": 2,
+            "Phrase": "大家都好好送回去了吧？",
+            "BgmFileName": "403",
+            "VoiceFileName": "10201170120",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 104,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 20601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "206"
+        },
+        {
+            "Id": 1020117016,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "嗯。我也跟时雨的父母道过歉了。/n他们脸色可不怎么好看。",
+            "VoiceFileName": "10201170130",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020117017,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "特托拉",
+            "FontSize": 2,
+            "Phrase": "嘛，偶尔有这么一天也无妨。",
+            "VoiceFileName": "10201170140",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 20601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "206"
+        },
+        {
+            "Id": 1020117018,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "特托拉",
+            "FontSize": 2,
+            "Phrase": "那些孩子的演技准确度提高了不少。/n容不用担心，时雨和大黑也进步得相当明显。",
+            "VoiceFileName": "10201170150",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "206"
+        },
+        {
+            "Id": 1020117019,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "特托拉",
+            "FontSize": 2,
+            "Phrase": "仁花子也已经逐渐能驾驭劳尔了。/n大家给她的建议，看来都发挥了作用。",
+            "VoiceFileName": "10201170160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "HeadMotionMasterId": 1,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "206"
+        },
+        {
+            "Id": 1020117020,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "嗯。这样应该不用担心了。",
+            "VoiceFileName": "10201170170",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 20101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020117021,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "特托拉",
+            "FontSize": 2,
+            "Phrase": "……你还是一直走自己的路，完全不会动摇啊。/n明明这次公演受到的关注比以往高了那么多。",
+            "VoiceFileName": "10201170180",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "206"
+        },
+        {
+            "Id": 1020117022,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "这种程度的事，还不足以改变我的演技。/n特托拉女士不是很清楚吗？",
+            "VoiceFileName": "10201170190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 20101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020117023,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "特托拉",
+            "FontSize": 2,
+            "Phrase": "我到现在都记得很清楚。第一次见到你时，/n那双只想着自己想做什么、闪着野心光芒的眼睛。",
+            "VoiceFileName": "10201170200",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 20601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "206"
+        },
+        {
+            "Id": 1020117024,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "特托拉",
+            "FontSize": 2,
+            "Phrase": "这一点到现在也没变。/n但这样的你，却已经开始指导仁花子那样的新人了。",
+            "VoiceFileName": "10201170210",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "HeadMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "206"
+        },
+        {
+            "Id": 1020117025,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "这是为了我自己的舞台。做到这种程度当然是应该的吧？",
+            "VoiceFileName": "10201170220",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 24,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 20101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020117026,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "特托拉",
+            "FontSize": 2,
+            "Phrase": "你就是因为能这么轻描淡写地说出这种话，/n才一点都不可爱啊。",
+            "VoiceFileName": "10201170230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "206"
+        },
+        {
+            "Id": 1020117027,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "特托拉",
+            "FontSize": 2,
+            "Phrase": "真是跟我一模一样。",
+            "VoiceFileName": "10201170240",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "206"
+        },
+        {
+            "Id": 1020117028,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "嗯？你说什么？",
+            "VoiceFileName": "10201170250",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 20101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020117029,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "特托拉",
+            "FontSize": 2,
+            "Phrase": "我说，演员这种人，真的很有意思。",
+            "VoiceFileName": "10201170260",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 20601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "206"
+        },
+        {
+            "Id": 1020117030,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "特托拉",
+            "FontSize": 2,
+            "Phrase": "……总之，要是哪天我出了什么事，Eden就交给你了。",
+            "VoiceFileName": "10201170270",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "HeadMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "206"
+        },
+        {
+            "Id": 1020117031,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "特托拉",
+            "FontSize": 2,
+            "Phrase": "这个剧团已经是你的了。/n既然是为了自己，你也会好好照顾周围的人吧？",
+            "VoiceFileName": "10201170280",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "206"
+        },
+        {
+            "Id": 1020117032,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "……说得也是。/n如果是为了自己，我倒是有这个动力。",
+            "VoiceFileName": "10201170290",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 20101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020117033,
+            "EpisodeMasterId": 1020117,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "特托拉",
+            "FontSize": 2,
+            "Phrase": "呵呵……听你这么说，我就放心了。",
+            "VoiceFileName": "10201170300",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 20601,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "206"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+  "EpisodeId": 5007,
+  "StoryType": 4,
+  "Order": 1,
+  "Prev": null,
+  "Next": null,
+  "Chapter": null,
+  "Title": "居然还有流水素面扭蛋……",
+  "EpisodeDetail": [
+    {
+      "Id": 5007001,
+      "EpisodeMasterId": 5007,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "流水素面的扭蛋，到底谁会去抽啊……。",
+      "VoiceFileName": "50070010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 27,
+          "LipSyncMasterId": 4,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 5007002,
+      "EpisodeMasterId": 5007,
+      "Order": 2,
+      "GroupOrder": 1,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "不对，知冴亲好像真的会抽。",
+      "VoiceFileName": "50070011",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 5007003,
+      "EpisodeMasterId": 5007,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "那就让善良的潘达/n当作给知冴亲的伴手礼，帮她抽一个吧！",
+      "VoiceFileName": "50070020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    }
+  ]
+}

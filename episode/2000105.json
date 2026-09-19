@@ -1,0 +1,1831 @@
+{
+  "EpisodeId": 2000105,
+  "StoryType": 2,
+  "Order": 5,
+  "Prev": 2000104,
+  "Next": 2000106,
+  "Chapter": "god is no /w/ here",
+  "Title": "舞台的主角",
+  "EpisodeDetail": [
+    {
+      "Id": 2000105001,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "哈啊～啊……。/n……潘达的视频……。",
+      "BackgroundImageFileName": "1130",
+      "SeFileName": "701",
+      "VoiceFileName": "20001050010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105002,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 2,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "200",
+      "BackgroundImageFileFadeType": 4,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929
+    },
+    {
+      "Id": 2000105003,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "看哪个……。",
+      "VoiceFileName": "20001050020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 23,
+          "LipSyncMasterId": 4,
+          "SpineId": 20201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105004,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "…………。",
+      "VoiceFileName": "20001050030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105005,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……今天还是算了。",
+      "VoiceFileName": "20001050040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105006,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 6,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "160",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "WindowEffect": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 2000105007,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "我会为你准备一座舞台。/n下一次，你来当主角。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20001050050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105008,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 8,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1080",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 2000105009,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "我当主角……？",
+      "BgmFileName": "1",
+      "VoiceFileName": "20001050060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "SpineId": 20202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105010,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（怎么会，这种事……/n　真的……？）",
+      "VoiceFileName": "20001050070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 6,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105011,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "嗯——？",
+      "VoiceFileName": "20001050080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 10502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2000105012,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "同学",
+      "FontSize": 2,
+      "Phrase": "潘达，怎么了？/n你从刚才开始就一直东张西望的。",
+      "VoiceFileName": "20001050090",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000105013,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "嗯～就是觉得……今天好像没感受到什么奇怪的视线啊～。",
+      "VoiceFileName": "20001050100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 10502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2000105014,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "我懂，今天没法和宇宙通信……。",
+      "VoiceFileName": "20001050110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 10602,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 2000105015,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "不对，你平时原来一直在通信吗！？",
+      "VoiceFileName": "20001050120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 2000105016,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 16,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "170",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "999",
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2000105017,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "在全体排练之前，先告诉大家一件新决定的事。/n关于下一场公演。",
+      "BgmFileName": "23",
+      "VoiceFileName": "20001050130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105018,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "主演定为大黑。",
+      "VoiceFileName": "20001050140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105019,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "Eden成员A",
+      "FontSize": 2,
+      "Phrase": "咦？　大黑？",
+      "VoiceFileName": "20001050150",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000105020,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "Eden成员B",
+      "FontSize": 2,
+      "Phrase": "不会吧……。",
+      "VoiceFileName": "20001050160",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000105021,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "就是这样。现在这场公演一结束就马上着手准备。",
+      "VoiceFileName": "20001050170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105022,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "等、等一下啦～！/n我们现在光准备这场公演就已经忙不过来了，居然还要搞下一场……！",
+      "VoiceFileName": "20001050180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2000105023,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "主演已经定了，其他角色也只有三个人。/n舞台装置也非常少。",
+      "VoiceFileName": "20001050190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105024,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "不会影响现在的公演。",
+      "VoiceFileName": "20001050200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105025,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "话是这么说，忙起来也是肯定的吧～……。",
+      "VoiceFileName": "20001050210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000105026,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "这一点我也有心理准备。",
+      "VoiceFileName": "20001050220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105027,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "无论大家怎么反对，找什么借口，我都不会改变决定。",
+      "VoiceFileName": "20001050230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105028,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "Eden成员A",
+      "FontSize": 2,
+      "Phrase": "初魅小姐……。",
+      "VoiceFileName": "20001050240",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000105029,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "Eden成员B",
+      "FontSize": 2,
+      "Phrase": "又来……？/n为什么总是那个女孩……。",
+      "VoiceFileName": "20001050250",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000105030,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "Eden成员A",
+      "FontSize": 2,
+      "Phrase": "也没觉得她有什么特别的才能啊……。/n不过照旧，我们说什么也没用吧……。",
+      "VoiceFileName": "20001050260",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000105031,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（初魅小姐一句话，就决定了一切……）",
+      "VoiceFileName": "20001050270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105032,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（她在舞台上明明那么闪耀，/n　没想到居然是这么任性的人……）",
+      "VoiceFileName": "20001050280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 6,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105033,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（难道没有人能反抗她吗……。/n　Eden真的没问题吗！？）",
+      "VoiceFileName": "20001050290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105034,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（该不会……我只是被她卷进来了吧……）",
+      "VoiceFileName": "20001050300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105035,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "难得是新人的主演公演！　轰轰烈烈地干吧！",
+      "VoiceFileName": "20001050310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105036,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "连剧本都已经写好了。看！",
+      "VoiceFileName": "20001050320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105037,
+      "EpisodeMasterId": 2000105,
+      "Order": 2,
+      "GroupOrder": 36,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "这下就只有演了吧？",
+      "VoiceFileName": "20001050321",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105038,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "哦～？/n让我看看～？",
+      "VoiceFileName": "20001050330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000105039,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（演目是《长发公主》啊……）",
+      "VoiceFileName": "20001050340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105040,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 39,
+      "FontSize": 2,
+      "Phrase": "",
+      "SeFileName": "470",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 2000105041,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……！？",
+      "BgmFileName": "999",
+      "VoiceFileName": "20001050350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105042,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "这是……。",
+      "VoiceFileName": "20001050360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 20403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 17,
+          "SpineId": 20503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000105043,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "这种改编也太离谱了吧～……？",
+      "VoiceFileName": "20001050370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 2000105044,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（这种东西，天狼星绝对不可能拿来公演！/n　初魅小姐到底在想什么？）",
+      "BgmFileName": "6",
+      "VoiceFileName": "20001050380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 7,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105045,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（她真的觉得我能把这个演出来……？）",
+      "VoiceFileName": "20001050390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105046,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（当然，如果是潘达或流石的话……/n　一定会演得完美无缺吧……）",
+      "VoiceFileName": "20001050400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 4,
+          "BodyMotionMasterId": 25,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105047,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "吓到了吗？/n大黑，这就是为你量身打造的《长发公主》！",
+      "VoiceFileName": "20001050410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105048,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "在现在这场公演结束前，你先练起来。",
+      "VoiceFileName": "20001050420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105049,
+      "EpisodeMasterId": 2000105,
+      "Order": 2,
+      "GroupOrder": 47,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "去憎恨、憎恨、恨到极致！",
+      "VoiceFileName": "20001050421",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105050,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "诅咒这世上的一切吧！",
+      "VoiceFileName": "20001050430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 209,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105051,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（？　在舞台上表现憎恨？　什么意思……！？）",
+      "VoiceFileName": "20001050440",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105052,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 50,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "160",
+      "BackgroundImageFileFadeType": 1,
+      "SeFileName": "31",
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2000105053,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 51,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "初魅小姐……！",
+      "VoiceFileName": "20001050450",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105054,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "大黑啊，怎么了？",
+      "VoiceFileName": "20001050460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105055,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 53,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "刚才说的……在舞台上表现憎恨，/n到底是什么意思？",
+      "VoiceFileName": "20001050470",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 402,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105056,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 54,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "就是字面意思啊？",
+      "VoiceFileName": "20001050480",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105057,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 55,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "咦……。",
+      "VoiceFileName": "20001050490",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105058,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 56,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（我就是想让你详细解释“字面意思”啊！）",
+      "VoiceFileName": "20001050500",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105059,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 57,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（初魅小姐明明也知道我想问什么。/n　为什么偏偏不告诉我……）",
+      "VoiceFileName": "20001050510",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105060,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 58,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "呵呵，没别的事了吧？/n我接下来还有事情要做，回头见。",
+      "VoiceFileName": "20001050520",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105061,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 59,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……！",
+      "BgmFileName": "999",
+      "VoiceFileName": "20001050530",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105062,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 60,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……——我做不到！",
+      "VoiceFileName": "20001050540",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 76,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105063,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 61,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "……哦？",
+      "VoiceFileName": "20001050550",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105064,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 62,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "主演这种事，我做不到……。/n请不要选我，换成其他人……。",
+      "BgmFileName": "7",
+      "VoiceFileName": "20001050560",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 4,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105065,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 63,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "那可不行。",
+      "VoiceFileName": "20001050570",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 74,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105066,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 64,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "为、为什么……。",
+      "VoiceFileName": "20001050580",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105067,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 65,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "那是为你而写的故事。",
+      "VoiceFileName": "20001050590",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105068,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 66,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……！",
+      "VoiceFileName": "20001050600",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105069,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 67,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "不管谁说什么，你都是主角。/n毕竟，你是我看中的演员。",
+      "VoiceFileName": "20001050610",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105070,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 68,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（演员……）",
+      "VoiceFileName": "20001050620",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 6,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105071,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 69,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "你站在舞台上时，是不是把自己忘掉了？",
+      "VoiceFileName": "20001050630",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105072,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 70,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "咦……。",
+      "VoiceFileName": "20001050640",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105073,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 71,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "可虽说如此，你也没有真正完全进入角色……。",
+      "VoiceFileName": "20001050650",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105074,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 72,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（……我无法否认）",
+      "VoiceFileName": "20001050660",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105075,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 73,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "大黑。首先去感受自己。/n把你自己演出来。",
+      "VoiceFileName": "20001050670",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105076,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 74,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "…………。",
+      "VoiceFileName": "20001050680",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 2000105077,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 75,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "你就是你。/n而且只要是你，就一定做得到。别忘了。",
+      "VoiceFileName": "20001050690",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000105078,
+      "EpisodeMasterId": 2000105,
+      "Order": 1,
+      "GroupOrder": 76,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "（把我自己……演出来？）",
+      "VoiceFileName": "20001050700",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 4,
+          "SpineId": 20203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    }
+  ]
+}

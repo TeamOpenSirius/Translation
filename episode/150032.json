@@ -1,0 +1,1708 @@
+{
+    "EpisodeId": 150032,
+    "StoryType": 3,
+    "Order": 2,
+    "Prev": 150031,
+    "Next": null,
+    "Chapter": "Sky Fleet & Oratorio!",
+    "Title": "让这声音传达出去",
+    "EpisodeDetail": [
+        {
+            "Id": 150032001,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "帝国指挥官",
+            "FontSize": 2,
+            "Phrase": "『通知望国舰艇。/n　交出新妻八惠。』",
+            "BackgroundImageFileName": "2230",
+            "BgmFileName": "33",
+            "VoiceFileName": "1500320010",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032002,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "帝国指挥官",
+            "FontSize": 2,
+            "Phrase": "『重复一遍，交出新妻八惠。/n　你们已经被包围了。』",
+            "VoiceFileName": "1500320020",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032003,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 3,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1840",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150032004,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "……他们的目标是我。",
+            "VoiceFileName": "1500320030",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032005,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "（糟了……被卷进来了……）",
+            "VoiceFileName": "1500320040",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 20434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032006,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "望国士兵A",
+            "FontSize": 2,
+            "Phrase": "绝不能让他们夺走象征我们的巫女。/n我们也做好迎战准备！！",
+            "VoiceFileName": "1500320050",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032007,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "望国士兵B",
+            "FontSize": 2,
+            "Phrase": "把那群无礼之徒轰沉，/n将这份荣耀献给我等巫女的威光！！",
+            "VoiceFileName": "1500320060",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032008,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "各位，请等一下！/n这里还有中立势力的人。",
+            "VoiceFileName": "1500320070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 104,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032009,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "帝国的各位，现在……我们的舰上有万小姐。/n万商工会的万容小姐就在这里。",
+            "VoiceFileName": "1500320080",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032010,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "如果在这里让她们卷入战斗，/n对双方来说都很不方便吧……？",
+            "VoiceFileName": "1500320090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032011,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "帝国指挥官",
+            "FontSize": 2,
+            "Phrase": "『……虽然令人恼火，但你说得没错。/n　我们也不想无谓伤害客户。』",
+            "VoiceFileName": "1500320100",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032012,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "帝国指挥官",
+            "FontSize": 2,
+            "Phrase": "『我们等到规定时间16:00。/n　在此之前，让万容及其相关人员撤离。』",
+            "VoiceFileName": "1500320110",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032013,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "帝国指挥官",
+            "FontSize": 2,
+            "Phrase": "『要是敢耍什么花招，大炮立刻就会开火。/n　给我牢牢记住。』",
+            "VoiceFileName": "1500320120",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032014,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "……感谢你们的人道处理。",
+            "VoiceFileName": "1500320130",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 79,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032015,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 15,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "810",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150032016,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "居然拿我们当借口，请求暂时停战啊。",
+            "VoiceFileName": "1500320140",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032017,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "万商会的各位，请趁现在离舰。/n还有——",
+            "VoiceFileName": "1500320150",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 104,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032018,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "用于发布疏散警告的扬声器，感谢交货。",
+            "VoiceFileName": "1500320160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032019,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "……要是把我们扣在这里，/n帝国不也就不敢动手了吗？",
+            "VoiceFileName": "1500320170",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032020,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "我是奇迹望国的人。/n我不能把理应保护的人当作盾牌。",
+            "VoiceFileName": "1500320180",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032021,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "……太天真了，天真过头了。/n不过这种性格，我个人并不讨厌。",
+            "VoiceFileName": "1500320190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 27,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032022,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "请一定平安无事。",
+            "VoiceFileName": "1500320200",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032023,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "非常感谢您今天为我们安排这次会谈。",
+            "VoiceFileName": "1500320210",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032024,
+            "EpisodeMasterId": 150032,
+            "Order": 2,
+            "GroupOrder": 23,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "……没能帮上忙，抱歉了。",
+            "VoiceFileName": "1500320211",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032025,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "不，完全不是那样。/n正因为万小姐在这里，我才能把自己的声音传给大家。",
+            "VoiceFileName": "1500320220",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032026,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "谢谢你，万小姐。",
+            "VoiceFileName": "1500320230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032027,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "哈……？/n等等，你这是什么意思……。",
+            "VoiceFileName": "1500320240",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032028,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "万商会成员",
+            "FontSize": 2,
+            "Phrase": "大姐，快点！",
+            "VoiceFileName": "1500320250",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032029,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "……！知道了！",
+            "VoiceFileName": "1500320260",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 20434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032030,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 29,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "2230",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "33",
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150032031,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "帝国士兵",
+            "FontSize": 2,
+            "Phrase": "万商会的人似乎已经离开望国舰艇。",
+            "VoiceFileName": "1500320270",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032032,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "帝国指挥官",
+            "FontSize": 2,
+            "Phrase": "……正好到时间。/n好，再次通告。",
+            "VoiceFileName": "1500320280",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032033,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 32,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1840",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150032034,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 33,
+            "SpeakerName": "望国士兵",
+            "FontSize": 2,
+            "Phrase": "舰长……祝您武运昌隆。",
+            "VoiceFileName": "1500320290",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032035,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 34,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "嗯！呼——……。",
+            "VoiceFileName": "1500320300",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032036,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "（拜托，一定要传达到。把我看见的景象……）",
+            "VoiceFileName": "1500320310",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 4,
+                    "SpineId": 10434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032037,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 36,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1770",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150032038,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 37,
+            "SpeakerName": "万商工会成员",
+            "FontSize": 2,
+            "Phrase": "大姐！太好了！太好了啊～～～～！！！/n您没事，真的太好了啊啊！！",
+            "VoiceFileName": "1500320320",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032039,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 38,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "好啦好啦，太夸张了。/n总之，让所有人全速驾驶船只离开这片空域。",
+            "VoiceFileName": "1500320330",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 201,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032040,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 39,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "然后——。",
+            "VoiceFileName": "1500320340",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032041,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 40,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "『Aaaaaa……！』",
+            "VoiceFileName": "1500320350",
+            "CharacterMotions": [],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032042,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 41,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "什么？传过来了……。/n歌声……？",
+            "VoiceFileName": "1500320360",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 509,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032043,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 42,
+            "SpeakerName": "万商工会成员B",
+            "FontSize": 2,
+            "Phrase": "大姐，这歌声……从雷达来看，/n似乎是从护卫艇“南河三”那边发出来的！",
+            "VoiceFileName": "1500320370",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032044,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 43,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "南河三……也就是说，是巫女大人的歌声……！",
+            "VoiceFileName": "1500320380",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 509,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 20434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032045,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 44,
+            "SpeakerName": "万商工会成员",
+            "FontSize": 2,
+            "Phrase": "啊、啊啊……那、那是什么。/n那到底是什么啊，大姐！？",
+            "VoiceFileName": "1500320390",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032046,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 45,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "怎么了！？大家！！？",
+            "VoiceFileName": "1500320400",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 511,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 20434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032047,
+            "EpisodeMasterId": 150032,
+            "Order": 2,
+            "GroupOrder": 45,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "呜、呃……头好痛……好像，看见了什么……？",
+            "VoiceFileName": "1500320401",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032048,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 46,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1050",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150032049,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 47,
+            "SpeakerName": "？？？",
+            "FontSize": 2,
+            "Phrase": "『更多……再给我更多……』",
+            "VoiceFileName": "1500320410",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032050,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 48,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1770",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150032051,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 49,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "！？",
+            "VoiceFileName": "1500320420",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 511,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 20434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032052,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 50,
+            "SpeakerName": "？？？",
+            "FontSize": 2,
+            "Phrase": "『爬行于地面的蝼蚁啊，还不够……。还远远不够……！/n　交出来……更多，再给我更多……呃、噢噢噢噢噢！！！』",
+            "VoiceFileName": "1500320430",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032053,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 51,
+            "SpeakerName": "万商会成员",
+            "FontSize": 2,
+            "Phrase": "那、那到底是什么……。",
+            "VoiceFileName": "1500320440",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032054,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 52,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "刚才那股令人作呕的气息……。/n难道，那就是巫女大人所说的灾难……？",
+            "VoiceFileName": "1500320450",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032055,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 53,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "『这是帝国保管的，最初的Stellarium。/n　这是从它体内传达到我这里的声音。』",
+            "VoiceFileName": "1500320460",
+            "CharacterMotions": [],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032056,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 54,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "『那个意志极其邪恶，并且强大到足以让/n我们每一个人都显得无比渺小。』",
+            "VoiceFileName": "1500320470",
+            "CharacterMotions": [],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032057,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 55,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "『现在，我们正在某个巨大意志的推动下，踏上毁灭之路。/n　我们必须携起手来。为了停下这通往末日的脚步。』",
+            "VoiceFileName": "1500320480",
+            "CharacterMotions": [],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032058,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 56,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "那孩子的声音，正在传给这里所有人……。/n——原来如此，真会想啊，巫女大人。",
+            "VoiceFileName": "1500320490",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032059,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 57,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "（这么大规模的会面，帝国不可能察觉不到。/n　她是明知如此，仍安排了和我交易的场合……！）",
+            "VoiceFileName": "1500320500",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032060,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 58,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "（也就是说，她连自己都当成诱饵，创造了传达声音的机会？/n　……原来天真的，是我啊。）",
+            "VoiceFileName": "1500320510",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 15,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032061,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 59,
+            "SpeakerName": "万商会成员",
+            "FontSize": 2,
+            "Phrase": "大姐？你笑什么呢？",
+            "VoiceFileName": "1500320520",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032062,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 60,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "没什么，我只是在想，要是那种东西真的被释放出来，/n我们也没法做生意了。",
+            "VoiceFileName": "1500320530",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032063,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 61,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "……而且，我突然想赌一把了。/n赌在那个曾被我嗤之以鼻的“可能性”上。",
+            "VoiceFileName": "1500320540",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032064,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 62,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "2230",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150032065,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 63,
+            "SpeakerName": "帝国士兵",
+            "FontSize": 2,
+            "Phrase": "刚才那些话，和我从高层听说的不一样啊……。/n刚才那股邪恶的声音，真的是Stellarium的……？",
+            "VoiceFileName": "1500320550",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032066,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 64,
+            "SpeakerName": "帝国指挥官",
+            "FontSize": 2,
+            "Phrase": "别慌！这是望国卑劣的信息战！/n准备炮击！目标，敌方舰艇！",
+            "VoiceFileName": "1500320560",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032067,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 65,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1840",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150032068,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 66,
+            "SpeakerName": "望国士兵",
+            "FontSize": 2,
+            "Phrase": "舰长！这样下去……！",
+            "VoiceFileName": "1500320570",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032069,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 67,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "还是传达不到吗……！/n我的话语……！",
+            "VoiceFileName": "1500320580",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032070,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 68,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1050",
+            "CharacterMotions": []
+        },
+        {
+            "Id": 150032071,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 69,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "开炮！！",
+            "VoiceFileName": "1500320590",
+            "CharacterMotions": [],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032072,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 70,
+            "FontSize": 2,
+            "Phrase": "",
+            "SeFileName": "1521",
+            "CharacterMotions": []
+        },
+        {
+            "Id": 150032073,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 71,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "2230",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150032074,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 72,
+            "FontSize": 2,
+            "Phrase": "",
+            "SeFileName": "3260",
+            "CharacterMotions": []
+        },
+        {
+            "Id": 150032075,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 73,
+            "SpeakerName": "帝国指挥官",
+            "FontSize": 2,
+            "Phrase": "——呜哦！？怎、怎么回事！？",
+            "VoiceFileName": "1500320600",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032076,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 74,
+            "SpeakerName": "帝国士兵",
+            "FontSize": 2,
+            "Phrase": "刚才的炮击不是来自望国……难、难道说！！/n是万商会开的炮！",
+            "VoiceFileName": "1500320610",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032077,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 75,
+            "SpeakerName": "帝国指挥官",
+            "FontSize": 2,
+            "Phrase": "什、什么！？/n万容，你疯了吗！！？",
+            "VoiceFileName": "1500320620",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032078,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 76,
+            "SpeakerName": "万商会成员",
+            "FontSize": 2,
+            "Phrase": "确认命中帝国舰！大姐，太牛了！/n不愧是大姐啊！！！",
+            "VoiceFileName": "1500320630",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032079,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 77,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "对吧～？不过，这种兵器我也是第一次用啦！/n不愧是我的Sense！",
+            "VoiceFileName": "1500320640",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032080,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 78,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1840",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150032081,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 79,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "万小姐……为什么……！？",
+            "VoiceFileName": "1500320650",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 509,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 150032082,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 80,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "『我是商人。/n　我该守护的是部下和自己的生活。』",
+            "VoiceFileName": "1500320660",
+            "CharacterMotions": [],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032083,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 81,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "『所以我不会偏袒任何一边……不过，要是那种东西真被放出来，/n　那就另当别论了。有钱却没地方花，也毫无意义。』",
+            "VoiceFileName": "1500320670",
+            "CharacterMotions": [],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032084,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 82,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "『而且，你这种活法……我很喜欢。/n　我……不，万商会把全部筹码都押在你身上！』",
+            "VoiceFileName": "1500320680",
+            "CharacterMotions": [],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032085,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 83,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "2230",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150032086,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 84,
+            "SpeakerName": "帝国士兵",
+            "FontSize": 2,
+            "Phrase": "司、司令官！/n商会所有飞空舰的炮口都对准了我们！",
+            "VoiceFileName": "1500320690",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032087,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 85,
+            "SpeakerName": "帝国指挥官",
+            "FontSize": 2,
+            "Phrase": "唔……！",
+            "VoiceFileName": "1500320700",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032088,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 86,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "我只卖给想卖的人，不卖给不想卖的人。/n商品如此，架也一样。",
+            "VoiceFileName": "1500320710",
+            "CharacterMotions": [],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032089,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 87,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "从现在起，彻底停止和你们帝国交易。/n不想沉在这片天空，就立刻投降！",
+            "VoiceFileName": "1500320720",
+            "CharacterMotions": [],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032090,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 88,
+            "SpeakerName": "帝国士兵",
+            "FontSize": 2,
+            "Phrase": "司、司令官……。",
+            "VoiceFileName": "1500320730",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032091,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 89,
+            "SpeakerName": "帝国指挥官",
+            "FontSize": 2,
+            "Phrase": "唔唔……！区区商人……！！/n没办法……我也是肩负部下性命的人。……我投降。",
+            "VoiceFileName": "1500320740",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150032092,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 90,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "你的声音，确实传到我这里了……新妻八惠。",
+            "VoiceFileName": "1500320750",
+            "CharacterMotions": [],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 150032093,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 91,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1840",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150032094,
+            "EpisodeMasterId": 150032,
+            "Order": 1,
+            "GroupOrder": 92,
+            "SpeakerName": "八惠",
+            "FontSize": 2,
+            "Phrase": "万小姐……谢谢你……！",
+            "VoiceFileName": "1500320760",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10434,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        }
+    ]
+}

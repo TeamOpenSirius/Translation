@@ -1,0 +1,1026 @@
+{
+  "EpisodeId": 110111,
+  "StoryType": 3,
+  "Order": 1,
+  "Prev": null,
+  "Next": 110112,
+  "Chapter": "Eden",
+  "Title": "孩子们的火药味",
+  "EpisodeDetail": [
+    {
+      "Id": 110111001,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "哈——，烦死了……为什么一大早就非得去学校啊……。/n就该改成中午以后再上课才对……。",
+      "BackgroundImageFileName": "270",
+      "BgmFileName": "1",
+      "VoiceFileName": "1101110010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 23,
+          "LipSyncMasterId": 1,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110111002,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "前辈，早上好。",
+      "VoiceFileName": "1101110020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadDirectionMasterId": 1,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 110111003,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "好好，早啊后辈。大早上还真精神……。/n学校有那么好玩吗……。",
+      "VoiceFileName": "1101110030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110111004,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "小春",
+      "FontSize": 2,
+      "Phrase": "喂喂，时雨大人！/n你下次要演什么角色？",
+      "VoiceFileName": "1101110040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 50801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "FacialExpressionMasterId": 200,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "SpineId": 50601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "508"
+    },
+    {
+      "Id": 110111005,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "莉子",
+      "FontSize": 2,
+      "Phrase": "小春，配角在正式公布之前属于最高机密。/n不可以让时雨大人为难。",
+      "VoiceFileName": "1101110050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "FacialExpressionMasterId": 300,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "506"
+    },
+    {
+      "Id": 110111006,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "啊哈，挺懂事嘛。/n不过可以先告诉你，绝对是不会让你们失望的位置。",
+      "VoiceFileName": "1101110060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 110111007,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "杏",
+      "FontSize": 2,
+      "Phrase": "呜～！时雨大人都这么说了……！/n我已经期待舞台期待到爆了哒！",
+      "VoiceFileName": "1101110070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 50701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "507"
+    },
+    {
+      "Id": 110111008,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "呃！时雨和她那群跟班……！/n后辈，麻烦死了，我们赶紧逃——",
+      "VoiceFileName": "1101110080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 511,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110111009,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "各位，早上好♪",
+      "VoiceFileName": "1101110090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 2,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 110111010,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "——本来想这么说，结果你为什么偏偏要跟她们打招呼啊……。",
+      "VoiceFileName": "1101110100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110111011,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "我还想哪里传来这么刺耳的声音……/n原来是新妻和叶羽前辈啊～。",
+      "VoiceFileName": "1101110110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 5,
+          "SpineId": 50801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 300,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 3,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "FacialExpressionMasterId": 300,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "SpineId": 50601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 110111012,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "莉子",
+      "FontSize": 2,
+      "Phrase": "找时雨大人有什么事吗？",
+      "VoiceFileName": "1101110120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "506"
+    },
+    {
+      "Id": 110111013,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "小春",
+      "FontSize": 2,
+      "Phrase": "哈！？难道你们想对时雨大人做什么！？/n为了让她下一场舞台失败！",
+      "VoiceFileName": "1101110130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 104,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "508"
+    },
+    {
+      "Id": 110111014,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "杏",
+      "FontSize": 2,
+      "Phrase": "什么——！？/n想和时雨大人开战的话，先把我们打倒再说哒！",
+      "VoiceFileName": "1101110140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "FacialExpressionMasterId": 300,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 3,
+          "SpineId": 50701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "507"
+    },
+    {
+      "Id": 110111015,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "我只是想邀请她一起去学校而已哦？",
+      "VoiceFileName": "1101110150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 110111016,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "哈？时雨为什么非得跟你们一起？",
+      "VoiceFileName": "1101110160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "SpineId": 50801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 300,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "FacialExpressionMasterId": 300,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "SpineId": 50701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 110111017,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "小春",
+      "FontSize": 2,
+      "Phrase": "就是就是！/n时雨大人要和我们一起上学！",
+      "VoiceFileName": "1101110170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "508"
+    },
+    {
+      "Id": 110111018,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "你们三个基本天天都黏着时雨吧。/n一天到晚待在她旁边，不累吗……？",
+      "VoiceFileName": "1101110180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 106,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110111019,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "说明她们关系特别好啊。",
+      "VoiceFileName": "1101110190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 110111020,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "说起来，好像还没正式介绍过吧？/n正好，就让你们见识一下时雨优秀的粉丝！",
+      "VoiceFileName": "1101110200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 2,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 110111021,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "莉子",
+      "FontSize": 2,
+      "Phrase": "我叫莉子。最擅长不拘内容地收集并分析信息。/n我会把有价值的情报送到时雨大人手中。",
+      "VoiceFileName": "1101110210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 2,
+          "SpineId": 50601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "506"
+    },
+    {
+      "Id": 110111022,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "杏",
+      "FontSize": 2,
+      "Phrase": "我叫杏！对艺术方面的本事很有自信哒！/n我要让时雨大人变得更加美丽哒！",
+      "VoiceFileName": "1101110220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 2,
+          "SpineId": 50701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "507"
+    },
+    {
+      "Id": 110111023,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "小春",
+      "FontSize": 2,
+      "Phrase": "我叫小春。跟运动有关的事都交给我。/n我要用体育锻炼出来的身体保护时雨大人。",
+      "VoiceFileName": "1101110230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 50801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "508"
+    },
+    {
+      "Id": 110111024,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "莉子",
+      "FontSize": 2,
+      "Phrase": "我们三个性格各不相同……。/n但有一点，把我们牢牢连接在一起。",
+      "VoiceFileName": "1101110240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 50601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 3,
+          "SpineId": 50701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "506"
+    },
+    {
+      "Id": 110111025,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "小春",
+      "FontSize": 2,
+      "Phrase": "没错！那就是——时雨大人是我们的推！",
+      "VoiceFileName": "1101110250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "508"
+    },
+    {
+      "Id": 110111026,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "杏",
+      "FontSize": 2,
+      "Phrase": "只要为了时雨大人，不管发生什么我都会赶到哒！",
+      "VoiceFileName": "1101110260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "507"
+    },
+    {
+      "Id": 110111027,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "哇……好厉害！/n原来时雨有这么热情的粉丝啊！",
+      "VoiceFileName": "1101110270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 110111028,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "小小年纪就能让粉丝追随到这种程度的号召力……。/n虽然态度很欠揍，但确实有两下子啊，时雨……！",
+      "VoiceFileName": "1101110280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 110111029,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "时雨",
+      "FontSize": 2,
+      "Phrase": "这点程度对顶级明星来说不是理所当然的吗～。/n倒是你，职业意识是不是太低了～？",
+      "VoiceFileName": "1101110290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 600,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 28,
+          "LipSyncMasterId": 1,
+          "SpineId": 20501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "205"
+    },
+    {
+      "Id": 110111030,
+      "EpisodeMasterId": 110111,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "……真的，就态度特别欠揍……！",
+      "VoiceFileName": "1101110300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    }
+  ]
+}

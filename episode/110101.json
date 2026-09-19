@@ -1,0 +1,882 @@
+{
+  "EpisodeId": 110101,
+  "StoryType": 3,
+  "Order": 1,
+  "Prev": null,
+  "Next": 110102,
+  "Chapter": "Eden",
+  "Title": "爱操心之人的忧郁",
+  "EpisodeDetail": [
+    {
+      "Id": 110101001,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "……好，理科教室的实验器材检查完毕。接下来是家政教室。",
+      "BackgroundImageFileName": "20",
+      "BgmFileName": "1",
+      "VoiceFileName": "1101010010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101002,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "哈～，真想借只猫爪来帮忙喵。",
+      "VoiceFileName": "1101010020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 27,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101003,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "咦？这不是容小姐吗。",
+      "VoiceFileName": "1101010030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 10302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 110101004,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "你好！看起来好像很忙呢。",
+      "VoiceFileName": "1101010040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10102,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 110101005,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "你们两个好啊。没想到会在这种地方碰见，真巧。",
+      "VoiceFileName": "1101010050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 1,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101006,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "我们下一节课在理科教室上。",
+      "VoiceFileName": "1101010060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 10302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 110101007,
+      "EpisodeMasterId": 110101,
+      "Order": 2,
+      "GroupOrder": 6,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "倒是容小姐，你刚才在这里做什么？",
+      "VoiceFileName": "1101010061",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 110101008,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "我在替生病请假的同学完成工作。/n现在正检查校内备品～。",
+      "VoiceFileName": "1101010070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101009,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "今天不知道怎么了，请假的人特别多。",
+      "VoiceFileName": "1101010080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101010,
+      "EpisodeMasterId": 110101,
+      "Order": 2,
+      "GroupOrder": 8,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "结果一下子揽了好几份活，忙得我团团转。",
+      "VoiceFileName": "1101010081",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 27,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101011,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "这样啊……如果有什么我能帮忙的……。",
+      "VoiceFileName": "1101010090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 10102,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 110101012,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "啊——，没事没事。/n我可是保健委员，这点事情总得能搞定。",
+      "VoiceFileName": "1101010100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101013,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "哎呀，差不多得去检查下一处备品了。",
+      "VoiceFileName": "1101010110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101014,
+      "EpisodeMasterId": 110101,
+      "Order": 2,
+      "GroupOrder": 11,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "二位，好好努力学习哦～。",
+      "VoiceFileName": "1101010111",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101015,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "替请假的人把工作全接过来，也是保健委员的职责吗？",
+      "VoiceFileName": "1101010120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 10302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "BodyMotionMasterId": 25,
+          "SpineId": 10102,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 110101016,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "嗯……与其说是职责，不如说是容小姐人太好了吧。",
+      "VoiceFileName": "1101010130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 201,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 110101017,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 14,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 110101018,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "哈——，这下工作总算暂时告一段落……。",
+      "VoiceFileName": "1101010140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101019,
+      "EpisodeMasterId": 110101,
+      "Order": 2,
+      "GroupOrder": 15,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "我也差不多该准备上课了……嗯？",
+      "VoiceFileName": "1101010141",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101020,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "同班同学",
+      "FontSize": 2,
+      "Phrase": "呜呜……。",
+      "VoiceFileName": "1101010150",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110101021,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "哎呀！？你脸色也太差了吧！？/n哪里不舒服吗？",
+      "VoiceFileName": "1101010160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101022,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "同班同学A",
+      "FontSize": 2,
+      "Phrase": "从刚才开始就有点恶心……。",
+      "VoiceFileName": "1101010170",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110101023,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "哎呀呀，我还是保健委员呢，居然没早点发现，对不起啊……。/n站得起来吗？我陪你去保健室，能走吗？",
+      "VoiceFileName": "1101010180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101024,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "同班同学A",
+      "FontSize": 2,
+      "Phrase": "嗯……谢谢你，万同学……。",
+      "VoiceFileName": "1101010190",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110101025,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 21,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 110101026,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "希望她早点好起来啊～……。",
+      "VoiceFileName": "1101010200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101027,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "同班同学B",
+      "FontSize": 2,
+      "Phrase": "呀啊啊啊啊啊！？",
+      "VoiceFileName": "1101010210",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110101028,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "这次又怎么了！？",
+      "VoiceFileName": "1101010220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101029,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "同班同学C",
+      "FontSize": 2,
+      "Phrase": "那、那里！蟑、蟑螂，蟑……！",
+      "VoiceFileName": "1101010230",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110101030,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "好好好，原来是这样……。",
+      "VoiceFileName": "1101010240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101031,
+      "EpisodeMasterId": 110101,
+      "Order": 2,
+      "GroupOrder": 26,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "G先生，不好意思，请你出去一下咯～。",
+      "VoiceFileName": "1101010241",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101032,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "同班同学B",
+      "FontSize": 2,
+      "Phrase": "就这么用纸巾包起来，直接放到外面去了……。/n万同学，好厉害……！",
+      "VoiceFileName": "1101010250",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110101033,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "同班同学C",
+      "FontSize": 2,
+      "Phrase": "可是你不害怕吗……？",
+      "VoiceFileName": "1101010260",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110101034,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "说到底也就是虫子。能应付的人正常都能应付吧。",
+      "VoiceFileName": "1101010270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101035,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "同班同学B",
+      "FontSize": 2,
+      "Phrase": "嘴上说得轻松，却什么都能搞定，所以万同学才帅啊！",
+      "VoiceFileName": "1101010280",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110101036,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "同班同学C",
+      "FontSize": 2,
+      "Phrase": "懂！我有时候都差点忍不住叫她哥哥！",
+      "VoiceFileName": "1101010290",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110101037,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "好歹叫姐姐啊！",
+      "VoiceFileName": "1101010300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 104,
+          "BodyMotionMasterId": 10,
+          "LipSyncMasterId": 1,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101038,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "同班同学C",
+      "FontSize": 2,
+      "Phrase": "哈哈！抱歉抱歉。/n不过意思就是你真的很可靠嘛。",
+      "VoiceFileName": "1101010310",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110101039,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "有人愿意依赖我，我当然很高兴。/n不过……我就这么没有女孩子的感觉吗？",
+      "VoiceFileName": "1101010320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 72,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 20402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 110101040,
+      "EpisodeMasterId": 110101,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "（弱点太少，好像也不见得是件好事啊～……）",
+      "VoiceFileName": "1101010330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    }
+  ]
+}

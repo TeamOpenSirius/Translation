@@ -1,0 +1,1156 @@
+{
+  "EpisodeId": 2000602,
+  "StoryType": 2,
+  "Order": 2,
+  "Prev": 2000601,
+  "Next": 2000603,
+  "Chapter": "歌川高中体育祭！ ～应援团长的一天～",
+  "Title": "开幕宣誓！",
+  "EpisodeDetail": [
+    {
+      "Id": 2000602001,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "宣誓！　我们全体运动员——",
+      "BackgroundImageFileName": "1130",
+      "VoiceFileName": "20006020010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 2000602002,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "学生",
+      "FontSize": 2,
+      "Phrase": "仁花子好帅——！",
+      "VoiceFileName": "20006020020",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000602003,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "谢谢！　那个，我们将遵循体育精神——",
+      "VoiceFileName": "20006020030",
+      "CharacterMotions": [],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 2000602004,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 4,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1340",
+      "BackgroundImageFileFadeType": 4,
+      "BgmFileName": "2",
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929
+    },
+    {
+      "Id": 2000602005,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "意外地挺从容嘛。/n刚才明明还紧张得僵成那样。",
+      "VoiceFileName": "20006020040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 10307,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2000602006,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "仁花子好厉害！　/n在那么多人面前讲话，明明很紧张的～！",
+      "VoiceFileName": "20006020050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 10107,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10307,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2000602007,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "站上舞台不也是面对很多人吗。/n像平时一样堂堂正正不就好了。",
+      "VoiceFileName": "20006020060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2000602008,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "那是两回事啦～！/n同班同学也都在看！　而且在学校里超级显眼的！",
+      "VoiceFileName": "20006020070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2000602009,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "哎呀，确实是这么回事。仁花子平时上台完全不紧张，/n可这次一直都是那个样子——。",
+      "VoiceFileName": "20006020080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 27,
+          "LipSyncMasterId": 1,
+          "SpineId": 20423,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000602010,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "还得参加应援对决，又是一年级却当了应援团长，整天都坐立不安的。",
+      "VoiceFileName": "20006020090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000602011,
+      "EpisodeMasterId": 2000602,
+      "Order": 2,
+      "GroupOrder": 10,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "不过看来她属于临场很强的类型，这点倒是放心了。",
+      "VoiceFileName": "20006020091",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000602012,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "真有那么紧张吗？　/n既然是被推荐的，我也觉得不用紧张啊……。",
+      "VoiceFileName": "20006020100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2000602013,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "仁花子是在岛上长大的嘛。　在一大群人面前讲话这种事，/n她好像真的就只有站在舞台上时经历过，而且她的Sense又比较特殊～。",
+      "VoiceFileName": "20006020110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000602014,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "仁花子的Sense，是会让看过她参与的舞台的人，/n在评价那场演出时没办法说谎，对吧？",
+      "VoiceFileName": "20006020120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 4,
+          "SpineId": 10107,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2000602015,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "对对。我觉得还挺吓人的～。",
+      "VoiceFileName": "20006020130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000602016,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "是吗？　我反而更讨厌别人对我说假话。",
+      "VoiceFileName": "20006020140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 10307,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2000602017,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "哈哈，不愧是World Dai Star的女儿，想法就是不一样。",
+      "VoiceFileName": "20006020150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 27,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000602018,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "我的话，如果要听评价，也希望对方直说。",
+      "VoiceFileName": "20006020160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2000602019,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "诶——？　我可能会有点害怕……。",
+      "VoiceFileName": "20006020170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 10107,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2000602020,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "心菜。",
+      "VoiceFileName": "20006020180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2000602021,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "可是嘛～……。",
+      "VoiceFileName": "20006020190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2000602022,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "好啦好啦。",
+      "VoiceFileName": "20006020200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20423,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000602023,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "仁花子好像被班上的同学寄予了很高期待，/n而且一年级把三年级都压过去当上团长，确实会紧张啦。",
+      "VoiceFileName": "20006020210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000602024,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "仁花子很认真嘛。",
+      "VoiceFileName": "20006020220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 10107,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2000602025,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "嗯。认真得吓人，又坦率又单纯，/n属于玩赌博的话肯定会被人当肥羊的类型。",
+      "VoiceFileName": "20006020230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000602026,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "你是打算把剧团后辈当肥羊吗……？",
+      "VoiceFileName": "20006020240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 10307,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2000602027,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "不会不会。",
+      "VoiceFileName": "20006020250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000602028,
+      "EpisodeMasterId": 2000602,
+      "Order": 2,
+      "GroupOrder": 26,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "我只是觉得，看着她就忍不住担心～。",
+      "VoiceFileName": "20006020251",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000602029,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "确实，那份单纯让人有点担心……。",
+      "VoiceFileName": "20006020260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2000602030,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "对吧？　毕竟是在海清天蓝的小岛上长出来的好苗子嘛～。",
+      "VoiceFileName": "20006020270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000602031,
+      "EpisodeMasterId": 2000602,
+      "Order": 2,
+      "GroupOrder": 28,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "当然，那也正是仁花子的优点。",
+      "VoiceFileName": "20006020271",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000602032,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 29,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1130",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "999",
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2000602033,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "（……真的，会让人担心啊）",
+      "VoiceFileName": "20006020280",
+      "CharacterMotions": [],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000602034,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "（突然被交付了最显眼的职责，每天拼命练习，/n　明明还有平时的生活，却还得额外努力）",
+      "VoiceFileName": "20006020290",
+      "CharacterMotions": [],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000602035,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "（周围人都期待着她，她又一本正经地想回应这份期待，/n　结果期待越来越重，换成我的话——）",
+      "VoiceFileName": "20006020300",
+      "CharacterMotions": [],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000602036,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 33,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1050",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2000602037,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "（……大概会觉得，是种负担吧）",
+      "VoiceFileName": "20006020310",
+      "CharacterMotions": [],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000602038,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 35,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1340",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2000602039,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "仁花子",
+      "FontSize": 2,
+      "Phrase": "——我宣誓，将竭尽全力奋战到底！",
+      "VoiceFileName": "20006020320",
+      "CharacterMotions": [],
+      "SpeakerIconId": "203"
+    },
+    {
+      "Id": 2000602040,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "仁花子好帅——！",
+      "BgmFileName": "102",
+      "VoiceFileName": "20006020330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 10107,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2000602041,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "嗯，还不错嘛。",
+      "VoiceFileName": "20006020340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 109,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 10307,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 2000602042,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "嗯，发声也很好。/n看来今天的体育祭会很有意思。",
+      "VoiceFileName": "20006020350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 2000602043,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "嗯！/n容姐，我们也一起加油吧！　也为了仁花子！",
+      "VoiceFileName": "20006020360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 2000602044,
+      "EpisodeMasterId": 2000602,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "诶？　啊……。",
+      "VoiceFileName": "20006020370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 20423,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 2000602045,
+      "EpisodeMasterId": 2000602,
+      "Order": 2,
+      "GroupOrder": 41,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "……嗯。一起加油吧，也为了仁花子。",
+      "VoiceFileName": "20006020371",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    }
+  ]
+}

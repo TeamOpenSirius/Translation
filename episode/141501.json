@@ -1,0 +1,1662 @@
+{
+    "EpisodeId": 141501,
+    "StoryType": 3,
+    "Order": 1,
+    "Prev": null,
+    "Next": 141502,
+    "Chapter": "Street Script",
+    "Title": "因为根本没认真",
+    "EpisodeDetail": [
+        {
+            "Id": 141501001,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "舞蹈部成员",
+            "FontSize": 2,
+            "Phrase": "……我们特地过来的理由，你应该明白吧。/n与那国绯花里。",
+            "BackgroundImageFileName": "60",
+            "BgmFileName": "6",
+            "VoiceFileName": "1415010010",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141501002,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "……嗯。我就知道你们会来！",
+            "VoiceFileName": "1415010020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 30502,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 141501003,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "好——。绯花里，结束了，回去吧——。",
+            "VoiceFileName": "1415010030",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 18,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30302,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501004,
+            "EpisodeMasterId": 141501,
+            "Order": 2,
+            "GroupOrder": 3,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "嗯？你们在瞪什么。那帮人是谁？",
+            "VoiceFileName": "1415010031",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 111,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501005,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "舞蹈部成员",
+            "FontSize": 2,
+            "Phrase": "不好意思，我们找的是与那国绯花里。/n不想受伤的话，闲杂人等就一边待着。",
+            "VoiceFileName": "1415010040",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141501006,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "……喂、喂。你到底干了什么？/n在被人找茬之前先低头道歉吧。",
+            "VoiceFileName": "1415010050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30302,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501007,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "……我才不会不战而逃。/n别人挑起的架就接下，这才是“Rogue”！",
+            "BgmFileName": "999",
+            "VoiceFileName": "1415010060",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 109,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 30502,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 141501008,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "“Rogue”？/n这么说，这帮人是《Libea》的粉丝？",
+            "BgmFileName": "26",
+            "VoiceFileName": "1415010070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 111,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 30302,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501009,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "舞蹈部成员",
+            "FontSize": 2,
+            "Phrase": "MV我们看了。你真的Respect《Libea》吗？/n拿“Rogue”当商业宣传来叫，真的让人火大。",
+            "VoiceFileName": "1415010080",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141501010,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "唔！我在收到合作邀请之前就一直听《Libea》的歌哦。/n我也有我自己的Respect！",
+            "VoiceFileName": "1415010090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 300,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 30502,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 141501011,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "舞蹈部成员",
+            "FontSize": 2,
+            "Phrase": "要是我们说，我们比你更喜欢呢？",
+            "VoiceFileName": "1415010100",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141501012,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "那就赌上自尊战一场！这就是Street的规矩！",
+            "VoiceFileName": "1415010110",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 30502,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 141501013,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "（什么啊，只是粉丝之间的小摩擦，/n顺便借题发挥玩一场Battle罢了。无聊……。）",
+            "VoiceFileName": "1415010120",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 401,
+                    "BodyMotionMasterId": 27,
+                    "SpineId": 30302,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501014,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "舞蹈部成员",
+            "FontSize": 2,
+            "Phrase": "与那国绯花里，跟我们全员来一场Dance Battle！/n要是你输了……。",
+            "VoiceFileName": "1415010130",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141501015,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "咕噜……。",
+            "VoiceFileName": "1415010140",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 104,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 25,
+                    "SpineId": 30502,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 141501016,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "舞蹈部成员",
+            "FontSize": 2,
+            "Phrase": "……就加入我们舞蹈部，/n一起冲击“青春☆Dance Battle甲子园”！",
+            "VoiceFileName": "1415010150",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141501017,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "唔唔！这确实非常有吸引力……！/n但我现在想在银河座好好努力当演员！",
+            "VoiceFileName": "1415010160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 512,
+                    "BodyMotionMasterId": 26,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 30502,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 141501018,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "舞蹈部成员",
+            "FontSize": 2,
+            "Phrase": "那就把你的自尊拿出来给我们看！/nDJ，给Beat！上——！",
+            "VoiceFileName": "1415010170",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141501019,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "哦——！先手必胜，我的回合！",
+            "VoiceFileName": "1415010180",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 12,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 30502,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 141501020,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "想拉人入部的话，直接说不就好了。/n还特地拿无线音箱放歌……。",
+            "VoiceFileName": "1415010190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 104,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 30302,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501021,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "Dance Battle真没给我留下什么好回忆……。",
+            "VoiceFileName": "1415010200",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 27,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501022,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 21,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "740",
+            "BackgroundImageFileFadeType": 2,
+            "BgmFileName": "10",
+            "SeFileName": "641",
+            "CharacterMotions": [],
+            "FadeValue1": 0.30000001192092896,
+            "FadeValue2": 0.5,
+            "FadeValue3": 0.30000001192092896
+        },
+        {
+            "Id": 141501023,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "……Dance Battle的报酬，我确实收到了。/n这样就两清。",
+            "VoiceFileName": "1415010210",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 110,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30302,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501024,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "毕竟是因为我的任性让你帮忙。/n还是让我再郑重道一次谢。",
+            "VoiceFileName": "1415010220",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 208,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 30202,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141501025,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "真是的。明明净吃亏，还这么爱管闲事。/n就算把绯花里刺激起来，也没什么回报吧。",
+            "VoiceFileName": "1415010230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 27,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501026,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "哈哈哈，回报不是已经很充分了吗！",
+            "VoiceFileName": "1415010240",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 209,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141501027,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "反正你要说的是“出演MV”和“绯花里的笑容”吧。/n不过我还是觉得这药下得太猛了。",
+            "VoiceFileName": "1415010250",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 110,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501028,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "这次的责任全都在我。/n好歹事情往好的方向发展，算是不幸中的万幸。",
+            "VoiceFileName": "1415010260",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141501029,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "……能推绯花里一把，也是因为雪拼了这一场。/n说出违心的话，心里应该也不好受。抱歉。",
+            "VoiceFileName": "1415010270",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 112,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141501030,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "哼。那点程度哪会伤到我的心。",
+            "VoiceFileName": "1415010280",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 75,
+                    "BodyMotionMasterId": 27,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501031,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "真可靠。能让你接下真是太好了。/n我原本还以为你不会答应。",
+            "VoiceFileName": "1415010290",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141501032,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "赢了也不代表就能确定出演MV，/n更何况跳舞本来就没有胜算。那是一场必败之战。",
+            "VoiceFileName": "1415010300",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 104,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141501033,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 32,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "你要是觉得我因此不甘心，那你可就看错我了。",
+            "VoiceFileName": "1415010310",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501034,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 33,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "都没认真做，哪来的什么想法。",
+            "VoiceFileName": "1415010320",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 300,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501035,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 34,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "……这样啊，那我放心了。/n打扰你了，好好休息吧。",
+            "VoiceFileName": "1415010330",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141501036,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "刚下完猛药，又开始担心这种小事。/n真麻烦的家伙……。",
+            "VoiceFileName": "1415010340",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 27,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501037,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 36,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "……我又没认真跳，怎么可能不甘心。/n不过是输给绯花里，又没什么……。",
+            "VoiceFileName": "1415010350",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 104,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501038,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 37,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "…………。",
+            "VoiceFileName": "1415010360",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501039,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 38,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "60",
+            "BackgroundImageFileFadeType": 2,
+            "BgmFileName": "26",
+            "SeFileName": "641",
+            "CharacterMotions": [],
+            "FadeValue1": 0.30000001192092896,
+            "FadeValue2": 0.5,
+            "FadeValue3": 0.30000001192092896
+        },
+        {
+            "Id": 141501040,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 39,
+            "SpeakerName": "舞蹈部成员",
+            "FontSize": 2,
+            "Phrase": "第4战！判定——五票全红，Perfect！/n胜者！与那国绯花里！",
+            "VoiceFileName": "1415010370",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141501041,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 40,
+            "SpeakerName": "围观者",
+            "FontSize": 2,
+            "Phrase": "好强！再赢一场就是全胜！刚才那招怎么做的！？/n舞蹈部的人动作也超漂亮！两边都好帅——！",
+            "VoiceFileName": "1415010380",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141501042,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 41,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "谢谢谢谢——！嘿嘿——！/n大家这么High，我也好开心！",
+            "VoiceFileName": "1415010390",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 30502,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 141501043,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 42,
+            "SpeakerName": "舞蹈部成员",
+            "FontSize": 2,
+            "Phrase": "气氛还不够热吧？/n你的Signature Move还没出吧，与那国绯花里！",
+            "VoiceFileName": "1415010400",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141501044,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 43,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "嗯！/n压箱底的一招，要留给最厉害的舞者！",
+            "VoiceFileName": "1415010410",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 26,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 30502,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 141501045,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 44,
+            "SpeakerName": "舞蹈部成员",
+            "FontSize": 2,
+            "Phrase": "不错嘛！那我们也用全力的舞蹈让你开开眼！/nDJ！最后一个Beat，上——！",
+            "VoiceFileName": "1415010420",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141501046,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 45,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "（……居然一场不换地一直跳到现在。/n这体力怪物到底什么构造。）",
+            "VoiceFileName": "1415010430",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 106,
+                    "BodyMotionMasterId": 3,
+                    "SpineId": 30302,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501047,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 46,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "（而且前面四场的编舞全都不同。/n光变化就不是那帮人的等级。更何况——）",
+            "VoiceFileName": "1415010440",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501048,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 47,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "哦哦——！刚才的Move好帅！/n那我也来压箱底的！Signature——！！！",
+            "VoiceFileName": "1415010450",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 501,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 30502,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 141501049,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 48,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "（都已经稳赢了，放点水不就好。/n真是个性价比低得离谱的家伙。不过嘛……。）",
+            "VoiceFileName": "1415010460",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 3,
+                    "SpineId": 30302,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501050,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 49,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "（——毫无疑问，她是玩得最开心、也最能吸引观众的那个。/n大概就是演剧磨出来的表现力吧……。）",
+            "VoiceFileName": "1415010470",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 15,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501051,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 50,
+            "SpeakerName": "舞蹈部成员",
+            "FontSize": 2,
+            "Phrase": "最终战！判定——五票全红，Perfect！/n胜者！与那国绯花里！",
+            "VoiceFileName": "1415010480",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141501052,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 51,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "太开心啦——！谢谢大家应援，Nifēdēbiru！/n雪也看了吗？怎么样！？",
+            "VoiceFileName": "1415010490",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 205,
+                    "BodyMotionMasterId": 18,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 30502,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 141501053,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 52,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "你啊，对面只是业余的。/n多少放点水吧……。",
+            "VoiceFileName": "1415010500",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 27,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 30302,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501054,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 53,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "Battle就得认真来！这才叫Respect！",
+            "VoiceFileName": "1415010510",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 206,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 141501055,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 54,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "（算了，那帮部员一开始也没觉得自己能赢吧。/n归根结底也不是真格的，只是玩玩。）",
+            "VoiceFileName": "1415010520",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 76,
+                    "BodyMotionMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501056,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 55,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "（认真做了还输掉，多难看啊。/n就算她们找借口，我也懒得嘲了……。）",
+            "VoiceFileName": "1415010530",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 15,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501057,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 56,
+            "SpeakerName": "舞蹈部成员",
+            "FontSize": 2,
+            "Phrase": "啊——！还是没赢！好不甘心！！！",
+            "VoiceFileName": "1415010540",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141501058,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 57,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "……！",
+            "VoiceFileName": "1415010550",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 510,
+                    "BodyMotionMasterId": 15,
+                    "SpineId": 30302,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501059,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 58,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "多亏你们，我也认真起来了！/n虽然没法加入舞蹈部，但Dance Battle大赛要加油！",
+            "VoiceFileName": "1415010560",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 208,
+                    "BodyMotionMasterId": 8,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30502,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 141501060,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 59,
+            "SpeakerName": "舞蹈部成员",
+            "FontSize": 2,
+            "Phrase": "不能一起参加大赛确实遗憾……你也加油！/n作为同一个“Rogue”，我们会支持你的！",
+            "VoiceFileName": "1415010570",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141501061,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 60,
+            "SpeakerName": "围观者",
+            "FontSize": 2,
+            "Phrase": "哇啊啊啊啊啊——！！！",
+            "VoiceFileName": "1415010580",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141501062,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 61,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "…………。",
+            "VoiceFileName": "1415010590",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 70,
+                    "BodyMotionMasterId": 3,
+                    "SpineId": 30302,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501063,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 62,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "（那些部员明明赢不了绯花里，却还是认真跳，/n然后认真地不甘心……。）",
+            "VoiceFileName": "1415010600",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 104,
+                    "BodyMotionMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501064,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 63,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "（认真做了再输，不就只剩下丢脸和不甘心吗……。）",
+            "VoiceFileName": "1415010610",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 15,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501065,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 64,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "740",
+            "BackgroundImageFileFadeType": 2,
+            "BgmFileName": "203",
+            "SeFileName": "641",
+            "WindowEffect": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.30000001192092896,
+            "FadeValue2": 0.5,
+            "FadeValue3": 0.30000001192092896
+        },
+        {
+            "Id": 141501066,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 65,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "都没认真做，哪来的什么想法。",
+            "WindowEffect": 1,
+            "VoiceFileName": "1415010620",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 30302,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501067,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 66,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "60",
+            "BackgroundImageFileFadeType": 2,
+            "SeFileName": "641",
+            "CharacterMotions": [],
+            "FadeValue1": 0.30000001192092896,
+            "FadeValue2": 0.5,
+            "FadeValue3": 0.30000001192092896
+        },
+        {
+            "Id": 141501068,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 67,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "（跳舞根本不是我的专业。打从一开始就不可能赢绯花里。）",
+            "VoiceFileName": "1415010630",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 305,
+                    "BodyMotionMasterId": 3,
+                    "SpineId": 30302,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501069,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 68,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "（所以——也许我只是把它说成“自己没认真”。）",
+            "VoiceFileName": "1415010640",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 104,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501070,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 69,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "呼——，动这么多，肚子饿啦！/n雪，回去路上去趟便利店吧——！",
+            "VoiceFileName": "1415010650",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 18,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 30502,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 141501071,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 70,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "……你自己去。我先回去。",
+            "VoiceFileName": "1415010660",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 300,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 30302,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141501072,
+            "EpisodeMasterId": 141501,
+            "Order": 1,
+            "GroupOrder": 71,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "（可恶……。太松懈了，王雪。/n明明输给绯花里，却拿借口逃避自己的不甘心！）",
+            "VoiceFileName": "1415010670",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 300,
+                    "BodyMotionMasterId": 3,
+                    "SpineId": 30302,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        }
+    ]
+}

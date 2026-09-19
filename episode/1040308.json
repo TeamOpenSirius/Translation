@@ -1,0 +1,1544 @@
+{
+  "EpisodeId": 1040308,
+  "StoryType": 1,
+  "Order": 8,
+  "Prev": 1040307,
+  "Next": 1040309,
+  "Chapter": "剧团电姬　第3章",
+  "Title": "成为“可怕的孩子”",
+  "EpisodeDetail": [
+    {
+      "Id": 1040308001,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "电姬剧团成员们",
+      "FontSize": 2,
+      "Phrase": "“卡米拉版帕克！”“意外……不，简直太可以了吧！？”/n“感觉会变成超欢乐的舞台”“这波必胜”“选角太赞了！”",
+      "BackgroundImageFileName": "900",
+      "BgmFileName": "23",
+      "VoiceFileName": "10403080010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040308002,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "看吧，跟我们说的一样嘛。",
+      "VoiceFileName": "10403080020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040308003,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "要姐她们也跟美兔她们……想到一起了呢。",
+      "VoiceFileName": "10403080030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1040308004,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "话说回来，为什么帕克会排在最上面啊！？　/n谁想得到要往那儿看啊！",
+      "VoiceFileName": "10403080040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308005,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "因为这次增加了使用爱情药的次数。/n帕克的戏份变多了，所以顺序也提到前面了。",
+      "VoiceFileName": "10403080050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308006,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "怎么？　没自信演帕克？",
+      "VoiceFileName": "10403080060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308007,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "与其说没自信，呃……这种负责把整个舞台搅乱的角色，/n我就是有点没感觉……。",
+      "VoiceFileName": "10403080070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308008,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "你这么说的话，《爱丽丝》里的红心女王，/n不也是靠强权把全场搅得天翻地覆的角色。",
+      "VoiceFileName": "10403080080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040308009,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "话是这么说啦。可帕克这个角色我就是不太懂。/n就算是恶作剧，那些也太过火了吧？",
+      "VoiceFileName": "10403080090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadDirectionMasterId": 4,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308010,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "确实。以妖精独有的思维将周围众人玩弄于掌中，/n难以理解，也可以说是很折磨演员的角色。",
+      "VoiceFileName": "10403080100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 40403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 1040308011,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "但把这种“无法理解”升华成表演，/n本身也正是乐趣所在。关键在于如何看待它，阿岐留。",
+      "VoiceFileName": "10403080110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 1040308012,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "呃——我真的做得到吗……？",
+      "VoiceFileName": "10403080120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 4,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308013,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "没事的。美兔她们也会一起……陪你想角色塑造。",
+      "VoiceFileName": "10403080130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1040308014,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "电姬剧团成员们",
+      "FontSize": 2,
+      "Phrase": "“就是就是”“没问题没问题。卡米拉肯定行”/n“像平时直播那样，开开心心演不就好了”",
+      "VoiceFileName": "10403080140",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040308015,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "……既然大家都这么说？",
+      "VoiceFileName": "10403080150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308016,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "不过这样啊，我又是这种奇葩系角色啊——。",
+      "VoiceFileName": "10403080160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308017,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "……奇葩系？",
+      "VoiceFileName": "10403080170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308018,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "诶，不是……吗？　毕竟故事中心是那四个人吧。/n帕克只是负责把他们搅得乱七八糟的奇葩角色……？",
+      "VoiceFileName": "10403080180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308019,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "没错，单从故事结构来看，/n确实容易觉得四名年轻人的关系才是中心。",
+      "VoiceFileName": "10403080190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 107,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308020,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "而且帕克干的事一件比一件离谱，/n你会觉得他只是个搞怪角色，也情有可原……。",
+      "VoiceFileName": "10403080200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308021,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "但在《仲夏夜之梦》里，帕克甚至被称作“隐藏的主角”，/n是个非常重要的角色。",
+      "VoiceFileName": "10403080210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308022,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "诶。",
+      "VoiceFileName": "10403080220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308023,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "你自己刚才也说了，他是负责搅乱故事的人。/n也就是说，正因为帕克，故事才会真正大幅转动。",
+      "VoiceFileName": "10403080230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 40403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 1040308024,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "这样的角色，/n怎么可能只是单纯的搞怪角色。",
+      "VoiceFileName": "10403080240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 1040308025,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "某部超级有名的漫画里，甚至说这个角色应该由剧团里演技最好的人来演，/n就是这么重要。",
+      "VoiceFileName": "10403080250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040308026,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "等等等等！　停停停！　诶，你刚刚说什么？　/n演技最好的人！？　那怎么可能是我啊！",
+      "VoiceFileName": "10403080260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 3,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308027,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "好好好，吁——吁——，先冷静。",
+      "VoiceFileName": "10403080270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308028,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "这怎么冷静得下来！　/n这么重要的角色，我根本扛不住啊！",
+      "VoiceFileName": "10403080280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308029,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "而且这次不是还关系到能不能拿下大赞助商，/n是特别重要的舞台吗！？　那就更不能让我——",
+      "VoiceFileName": "10403080290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308030,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "真知子",
+      "FontSize": 2,
+      "Phrase": "不是做不做得到的问题。去做。",
+      "VoiceFileName": "10403080300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 40701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "407"
+    },
+    {
+      "Id": 1040308031,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "等……。",
+      "VoiceFileName": "10403080310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308032,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "Boss，措辞注意。嗯，不过说实话，决定选角的时候，/n确实也有人觉得现在还太早。",
+      "VoiceFileName": "10403080320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308033,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "但只要看过你入团以后一路的成长，/n我就不觉得这是操之过急。",
+      "VoiceFileName": "10403080330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308034,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "你能演出属于电姬的帕克——/n我看到了这种可能性。",
+      "VoiceFileName": "10403080340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308035,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "就是啊！　沉浸式剧场的时候你也特别努力，/n卡米拉的进化根本停不下来！",
+      "VoiceFileName": "10403080350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040308036,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "以阿岐留所拥有的阳光特质，/n仲夏夜的夏至祭，必定会成为热闹又欢乐的舞台。",
+      "VoiceFileName": "10403080360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 40403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 1040308037,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "真、真的吗……？",
+      "VoiceFileName": "10403080370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308038,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "现在也许还会不安，不过我会把你彻底练出来的。/n接下来跟我一对一特训。",
+      "VoiceFileName": "10403080380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308039,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "一对一……。/n那确实让人安心，不过。",
+      "VoiceFileName": "10403080390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "HeadDirectionMasterId": 4,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308040,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "帕克有很多轻快的表演，也有不少身体表达。/n从这个角度来说，卡米拉也很合适。",
+      "VoiceFileName": "10403080400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308041,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "啊——因为我会拍“试着跳了”的视频？　/n毕竟以前练过舞……不过我很快就退了哦？",
+      "VoiceFileName": "10403080410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308042,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "有基础和完全没基础差很多。而且像蕾刚才说的，/n你压倒性的阳光特质！　跟搅乱并推动故事的帕克非常契合。",
+      "VoiceFileName": "10403080420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308043,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "搅乱故事，然后把它往前推，吗～……。",
+      "VoiceFileName": "10403080430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308044,
+      "EpisodeMasterId": 1040308,
+      "Order": 2,
+      "GroupOrder": 43,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "……这种事，我真的能做到吗？",
+      "VoiceFileName": "10403080431",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308045,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "能。而且到了正式演出，我希望你演到让我忍不住觉得——/n“可怕的孩子……！”",
+      "VoiceFileName": "10403080440",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308046,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "……………………。",
+      "VoiceFileName": "10403080450",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadDirectionMasterId": 4,
+          "BodyMotionMasterId": 13,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308047,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "真是的，给我有点自信。我也很久没上舞台了啊？　/n而且还是奥伯龙这种大角色。要说压力，我们是一样的。",
+      "VoiceFileName": "10403080460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308048,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "所以，一起加油吧。",
+      "VoiceFileName": "10403080470",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308049,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "…………好。/n我现在还没什么自信，但会尽自己所能去做。",
+      "VoiceFileName": "10403080480",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308050,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "好！　那选角就按这个来！",
+      "VoiceFileName": "10403080490",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308051,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 50,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "《仲夏夜之梦》虽然是古典名作，但就像之前说的，会做成电姬式改编。/n剧本细节会在排练过程中持续调整。",
+      "VoiceFileName": "10403080500",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308052,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 51,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "为了给赞助商留下强烈印象，/n创意随时都欢迎。想到什么就别客气，尽管提。",
+      "VoiceFileName": "10403080510",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040308053,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "电姬剧团成员们",
+      "FontSize": 2,
+      "Phrase": "是！",
+      "VoiceFileName": "10403080520",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040308054,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 53,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "（…………话是这么说）",
+      "VoiceFileName": "10403080530",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040308055,
+      "EpisodeMasterId": 1040308,
+      "Order": 1,
+      "GroupOrder": 54,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "（可越听越觉得，这角色对我来说也太重了啊……）",
+      "VoiceFileName": "10403080540",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    }
+  ]
+}

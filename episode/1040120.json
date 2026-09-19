@@ -1,0 +1,1455 @@
+{
+  "EpisodeId": 1040120,
+  "StoryType": 1,
+  "Order": 20,
+  "Prev": 1040119,
+  "Next": null,
+  "Chapter": "剧团电姬　第1章",
+  "Title": "欢迎来到剧团电姬",
+  "EpisodeDetail": [
+    {
+      "Id": 1040120001,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "根津真知子",
+      "FontSize": 2,
+      "Phrase": "呼，总算赶得上。",
+      "BackgroundImageFileName": "860",
+      "BgmFileName": "303",
+      "VoiceFileName": "10401200010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 40701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "407"
+    },
+    {
+      "Id": 1040120002,
+      "EpisodeMasterId": 1040120,
+      "Order": 2,
+      "GroupOrder": 1,
+      "SpeakerName": "根津真知子",
+      "FontSize": 2,
+      "Phrase": "……嗯？",
+      "VoiceFileName": "10401200011",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "407"
+    },
+    {
+      "Id": 1040120003,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "演剧粉丝A",
+      "FontSize": 2,
+      "Phrase": "《一千零一夜》我已经循环看爆了！　感谢音频评论！/n想趁存档下架前，把每一句都刻进脑子里～。",
+      "VoiceFileName": "10401200020",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040120004,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "演剧粉丝B",
+      "FontSize": 2,
+      "Phrase": "还特意给考据党留了发挥空间，太狠了吧～。/n还有，特典影像也太离谱。排练场直播是想让人直接淹死吗！？",
+      "VoiceFileName": "10401200030",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040120005,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "根津真知子",
+      "FontSize": 2,
+      "Phrase": "……呵。",
+      "VoiceFileName": "10401200040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 25,
+          "SpineId": 40701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "407"
+    },
+    {
+      "Id": 1040120006,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 5,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "60",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 1040120007,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "卡米拉朋友A",
+      "FontSize": 2,
+      "Phrase": "认真起来的卡米拉，简直好到爆。你这不是能做到嘛。/n感觉像卡米拉开眼了？",
+      "VoiceFileName": "10401200050",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040120008,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "卡米拉朋友B",
+      "FontSize": 2,
+      "Phrase": "你那什么居高临下的语气。我以后也会超级推她，粉丝俱乐部都加了。/n直播也绝对认真看。……不过偶尔还是陪我们玩一下啊～！",
+      "VoiceFileName": "10401200060",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040120009,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "啊——真是的，这都第几遍了～。我都快害羞了。",
+      "VoiceFileName": "10401200070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 210,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 2,
+          "SpineId": 40302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040120010,
+      "EpisodeMasterId": 1040120,
+      "Order": 2,
+      "GroupOrder": 8,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "不过确实很开心。好啦，今天就痛痛快快出去玩吧！",
+      "VoiceFileName": "10401200071",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040120011,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 9,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "370",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 1040120012,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "10401200080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 4,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1040120013,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "难道你又在回想那场演出了？",
+      "VoiceFileName": "10401200090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 10503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 1040120014,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "前辈果然还是前辈。",
+      "VoiceFileName": "10401200100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1040120015,
+      "EpisodeMasterId": 1040120,
+      "Order": 2,
+      "GroupOrder": 12,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "能去看真的太好了♪",
+      "VoiceFileName": "10401200101",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1040120016,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "（……所以才说可怕嘛。/n　她现在明明还远远算不上对手）",
+      "VoiceFileName": "10401200110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 72,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "SpineId": 10503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 1040120017,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "（不过潘达也没打算因为这样就大意到被反超）",
+      "VoiceFileName": "10401200120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 1040120018,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 15,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "850",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "8",
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 1040120019,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "居然是初魅姐主动约我喝茶，/n究竟刮的什么风？",
+      "VoiceFileName": "10401200130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1040120020,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "你也没想到会做到那种程度吧？",
+      "VoiceFileName": "10401200140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1040120021,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "不。我比任何人都相信伊吕波的实力。",
+      "VoiceFileName": "10401200150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 75,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1040120022,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "可听说你最近的排练比平时还要投入。",
+      "VoiceFileName": "10401200160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1040120023,
+      "EpisodeMasterId": 1040120,
+      "Order": 2,
+      "GroupOrder": 19,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "下一场舞台，不是还有一段时间吗？",
+      "VoiceFileName": "10401200161",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1040120024,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "身为走在前面的人，这是理所当然的。……比起这个。",
+      "VoiceFileName": "10401200170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1040120025,
+      "EpisodeMasterId": 1040120,
+      "Order": 2,
+      "GroupOrder": 20,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "你特地跑来，就是为了办一场观后感交流会吗？",
+      "VoiceFileName": "10401200171",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1040120026,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "是啊。正是如此。",
+      "VoiceFileName": "10401200180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 109,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1040120027,
+      "EpisodeMasterId": 1040120,
+      "Order": 2,
+      "GroupOrder": 21,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "难道你不想聊吗？　我可是很想和你畅谈一番。",
+      "VoiceFileName": "10401200181",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1040120028,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "刺激会传播、共鸣、增幅，并推动改变。/n个性纷纷崛起，你不觉得很值得期待吗？",
+      "VoiceFileName": "10401200190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 109,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1040120029,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "来吧！　群雄割据的时代！/n让演剧的乐趣，比现在更加广泛地传向世界！",
+      "VoiceFileName": "10401200200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 9,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1040120030,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "你……你快住手，大街上呢！/n要吸引众人目光，请只在舞台上做！",
+      "VoiceFileName": "10401200210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1040120031,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 25,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "900",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "999",
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 1040120032,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "根津真知子",
+      "FontSize": 2,
+      "Phrase": "奥林匹斯提高了收购报价。",
+      "VoiceFileName": "10401200220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 40701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "407"
+    },
+    {
+      "Id": 1040120033,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "诶诶诶诶！？",
+      "VoiceFileName": "10401200230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040120034,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "根津真知子",
+      "FontSize": 2,
+      "Phrase": "没什么可惊讶的。公演评价很高，也获得了新客群。/n票房收入同样大幅上升。这只是合理估值。",
+      "VoiceFileName": "10401200240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 40701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "407"
+    },
+    {
+      "Id": 1040120035,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "我们惊讶的不是这个，是收购的事！",
+      "VoiceFileName": "10401200250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040120036,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "根津真知子",
+      "FontSize": 2,
+      "Phrase": "当然，我已经把他们顶回去了。",
+      "VoiceFileName": "10401200260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 40701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "407"
+    },
+    {
+      "Id": 1040120037,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "太……、",
+      "BgmFileName": "302",
+      "VoiceFileName": "10401200270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040120038,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "众人",
+      "FontSize": 2,
+      "Phrase": "太好啦————！",
+      "VoiceFileName": "10401200280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040120039,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "根津真知子",
+      "FontSize": 2,
+      "Phrase": "既然你们用数字证明了成长的可能性，/n作为投资人的我，也只能哑口无言。",
+      "VoiceFileName": "10401200290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 40701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "407"
+    },
+    {
+      "Id": 1040120040,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "根津真知子",
+      "FontSize": 2,
+      "Phrase": "但你们敢满足于现状试试看。/n我随时都会收回前言。这不是威胁。",
+      "VoiceFileName": "10401200300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "407"
+    },
+    {
+      "Id": 1040120041,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "……美兔这次把蕾拉公主演得很好，/n所以有点担心，以后还能不能超越这次……。",
+      "VoiceFileName": "10401200310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1040120042,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "没问题！　我们还可以继续成长！",
+      "VoiceFileName": "10401200320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040120043,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "没错。无论今后有什么等待着我们，/n既然连那不受欢迎的明日都改变过，就没有我们做不到的事。",
+      "VoiceFileName": "10401200330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 75,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 40403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 1040120044,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "……是！",
+      "VoiceFileName": "10401200340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1040120045,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "还有，看了上次公演以后，申请入团的人一下子涌了过来。/n所以我们准备举办一次大规模入团考试。",
+      "VoiceFileName": "10401200350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040120046,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "伊吕波、美兔，还有其他人。/n这一次你们也要坐到评审那边。",
+      "VoiceFileName": "10401200360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040120047,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "诶诶诶，我、我们也要吗！？",
+      "VoiceFileName": "10401200370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040120048,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "那些孩子都是看了你们的舞台以后受到感动才来的。/n一个个热情都烧得正旺，你们可要好好审。",
+      "VoiceFileName": "10401200380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040120049,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "根津真知子",
+      "FontSize": 2,
+      "Phrase": "这一次，全体团员都积极投入，最终拿出了成果，/n新的冒险性尝试也取得成功，而且幸运地被观众接受了。",
+      "VoiceFileName": "10401200390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 40701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "407"
+    },
+    {
+      "Id": 1040120050,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "根津真知子",
+      "FontSize": 2,
+      "Phrase": "但同样的东西看上一遍又一遍，顾客很快就会厌倦。",
+      "VoiceFileName": "10401200400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 75,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "407"
+    },
+    {
+      "Id": 1040120051,
+      "EpisodeMasterId": 1040120,
+      "Order": 2,
+      "GroupOrder": 44,
+      "SpeakerName": "根津真知子",
+      "FontSize": 2,
+      "Phrase": "这不是薄情，而是他们会习惯。",
+      "VoiceFileName": "10401200401",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "407"
+    },
+    {
+      "Id": 1040120052,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "……而我们也是一样。/n你想说的是这个吧。",
+      "VoiceFileName": "10401200410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040120053,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "根津真知子",
+      "FontSize": 2,
+      "Phrase": "不要畏惧新的力量！　永远渴望未来！/n如此一来，进化自然会持续！　你们做得到！",
+      "VoiceFileName": "10401200420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 40701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "407"
+    },
+    {
+      "Id": 1040120054,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "众人",
+      "FontSize": 2,
+      "Phrase": "是！",
+      "BgmFileName": "999",
+      "VoiceFileName": "10401200430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040120055,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "……我们剧团电姬，会一直享受下去。",
+      "BackgroundImageFileName": "1130",
+      "BgmFileName": "305",
+      "VoiceFileName": "10401200440",
+      "CharacterMotions": [],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040120056,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "享受改变、",
+      "BackgroundImageFileName": "860",
+      "VoiceFileName": "10401200450",
+      "CharacterMotions": [],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040120057,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 50,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "享受进化、",
+      "BackgroundImageFileName": "870",
+      "VoiceFileName": "10401200460",
+      "CharacterMotions": [],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040120058,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 51,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "享受下一场舞台――！",
+      "BackgroundImageFileName": "880",
+      "VoiceFileName": "10401200470",
+      "CharacterMotions": [],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040120059,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 52,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1050",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 1040120060,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 53,
+      "FontSize": 2,
+      "Phrase": "――就这样，电子的公主们，/n开始迈向新的舞台。",
+      "VoiceFileName": "10401200480",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040120061,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 54,
+      "FontSize": 2,
+      "Phrase": "在今后的道路上，少女们面前想必还会有各种苦难等待。/n但公主们不会忘记享受其中，并会带着笑容迎接各位。",
+      "VoiceFileName": "10401200490",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040120062,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 55,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "890",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 1040120063,
+      "EpisodeMasterId": 1040120,
+      "Order": 1,
+      "GroupOrder": 56,
+      "SpeakerName": "剧团成员们",
+      "FontSize": 2,
+      "Phrase": "欢迎来到剧团电姬――！",
+      "VoiceFileName": "10401200500",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    }
+  ]
+}

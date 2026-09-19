@@ -1,0 +1,1531 @@
+{
+  "EpisodeId": 130151,
+  "StoryType": 3,
+  "Order": 1,
+  "Prev": null,
+  "Next": 130152,
+  "Chapter": "自然的一天",
+  "Title": "去泡温泉吧！",
+  "EpisodeDetail": [
+    {
+      "Id": 130151001,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……哈哈，下部舞台剧的选角真让我忍不住笑了。",
+      "BackgroundImageFileName": "50",
+      "BgmFileName": "202",
+      "VoiceFileName": "1301510010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 2,
+          "SpineId": 30202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151002,
+      "EpisodeMasterId": 130151,
+      "Order": 2,
+      "GroupOrder": 1,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "因为我觉得，那简直是只有莉莉亚才演得来的角色。",
+      "VoiceFileName": "1301510011",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151003,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "嗯。只要说一句“吾即是神”，/n之后站在那里就行。",
+      "VoiceFileName": "1301510020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151004,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "看起来很轻松，不过其实很有深度。",
+      "VoiceFileName": "1301510030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151005,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "也只有光是站着就足够吸引视线的莉莉亚才能胜任吧。/n我要去排练场，你呢？",
+      "VoiceFileName": "1301510040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151006,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……我也去排练。为了磨炼美，要去温泉度假村。",
+      "VoiceFileName": "1301510050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151007,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "不是温泉度假村，是天狼星吧。/n你又擅自混进去了吗……。",
+      "VoiceFileName": "1301510060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151008,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "他们给我准备了专用储物柜，所以算官方许可。/n下一步我打算让他们建一个能做蒸汽浴的桑拿房。",
+      "VoiceFileName": "1301510070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151009,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "人家的好意当然值得感谢……但我还是很担心……。",
+      "VoiceFileName": "1301510080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151010,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "放心，我不会转籍去天狼星。",
+      "VoiceFileName": "1301510090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151011,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "我担心的不是这个……。",
+      "VoiceFileName": "1301510100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 72,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151012,
+      "EpisodeMasterId": 130151,
+      "Order": 2,
+      "GroupOrder": 10,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……算了。我也一起去。",
+      "VoiceFileName": "1301510101",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151013,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "你们好。",
+      "BackgroundImageFileName": "500",
+      "BackgroundImageFileFadeType": 3,
+      "VoiceFileName": "1301510110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151014,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "欢迎，莉莉亚小姐。/n浴池已经好好烧热了哦。",
+      "VoiceFileName": "1301510120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 130151015,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "望有",
+      "FontSize": 2,
+      "Phrase": "抱歉啊，现在正忙着。/n你们随便放松就好。",
+      "VoiceFileName": "1301510130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "107"
+    },
+    {
+      "Id": 130151016,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 14,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "570",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "999",
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 130151017,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "哈啊啊～……嗯～。",
+      "BgmFileName": "13",
+      "VoiceFileName": "1301510140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 30404,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151018,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "你连放松时的声音都带着种莫名的艳丽感啊。",
+      "VoiceFileName": "1301510150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30204,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151019,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "果然，还是这里的水舒服……。",
+      "VoiceFileName": "1301510160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 30404,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151020,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……柊女士和八惠都完全不惊讶。/n你到底来过多少次了……。",
+      "VoiceFileName": "1301510170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151021,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "大浴池就是为了让很多人一起享受才存在。/n我只是在回应造出这片浴池之人的愿望。",
+      "VoiceFileName": "1301510180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151022,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "呵，泡进热水里，连训你的心情都消失了……。",
+      "VoiceFileName": "1301510190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 72,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151023,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "严格来说就是非法闯入吧，毕竟你是外人。/n没想到你也来了。",
+      "VoiceFileName": "1301510200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 24,
+          "LipSyncMasterId": 4,
+          "SpineId": 10304,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 130151024,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "她非说想和我来一场赤裸相见，所以我就带她来了。",
+      "VoiceFileName": "1301510210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 30404,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151025,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "哦～？　你们关系很好嘛？",
+      "VoiceFileName": "1301510220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 130151026,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "等等，你那一脸坏笑是什么意思。/n你绝对产生了天大的误会。",
+      "VoiceFileName": "1301510230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 301,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 30204,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151027,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "是误会吗？　我们明明相处得还挺好。",
+      "VoiceFileName": "1301510240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 30404,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151028,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "这、这个嘛，赤裸相见倒也不坏……。",
+      "VoiceFileName": "1301510250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151029,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "那你们两个也好好聊聊？/n感觉彼此都有不少话憋着。",
+      "VoiceFileName": "1301510260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151030,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "让我和卡特莉娜单独聊吗……？",
+      "VoiceFileName": "1301510270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151031,
+      "EpisodeMasterId": 130151,
+      "Order": 2,
+      "GroupOrder": 28,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "也不错。",
+      "VoiceFileName": "1301510271",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151032,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "我出去了。",
+      "VoiceFileName": "1301510280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 306,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10304,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 130151033,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "嗯，可能还是出去比较好。/n卡特莉娜，你脸都红透了。",
+      "VoiceFileName": "1301510290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 30404,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151034,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……！？",
+      "VoiceFileName": "1301510300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 513,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 130151035,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "泡晕了吗！？　那可不好！",
+      "VoiceFileName": "1301510310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 501,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 30204,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151036,
+      "EpisodeMasterId": 130151,
+      "Order": 2,
+      "GroupOrder": 32,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "等着，卡特莉娜，我马上去拿水――！",
+      "VoiceFileName": "1301510311",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151037,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "不、不用了，我没事。别管我！",
+      "VoiceFileName": "1301510320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 306,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10304,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 130151038,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "她、她跑着出去了！？",
+      "VoiceFileName": "1301510330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 501,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 30204,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151039,
+      "EpisodeMasterId": 130151,
+      "Order": 2,
+      "GroupOrder": 34,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "看着可完全不像泡晕了……。",
+      "VoiceFileName": "1301510331",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151040,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "呵呵。/n所以赤裸相见才这么有趣又美丽。",
+      "VoiceFileName": "1301510340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 30404,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151041,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……吹风机的热风要离头发15厘米。/n为了不伤头发，从上往下用手指轻轻梳开。",
+      "BackgroundImageFileName": "500",
+      "BackgroundImageFileFadeType": 1,
+      "VoiceFileName": "1301510350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 30404,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304",
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 130151042,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "嗯，这样对吗？",
+      "VoiceFileName": "1301510360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 30204,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151043,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "你真的完全没习惯呢。好痒。呵呵……。",
+      "VoiceFileName": "1301510370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 30404,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151044,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "还不是你撒娇，说想让我替你吹头发。/n不熟练也好、手笨也好，你就认了吧。",
+      "VoiceFileName": "1301510380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151045,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "一开始谁都很笨。/n都是看、听、练习之后才会变熟练的吧。",
+      "VoiceFileName": "1301510390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151046,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……也是。",
+      "VoiceFileName": "1301510400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151047,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "吹干之后，再用冷风收尾。/n张开的毛鳞片闭合后，头发就会有光泽。",
+      "VoiceFileName": "1301510410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 30404,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151048,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "哦，真的。只是方法不同，居然会差这么多。",
+      "VoiceFileName": "1301510420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 30204,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151049,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "想继续进步的话就告诉我。/n我随时都可以给你当练习对象。",
+      "VoiceFileName": "1301510430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 30404,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151050,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "你这家伙，该不会只是想让别人替你吹头发吧？",
+      "VoiceFileName": "1301510440",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 130151051,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "我从镜子里看到你的脸，明明挺开心的。",
+      "VoiceFileName": "1301510450",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 130151052,
+      "EpisodeMasterId": 130151,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "是吗？　那就……不好说了。",
+      "VoiceFileName": "1301510460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    }
+  ]
+}

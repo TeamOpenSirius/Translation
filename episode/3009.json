@@ -1,0 +1,60 @@
+{
+    "EpisodeId": 3009,
+    "StoryType": 4,
+    "Order": 1,
+    "Prev": null,
+    "Next": null,
+    "Chapter": null,
+    "Title": "原来日本也有人在…",
+    "EpisodeDetail": [
+        {
+            "Id": 3009001,
+            "EpisodeMasterId": 3009,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "原来日本也有人在户外即兴演戏啊。/n……嗯，他们很会利用“户外”这个条件呢。",
+            "VoiceFileName": "30090010",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 3009002,
+            "EpisodeMasterId": 3009,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "不过不管是看还是演，我都更喜欢室内。/n没有杂音，更容易集中。",
+            "VoiceFileName": "30090020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 70,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        }
+    ]
+}

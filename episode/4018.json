@@ -1,0 +1,61 @@
+{
+    "EpisodeId": 4018,
+    "StoryType": 4,
+    "Order": 1,
+    "Prev": null,
+    "Next": null,
+    "Chapter": null,
+    "Title": "啊呀～，拿铁……",
+    "EpisodeDetail": [
+        {
+            "Id": 4018001,
+            "EpisodeMasterId": 4018,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "啊呀～，拿铁都凉了。/n不小心听落语听入迷了……。",
+            "VoiceFileName": "40180010",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 402,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 27,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 4018002,
+            "EpisodeMasterId": 4018,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "哎呀～果然还是很好玩啊。/n最近视频也越来越多，时间真的一眨眼就没了。",
+            "VoiceFileName": "40180020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 72,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        }
+    ]
+}

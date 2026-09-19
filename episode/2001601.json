@@ -1,0 +1,1958 @@
+{
+  "EpisodeId": 2001601,
+  "StoryType": 2,
+  "Order": 1,
+  "Prev": null,
+  "Next": 2001602,
+  "Chapter": "星光的礼物",
+  "Title": "今年的圣诞老人",
+  "EpisodeDetail": [
+    {
+      "Id": 2001601001,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 1,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "670",
+      "BgmFileName": "202",
+      "SeFileName": "230",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 2001601002,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "早啊……。",
+      "VoiceFileName": "20016010010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 30503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001601003,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "早上好，绯花里。",
+      "VoiceFileName": "20016010020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001601004,
+      "EpisodeMasterId": 2001601,
+      "Order": 2,
+      "GroupOrder": 3,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……怎么了？看起来很没精神啊。",
+      "VoiceFileName": "20016010021",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001601005,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "拉莫姐你没事吗……？",
+      "VoiceFileName": "20016010030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001601006,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "没事……？",
+      "VoiceFileName": "20016010040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001601007,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "明明冷————成这样！/n王雪、千寿历你们都没事！？不冷吗！？",
+      "VoiceFileName": "20016010050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001601008,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "冷是冷，但有必要闹成这样吗？",
+      "VoiceFileName": "20016010060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 27,
+          "LipSyncMasterId": 1,
+          "SpineId": 30303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 2001601009,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "毕竟是冬天，而且气温和往年相比也没差多少……。",
+      "VoiceFileName": "20016010070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 30103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2001601010,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "诶——！？我已经冷得不行了，甚至都想披着被子过来！",
+      "VoiceFileName": "20016010080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 3,
+          "SpineId": 30503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001601011,
+      "EpisodeMasterId": 2001601,
+      "Order": 2,
+      "GroupOrder": 9,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "莉莉亚呢！？你也觉得冷吧！？",
+      "VoiceFileName": "20016010081",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001601012,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "不。",
+      "VoiceFileName": "20016010090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "SpineId": 30403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001601013,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "为什么……。",
+      "VoiceFileName": "20016010100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001601014,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "倒不如说，甚至还挺暖和。",
+      "VoiceFileName": "20016010110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001601015,
+      "EpisodeMasterId": 2001601,
+      "Order": 2,
+      "GroupOrder": 12,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "这样的话，就能让更多人看我了。你看……。",
+      "VoiceFileName": "20016010111",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001601016,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "喂——！别脱，别脱。",
+      "VoiceFileName": "20016010120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001601017,
+      "EpisodeMasterId": 2001601,
+      "Order": 2,
+      "GroupOrder": 13,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "你本来一年到头就穿得够少了。",
+      "VoiceFileName": "20016010121",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001601018,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "确实，你总是穿得很单薄。/n因为来自北方，所以这种程度完全不在话下吗？",
+      "VoiceFileName": "20016010130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 30303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 2001601019,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "嗯。",
+      "VoiceFileName": "20016010140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 30403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001601020,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "就算这样，也不能成为露这么多皮肤的理由哦，莉莉亚。/n要是感冒了，舞台和学业都会受影响。",
+      "VoiceFileName": "20016010150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 30103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2001601021,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "这点程度才不会感冒。",
+      "VoiceFileName": "20016010160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 30403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001601022,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "哎呀，这就是北方出生的人……太可怕了……。",
+      "VoiceFileName": "20016010170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 30503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001601023,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 19,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2001601024,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "虽然每年都是惯例，不过下一场公演是圣诞慈善公演。",
+      "VoiceFileName": "20016010180",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2001601025,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "这是让未来的 Dai Star 亲眼看到真正舞台的机会。/n免费公开、观众又是孩子，正因为如此更要拿出干劲。",
+      "VoiceFileName": "20016010190",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2001601026,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "那么现在公布角色分配。",
+      "VoiceFileName": "20016010200",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2001601027,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "首先是主角，圣诞老人——莉莉亚·库尔特贝。",
+      "VoiceFileName": "20016010210",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2001601028,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……！",
+      "VoiceFileName": "20016010220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "SpineId": 30403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001601029,
+      "EpisodeMasterId": 2001601,
+      "Order": 2,
+      "GroupOrder": 24,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "是。",
+      "VoiceFileName": "20016010221",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001601030,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "接下来，驯鹿由王雪饰演。",
+      "VoiceFileName": "20016010230",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2001601031,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "是。",
+      "VoiceFileName": "20016010240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 2001601032,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "接下来——",
+      "VoiceFileName": "20016010250",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2001601033,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 28,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "50",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "999",
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2001601034,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "BgmFileName": "1",
+      "VoiceFileName": "20016010260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001601035,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "这几天你看起来特别开心啊。",
+      "VoiceFileName": "20016010270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001601036,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "嗯。很开心。",
+      "VoiceFileName": "20016010280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001601037,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "是因为下一场慈善公演吗？",
+      "VoiceFileName": "20016010290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 4,
+          "SpineId": 30102,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2001601038,
+      "EpisodeMasterId": 2001601,
+      "Order": 2,
+      "GroupOrder": 32,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "我还以为莉莉亚不是那种执着于主角位置的人……。",
+      "VoiceFileName": "20016010291",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2001601039,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "主角本身倒无所谓。/n因为我想让更多人看我，所以显眼一点我会更高兴。",
+      "VoiceFileName": "20016010300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001601040,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "那这次也是因为能更显眼？",
+      "VoiceFileName": "20016010310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001601041,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "不是。",
+      "VoiceFileName": "20016010320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001601042,
+      "EpisodeMasterId": 2001601,
+      "Order": 2,
+      "GroupOrder": 35,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "这次的角色是圣诞老人吧？所以。",
+      "VoiceFileName": "20016010321",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001601043,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "所以？",
+      "VoiceFileName": "20016010330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 30202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001601044,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "啊，原来是这么回事。",
+      "VoiceFileName": "20016010340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 30102,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2001601045,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "怎么，千寿历，你知道吗？",
+      "VoiceFileName": "20016010350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 30202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001601046,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "嗯，算是吧。/n毕竟去年她也把学校闹得相当热闹。",
+      "VoiceFileName": "20016010360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2001601047,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "学校……？",
+      "VoiceFileName": "20016010370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001601048,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "我只是因为圣诞节发了点礼物而已。太夸张了。",
+      "VoiceFileName": "20016010380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001601049,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "穿着圣诞老人装来学校，一边不停喊着“Ho Ho Ho”一边在校内到处走的人，/n可没资格这么说吧……。",
+      "VoiceFileName": "20016010390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 30102,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2001601050,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "圣诞老人的说话方式就是“Ho Ho Ho”，当然要这么做。/n今年也会继续，敬请期待。",
+      "VoiceFileName": "20016010400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30102,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001601051,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "别扰乱校纪啊……。",
+      "VoiceFileName": "20016010410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 30202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001601052,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 45,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "701",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "999",
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 2001601053,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "诶！？莉莉亚，你去年在学校发过礼物！？",
+      "BgmFileName": "203",
+      "VoiceFileName": "20016010420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 30521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001601054,
+      "EpisodeMasterId": 2001601,
+      "Order": 2,
+      "GroupOrder": 46,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "哎呀……我要是早一年上高中就好了……！",
+      "VoiceFileName": "20016010421",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001601055,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "所以说，芬兰人就是这么喜欢圣诞老人，/n你才会因为这次角色分配这么高兴？",
+      "VoiceFileName": "20016010430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 2001601056,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "是，但也不完全是。/n我一直以圣诞老人为榜样。",
+      "VoiceFileName": "20016010440",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 106,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 30421,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001601057,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "以他为榜样？",
+      "VoiceFileName": "20016010450",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 2001601058,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 50,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "对。我以前在圣诞老人村和他一起工作过，所以很尊敬他。/n我成不了圣诞老人，但一直把他当榜样。",
+      "VoiceFileName": "20016010460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 30421,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001601059,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 51,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "所以这次的角色我也会努力，/n今年在学校也会发礼物。你们期待一下吧。",
+      "VoiceFileName": "20016010470",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001601060,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "真的！？太好了——！",
+      "VoiceFileName": "20016010480",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 30521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001601061,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 53,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "喂喂，别跟着起哄。",
+      "VoiceFileName": "20016010490",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001601062,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 54,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "特地免费到处发东西，你还真是个怪人。/n反正也收不到什么回礼吧？",
+      "VoiceFileName": "20016010500",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 2001601063,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 55,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "嗯。偶尔会收到便利店的小零食之类。",
+      "VoiceFileName": "20016010510",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 30421,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001601064,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 56,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "完全不划算。",
+      "VoiceFileName": "20016010520",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 2001601065,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 57,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "好啦好啦。先不论在学校做这件事合不合适，/n这种奉献精神不也正和下一场慈善公演相通吗？",
+      "VoiceFileName": "20016010530",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2001601066,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 58,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "慈善公演啊。",
+      "VoiceFileName": "20016010540",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 2001601067,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 59,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "免费给人看戏，甚至还要发点心，根本赚不到钱吧。/n明明圣诞节正是绝佳的赚钱时机……。",
+      "VoiceFileName": "20016010550",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 2001601068,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 60,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "只盯着眼前的利益，反而会吃亏哦，王雪。",
+      "VoiceFileName": "20016010560",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2001601069,
+      "EpisodeMasterId": 2001601,
+      "Order": 2,
+      "GroupOrder": 60,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "你应该也知道，金钱并不是衡量一切价值的唯一标准吧？",
+      "VoiceFileName": "20016010561",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2001601070,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 61,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "话是这么说，可难得的圣诞节啊……。",
+      "VoiceFileName": "20016010570",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 2001601071,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 62,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "通过慈善活动，也能提升银河座的评价。/n免费来看演出的孩子，将来说不定会成为我们的常客。",
+      "VoiceFileName": "20016010580",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2001601072,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 63,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "甚至还有可能有一天成为与我们并肩而立的演员，/n所以可别为了省一点小利，反而错过更大的收获。",
+      "VoiceFileName": "20016010590",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2001601073,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 64,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "唔……。",
+      "VoiceFileName": "20016010600",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 2001601074,
+      "EpisodeMasterId": 2001601,
+      "Order": 1,
+      "GroupOrder": 65,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "就和平时一样，一起把它演成一场好公演吧。",
+      "VoiceFileName": "20016010610",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    }
+  ]
+}

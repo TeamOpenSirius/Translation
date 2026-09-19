@@ -1,0 +1,956 @@
+{
+  "EpisodeId": 1050103,
+  "StoryType": 1,
+  "Order": 3,
+  "Prev": 1050102,
+  "Next": 1050104,
+  "Chapter": "最终章",
+  "Title": "Dai Star们",
+  "EpisodeDetail": [
+    {
+      "Id": 1050103001,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "打扰了。/n…………！",
+      "BackgroundImageFileName": "1770",
+      "BgmFileName": "5",
+      "VoiceFileName": "10501030010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 30103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1050103002,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（正式排练明明还没开始，/n　这里却已经弥漫着惊人的紧张感……）",
+      "VoiceFileName": "10501030020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1050103003,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（这就是，从世界各地汇聚而来的Dai Star们……）",
+      "VoiceFileName": "10501030030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1050103004,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（……不，不能被气势压倒。/n　我也是千寿家的演员，也是代表银河座的Dai Star）",
+      "VoiceFileName": "10501030040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 13,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1050103005,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（我要完成好自己的角色，即使在这座Dai Star云集的舞台上，/n　也一定要绽放光芒）",
+      "VoiceFileName": "10501030050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 14,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1050103006,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "工作人员",
+      "FontSize": 2,
+      "Phrase": "好了，到时间了。/n请各位集合。",
+      "VoiceFileName": "10501030060",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050103007,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "工作人员",
+      "FontSize": 2,
+      "Phrase": "接下来由我负责为各位Dai Star提供支持。/n请多关照。",
+      "VoiceFileName": "10501030070",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050103008,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "工作人员",
+      "FontSize": 2,
+      "Phrase": "我想大家彼此应该都认识，/n不过还是请依次做个简单的自我介绍。",
+      "VoiceFileName": "10501030080",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050103009,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "我是来自银河座的千寿历。/n各位，请多关照。",
+      "VoiceFileName": "10501030090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 30103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1050103010,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "我是剧团天狼星的新妻八惠。",
+      "VoiceFileName": "10501030100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050103011,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "能和各位一起演戏，我深感荣幸。/n请多关照。",
+      "VoiceFileName": "10501030110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050103012,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "啊……我是剧团电姬的白丸美兔……！/n我会全力努力，不拖大家后腿。请多关照！",
+      "VoiceFileName": "10501030120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1050103013,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "工作人员",
+      "FontSize": 2,
+      "Phrase": "那么下一位……剧团奥林匹斯的——",
+      "VoiceFileName": "10501030130",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050103014,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 14,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 1050103015,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "工作人员",
+      "FontSize": 2,
+      "Phrase": "——谢谢各位。接下来到时间之前，/n大家可以各自进行个人练习。",
+      "VoiceFileName": "10501030140",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050103016,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "工作人员",
+      "FontSize": 2,
+      "Phrase": "稍后导演也会到场，/n如有问题请向其询问。",
+      "VoiceFileName": "10501030150",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050103017,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "工作人员",
+      "FontSize": 2,
+      "Phrase": "剧本就在各位手中的——。",
+      "VoiceFileName": "10501030160",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050103018,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "（我这次的角色……柊小姐已经事先向我说明过……。/n　《众神的恶作剧》主角，宙斯……）",
+      "VoiceFileName": "10501030170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 104,
+          "BodyMotionMasterId": 4,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050103019,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 19,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "370",
+      "BackgroundImageFileFadeType": 2,
+      "BgmFileName": "11",
+      "SeFileName": "641",
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 1050103020,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "望有",
+      "FontSize": 2,
+      "Phrase": "……八惠，这就是世界演剧联盟给Dai Star的指定剧目，/n以及角色分配。",
+      "VoiceFileName": "10501030180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 10701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "107"
+    },
+    {
+      "Id": 1050103021,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "宙斯……这就是，交给我的角色……。",
+      "VoiceFileName": "10501030190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050103022,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "望有",
+      "FontSize": 2,
+      "Phrase": "没错。/n这次指定剧目《众神的恶作剧》，是以神话为基础的原创剧本。",
+      "VoiceFileName": "10501030200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "107"
+    },
+    {
+      "Id": 1050103023,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "望有",
+      "FontSize": 2,
+      "Phrase": "不过宙斯的行为，大体上和神话中描述的一样。/n明明有正妻赫拉，却还是把目光投向其他女性。",
+      "VoiceFileName": "10501030210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "107"
+    },
+    {
+      "Id": 1050103024,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "望有",
+      "FontSize": 2,
+      "Phrase": "故事主要聚焦于这一点。/n也正因如此，主角才是扮演宙斯的你，八惠。",
+      "VoiceFileName": "10501030220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "107"
+    },
+    {
+      "Id": 1050103025,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "在“Dai Star盛典”上，而且……/n还有这么多Dai Star在场，却让我担任主角……？",
+      "VoiceFileName": "10501030230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050103026,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "望有",
+      "FontSize": 2,
+      "Phrase": "难得看你这么紧张……不过也难怪。/n而且这里描写的宙斯，是一个花心、中性气质的美少年。",
+      "VoiceFileName": "10501030240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "107"
+    },
+    {
+      "Id": 1050103027,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "望有",
+      "FontSize": 2,
+      "Phrase": "对一直以来演正统角色和纯粹可爱角色的八惠来说，/n会是一个全新的领域。",
+      "VoiceFileName": "10501030250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "107"
+    },
+    {
+      "Id": 1050103028,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "……以前的我，面对挑战新角色这件事，/n总是会感到兴奋，觉得那一定非常开心。",
+      "VoiceFileName": "10501030260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050103029,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "可是，那个——",
+      "VoiceFileName": "10501030270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050103030,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "望有",
+      "FontSize": 2,
+      "Phrase": "八惠。你之前对我说过吧。/n……“总有一天，还想再和我一起”。",
+      "VoiceFileName": "10501030280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "107"
+    },
+    {
+      "Id": 1050103031,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "诶……。",
+      "VoiceFileName": "10501030290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 511,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050103032,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "望有",
+      "FontSize": 2,
+      "Phrase": "如果你现在还想和我站上同一座舞台……/n那就跨过去给我看。无论是什么角色。",
+      "VoiceFileName": "10501030300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "107"
+    },
+    {
+      "Id": 1050103033,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "望有",
+      "FontSize": 2,
+      "Phrase": "……作为天狼星的Dai Star。",
+      "VoiceFileName": "10501030310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "107"
+    },
+    {
+      "Id": 1050103034,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "！",
+      "VoiceFileName": "10501030320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 13,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050103035,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "（对了……我是天狼星的Dai Star之一。/n　和柊小姐一样……）",
+      "VoiceFileName": "10501030330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 4,
+          "SpineId": 10403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050103036,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "刚才说了泄气的话，非常抱歉。/n柊小姐，谢谢您。",
+      "VoiceFileName": "10501030340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050103037,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "我一定会在世界演剧联盟的舞台上，/n把宙斯这个角色彻底演好。",
+      "VoiceFileName": "10501030350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050103038,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "八惠",
+      "FontSize": 2,
+      "Phrase": "今后也会让自己能驾驭更多不同的角色。/n……像柊小姐一样。",
+      "VoiceFileName": "10501030360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "104"
+    },
+    {
+      "Id": 1050103039,
+      "EpisodeMasterId": 1050103,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "望有",
+      "FontSize": 2,
+      "Phrase": "嗯，我期待着。",
+      "VoiceFileName": "10501030370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 10701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "107"
+    }
+  ]
+}

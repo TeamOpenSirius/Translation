@@ -1,0 +1,1124 @@
+{
+  "EpisodeId": 120132,
+  "StoryType": 3,
+  "Order": 2,
+  "Prev": 120131,
+  "Next": null,
+  "Chapter": "爱照顾人的优等生",
+  "Title": "鱿鱼！鱿鱼！鱿鱼！",
+  "EpisodeDetail": [
+    {
+      "Id": 120132001,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "老板",
+      "FontSize": 2,
+      "Phrase": "欢迎光临——！",
+      "BackgroundImageFileName": "1150",
+      "BgmFileName": "3",
+      "VoiceFileName": "0",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 120132002,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "哦哦，快看！鱼在水槽里游呢！",
+      "VoiceFileName": "1201320010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120132003,
+      "EpisodeMasterId": 120132,
+      "Order": 2,
+      "GroupOrder": 2,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "这就是日本引以为傲的寿司店吗！太棒了！",
+      "VoiceFileName": "1201320011",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 26,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120132004,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "这里的鱼特别新鲜！/n而且价格实惠，我也敢拍胸脯保证！",
+      "VoiceFileName": "1201320020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 120132005,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "有老家是渔民的绯花里作保证呢。/n看来很值得期待。那么菜单——",
+      "VoiceFileName": "1201320030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 120132006,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "等等，点单交给我吧。/n我想让你们尝尝我精挑细选的食材？",
+      "VoiceFileName": "1201320040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 75,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 2,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 120132007,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "这是王雪发来的挑战书吗，有意思！",
+      "VoiceFileName": "1201320050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120132008,
+      "EpisodeMasterId": 120132,
+      "Order": 2,
+      "GroupOrder": 6,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "好，就用寿司让我赞不绝口吧！",
+      "VoiceFileName": "1201320051",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120132009,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "这可是你说的？",
+      "VoiceFileName": "1201320060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 118,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 120132010,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "坏笑。",
+      "VoiceFileName": "1201320070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 118,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 2,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120132011,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "老板！鱿鱼刺身！墨鱼寿司！/n再来一份酱腌萤火鱿！",
+      "VoiceFileName": "1201320080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 18,
+          "LipSyncMasterId": 2,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 120132012,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "等、等等。鱿鱼……！？",
+      "VoiceFileName": "1201320090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 504,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120132013,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "怎么了？拉莫娜。/n脸都像青花鱼一样发青了。",
+      "VoiceFileName": "1201320100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 118,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 2,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120132014,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "哎呀～？我碰巧在SNS上发现了一条帖子呢～。/n上面写着拉莫娜·沃尔芙不擅长吃鱿鱼～？",
+      "VoiceFileName": "1201320110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 2,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 120132015,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "不、不是。那只是……毫无根据的传闻……。",
+      "VoiceFileName": "1201320120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120132016,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "老板",
+      "FontSize": 2,
+      "Phrase": "久等了！",
+      "VoiceFileName": "1201320130",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 120132017,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "这、这是……什么东西……！？",
+      "VoiceFileName": "1201320140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120132018,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "鱿鱼啊。",
+      "VoiceFileName": "1201320150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 120132019,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "哈哈哈，没错，就是鱿鱼！来，大家吃！",
+      "VoiceFileName": "1201320160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 120132020,
+      "EpisodeMasterId": 120132,
+      "Order": 2,
+      "GroupOrder": 17,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "你不吃吗？这么好吃的鱿鱼可是难得的哦！",
+      "VoiceFileName": "1201320161",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 120132021,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "1201320170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 403,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120132022,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "不想吃的话就不用勉强。/n我们会替你全部美味地解决掉。",
+      "VoiceFileName": "1201320180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 118,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 2,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120132023,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "哦，对啊。饮食喜好因人而异。/n刚才像是在逼你吃，抱歉啊，德国。",
+      "VoiceFileName": "1201320190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 2,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 120132024,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "以后我不会再对你的饮食习惯指手画脚。",
+      "VoiceFileName": "1201320200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 120132025,
+      "EpisodeMasterId": 120132,
+      "Order": 2,
+      "GroupOrder": 21,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "所以你以后也别再强迫别人——",
+      "VoiceFileName": "1201320201",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 10,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 120132026,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……端上桌的饭菜一定要吃完。",
+      "VoiceFileName": "1201320210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 76,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 3,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120132027,
+      "EpisodeMasterId": 120132,
+      "Order": 2,
+      "GroupOrder": 22,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "这就是日本引以为傲的“我开动了”精神！",
+      "VoiceFileName": "1201320211",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120132028,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "怀着对食材的感谢……我开动了！",
+      "VoiceFileName": "1201320220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120132029,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "不会吧喂！？",
+      "VoiceFileName": "1201320230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 4,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 503,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 120132030,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "把鱿鱼……吃了？",
+      "VoiceFileName": "1201320240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120132031,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……唔。",
+      "VoiceFileName": "1201320250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 76,
+          "BodyMotionMasterId": 7,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120132032,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "鱿鱼很好吃吧？滑溜溜又弹嫩嫩的！/n而且还有一股温柔的甜味慢慢散开～！",
+      "VoiceFileName": "1201320260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 120132033,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "是啊，好吃……！鱿鱼真好吃——！",
+      "VoiceFileName": "1201320270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 205,
+          "BodyMotionMasterId": 26,
+          "LipSyncMasterId": 2,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120132034,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "你没事吧……？",
+      "VoiceFileName": "1201320280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120132035,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "啊，我根本冷静不下来。没想到居然这么美味。/n只因为外观看起来黏糊糊就一直不肯吃，我无法原谅过去的自己！",
+      "VoiceFileName": "1201320290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120132036,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "不过，多亏这样我克服了不爱吃的东西！谢谢！",
+      "VoiceFileName": "1201320300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 208,
+          "BodyMotionMasterId": 26,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120132037,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "我、我可不记得自己做了值得你感谢的事！/n别误会了，德国！",
+      "VoiceFileName": "1201320310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 10,
+          "LipSyncMasterId": 3,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 120132038,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "不，受人恩惠就一定要回报，这就是我的作风。/n作为回礼，我也来帮你们克服不爱吃的东西吧。",
+      "VoiceFileName": "1201320320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 75,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 2,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120132039,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "老板！给莉莉亚一份纳豆军舰！/n给王雪来茶碗蒸，正好练习好好咀嚼！",
+      "VoiceFileName": "1201320330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 120132040,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "醋饭和纳豆的结合……呜……。",
+      "VoiceFileName": "1201320340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 504,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 30401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 120132041,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "茶碗蒸还要好好嚼着吃，这根本是酷刑吧！？",
+      "VoiceFileName": "1201320350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 401,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 120132042,
+      "EpisodeMasterId": 120132,
+      "Order": 2,
+      "GroupOrder": 36,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "绯花里、千寿历，你们也说她两句啊！",
+      "VoiceFileName": "1201320351",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 120132043,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "哦哦哦～！中腹金枪鱼！好吃得脸颊都要掉下来了！",
+      "VoiceFileName": "1201320360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 205,
+          "BodyMotionMasterId": 19,
+          "LipSyncMasterId": 2,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 120132044,
+      "EpisodeMasterId": 120132,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "这叫自作自受呢……。",
+      "VoiceFileName": "1201320370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 30101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    }
+  ]
+}

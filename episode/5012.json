@@ -1,0 +1,60 @@
+{
+  "EpisodeId": 5012,
+  "StoryType": 4,
+  "Order": 1,
+  "Prev": null,
+  "Next": null,
+  "Chapter": null,
+  "Title": "好，今天的工作也结束……",
+  "EpisodeDetail": [
+    {
+      "Id": 5012001,
+      "EpisodeMasterId": 5012,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "好，今天的工作也结束了。/n这样钱包又能鼓一点。",
+      "VoiceFileName": "50120010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 75,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 5012002,
+      "EpisodeMasterId": 5012,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "只是来顶替伊吕波打工的缺员，不过报酬还挺不错。/n也是我平时不会主动选的工作，算是学到不少。",
+      "VoiceFileName": "50120020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    }
+  ]
+}

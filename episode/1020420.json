@@ -1,0 +1,799 @@
+{
+    "EpisodeId": 1020420,
+    "StoryType": 1,
+    "Order": 20,
+    "Prev": 1020419,
+    "Next": 1020421,
+    "Chapter": "Eden　第4章",
+    "Title": "汇聚的拼图",
+    "EpisodeDetail": [
+        {
+            "Id": 1020420001,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "德国评审A",
+            "FontSize": 2,
+            "Phrase": "听说如今已经出现了重新评价Eden的声音……/n不过，没想到那个Eden竟然会来申请我们的奖项。",
+            "BackgroundImageFileName": "160",
+            "BgmFileName": "5",
+            "VoiceFileName": "10204200010",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020420002,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "德国评审B",
+            "FontSize": 2,
+            "Phrase": "世罗泰特拉率领巡回剧团、风靡一时的那些年，/n如今看来确实已经没什么影子了……",
+            "VoiceFileName": "10204200020",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020420003,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "德国评审C",
+            "FontSize": 2,
+            "Phrase": "自从现任团长引发驱逐风波后，这个剧团究竟变成了什么模样。/n今天就让我们见识一下吧。",
+            "VoiceFileName": "10204200030",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020420004,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "云雀",
+            "FontSize": 2,
+            "Phrase": "（……看来其他戏剧奖项的评审也来了。）",
+            "VoiceFileName": "10204200040",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 52201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "522"
+        },
+        {
+            "Id": 1020420005,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "云雀",
+            "FontSize": 2,
+            "Phrase": "（最后，Eden还是没有回应世界演剧联盟。/n　巴黎那边甚至出现了放弃审查的意见……）",
+            "VoiceFileName": "10204200050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "522"
+        },
+        {
+            "Id": 1020420006,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "云雀",
+            "FontSize": 2,
+            "Phrase": "（不过，身处戏剧界，果然还是会在意。/n　连尺野初魅，以及被她认可的那些才能所散发的光芒。）",
+            "VoiceFileName": "10204200060",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "522"
+        },
+        {
+            "Id": 1020420007,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "云雀",
+            "FontSize": 2,
+            "Phrase": "（这次似乎是改编《蓝胡子》的原创剧本。/n　究竟会让我们看到怎样的舞台呢？）",
+            "VoiceFileName": "10204200070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "522"
+        },
+        {
+            "Id": 1020420008,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 8,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "140",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 1020420009,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "合作方经营者",
+            "FontSize": 2,
+            "Phrase": "笔岛先生，感谢您百忙之中抽空前来。",
+            "VoiceFileName": "10204200080",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020420010,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "哪里哪里，也感谢您的邀请。/n不过，没想到您竟然会邀我来看戏……",
+            "VoiceFileName": "10204200090",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020420011,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "合作方经营者",
+            "FontSize": 2,
+            "Phrase": "每次都只是普通聚餐，对商务合作也没什么新进展。/n所以我想，偶尔换个方式也不错。",
+            "VoiceFileName": "10204200100",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020420012,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "合作方经营者",
+            "FontSize": 2,
+            "Phrase": "……难道舞台艺术不合笔岛先生的喜好吗？",
+            "VoiceFileName": "10204200110",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020420013,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "不，并非如此。/n只是我对戏剧并不了解……",
+            "VoiceFileName": "10204200120",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020420014,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "合作方经营者",
+            "FontSize": 2,
+            "Phrase": "既然如此，这正是难得的机会。/n请务必好好欣赏。",
+            "VoiceFileName": "10204200130",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020420015,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "合作方经营者",
+            "FontSize": 2,
+            "Phrase": "这家剧团最近很受我关注。/n这是剧场介绍，请。",
+            "VoiceFileName": "10204200140",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020420016,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "您真是周到……嗯？Eden？",
+            "VoiceFileName": "10204200150",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020420017,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "合作方经营者",
+            "FontSize": 2,
+            "Phrase": "怎么了吗？",
+            "VoiceFileName": "10204200160",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020420018,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "不，那个……如果不是我记错的话，/n这里应该就是我女儿所属的剧团。",
+            "VoiceFileName": "10204200170",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020420019,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "合作方经营者",
+            "FontSize": 2,
+            "Phrase": "什么，原来如此！",
+            "VoiceFileName": "10204200180",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020420020,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "合作方经营者",
+            "FontSize": 2,
+            "Phrase": "这么说来，演员名单里确实有一位姓「笔岛」……/n哈哈，这还真是惊人的巧合。",
+            "VoiceFileName": "10204200190",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020420021,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "合作方经营者",
+            "FontSize": 2,
+            "Phrase": "不仅能看这场戏，还能看到令爱在舞台上的表现。/n真让人期待啊。",
+            "VoiceFileName": "10204200200",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020420022,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "啊、嗯……",
+            "VoiceFileName": "10204200210",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020420023,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 23,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1680",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 1020420024,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "（……终于还是到了。/n　《蓝发公爵不归之妻》，公演首日……）",
+            "VoiceFileName": "10204200220",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020420025,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "紧张吗？",
+            "VoiceFileName": "10204200230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020420026,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "……诶？才、才没有……",
+            "VoiceFileName": "10204200240",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 12,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020420027,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "呵呵，不用逞强。/n尤其这次公演，对时雨来说比平时更特别吧？",
+            "VoiceFileName": "10204200250",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020420028,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "是……",
+            "VoiceFileName": "10204200260",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "HeadDirectionMasterId": 4,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020420029,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "你背负着什么，我已经知道了。/n但不要给自己太大压力。",
+            "VoiceFileName": "10204200270",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020420030,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "舞台不是靠一个人完成的。/n因为你的身后，还有大家。",
+            "VoiceFileName": "10204200280",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020420031,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "仁花子",
+            "FontSize": 2,
+            "Phrase": "就是啊，时雨亲！",
+            "VoiceFileName": "10204200290",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 20303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "203"
+        },
+        {
+            "Id": 1020420032,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 32,
+            "SpeakerName": "仁花子",
+            "FontSize": 2,
+            "Phrase": "和时雨亲、莲姐比，我也许不太可靠……/n但我还是会用自己能做到的一切，和你一起站上舞台！",
+            "VoiceFileName": "10204200300",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "203"
+        },
+        {
+            "Id": 1020420033,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 33,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "我也是。……我不会追问时雨到底背负着什么，不过……/n那份重担，就让我也一起分一点吧。",
+            "VoiceFileName": "10204200310",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 1020420034,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 34,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "仁花子前辈……容前辈……",
+            "VoiceFileName": "10204200320",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 511,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020420035,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "大黑",
+            "FontSize": 2,
+            "Phrase": "……偶尔也相信一下我们吧……/n相信这些一直陪你一起排练的同伴。",
+            "VoiceFileName": "10204200330",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "202"
+        },
+        {
+            "Id": 1020420036,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 36,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "大黑前辈……",
+            "VoiceFileName": "10204200340",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 501,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020420037,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 37,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "——好了，舞台就要开幕。/n准备好了吗？",
+            "VoiceFileName": "10204200350",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1020420038,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 38,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "……是！我可以！",
+            "VoiceFileName": "10204200360",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 101,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 20503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020420039,
+            "EpisodeMasterId": 1020420,
+            "Order": 1,
+            "GroupOrder": 39,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "回答得好。/n让观众席里的所有人，都彻底迷上Eden吧。",
+            "VoiceFileName": "10204200370",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 8,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        }
+    ]
+}

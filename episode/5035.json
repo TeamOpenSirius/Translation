@@ -1,0 +1,140 @@
+{
+  "EpisodeId": 5035,
+  "StoryType": 4,
+  "Order": 1,
+  "Prev": null,
+  "Next": null,
+  "Chapter": null,
+  "Title": "真是的！累死……",
+  "EpisodeDetail": [
+    {
+      "Id": 5035001,
+      "EpisodeMasterId": 5035,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "真是的！累死了～！不想走了～！/n好想赶紧回去瘫着——！",
+      "VoiceFileName": "50350010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 3,
+          "SpineId": 20201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 5035002,
+      "EpisodeMasterId": 5035,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……明明才走了不到5分钟……。/n任性的臭小鬼有时雨一个就够我受了……。",
+      "VoiceFileName": "50350020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    },
+    {
+      "Id": 5035003,
+      "EpisodeMasterId": 5035,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "咦——？你刚说什么——？/n话说目的地还没到吗——？",
+      "VoiceFileName": "50350030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 5035004,
+      "EpisodeMasterId": 5035,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "大黑",
+      "FontSize": 2,
+      "Phrase": "……少废话，赶紧走……。/n我要把你丢下了……。",
+      "VoiceFileName": "50350040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "202"
+    }
+  ]
+}

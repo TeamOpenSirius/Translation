@@ -1,0 +1,920 @@
+{
+  "EpisodeId": 1040401,
+  "StoryType": 1,
+  "Order": 1,
+  "Prev": null,
+  "Next": 1040402,
+  "Chapter": "剧团电姬　第4章",
+  "Title": "意想不到的通知",
+  "EpisodeDetail": [
+    {
+      "Id": 1040401001,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "评审A",
+      "FontSize": 2,
+      "Phrase": "真的要去这个剧团吗？/n往年根本不可能……上面也真敢做决定。",
+      "BackgroundImageFileName": "1460",
+      "BgmFileName": "23",
+      "VoiceFileName": "10404010010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040401002,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "云雀",
+      "FontSize": 2,
+      "Phrase": "戏剧本就是不断变化的事物……。/n为了整个领域的繁荣与发展，我们也必须接受新的形态。",
+      "VoiceFileName": "10404010020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 52201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "522"
+    },
+    {
+      "Id": 1040401003,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "评审B",
+      "FontSize": 2,
+      "Phrase": "原来如此。也就是说，戏剧界本身正在迎来巨大的变化。/n……这倒挺有意思。",
+      "VoiceFileName": "10404010030",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040401004,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "评审A",
+      "FontSize": 2,
+      "Phrase": "既然上面的意见是这样，那也没办法。",
+      "VoiceFileName": "10404010040",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040401005,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "评审A",
+      "FontSize": 2,
+      "Phrase": "究竟她们能让我们看到什么程度的东西呢……。/n就让我见识一下吧。",
+      "VoiceFileName": "10404010050",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040401006,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "云雀",
+      "FontSize": 2,
+      "Phrase": "还有人有异议吗……没有了吧？/n……那么，请发出通知。",
+      "VoiceFileName": "10404010060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 52201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "522"
+    },
+    {
+      "Id": 1040401007,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "云雀",
+      "FontSize": 2,
+      "Phrase": "——发给“剧团电姬”。",
+      "VoiceFileName": "10404010070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "522"
+    },
+    {
+      "Id": 1040401008,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 8,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "900",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "301",
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 1040401009,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "云雀",
+      "FontSize": 2,
+      "Phrase": "“距离世界演剧联盟开幕，已经不到一年了！”",
+      "VoiceFileName": "10404010080",
+      "CharacterMotions": [],
+      "SpeakerIconId": "522"
+    },
+    {
+      "Id": 1040401010,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "云雀",
+      "FontSize": 2,
+      "Phrase": "“会场就是这里东京，将在上野新建的Astrolabe Hall！”",
+      "VoiceFileName": "10404010090",
+      "CharacterMotions": [],
+      "SpeakerIconId": "522"
+    },
+    {
+      "Id": 1040401011,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "云雀",
+      "FontSize": 2,
+      "Phrase": "“……各位戏剧爱好者想必已经明白了吧！”",
+      "VoiceFileName": "10404010100",
+      "CharacterMotions": [],
+      "SpeakerIconId": "522"
+    },
+    {
+      "Id": 1040401012,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "云雀",
+      "FontSize": 2,
+      "Phrase": "“Horoscope Season到来了！”",
+      "VoiceFileName": "10404010110",
+      "CharacterMotions": [],
+      "SpeakerIconId": "522"
+    },
+    {
+      "Id": 1040401013,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "哦哦哦……！　终于到这个时期了！/n说不定哪天，评审也会来电姬……！",
+      "VoiceFileName": "10404010120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 600,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040401014,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "真、真的……会吗！？/n怎么办……一想到评审就紧张……。",
+      "VoiceFileName": "10404010130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1040401015,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "哎呀～，这个你放心，肯定不会来。/n世界演剧联盟那种地方，不就是一群古板家伙的集合吗？",
+      "VoiceFileName": "10404010140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040401016,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "我们主要演2.5次元，本来就不是那群人的喜好，/n剧团规模也没大到哪里去。",
+      "VoiceFileName": "10404010150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040401017,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "从一开始就不在候选范围吧。不可能来的。/n再说这世上的剧团多得要命。",
+      "VoiceFileName": "10404010160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 24,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040401018,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "电姬剧团成员们",
+      "FontSize": 2,
+      "Phrase": "“也是哦～”“我们电姬跟那个世界没关系吧～”/n“感觉他们只会喜欢那种古典正统戏剧的舞台。”",
+      "VoiceFileName": "10404010170",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040401019,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "唔～，确实有可能……。/n可是可是，我们最近不是也挺受关注的吗！",
+      "VoiceFileName": "10404010180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 104,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040401020,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "上次舞台的评价也相当好！/n说不定，真的有那个“说不定”呢！",
+      "VoiceFileName": "10404010190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040401021,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "这个“世界演剧联盟”的评审真来了，具体会怎样？/n就是会被认定成“很厉害的剧团”？",
+      "VoiceFileName": "10404010200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040401022,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "没错！　听说世界演剧联盟的人，/n为了选出下一批Dai Star，会巡访各种剧团！",
+      "VoiceFileName": "10404010210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040401023,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "那个时期就叫“Horoscope Season”。听说在这段时间里接受评审，/n更容易被选为Dai Star，可以说是Dai Star强化期间！",
+      "VoiceFileName": "10404010220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040401024,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "所以如果评审真的来了，我觉得以后会有比现在更多的人，/n跑来看电姬的舞台！",
+      "VoiceFileName": "10404010230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 208,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040401025,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "嗯……确实，“评审曾到访”本身就能成为宣传卖点，/n让从前不知道电姬的人来看演出的可能性也很高。",
+      "VoiceFileName": "10404010240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 40403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 1040401026,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "剧团成员A·B",
+      "FontSize": 2,
+      "Phrase": "“那样的话，不就能赚很多钱了？”/n“真的假的！？　终于能摆脱贫穷剧团了！？”",
+      "VoiceFileName": "10404010250",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040401027,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "剧团成员C·D",
+      "FontSize": 2,
+      "Phrase": "“那我要影音室！　大家一起办应援上映会！！”/n“不是吧，当然先要摄影会用的Studio！　还能办COS聚会！”",
+      "VoiceFileName": "10404010260",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040401028,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "大家都好开心……。/n不过如果真的能让电姬比现在更热闹，我也会很高兴……。",
+      "VoiceFileName": "10404010270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1040401029,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "诶——，就算被世界演剧联盟看上，/n也不会有什么好事啦。只会变得认真又死板。",
+      "VoiceFileName": "10404010280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040401030,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "到时候就不能像现在这样，大家开开心心随便玩了。/n那还不如维持现状，自由又轻松，不是更舒服。",
+      "VoiceFileName": "10404010290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 27,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040401031,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "电姬剧团成员们",
+      "FontSize": 2,
+      "Phrase": "“呜哇，这倒是盲点……”“那还是现在这样比较好吧……”/n“就是。不能聊宅话题可是生死问题……”",
+      "VoiceFileName": "10404010300",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040401032,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "嘛，反正不管怎样都不可能来，聊了也是白聊！/n不如换个更开心的话题——。",
+      "VoiceFileName": "10404010310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 24,
+          "LipSyncMasterId": 1,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040401033,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "大家！　集合！",
+      "VoiceFileName": "10404010320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 104,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040401034,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "怎么了，要姐？　这么慌张……等等！/n难道是组织那帮人又搞了什么阴谋……！？",
+      "VoiceFileName": "10404010330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 22,
+          "LipSyncMasterId": 3,
+          "SpineId": 40403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 1040401035,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "……来了。终于来了。",
+      "VoiceFileName": "10404010340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040401036,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "哈？",
+      "VoiceFileName": "10404010350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040401037,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "诶，这个……真的假的？",
+      "VoiceFileName": "10404010360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040401038,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "不、不至于吧……怎么可能……。/n刚说到就来……这种事……不会真的发生吧？",
+      "VoiceFileName": "10404010370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1040401039,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "难道说……！",
+      "VoiceFileName": "10404010380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 2,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040401040,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "要",
+      "FontSize": 2,
+      "Phrase": "没错。/n世界演剧联盟亲自给电姬寄来了信！",
+      "VoiceFileName": "10404010390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 208,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040401041,
+      "EpisodeMasterId": 1040401,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "剧团成员们",
+      "FontSize": 2,
+      "Phrase": "诶……诶诶——！？",
+      "VoiceFileName": "10404010400",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    }
+  ]
+}

@@ -1,0 +1,949 @@
+{
+  "EpisodeId": 110032,
+  "StoryType": 3,
+  "Order": 2,
+  "Prev": 110031,
+  "Next": null,
+  "Chapter": "天狼星",
+  "Title": "我引以为傲的妈妈",
+  "EpisodeDetail": [
+    {
+      "Id": 110032001,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "特雷莎",
+      "FontSize": 2,
+      "Phrase": "来，对镜头笑一个！",
+      "BackgroundImageFileName": "270",
+      "BgmFileName": "102",
+      "VoiceFileName": "1100320010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 50101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "501"
+    },
+    {
+      "Id": 110032002,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "特雷莎",
+      "FontSize": 2,
+      "Phrase": "嗯，拍得真不错！",
+      "SeFileName": "190",
+      "VoiceFileName": "1100320020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "501"
+    },
+    {
+      "Id": 110032003,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "World Dai Star 的保镖，连拍照技术都是一流的吗……。",
+      "VoiceFileName": "1100320030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 104,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 110032004,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "我觉得只是碰巧拍得好吧……。",
+      "VoiceFileName": "1100320040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 110032005,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "不过……我们是不是被盯得特别厉害……。",
+      "VoiceFileName": "1100320070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 110032006,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "World Dai Star 就在这里，当然会这样。",
+      "VoiceFileName": "1100320080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 110032007,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "特雷莎",
+      "FontSize": 2,
+      "Phrase": "好了，可没有时间慢吞吞的哦。",
+      "VoiceFileName": "1100320090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 1,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 50101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "501"
+    },
+    {
+      "Id": 110032008,
+      "EpisodeMasterId": 110032,
+      "Order": 2,
+      "GroupOrder": 7,
+      "SpeakerName": "特雷莎",
+      "FontSize": 2,
+      "Phrase": "接下来是什么？",
+      "VoiceFileName": "1100320091",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "HeadDirectionMasterId": 6,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "501"
+    },
+    {
+      "Id": 110032009,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "有！说到浅草，果然还是人力车吧！",
+      "VoiceFileName": "1100320100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 26,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "HeadDirectionMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 110032010,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "特雷莎",
+      "FontSize": 2,
+      "Phrase": "太传统了！",
+      "VoiceFileName": "1100320110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 19,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "501"
+    },
+    {
+      "Id": 110032011,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……心菜，你连人力车都提前安排好了？",
+      "VoiceFileName": "1100320120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadDirectionMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 110032012,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "她说难得有这个机会，想让特雷莎小姐/n尽情享受浅草。",
+      "VoiceFileName": "1100320130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 110032013,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "特雷莎",
+      "FontSize": 2,
+      "Phrase": "卡特莉娜，快上车吧！/n妈妈已经等不及了！",
+      "VoiceFileName": "1100320140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 26,
+          "LipSyncMasterId": 2,
+          "SpineId": 50101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "501"
+    },
+    {
+      "Id": 110032014,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "……看来心菜的作战大成功。",
+      "VoiceFileName": "1100320150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 110032015,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 14,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "280",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 110032016,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "特雷莎",
+      "FontSize": 2,
+      "Phrase": "接下来是去吃……文字烧？对吧？",
+      "VoiceFileName": "1100320160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 50101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "501"
+    },
+    {
+      "Id": 110032017,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "对！有一家特别好吃的店！",
+      "VoiceFileName": "1100320170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 2,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 110032018,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "特雷莎",
+      "FontSize": 2,
+      "Phrase": "好期待！……哎呀？",
+      "VoiceFileName": "1100320180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "501"
+    },
+    {
+      "Id": 110032019,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "路人A",
+      "FontSize": 2,
+      "Phrase": "那个！可以一起拍张照吗！？",
+      "VoiceFileName": "1100320190",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110032020,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "特雷莎",
+      "FontSize": 2,
+      "Phrase": "当然可以。/n要是未来的 Dai Star 们也一起入镜的话。",
+      "VoiceFileName": "1100320200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 2,
+          "SpineId": 50101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "501"
+    },
+    {
+      "Id": 110032021,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "我、我们也一起拍真的可以吗……。",
+      "VoiceFileName": "1100320210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 110032022,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "没关系。既然妈妈都这么说了。",
+      "VoiceFileName": "1100320220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 110032023,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 22,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "290",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 110032024,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "特雷莎",
+      "FontSize": 2,
+      "Phrase": "这里就是江户的隅田川啊。/n风吹着真舒服。",
+      "VoiceFileName": "1100320230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 24,
+          "LipSyncMasterId": 2,
+          "SpineId": 50101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "501"
+    },
+    {
+      "Id": 110032025,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "路人B的声音",
+      "FontSize": 2,
+      "Phrase": "特雷莎小姐——！看这边——！",
+      "VoiceFileName": "1100320240",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110032026,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "特雷莎",
+      "FontSize": 2,
+      "Phrase": "好——。",
+      "VoiceFileName": "1100320250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 2,
+          "SpineId": 50101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "501"
+    },
+    {
+      "Id": 110032027,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "特雷莎小姐真厉害。/n在这里也一直认真回应粉丝。",
+      "VoiceFileName": "1100320260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 1,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "FacialExpressionMasterId": 71,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "SpineId": 10301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 110032028,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "不管去哪儿都被人群围住呢。/n可是她一直都笑眯眯的……。",
+      "VoiceFileName": "1100320270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 110032029,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "对吧？这就是我妈妈。",
+      "VoiceFileName": "1100320280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    },
+    {
+      "Id": 110032030,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "呵呵……卡特莉娜，你看起来有点开心呢。",
+      "VoiceFileName": "1100320290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 110032031,
+      "EpisodeMasterId": 110032,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "卡特莉娜",
+      "FontSize": 2,
+      "Phrase": "嗯。她是我最喜欢的……也是我引以为傲的妈妈。",
+      "VoiceFileName": "1100320300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "103"
+    }
+  ]
+}

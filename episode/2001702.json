@@ -1,0 +1,981 @@
+{
+  "EpisodeId": 2001702,
+  "StoryType": 2,
+  "Order": 2,
+  "Prev": 2001701,
+  "Next": 2001703,
+  "Chapter": "新年牵起你的手",
+  "Title": "新年伊始",
+  "EpisodeDetail": [
+    {
+      "Id": 2001702001,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "哈啊……早上好。",
+      "BackgroundImageFileName": "700",
+      "BgmFileName": "202",
+      "VoiceFileName": "20017020010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 30421,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001702002,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "早上好，莉莉亚。/n今天难得稍微早起了一点。",
+      "VoiceFileName": "20017020020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001702003,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "早上好——！莉莉亚！/n新年快乐！",
+      "VoiceFileName": "20017020030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 30521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001702004,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "新年快乐。/n今年绯花里也还是这么有精神。",
+      "VoiceFileName": "20017020040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 30421,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001702005,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "……嗯！我什么时候都很有精神！/n莉莉亚也要吃特制御节料理吗？",
+      "VoiceFileName": "20017020050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001702006,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "嗯。谢谢。/n御节料理里面是什么？",
+      "VoiceFileName": "20017020060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001702007,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "这个是冲绳红烧肉！这个是砂糖球！/n这边是拉莫姐给我们做的特制德式香肠！",
+      "VoiceFileName": "20017020070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001702008,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……御节料理是这种东西吗？",
+      "VoiceFileName": "20017020080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001702009,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "不，和日本传统御节料理完全不一样。/n不过嘛，偶尔这样也不错吧？",
+      "VoiceFileName": "20017020090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001702010,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "哦。/n拉莫觉得可以，那就可以。",
+      "VoiceFileName": "20017020100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001702011,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "我？",
+      "VoiceFileName": "20017020110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001702012,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "拉莫是第一次过日本的新年吧？所以。",
+      "VoiceFileName": "20017020120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001702013,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "啊，原来你是这个意思。/n我已经充分享受到了，不用担心。",
+      "VoiceFileName": "20017020130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001702014,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "这样。/n说起来王雪呢？还在睡？",
+      "VoiceFileName": "20017020140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001702015,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "王雪去打工了！",
+      "VoiceFileName": "20017020150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 30521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001702016,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "她一大早就说“难得放假，我要趁机赚钱！反正我的新年是二月！”",
+      "VoiceFileName": "20017020160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001702017,
+      "EpisodeMasterId": 2001702,
+      "Order": 2,
+      "GroupOrder": 16,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "然后就出门了。",
+      "VoiceFileName": "20017020161",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001702018,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "哈哈，很有王雪的风格。",
+      "VoiceFileName": "20017020170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001702019,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "那我们怎么办？/n千寿历在家里应该很忙，虽然只有我们三个，要不要做点什么？",
+      "VoiceFileName": "20017020180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001702020,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "做点什么？",
+      "VoiceFileName": "20017020190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 30421,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001702021,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "嗯……。/n玩雪？上次下大雪的时候和潘达她们玩，挺开心的。",
+      "VoiceFileName": "20017020200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 30521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001702022,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "可是雪已经融掉了吧？",
+      "VoiceFileName": "20017020210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001702023,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "确实……。那去初诣？",
+      "VoiceFileName": "20017020220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001702024,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "初诣！不错啊，我来日本之后一直很想去一次。/n难得去一趟，当然也要抽御神签。",
+      "VoiceFileName": "20017020230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001702025,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "御神签？",
+      "VoiceFileName": "20017020240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 30421,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001702026,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "就是占卜今年运势、试试手气。/n听说有些神社还有附各种小物件的御神签。",
+      "VoiceFileName": "20017020250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 2001702027,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "哦。",
+      "VoiceFileName": "20017020260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001702028,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "莉莉亚该不会不太想去？",
+      "VoiceFileName": "20017020270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 30521,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001702029,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "如果是担心人太多会累，/n要不要找一间比较空的神社？说不定比夏日祭的时候还挤。",
+      "VoiceFileName": "20017020280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 2001702030,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "不是。/n人多的话，就有更多人能看到我，反而更好。",
+      "VoiceFileName": "20017020290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 30421,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001702031,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "得让尽可能多的人看到新年第一天的我。",
+      "VoiceFileName": "20017020300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 2001702032,
+      "EpisodeMasterId": 2001702,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "这样啊！那就出发！",
+      "VoiceFileName": "20017020310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    }
+  ]
+}

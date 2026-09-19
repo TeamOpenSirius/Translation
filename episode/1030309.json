@@ -1,0 +1,1217 @@
+{
+  "EpisodeId": 1030309,
+  "StoryType": 1,
+  "Order": 9,
+  "Prev": 1030308,
+  "Next": 1030310,
+  "Chapter": "銀河座　3章",
+  "Title": "《麦克白》的角色分配（上）",
+  "EpisodeDetail": [
+    {
+      "Id": 1030309001,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "现在公布下一场公演《麦克白》的角色分配。/n三个主要角色由直接指定，其余角色通过试镜决定。",
+      "BackgroundImageFileName": "670",
+      "BgmFileName": "23",
+      "VoiceFileName": "10303090010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030309002,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……结果主演还是直接指定吗。/n连争取角色的机会都不给我们……。",
+      "VoiceFileName": "10303090020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030309003,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "如今银河座为了获得Saint-Cloud之星正身处困境，/n恐怕也顾不上这些了吧。",
+      "VoiceFileName": "10303090030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 30103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030309004,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "我明白，可是……。",
+      "VoiceFileName": "10303090040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030309005,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "现在公布。/n第一位。主角麦克白——千寿历。",
+      "VoiceFileName": "10303090050",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030309006,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "……是。我会竭尽全力，不负所托。",
+      "VoiceFileName": "10303090060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 30103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030309007,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（公演的目的，是维持Saint-Cloud Guide的收录。/n　这就是身为主演的我，被赋予的职责……）",
+      "VoiceFileName": "10303090070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030309008,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "第二位。邓肯——王雪。",
+      "VoiceFileName": "10303090080",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030309009,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "是。",
+      "VoiceFileName": "10303090090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 30303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030309010,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "……不是一上来就被秒杀吗。/n既然是钦点，好歹给我个更肥的角色啊……。",
+      "VoiceFileName": "10303090100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030309011,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "不过，难得是直接指定哦？/n如果只看前半段，简直和王雪的Sense完美契合！",
+      "VoiceFileName": "10303090110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 30503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1030309012,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "所以我就是那种前半段爆速型吗……。可恶……！",
+      "VoiceFileName": "10303090120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030309013,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（序盘启用王雪。/n　也就是说，要用最稳固的阵容守住关键节点）",
+      "VoiceFileName": "10303090130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 25,
+          "SpineId": 30103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030309014,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "直接指定到此为止。/n第三位。麦克白夫人——",
+      "VoiceFileName": "10303090140",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030309015,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（另一个主角，麦克白夫人。/n　她贪婪到不惜犯罪，却又因良心谴责而身心崩溃）",
+      "VoiceFileName": "10303090150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 4,
+          "SpineId": 30103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030309016,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（过去的银河座，历代都是由擅长表现人性的一面的人出演。/n　若综合人气和知名度来选，应该是拉莫娜——）",
+      "VoiceFileName": "10303090160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030309017,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "…………。",
+      "VoiceFileName": "10303090170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 15,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030309018,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "——莉莉亚·库尔特贝。",
+      "VoiceFileName": "10303090180",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030309019,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……！",
+      "BgmFileName": "999",
+      "VoiceFileName": "10303090190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 11,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030309020,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "这样啊，麦克白夫人……。",
+      "BgmFileName": "7",
+      "VoiceFileName": "10303090200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 30403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 1030309021,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（启用莉莉亚？究竟是为什么……）",
+      "VoiceFileName": "10303090210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 7,
+          "SpineId": 30103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030309022,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "以上。没有被指定的人参加试镜。/n这次不分什么第一、第二阵容，只以纯粹实力决定。有问题吗？",
+      "VoiceFileName": "10303090220",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030309023,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "喂等等，芬兰人演麦克白夫人！？/n和形象完全相反吧！？",
+      "VoiceFileName": "10303090230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 3,
+          "SpineId": 30303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030309024,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "能告诉我选定她的理由吗。",
+      "VoiceFileName": "10303090240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030309025,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "邓肯一角由王雪出演，是因为她在《银河铁道之夜》中的表现出色。/n从剧情发展来看，也能充分发挥她的长处。",
+      "VoiceFileName": "10303090250",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030309026,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "麦克白由千寿历出演，是因为我判断她综合实力最高。/n从社会认知上看，她也是最能代表银河座的演员。",
+      "VoiceFileName": "10303090260",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030309027,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "麦克白夫人由莉莉亚·库尔特贝出演，是看中了她的美。/n她对美非同寻常的执着，也能与追逐权力的野心相连。",
+      "VoiceFileName": "10303090270",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030309028,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "这次的《麦克白》会做出调整，/n着重表现麦克白夫人推动胆小的麦克白前进时所展现的强大魅力。",
+      "VoiceFileName": "10303090280",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030309029,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（调整……？）",
+      "VoiceFileName": "10303090290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 7,
+          "SpineId": 30103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030309030,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（……原来如此，是这样啊。/n　这就是老师们为了争取Saint-Cloud Guide所采取的手段）",
+      "VoiceFileName": "10303090300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030309031,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（可是，那——）",
+      "VoiceFileName": "10303090310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadDirectionMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030309032,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "以上。你们理解了吗。",
+      "VoiceFileName": "10303090320",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030309033,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……原来如此。/n确实是新颖的……也很有意思的方案。",
+      "VoiceFileName": "10303090330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030309034,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "但正因为这就是你所认为的革新。",
+      "VoiceFileName": "10303090340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030309035,
+      "EpisodeMasterId": 1030309,
+      "Order": 2,
+      "GroupOrder": 34,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "哪怕只有一次……我也希望你能给我机会。",
+      "VoiceFileName": "10303090341",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030309036,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "听完刚才的说明还不能理解吗？被直接指定的角色，/n我认为没有试镜的必要。这就是理由。",
+      "VoiceFileName": "10303090350",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030309037,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……如果失去Saint-Cloud之星，银河座应该会陷入危机。",
+      "VoiceFileName": "10303090360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030309038,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "不只是你，还有编剧、幕后工作人员。/n以及我们这些演员，都会陷入比现在更加艰难的处境。",
+      "VoiceFileName": "10303090370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030309039,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "你想说什么。",
+      "VoiceFileName": "10303090380",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030309040,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "如果你们也在迷茫，应该告诉我们。/n大家一起想办法，也本可以共同商议吧。",
+      "VoiceFileName": "10303090390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 4,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030309041,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "没有那个必要。方针由我们来定。",
+      "VoiceFileName": "10303090400",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030309042,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "演出负责人",
+      "FontSize": 2,
+      "Phrase": "因为讨论耗时过久，导致判断迟缓，这一点我道歉。/n剩余角色将在3天后进行试镜。以上。",
+      "VoiceFileName": "10303090410",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030309043,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "银河座团员们",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "10303090420",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030309044,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "……嗯。王雪、千寿历、莉莉亚，恭喜！/n我们去努力试镜！对吧，拉莫姐！",
+      "VoiceFileName": "10303090430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 30503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1030309045,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "……是啊，得转换心情了。/n想一起排练的人留下来。",
+      "VoiceFileName": "10303090440",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 30203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030309046,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "银河座团员们",
+      "FontSize": 2,
+      "Phrase": "是！",
+      "VoiceFileName": "10303090450",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030309047,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "10303090460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "SpineId": 30103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030309048,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "看来我又要当你的妻子了。请多关照，千寿历。",
+      "VoiceFileName": "10303090470",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 30403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 1030309049,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（导演启用莉莉亚出演麦克白夫人。/n　目的，是塑造前所未有的夫人形象）",
+      "VoiceFileName": "10303090480",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030309050,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "嗯。我会努力成为一个好丈夫。/n看来会诞生史上少见的美丽麦克白夫人呢。",
+      "VoiceFileName": "10303090490",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030309051,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 50,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "我不清楚夫人美不美，/n不过只要能被长时间注视着，我就满足了。",
+      "VoiceFileName": "10303090500",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 79,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 1030309052,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 51,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（《麦克白》的魅力，在于被激情与疯狂折磨的人物。/n　需要的是足以让观众不寒而栗的演技）",
+      "VoiceFileName": "10303090510",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030309053,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（可是……莉莉亚被看中的，是她超脱尘世般的美貌。/n　很难认为她是因为适合角色才被选中的……）",
+      "VoiceFileName": "10303090520",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030309054,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 53,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（银河座需要革新。这就是答案吗……）",
+      "VoiceFileName": "10303090530",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 25,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030309055,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 54,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（……我该做的事，也许已经不同于守护传统。/n　而且必须由我亲手去改变传统吗）",
+      "VoiceFileName": "10303090540",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030309056,
+      "EpisodeMasterId": 1030309,
+      "Order": 1,
+      "GroupOrder": 55,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（偏偏还是在《麦克白》上。/n　真是因缘使然呢……）",
+      "VoiceFileName": "10303090550",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    }
+  ]
+}

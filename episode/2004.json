@@ -1,0 +1,60 @@
+{
+    "EpisodeId": 2004,
+    "StoryType": 4,
+    "Order": 1,
+    "Prev": null,
+    "Next": null,
+    "Chapter": null,
+    "Title": "…………好，他们……",
+    "EpisodeDetail": [
+        {
+            "Id": 2004001,
+            "EpisodeMasterId": 2004,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "…………好，他们似乎没有潜伏在这一带。",
+            "VoiceFileName": "20040010",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40402,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 2004002,
+            "EpisodeMasterId": 2004,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "为了让同学们今天也能平安度过，我绝不能掉以轻心。/n毕竟不能把大家卷进我与『他们』的争斗之中。",
+            "VoiceFileName": "20040020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        }
+    ]
+}

@@ -1,0 +1,982 @@
+{
+  "EpisodeId": 1040315,
+  "StoryType": 1,
+  "Order": 15,
+  "Prev": 1040314,
+  "Next": 1040316,
+  "Chapter": "剧团电姬　第3章",
+  "Title": "跳起来吧，帕克",
+  "EpisodeDetail": [
+    {
+      "Id": 1040315001,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "Jump！　Jump！　High Jump！",
+      "BackgroundImageFileName": "1090",
+      "BgmFileName": "302",
+      "VoiceFileName": "10403150010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 209,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 40302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040315002,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "再开心一点！　/nJump！　Jump！　High Jump！",
+      "VoiceFileName": "10403150020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 2,
+          "SpineId": 30502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1040315003,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "今天你们两个也在训练啊，嗯。/n连在学校都进行表演特训，这种态度值得学习。",
+      "VoiceFileName": "10403150030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 30202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1040315004,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "卡米拉！　充满跃动感的表演，是要让“好开心！”这种感觉/n从身体里面自然冒出来的！　先让自己真正享受跳跃！",
+      "VoiceFileName": "10403150040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 30502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1040315005,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "开心……开心……开心……！",
+      "VoiceFileName": "10403150050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 40302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040315006,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "还不够还不够——！　/n从心底Enjoy！　Exciting！",
+      "VoiceFileName": "10403150060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 18,
+          "LipSyncMasterId": 2,
+          "SpineId": 30502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1040315007,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "再来一次，拜托了！　/n绯花亲师父！",
+      "VoiceFileName": "10403150070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 40302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040315008,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "不过，你出了好多汗。要是累了，/n还是休息一下比较好吧？",
+      "VoiceFileName": "10403150080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 30202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1040315009,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "也是！　差不多该休息啦。",
+      "VoiceFileName": "10403150090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 30502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1040315010,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "诶，可是……。",
+      "VoiceFileName": "10403150100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 40302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040315011,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "没事没事！　从卡米拉来找我商量的时候开始，/n我就决定要全力Support你了！",
+      "VoiceFileName": "10403150110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 30502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1040315012,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "谢谢！　/n这个人情以后我一定还！",
+      "VoiceFileName": "10403150120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040315013,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "能在这种时候坦率说“谢谢”，就是卡米拉的优点！",
+      "VoiceFileName": "10403150130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1040315014,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "不过，你竟然会拜托绯花里帮忙训练，/n看来真的是动真格了。令人佩服。",
+      "VoiceFileName": "10403150140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 30202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1040315015,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "哎呀～，毕竟现在正是该拼的时候嘛。",
+      "VoiceFileName": "10403150150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 40302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040315016,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "嘿嘿～。我一边想帕克的形象，/n就想到了我对吧！　Inspiration！",
+      "VoiceFileName": "10403150160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 114,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 30502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1040315017,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "嗯。跟要姐一对一练的时候，我就想，要是能跳得更高、/n弹得更灵活就好了，然后脑子里一下就浮现出绯花亲。",
+      "VoiceFileName": "10403150170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040315018,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "帕克不是经常要用全身表现……心情？　之类的吗？　/n就是那种表演特别多。",
+      "VoiceFileName": "10403150180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040315019,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "包在我身上！　/n飞啊跳啊，我最擅长了！",
+      "VoiceFileName": "10403150190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1040315020,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "嗯嗯。我觉得绯花亲那种感觉，就是帕克式的自由。/n所以这个奥义，我真的想让你传授给我！",
+      "VoiceFileName": "10403150200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040315021,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "嚯嚯嚯，想拿到真传还早着呢，卡米拉小友。",
+      "VoiceFileName": "10403150210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1040315022,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "是，师父！　这个我当然有心理准备！　/n那差不多请再看我来一次！",
+      "VoiceFileName": "10403150220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040315023,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "嗯！　开心一点，要开心哦！",
+      "VoiceFileName": "10403150230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1040315024,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（……不过，真的没问题吗）",
+      "VoiceFileName": "10403150240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "SpineId": 30202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1040315025,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（这么说可能不太好，但绯花里的体力几乎无穷无尽。/n　就连银河座里，能跟得上她的人都几乎没有……）",
+      "VoiceFileName": "10403150250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1040315026,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 26,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 1040315027,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "Jump！　Jump！　High Jump！",
+      "VoiceFileName": "10403150260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 40302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040315028,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "笑一个！　Smile！　略略略——！",
+      "VoiceFileName": "10403150270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 30502,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1040315029,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "笑一个！　Smile！　略略略——！",
+      "VoiceFileName": "10403150280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 40302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040315030,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "哦哦～，刚才那个很好～！　快看视频！",
+      "VoiceFileName": "10403150290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1040315031,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "真的！？　……真的！！　感觉是今天最好的一次！！",
+      "VoiceFileName": "10403150300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040315032,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "就是这个！　照这个势头继续Level Up！　/n下一步把舞蹈动作也加进去吧——！",
+      "VoiceFileName": "10403150310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1040315033,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "是，师父！",
+      "VoiceFileName": "10403150320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040315034,
+      "EpisodeMasterId": 1040315,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "没想到居然真能跟上绯花里……。/n看来是我白担心了。",
+      "VoiceFileName": "10403150330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 30202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    }
+  ]
+}

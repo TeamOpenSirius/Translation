@@ -1,0 +1,597 @@
+{
+  "EpisodeId": 1040203,
+  "StoryType": 1,
+  "Order": 3,
+  "Prev": 1040202,
+  "Next": 1040204,
+  "Chapter": "剧团电姬　第2章",
+  "Title": "奥林匹斯的未来",
+  "EpisodeDetail": [
+    {
+      "Id": 1040203001,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 1,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "961",
+      "BgmFileName": "303",
+      "SeFileName": "3010",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 1040203002,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "游戏",
+      "FontSize": 2,
+      "Phrase": "YOU　ALIVE！",
+      "VoiceFileName": "10402030010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040203003,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "嘿嘿嘿。糟糕——，这次更新简直神了！/n趁被削弱之前，不狠狠干一波积分怎么行！",
+      "VoiceFileName": "10402030020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040203004,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "电视",
+      "FontSize": 2,
+      "Phrase": "……为了未来坐上“宙斯之座”，/n奥林匹斯的孩子们正向顶峰进发。",
+      "VoiceFileName": "10402030030",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040203005,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "……嗯？",
+      "VoiceFileName": "10402030040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040203006,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "电视",
+      "FontSize": 2,
+      "Phrase": "其中，如今最耀眼夺目的童星就是――",
+      "VoiceFileName": "10402030050",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040203007,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "电视",
+      "FontSize": 2,
+      "Phrase": "奥林匹斯的狛江地步。",
+      "VoiceFileName": "10402030060",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040203008,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "狛江地步",
+      "FontSize": 2,
+      "Phrase": "哈啊、哈啊、哈啊……。",
+      "VoiceFileName": "10402030070",
+      "CharacterMotions": [],
+      "SpeakerIconId": "511"
+    },
+    {
+      "Id": 1040203009,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "狛江，我感受不到Intelligence。/n不能拿疲劳当借口。",
+      "VoiceFileName": "10402030080",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040203010,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "狛江地步",
+      "FontSize": 2,
+      "Phrase": "是！　请再来一次！",
+      "VoiceFileName": "10402030090",
+      "CharacterMotions": [],
+      "SpeakerIconId": "511"
+    },
+    {
+      "Id": 1040203011,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "……哦。/n挺努力的嘛——。",
+      "VoiceFileName": "10402030100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040203012,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "那个不起眼的小丫头啊。还真变得热血了不少。/n嘛——，不做到这种程度，地步也拿不到角色吧。",
+      "VoiceFileName": "10402030110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040203013,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "电视",
+      "FontSize": 2,
+      "Phrase": "她虽然还是小学生，却已在最新作品中被选为配角。/n明年计划公演的《爱丽丝梦游仙境》中，她也被视作主演头号候选。",
+      "VoiceFileName": "10402030120",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040203014,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "哦……。",
+      "VoiceFileName": "10402030130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040203015,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "连专题都给她做了。/n唉——，被后辈拉开差距了。真是服了服了。",
+      "VoiceFileName": "10402030140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 24,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040203016,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "……哦，匹配到了。",
+      "VoiceFileName": "10402030150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040203017,
+      "EpisodeMasterId": 1040203,
+      "Order": 2,
+      "GroupOrder": 16,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "那这局也把MVP拿下吧。",
+      "VoiceFileName": "10402030151",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040203018,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "狛江地步",
+      "FontSize": 2,
+      "Phrase": "为了那些把我的名字列为未来Dai Star候选的人们，/n下一次我也一定会被选上。",
+      "VoiceFileName": "10402030160",
+      "CharacterMotions": [],
+      "SpeakerIconId": "511"
+    },
+    {
+      "Id": 1040203019,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "电视",
+      "FontSize": 2,
+      "Phrase": "虽然遗憾未能入选Dai Star，/n但她向前迈进的意志丝毫没有停滞，反而让人感受到更强的力量。",
+      "VoiceFileName": "10402030170",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040203020,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "电视",
+      "FontSize": 2,
+      "Phrase": "当我们询问狛江目前最关注的演员是谁时，/n她说出了一个意外的名字。",
+      "VoiceFileName": "10402030180",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040203021,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "狛江地步",
+      "FontSize": 2,
+      "Phrase": "剧团电姬的本巢叶羽亲！",
+      "VoiceFileName": "10402030190",
+      "CharacterMotions": [],
+      "SpeakerIconId": "511"
+    },
+    {
+      "Id": 1040203022,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "哈啊！？",
+      "VoiceFileName": "10402030200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040203023,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 22,
+      "FontSize": 2,
+      "Phrase": "",
+      "SeFileName": "3020",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 1040203024,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "游戏",
+      "FontSize": 2,
+      "Phrase": "YOU　DEAD……。",
+      "VoiceFileName": "10402030210",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040203025,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "哇啊，我的连续MVP！？",
+      "VoiceFileName": "10402030220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 3,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040203026,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 25,
+      "FontSize": 2,
+      "Phrase": "",
+      "SeFileName": "1670",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 1040203027,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "――啊啊真是的，到底搞什么啊！",
+      "VoiceFileName": "10402030230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040203028,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 27,
+      "FontSize": 2,
+      "Phrase": "",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 1040203029,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 28,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1580",
+      "BackgroundImageFileFadeType": 4,
+      "BgmFileName": "999",
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 1040203030,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "“地步亲，她刚才说叶羽亲！”",
+      "BgmFileName": "23",
+      "VoiceFileName": "10402030240",
+      "CharacterMotions": [],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040203031,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "剧团成员B",
+      "FontSize": 2,
+      "Phrase": "“哇，播到我们公演的画面了！”",
+      "VoiceFileName": "10402030250",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040203032,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "“可恶，大意了！/n　这样就会被黑暗组织的情报网锁定！”",
+      "VoiceFileName": "10402030260",
+      "CharacterMotions": [],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 1040203033,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "“等等！？　叶羽上趋势了！”",
+      "VoiceFileName": "10402030270",
+      "CharacterMotions": [],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040203034,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "剧团成员A",
+      "FontSize": 2,
+      "Phrase": "“剧团电姬也上了！”",
+      "VoiceFileName": "10402030280",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040203035,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 34,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "961",
+      "BackgroundImageFileFadeType": 4,
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 1040203036,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "“抱歉。店里的电视也播出来了，/n　今天帮忙可能会变得很忙……！”",
+      "VoiceFileName": "10402030290",
+      "CharacterMotions": [],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1040203037,
+      "EpisodeMasterId": 1040203,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "唉～，果然变成这样了啊。",
+      "VoiceFileName": "10402030300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 40501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    }
+  ]
+}

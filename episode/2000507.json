@@ -1,0 +1,1751 @@
+{
+  "EpisodeId": 2000507,
+  "StoryType": 2,
+  "Order": 7,
+  "Prev": 2000506,
+  "Next": 2000508,
+  "Chapter": "聚光灯照亮的未来",
+  "Title": "白丸美兔的现在",
+  "EpisodeDetail": [
+    {
+      "Id": 2000507001,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "（嗯……早上了？）",
+      "BackgroundImageFileName": "1050",
+      "BgmFileName": "5",
+      "VoiceFileName": "20005070010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507002,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 2,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2000507003,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "得去排练！",
+      "BackgroundImageFileName": "930",
+      "VoiceFileName": "20005070020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 501,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507004,
+      "EpisodeMasterId": 2000507,
+      "Order": 2,
+      "GroupOrder": 3,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "啊，对了，今天让我休息来着……。呼……。",
+      "VoiceFileName": "20005070021",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507005,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "……刚才那个梦……真怀念啊。/n是刚认识伊吕波那时候的……。",
+      "VoiceFileName": "20005070030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507006,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 5,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "900",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 2000507007,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "唔——……。",
+      "VoiceFileName": "20005070040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507008,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "千寿，你刚才一直在做什么？",
+      "VoiceFileName": "20005070050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 40403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 2000507009,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "哇啊！",
+      "VoiceFileName": "20005070060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 501,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507010,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "你们两个原来在这里啊……！",
+      "VoiceFileName": "20005070070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507011,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "反正是在担心美兔亲，想给她发消息吧？/n你们两个一直都形影不离嘛。",
+      "VoiceFileName": "20005070080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2000507012,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "嗯。美兔不在身边，总觉得有点不可思议。",
+      "VoiceFileName": "20005070090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507013,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "可是……。/n我不知道该给她发什么才好。",
+      "VoiceFileName": "20005070100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507014,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "我感觉美兔最近好像在烦恼什么……。/n可气氛又不像是我能直接问的……。",
+      "VoiceFileName": "20005070110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507015,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "而且我又没有像美兔那样的Sense……。",
+      "VoiceFileName": "20005070120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507016,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "你们不是独一无二的挚友吗？",
+      "VoiceFileName": "20005070130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 40403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 2000507017,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "既然如此，为什么还要犹豫要不要询问她、向她伸出手。/n有没有Sense都无关紧要，你们本来就是朋友，不是吗？",
+      "VoiceFileName": "20005070140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 2000507018,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "朋友……也是呢。",
+      "VoiceFileName": "20005070150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507019,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "如果白丸自己说不出口，千寿你就缠着她问个清楚好了。/n也许只是她自己还没察觉，其实正需要别人帮忙。",
+      "VoiceFileName": "20005070160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 2000507020,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "蕾前辈，好帅。",
+      "VoiceFileName": "20005070170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2000507021,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "我……到底为什么会烦恼呢。",
+      "VoiceFileName": "20005070180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507022,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "我现在就去给美兔打电话！",
+      "VoiceFileName": "20005070190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507023,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "诶，打电话？　/n午休马上就要结束了啊……已经跑了。",
+      "VoiceFileName": "20005070200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 2000507024,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "算了，上面那边我们替她说一声吧。",
+      "VoiceFileName": "20005070210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 40403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 2000507025,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 24,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "930",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "999",
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 2000507026,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "（好。《小公女》相关的作品都已经看过一遍复习了……。/n　绘本和小说也……从图书馆借回来了，资料都齐了）",
+      "VoiceFileName": "20005070220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 13,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507027,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "（也许还是缺少能让我彻底成为这个角色的信息）",
+      "VoiceFileName": "20005070230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507028,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "虽然大家让我休息，可现在能做的事还是得做，对吧。/n……也为了伊吕波。",
+      "VoiceFileName": "20005070240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507029,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 28,
+      "FontSize": 2,
+      "Phrase": "",
+      "SeFileName": "50",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 2000507030,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "啊，是伊吕波打来的……。",
+      "VoiceFileName": "20005070250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507031,
+      "EpisodeMasterId": 2000507,
+      "Order": 2,
+      "GroupOrder": 29,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "喂？",
+      "VoiceFileName": "20005070251",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507032,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 30,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1350",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2000507033,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "美兔！　是我，伊吕波。",
+      "BgmFileName": "8",
+      "VoiceFileName": "20005070260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 25,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507034,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "排练的时候打来，怎么了吗？/n是……出了什么事？",
+      "VoiceFileName": "20005070270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507035,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "不是……倒也没发生什么。/n美兔现在在做什么？",
+      "VoiceFileName": "20005070280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507036,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "美兔在……查《小公女》的资料。/n明天之前，我会让状态恢复的。",
+      "VoiceFileName": "20005070290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507037,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "那个……。",
+      "VoiceFileName": "20005070300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507038,
+      "EpisodeMasterId": 2000507,
+      "Order": 2,
+      "GroupOrder": 35,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "美兔你才是，是不是发生了什么？",
+      "VoiceFileName": "20005070301",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507039,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "……诶？",
+      "VoiceFileName": "20005070310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507040,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "之前在学校时，我觉得你看起来很失落。/n从那以后，我一直很在意你的状态……。",
+      "VoiceFileName": "20005070320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507041,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "如果是可以告诉我的事，我希望你能告诉我发生了什么。/n因为我们可是挚友啊。",
+      "VoiceFileName": "20005070330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507042,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "伊吕波……。嗯，也是呢。",
+      "VoiceFileName": "20005070340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507043,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 40,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "930",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2000507044,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "其实之前，我听到班上的同学在聊天。/n她们说，美兔居然会上台演戏，真意外。",
+      "VoiceFileName": "20005070350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507045,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "其实美兔自己也这么觉得。在遇到伊吕波以前，/n美兔比现在更阴沉，也更不会说话……。",
+      "VoiceFileName": "20005070360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 72,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507046,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "能进电姬，也是因为大家看中了美兔能让角色降临的Sense……。",
+      "VoiceFileName": "20005070370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507047,
+      "EpisodeMasterId": 2000507,
+      "Order": 2,
+      "GroupOrder": 43,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "明明这些我都知道……可还是有点受打击。",
+      "VoiceFileName": "20005070371",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507048,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "这么没自信，果然……不行吧。",
+      "VoiceFileName": "20005070380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507049,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 45,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "870",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2000507050,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "……不会。因为我没有Sense，/n所以没办法完全理解美兔的感受……。",
+      "VoiceFileName": "20005070390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507051,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "可是，每次看到角色降临到美兔身上，我都会心跳加速。/n有时是美丽又温柔的蕾拉公主，有时又是高贵坚强的小公女莎拉……。",
+      "VoiceFileName": "20005070400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507052,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "看到美兔像那样彻底变成截然不同的人，/n我就会特别兴奋，连自己都跟着热血起来。",
+      "VoiceFileName": "20005070410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507053,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 49,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1350",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2000507054,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 50,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "是……这样吗？",
+      "VoiceFileName": "20005070420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 4,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507055,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 51,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "嗯！/n美兔拥有这个Sense，一定是有意义的。",
+      "VoiceFileName": "20005070430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507056,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "平时的美兔也好，全部的一切我都很喜欢。/n所以，我希望你能更有自信！",
+      "VoiceFileName": "20005070440",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507057,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 53,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "全部……都包括在内……。",
+      "VoiceFileName": "20005070450",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507058,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 54,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "50",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "WindowEffect": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2000507059,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 55,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "白丸同学也是因为看了电影，才会想“如果我也能变成这样就好了”吧！/n这种心情本身才是最重要的！",
+      "WindowEffect": 1,
+      "VoiceFileName": "20005070460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 40102,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507060,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 56,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "930",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2000507061,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 57,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "原来如此，美兔之所以能让角色降临……。",
+      "VoiceFileName": "20005070470",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507062,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 58,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "（一定是因为，我会强烈地希望自己也能变成那样）",
+      "VoiceFileName": "20005070480",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "HeadMotionMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507063,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 59,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1350",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2000507064,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 60,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "美兔？",
+      "VoiceFileName": "20005070490",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000507065,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 61,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "我好像……稍微明白自己一点了。",
+      "VoiceFileName": "20005070500",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507066,
+      "EpisodeMasterId": 2000507,
+      "Order": 2,
+      "GroupOrder": 61,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "美兔可能一直只顾在意周围人的声音，都没能真正面对角色……。",
+      "VoiceFileName": "20005070501",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000507067,
+      "EpisodeMasterId": 2000507,
+      "Order": 1,
+      "GroupOrder": 62,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "谢谢你，伊吕波。/n是你让我想起了……差点忘掉的东西。",
+      "VoiceFileName": "20005070510",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    }
+  ]
+}

@@ -1,0 +1,812 @@
+{
+    "EpisodeId": 1020212,
+    "StoryType": 1,
+    "Order": 12,
+    "Prev": 1020211,
+    "Next": 1020213,
+    "Chapter": "Eden 2章",
+    "Title": "笔岛家的情况",
+    "EpisodeDetail": [
+        {
+            "Id": 1020212001,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 1,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1500",
+            "BgmFileName": "403",
+            "SeFileName": "240",
+            "CharacterMotions": []
+        },
+        {
+            "Id": 1020212002,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "妈妈！你回来啦！/n咦？爸爸也一起？",
+            "VoiceFileName": "10202120010",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 20501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212003,
+            "EpisodeMasterId": 1020212,
+            "Order": 2,
+            "GroupOrder": 2,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "咦？爸爸也一起？",
+            "VoiceFileName": "10202120011",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212004,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "我回来了。/n我和妈妈正好在家门口碰上。",
+            "VoiceFileName": "10202120020",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212005,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "时雨的母亲",
+            "FontSize": 2,
+            "Phrase": "爸爸和妈妈一样，好像也想早点回来。",
+            "VoiceFileName": "10202120030",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212006,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "时雨再优秀，也还是小学生。/n每天都让你一个人待到很晚，终究不太好。",
+            "VoiceFileName": "10202120040",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212007,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "嘿嘿……谢谢。",
+            "VoiceFileName": "10202120050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212008,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "时雨的母亲",
+            "FontSize": 2,
+            "Phrase": "不用谢。/n对了，你说今天会来玩的朋友们已经回去了？",
+            "VoiceFileName": "10202120060",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212009,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "嗯。晚饭前就回去了。/n她们也陪我练了很多演技。",
+            "VoiceFileName": "10202120070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212010,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "你是被选中了什么重要角色吗？",
+            "VoiceFileName": "10202120080",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212011,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "嗯！下一部新作舞台里，我要演主人公的搭档！",
+            "VoiceFileName": "10202120090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 20501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212012,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "在大舞台上被选为主角级哦！/n朝Dai Star迈出了很大一步！",
+            "VoiceFileName": "10202120100",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212013,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "时雨的母亲",
+            "FontSize": 2,
+            "Phrase": "这样啊，原来下一场公演已经公布内容了。/n说起来，好像确实收到通知了……。",
+            "VoiceFileName": "10202120110",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212014,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "……没关系啦。爸爸妈妈工作都很忙嘛。",
+            "VoiceFileName": "10202120120",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 409,
+                    "HeadDirectionMasterId": 4,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212015,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "总之，如果能一下拉近和目标之间的距离，/n那当然再好不过。",
+            "VoiceFileName": "10202120130",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212016,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "时雨的母亲",
+            "FontSize": 2,
+            "Phrase": "演了那个角色，就能马上成为Dai Star吗？",
+            "VoiceFileName": "10202120140",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212017,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "还不知道。/n不过，如果下一场舞台能得到认可，也许就会这样。",
+            "VoiceFileName": "10202120150",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 109,
+                    "HeadDirectionMasterId": 1,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212018,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "时雨的母亲",
+            "FontSize": 2,
+            "Phrase": "我一直觉得戏剧这个行业风险太大……。/n看来你也没有白白浪费时间。",
+            "VoiceFileName": "10202120160",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212019,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "所以我早就说了，不用担心嘛？/n这种程度对时雨来说当然轻轻松松♪",
+            "VoiceFileName": "10202120170",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 20501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212020,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "最容易摔跤的往往就是松懈的时候。小心点。",
+            "VoiceFileName": "10202120180",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212021,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "哼哼。时雨才不会犯那种错误。",
+            "VoiceFileName": "10202120190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 24,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212022,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "……不过，约定你还记得吧？/n如果在升上初中之前没能成为Dai Star——",
+            "BgmFileName": "999",
+            "VoiceFileName": "10202120200",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212023,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "……我知道。到时候，戏剧也好、演员也好，我都会全部放弃。",
+            "BgmFileName": "404",
+            "VoiceFileName": "10202120210",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212024,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "时雨的母亲",
+            "FontSize": 2,
+            "Phrase": "那才是正确的选择。/n继续做看不到希望的事，对时雨也没有好处。",
+            "VoiceFileName": "10202120220",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212025,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "可是……如果我成为Dai Star，/n就说明时雨应该继续演戏，对吧？",
+            "VoiceFileName": "10202120230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 112,
+                    "HeadDirectionMasterId": 7,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212026,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "这就有点跳得太远了。我的意思是，/n真到了那一步，继续演戏可以成为选项之一。",
+            "VoiceFileName": "10202120240",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212027,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "成为Dai Star之后，只要不犯特别严重的错误，/n基本上收入方面应该就不用担心了。",
+            "VoiceFileName": "10202120250",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212028,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "但根据我查过的数据，就算成为Dai Star，/n和普通职业相比，也确实更难衔接下一阶段的职业生涯。",
+            "VoiceFileName": "10202120260",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212029,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "大概所有专业职业都有类似问题吧。现实就是这么严苛。",
+            "VoiceFileName": "10202120270",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212030,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "时雨的母亲",
+            "FontSize": 2,
+            "Phrase": "即使成了Dai Star，也可能人气下滑，/n或者因为事故而无法再登台。还是会有风险。",
+            "VoiceFileName": "10202120280",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212031,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "为了那种时候，提前准备也很重要。/n以后你也应该学学资产管理。",
+            "VoiceFileName": "10202120290",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212032,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "时雨的母亲",
+            "FontSize": 2,
+            "Phrase": "爸爸妈妈都不想让时雨背上没必要的重担。/n只是希望你今后也能一直幸福地生活。",
+            "VoiceFileName": "10202120300",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212033,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 32,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "嗯……。/n我知道爸爸妈妈一直都在认真为时雨考虑。",
+            "VoiceFileName": "10202120310",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 404,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212034,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 33,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "不过，只要时雨成为Dai Star，并且一直成功下去，就没问题了吧。/n我一定会做到。",
+            "VoiceFileName": "10202120320",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212035,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 34,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "我不是说过吗？戏剧这种世界，对时雨来说很简单。",
+            "VoiceFileName": "10202120330",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212036,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "有自信是好事。但人生有限。/n这一点一定要牢牢记住。",
+            "VoiceFileName": "10202120340",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212037,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 36,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "嗯……！",
+            "VoiceFileName": "10202120350",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212038,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 37,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "对了，下一场舞台的公演日期——",
+            "VoiceFileName": "10202120360",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212039,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 38,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "好了，爸爸去洗澡吧。",
+            "VoiceFileName": "10202120370",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212040,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 39,
+            "SpeakerName": "时雨的母亲",
+            "FontSize": 2,
+            "Phrase": "我也该准备晚饭了。/n今天只有之前做好的菜，可以吧？",
+            "VoiceFileName": "10202120380",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212041,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 40,
+            "SpeakerName": "时雨的父亲",
+            "FontSize": 2,
+            "Phrase": "嗯，没事。毕竟也没时间做。",
+            "VoiceFileName": "10202120390",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212042,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 41,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "啊……。",
+            "VoiceFileName": "10202120400",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212043,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 42,
+            "SpeakerName": "时雨的母亲",
+            "FontSize": 2,
+            "Phrase": "嗯？时雨，你刚刚说什么？",
+            "VoiceFileName": "10202120410",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212044,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 43,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "没什么！",
+            "VoiceFileName": "10202120420",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 404,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        },
+        {
+            "Id": 1020212045,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 44,
+            "SpeakerName": "时雨的母亲",
+            "FontSize": 2,
+            "Phrase": "是吗，那就好。",
+            "VoiceFileName": "10202120430",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1020212046,
+            "EpisodeMasterId": 1020212,
+            "Order": 1,
+            "GroupOrder": 45,
+            "SpeakerName": "时雨",
+            "FontSize": 2,
+            "Phrase": "爸爸、妈妈……这次也没有说会来看我的舞台啊。",
+            "VoiceFileName": "10202120440",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "HeadDirectionMasterId": 4,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "205"
+        }
+    ]
+}

@@ -1,0 +1,1370 @@
+{
+  "EpisodeId": 1030205,
+  "StoryType": 1,
+  "Order": 5,
+  "Prev": 1030204,
+  "Next": 1030206,
+  "Chapter": "银河座　第2章",
+  "Title": "咬紧牙关",
+  "EpisodeDetail": [
+    {
+      "Id": 1030205001,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "（我不是被星探挖来加入银河座的。/n　是自己主动挑战，赢得了这里的一席之地——）",
+      "BackgroundImageFileName": "1050",
+      "VoiceFileName": "10302050010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205002,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 2,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "WindowEffect": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 1030205003,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "可疑男子",
+      "FontSize": 2,
+      "Phrase": "请等一下。我不是可疑的人！/n虽然看起来可能有点可疑，但至少听我说两句！",
+      "BackgroundImageFileName": "1450",
+      "BgmFileName": "9",
+      "WindowEffect": 1,
+      "VoiceFileName": "10302050020",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030205004,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "这种话在这个国家没人会信。/n你要是人贩子，我就叫警察了。",
+      "WindowEffect": 1,
+      "VoiceFileName": "10302050030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 30319,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205005,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "可疑男子",
+      "FontSize": 2,
+      "Phrase": "听我说！我是剧团的导演！",
+      "WindowEffect": 1,
+      "VoiceFileName": "10302050040",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030205006,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "剧团……？",
+      "WindowEffect": 1,
+      "VoiceFileName": "10302050050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 30319,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205007,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "（那还是我生活在故乡中国的时候。/n　曾有一个人，唯一一次主动来挖我）",
+      "WindowEffect": 1,
+      "VoiceFileName": "10302050060",
+      "CharacterMotions": [],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205008,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "星探",
+      "FontSize": 2,
+      "Phrase": "我们正在全国招募有才能的年轻人，终于让我找到了！/n你有成为Dai Star的才能！",
+      "WindowEffect": 1,
+      "VoiceFileName": "10302050070",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030205009,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "星探",
+      "FontSize": 2,
+      "Phrase": "对戏剧有兴趣吗？一起以世界为目标吧！",
+      "WindowEffect": 1,
+      "VoiceFileName": "10302050080",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030205010,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "（但我没有点头）",
+      "WindowEffect": 1,
+      "VoiceFileName": "10302050090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 15,
+          "SpineId": 30319,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205011,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "这样啊，我有才能吗。/n也就是说，靠演戏有可能养活自己，对吧？",
+      "WindowEffect": 1,
+      "VoiceFileName": "10302050100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205012,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "星探",
+      "FontSize": 2,
+      "Phrase": "我可以保证。虽然薪酬比不上大剧团，/n但你的人生一定会因此更丰富。所以——",
+      "WindowEffect": 1,
+      "VoiceFileName": "10302050110",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030205013,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "既然这样，要把才能卖给哪里，就由我自己选。",
+      "WindowEffect": 1,
+      "VoiceFileName": "10302050120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30319,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205014,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "我需要钱。别怪我。/n想找主角的话，就去找别人吧。",
+      "WindowEffect": 1,
+      "VoiceFileName": "10302050130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205015,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 15,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1130",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 1030205016,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "（之后我寻找能赚钱的剧团，知道了银河座。/n　那家伙说得没错，我确实有才能。入团考试一次就通过了）",
+      "VoiceFileName": "10302050140",
+      "CharacterMotions": [],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205017,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "（是我主动挑战，并亲手赢下来的。/n　我是因为想来，才来到银河座）",
+      "VoiceFileName": "10302050150",
+      "CharacterMotions": [],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205018,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 18,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "700",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "999",
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 1030205019,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "喂喂王雪。下一场公演的事你听说了吗？/n是《银河铁道之夜》哦——。",
+      "BgmFileName": "23",
+      "VoiceFileName": "10302050160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1030205020,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "我看到试镜通知了。/n你打算试谁？",
+      "VoiceFileName": "10302050170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205021,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "呃……",
+      "VoiceFileName": "10302050180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1030205022,
+      "EpisodeMasterId": 1030205,
+      "Order": 2,
+      "GroupOrder": 21,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "我知道有这么一个故事！",
+      "VoiceFileName": "10302050181",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 201,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1030205023,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "那可是你们国家的文学啊，真是的……。",
+      "VoiceFileName": "10302050190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 600,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205024,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "主人公叫乔班尼。虽然总被坏孩子欺负，/n却为了卧病在床的母亲努力赚生活费，是个勤工俭学的学生。",
+      "VoiceFileName": "10302050200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205025,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "某个祭典之夜，乔班尼从一个神秘男人手里得到一张车票。/n随后听见了奇怪的幻听。",
+      "VoiceFileName": "10302050210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205026,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "“这里是银河车站，银河车站。”/n　那里是一座从未见过的铁路车站。",
+      "VoiceFileName": "10302050220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205027,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "发现好友坎帕内拉后，乔班尼冲上了列车。/n却不知道那正是把死者灵魂送往神身边的银河铁道。",
+      "VoiceFileName": "10302050230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205028,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "然后呢然后呢！？两个人后来怎么样了！？好在意！",
+      "VoiceFileName": "10302050240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1030205029,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "原作都能免费读，自己去看！/n我接下来还得打工，忙着呢！",
+      "VoiceFileName": "10302050250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205030,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "嗯，我会去读！既懂文学，/n还一直坚持打工，王雪好厉害！我要向你学习！",
+      "VoiceFileName": "10302050260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1030205031,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 30,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1131",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "999",
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 1030205032,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "10302050270",
+      "CharacterMotions": [],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205033,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "……结果，今天又在打工中结束了。",
+      "VoiceFileName": "10302050280",
+      "CharacterMotions": [],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205034,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "我明明是因为想来，才来到这个银河座的……。",
+      "VoiceFileName": "10302050290",
+      "CharacterMotions": [],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205035,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 34,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "741",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 1030205036,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "主持人",
+      "FontSize": 2,
+      "Phrase": "今天我们邀请到了来自拥有深厚传统的人气剧团——银河座的/n沃尔芙小姐——",
+      "VoiceFileName": "10302050300",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030205037,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "又把我当“其他人”！/n这些垃圾媒体！",
+      "VoiceFileName": "10302050310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 3,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205038,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 37,
+      "FontSize": 2,
+      "Phrase": "",
+      "SeFileName": "50",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 1030205039,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "……电话？这么晚了。",
+      "VoiceFileName": "10302050320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205040,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "……谁？",
+      "VoiceFileName": "10302050330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205041,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "星探",
+      "FontSize": 2,
+      "Phrase": "我是以前邀请过你加入我们剧团的人。/n还记得吗？",
+      "VoiceFileName": "10302050340",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030205042,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "（怎么可能忘。/n　这家伙，是一切的起点）",
+      "BgmFileName": "7",
+      "VoiceFileName": "10302050350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 4,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205043,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "……什么事。要是想嘲笑拒绝你以后/n一直没出头的我，那我就挂了。",
+      "VoiceFileName": "10302050360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205044,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "星探",
+      "FontSize": 2,
+      "Phrase": "一直没出头吗？那正好。/n我打电话来，是想再邀请你一次。",
+      "VoiceFileName": "10302050370",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030205045,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "星探",
+      "FontSize": 2,
+      "Phrase": "虽然比不上银河座，但我们也是很有未来的剧团。/n以你的实力，很快就能当主角。剧本也会为你准备。",
+      "VoiceFileName": "10302050380",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030205046,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "（——会动摇，也是无可奈何的事）",
+      "VoiceFileName": "10302050390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205047,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "真的……会让我当主演吗……？",
+      "VoiceFileName": "10302050400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205048,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "星探",
+      "FontSize": 2,
+      "Phrase": "我保证。公演也会邀请你的家人。/n你是不是留在故乡，反而更能发光？",
+      "VoiceFileName": "10302050410",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030205049,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "我……。",
+      "VoiceFileName": "10302050420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205050,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "采访结束前，能让我再说一件事吗。/n我想借这个机会，说几句话。",
+      "BgmFileName": "999",
+      "VoiceFileName": "10302050430",
+      "CharacterMotions": [],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030205051,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 50,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "抱歉，星探。稍等一下。",
+      "VoiceFileName": "10302050440",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205052,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 51,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "银河座除了扛起招牌的千寿历，还有很多优秀演员。/n莉莉亚、绯花里、王雪。还有——",
+      "VoiceFileName": "10302050450",
+      "CharacterMotions": [],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030205053,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "那家伙……。",
+      "VoiceFileName": "10302050460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205054,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 53,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "640",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 1030205055,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 54,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "时间允许的话，我真想把所有人的名字都念一遍。但我想说的是，/n正是有才华的人彼此切磋，才支撑起银河座的人气。",
+      "BgmFileName": "8",
+      "VoiceFileName": "10302050470",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 30201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030205056,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 55,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "看到别人演出充满热量的戏，就会憧憬，也会燃起超越对方的斗志。/n这就是我们。大概没有哪个地方像这里一样聚满了不服输的人。",
+      "VoiceFileName": "10302050480",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030205057,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 56,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "没错，正因为彼此碰撞，银河才会更加强烈地闪耀。/n我们每天都在竞争，也在彼此提升。",
+      "VoiceFileName": "10302050490",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030205058,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 57,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "741",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 1030205059,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 58,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "……不用你说我也知道。笨蛋。",
+      "VoiceFileName": "10302050500",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205060,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 59,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "（要是还想着会输，就不可能赢过那群家伙。/n　就算回故乡的剧团，也只会埋没到最后）",
+      "VoiceFileName": "10302050510",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "HeadMotionMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205061,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 60,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "（选择银河座的人是我。/n　既然如此，现在逃跑算什么，王雪）",
+      "VoiceFileName": "10302050520",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "BodyMotionMasterId": 8,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205062,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 61,
+      "SpeakerName": "星探",
+      "FontSize": 2,
+      "Phrase": "得出结论了吗？",
+      "VoiceFileName": "10302050530",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030205063,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 62,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "我决定了。不回故乡。/n谢谢你的好意，但还是请去找别人吧。",
+      "VoiceFileName": "10302050540",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 30301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205064,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 63,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "我要留在这个银河座一决胜负。/n成功之后再回故乡。除此之外没有别的路！",
+      "VoiceFileName": "10302050550",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205065,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 64,
+      "SpeakerName": "星探",
+      "FontSize": 2,
+      "Phrase": "这样啊。虽然遗憾……但我明白你的决心了。/n期待你今后的表现。",
+      "VoiceFileName": "10302050560",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030205066,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 65,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "……这样就把退路切断了。真是四面楚歌啊，王雪。",
+      "BackgroundImageFileName": "1131",
+      "VoiceFileName": "10302050570",
+      "CharacterMotions": [],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030205067,
+      "EpisodeMasterId": 1030205,
+      "Order": 1,
+      "GroupOrder": 66,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "乔班尼这个角色……我一定要拿到！",
+      "VoiceFileName": "10302050580",
+      "CharacterMotions": [],
+      "SpeakerIconId": "303"
+    }
+  ]
+}

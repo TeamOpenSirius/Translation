@@ -1,0 +1,570 @@
+{
+  "EpisodeId": 1030118,
+  "StoryType": 1,
+  "Order": 18,
+  "Prev": 1030117,
+  "Next": 1030119,
+  "Chapter": "银河座　第1章",
+  "Title": "广阔的银河",
+  "EpisodeDetail": [
+    {
+      "Id": 1030118001,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "（回过神时，我已经置身于雷鸣般的掌声之中——）",
+      "BackgroundImageFileName": "1050",
+      "VoiceFileName": "10301180010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030118002,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "记者",
+      "FontSize": 2,
+      "Phrase": "今天的重点关注环节，是正在大受好评上演中的——/n银河座各位来到现场！",
+      "BackgroundImageFileName": "660",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "10",
+      "SeFileName": "71",
+      "VoiceFileName": "10301180020",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1",
+      "FadeValue1": 0.0,
+      "FadeValue2": 0.0,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 1030118003,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "记者",
+      "FontSize": 2,
+      "Phrase": "我看了《竹取物语》，到现在都还兴奋得停不下来！/n想问的事情太多，完全整理不出头绪……！",
+      "VoiceFileName": "10301180030",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030118004,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "要聊聊我的美吗？我觉得自己已经彻底化身成了/n真正从月亮而来的使者。",
+      "VoiceFileName": "10301180040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "HeadDirectionMasterId": 7,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 30403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 26,
+          "SpineId": 30503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "FacialExpressionMasterId": 202,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "SpineId": 30303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 1030118005,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "我演的老爷爷也不错吧，记得买周边。",
+      "VoiceFileName": "10301180050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "FacialExpressionMasterId": 200,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030118006,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "这次的舞台我很满意！这种时候真的超级开心。",
+      "VoiceFileName": "10301180060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 18,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "FacialExpressionMasterId": 202,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1030118007,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "记者",
+      "FontSize": 2,
+      "Phrase": "接下来请允许我采访《竹取物语》的两位主演！/n请二位接受我们的采访！",
+      "VoiceFileName": "10301180070",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030118008,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "记者",
+      "FontSize": 2,
+      "Phrase": "饰演辉夜姬的千寿历小姐！/n以及饰演操的拉莫娜·沃尔芙小姐！",
+      "VoiceFileName": "10301180080",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030118009,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "记者",
+      "FontSize": 2,
+      "Phrase": "“为两人的相遇与离别落泪！”“#银河座太强了”等等！/n社交平台上也接连出现大量好评。",
+      "VoiceFileName": "10301180090",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030118010,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "记者",
+      "FontSize": 2,
+      "Phrase": "首先是表现非常亮眼的拉莫娜小姐，/n请告诉我们你最直接的感想！",
+      "VoiceFileName": "10301180100",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030118011,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "拉莫娜",
+      "FontSize": 2,
+      "Phrase": "能演出让大家开心的戏，我很高兴。/n也要感谢协助我的共演者和工作人员。",
+      "VoiceFileName": "10301180110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 30209,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "302"
+    },
+    {
+      "Id": 1030118012,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "记者",
+      "FontSize": 2,
+      "Phrase": "千寿小姐觉得怎么样？",
+      "VoiceFileName": "10301180120",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030118013,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "连我自己都有些惊讶，我现在很期待下一场演出。/n和老翁、老妇的羁绊，与皇子们的互动，与使者的对决。",
+      "VoiceFileName": "10301180130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 2,
+          "SpineId": 30109,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030118014,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "……最重要的，是与侍从操心意相通的表演。/n只要继续钻研，一定还能变得更加出色。",
+      "VoiceFileName": "10301180140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 1030118015,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "记者",
+      "FontSize": 2,
+      "Phrase": "明明现在就已经被誉为杰作了，还要更进一步吗！？",
+      "VoiceFileName": "10301180150",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030118016,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "呜哇，简直就是上进心的化身。居然还没满足啊。",
+      "VoiceFileName": "10301180160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "SpineId": 30403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 26,
+          "SpineId": 30503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "FacialExpressionMasterId": 508,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 30303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 1030118017,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "我觉得很棒！我也要加油。",
+      "VoiceFileName": "10301180170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1030118018,
+      "EpisodeMasterId": 1030118,
+      "Order": 2,
+      "GroupOrder": 17,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "身体都热起来了，感觉马上就要跑起来！",
+      "VoiceFileName": "10301180171",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 1030118019,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "确实，我的美没有极限。还能继续向上。",
+      "VoiceFileName": "10301180180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 1030118020,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "记者",
+      "FontSize": 2,
+      "Phrase": "以上就是来自热闹银河座的现场报道。/n把画面交还演播室——！",
+      "VoiceFileName": "10301180190",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1030118021,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 20,
+      "FontSize": 2,
+      "Phrase": "",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 1030118022,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "本来只打算看看莉莉亚的戏，/n没想到还真演得相当有趣……。",
+      "BackgroundImageFileName": "641",
+      "BackgroundImageFileFadeType": 1,
+      "VoiceFileName": "10301180200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 24,
+          "LipSyncMasterId": 2,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201",
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 1030118023,
+      "EpisodeMasterId": 1030118,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "蜕变后的千寿历。哼……有意思。/n我就是想看到这样的你。",
+      "VoiceFileName": "10301180210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    }
+  ]
+}

@@ -1,0 +1,1607 @@
+{
+  "EpisodeId": 2000706,
+  "StoryType": 2,
+  "Order": 6,
+  "Prev": 2000705,
+  "Next": 2000707,
+  "Chapter": "FAIR IS FOUL, AND FOUL IS FAIR",
+  "Title": "杀死睡眠的麦克白",
+  "EpisodeDetail": [
+    {
+      "Id": 2000706001,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "历，能过来一下吗？/n有人来找你。",
+      "BackgroundImageFileName": "670",
+      "BgmFileName": "203",
+      "VoiceFileName": "20007060010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706002,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "找我？",
+      "VoiceFileName": "20007060020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 30119,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706003,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 3,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "640",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2000706004,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "姐……",
+      "VoiceFileName": "20007060030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 40801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000706005,
+      "EpisodeMasterId": 2000706,
+      "Order": 2,
+      "GroupOrder": 4,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "不对，千寿历！",
+      "VoiceFileName": "20007060031",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000706006,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "伊吕波……！？",
+      "VoiceFileName": "20007060040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 30119,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "SpineId": 40801,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706007,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "我来给你送便当。",
+      "VoiceFileName": "20007060050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000706008,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "诶诶……！？",
+      "VoiceFileName": "20007060060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706009,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "我真是的。/n别人特意做给我的便当，居然会忘记带。",
+      "VoiceFileName": "20007060070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706010,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "汤岛可要哭了哦。",
+      "VoiceFileName": "20007060080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000706011,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "今天不是试镜吗？　/n要是饿着肚子发挥不出实力就糟了！",
+      "VoiceFileName": "20007060090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000706012,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "连尺野，刚才谢谢你帮忙叫姐姐过来。",
+      "VoiceFileName": "20007060100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000706013,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "看到有女孩子遇到困难，帮忙是理所当然的。/n我这边也聊得很开心，正好放松了一下。",
+      "VoiceFileName": "20007060110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 24,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706014,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "没想到历还有这么可爱的妹妹。",
+      "VoiceFileName": "20007060120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706015,
+      "EpisodeMasterId": 2000706,
+      "Order": 2,
+      "GroupOrder": 13,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "伊吕波，下次再来。",
+      "VoiceFileName": "20007060121",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 402,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706016,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "嘿嘿。/n我也聊得特别开心！",
+      "VoiceFileName": "20007060130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000706017,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "伊吕波，你该走了。",
+      "VoiceFileName": "20007060140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 30119,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706018,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "连尺野也要参加试镜。/n今天她很忙。",
+      "VoiceFileName": "20007060150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706019,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "好、好的。那下次再见！",
+      "VoiceFileName": "20007060160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 500,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 2000706020,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "………。",
+      "VoiceFileName": "20007060170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706021,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "谢谢你替我叫住妹妹。",
+      "VoiceFileName": "20007060180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30119,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706022,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "不用道谢。/n我也度过了一段愉快的时间。",
+      "VoiceFileName": "20007060190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 24,
+          "LipSyncMasterId": 1,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706023,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "你们都聊了什么？",
+      "VoiceFileName": "20007060200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706024,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "比如“姐姐最喜欢去看戏了！”之类。",
+      "VoiceFileName": "20007060210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706025,
+      "EpisodeMasterId": 2000706,
+      "Order": 2,
+      "GroupOrder": 22,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "都是些普通话题。别那么警惕。",
+      "VoiceFileName": "20007060211",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706026,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "我才没有警惕……。",
+      "VoiceFileName": "20007060220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706027,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "好好珍惜那孩子。",
+      "VoiceFileName": "20007060230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706028,
+      "EpisodeMasterId": 2000706,
+      "Order": 2,
+      "GroupOrder": 24,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "聊着聊着就能感觉出来，她有多仰慕你。",
+      "VoiceFileName": "20007060231",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706029,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "多管闲事。/n不用你说我也知道。",
+      "VoiceFileName": "20007060240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706030,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "那就试镜场上再见。",
+      "VoiceFileName": "20007060250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 24,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706031,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "……真是个不可思议的人。/n自我很强，却又意外地很会照顾人。",
+      "VoiceFileName": "20007060260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 30119,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706032,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "那样温柔的表情，我还是第一次见……。",
+      "VoiceFileName": "20007060270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706033,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 29,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "663",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "999",
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 2000706034,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "现在开始麦克白一角的试镜。/n表演范围和之前通知的一样。",
+      "BgmFileName": "23",
+      "VoiceFileName": "20007060280",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000706035,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "场景是麦克白被欲望蒙蔽，暗杀邓肯国王后，/n失魂落魄之际，听见不知从何处传来的亡者之声而陷入混乱。",
+      "VoiceFileName": "20007060290",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000706036,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "那么按顺序开始。",
+      "VoiceFileName": "20007060300",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000706037,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 33,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "650",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 2000706038,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "……5号，千寿历。/n请多指教。",
+      "VoiceFileName": "20007060310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 1,
+          "SpineId": 30119,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706039,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "好。准备好了吧？/n开始！",
+      "VoiceFileName": "20007060320",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000706040,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "“……不知从哪里，传来了一声仿佛尖叫般的声音。”",
+      "VoiceFileName": "20007060330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 30119,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706041,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "“麦克白，你再也无法入眠。你将永无安睡，因为你杀死了睡眠。”",
+      "VoiceFileName": "20007060340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 300,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706042,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "“那纯净的睡眠。将疲惫纠结的心绪一一解开，给予治愈。”",
+      "VoiceFileName": "20007060350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706043,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "“睡眠，是每日都会到来的生命终结，是洗去战斗痛楚的浴水，/n　是涂抹在受伤心灵上的药……”",
+      "VoiceFileName": "20007060360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706044,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "“它是大自然赐予的无上佳肴，是人生中/n　最重要的养分。而你，已经失去了这安眠……！”",
+      "VoiceFileName": "20007060370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 207,
+          "BodyMotionMasterId": 19,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706045,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "“那谴责我的声音，永远、永远在耳边响着。",
+      "VoiceFileName": "20007060380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706046,
+      "EpisodeMasterId": 2000706,
+      "Order": 2,
+      "GroupOrder": 41,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "　啊啊……我究竟做了什么……！”",
+      "VoiceFileName": "20007060381",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706047,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "——OK，不愧是历。/n初审合格，你可以先走了。",
+      "VoiceFileName": "20007060390",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000706048,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "谢谢。",
+      "VoiceFileName": "20007060400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 30119,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706049,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（看老师的反应，角色氛围应该没有错）",
+      "VoiceFileName": "20007060410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 11,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706050,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "（……接下来是连尺野。她究竟会怎么演，/n　我必须留下来看看，作为参考）",
+      "VoiceFileName": "20007060420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706051,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "6号，连尺野初魅。",
+      "VoiceFileName": "20007060430",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000706052,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "导演",
+      "FontSize": 2,
+      "Phrase": "好，开始！",
+      "VoiceFileName": "20007060440",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000706053,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "BgmFileName": "999",
+      "VoiceFileName": "20007060450",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "BodyMotionMasterId": 15,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706054,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "“呵……哈哈……",
+      "VoiceFileName": "20007060460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 402,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706055,
+      "EpisodeMasterId": 2000706,
+      "Order": 2,
+      "GroupOrder": 49,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "　啊哈哈哈哈！”",
+      "VoiceFileName": "20007060461",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 208,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706056,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 50,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "……！？",
+      "VoiceFileName": "20007060470",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 30119,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706057,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 51,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "663",
+      "BgmFileName": "22",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 2000706058,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "“不知从哪里，传来了一声仿佛尖叫般的声音。/n　麦克白，你再也无法入眠。你将永无安睡，因为你杀死了睡眠！”",
+      "VoiceFileName": "20007060480",
+      "CharacterMotions": [],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706059,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 53,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "“那纯净的睡眠。将疲惫纠结的心绪一一解开，给予治愈。”",
+      "VoiceFileName": "20007060490",
+      "CharacterMotions": [],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706060,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 54,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "“睡眠，是每日都会到来的生命终结，是洗去战斗痛楚的浴水，/n　是涂抹在受伤心灵上的药……”",
+      "VoiceFileName": "20007060500",
+      "CharacterMotions": [],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706061,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 55,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "“它是大自然赐予的无上佳肴，是人生中/n　最重要的养分。而你，已经失去了这安眠……！”",
+      "VoiceFileName": "20007060510",
+      "CharacterMotions": [],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706062,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 56,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "650",
+      "BackgroundImageFileFadeType": 4,
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 2000706063,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 57,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "“永远、永远，那谴责我的声音都在耳边回响。",
+      "VoiceFileName": "20007060520",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 75,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706064,
+      "EpisodeMasterId": 2000706,
+      "Order": 2,
+      "GroupOrder": 57,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "　哈哈哈。我已经再也回不了头了……！”",
+      "VoiceFileName": "20007060521",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 301,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 2000706065,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 58,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "好强的气势……。",
+      "VoiceFileName": "20007060530",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 30119,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    },
+    {
+      "Id": 2000706066,
+      "EpisodeMasterId": 2000706,
+      "Order": 1,
+      "GroupOrder": 59,
+      "SpeakerName": "千寿历",
+      "FontSize": 2,
+      "Phrase": "可是，这个麦克白……。",
+      "VoiceFileName": "20007060540",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "301"
+    }
+  ]
+}

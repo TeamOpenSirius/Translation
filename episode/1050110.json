@@ -1,0 +1,842 @@
+{
+  "EpisodeId": 1050110,
+  "StoryType": 1,
+  "Order": 10,
+  "Prev": 1050109,
+  "Next": 1050111,
+  "Chapter": "最终章",
+  "Title": "感化　后篇",
+  "EpisodeDetail": [
+    {
+      "Id": 1050110001,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "Eden剧团成员们",
+      "FontSize": 2,
+      "Phrase": "「那就是Dai Star的风范……！」「完全被压倒了」/n「每个人都好厉害啊」「看得我浑身发颤……」",
+      "BackgroundImageFileName": "2220",
+      "BgmFileName": "401",
+      "VoiceFileName": "10501100010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050110002,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "（每个人都比我上次看到时进步了一大截。/n　不，这不只是单纯的技术提升……精神层面也变了吧）",
+      "VoiceFileName": "10501100020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "SpineId": 20401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 1050110003,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "……能让我们看到这样的舞台，确实吓了我一跳。/nDai Star……果然完全不是一个级别啊。",
+      "VoiceFileName": "10501100030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 1050110004,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "（毕竟是Dai Star们的剧目，确实有不少令人惊叹之处。/n　正因如此，我们更不能输）",
+      "VoiceFileName": "10501100040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 7,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1050110005,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "各位，都看到了吗？Dai Star们共同创造出的舞台。/n那正是最接近顶点的舞台。",
+      "VoiceFileName": "10501100050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1050110006,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "它与我们追求的戏剧看似相近，实则不同。/n但唯有呈现出不输给它的舞台，我们的舞台才会真正得到认可。",
+      "VoiceFileName": "10501100060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 24,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1050110007,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "——我们要向那个舞台发起反叛。",
+      "VoiceFileName": "10501100070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1050110008,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "Eden剧团成员们",
+      "FontSize": 2,
+      "Phrase": "！",
+      "VoiceFileName": "10501100080",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050110009,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "世界演剧联盟给演剧界带来的风潮……如果要对此提出异议，/n我们迟早也会与那个舞台正面碰撞。……害怕了吗？",
+      "VoiceFileName": "10501100090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1050110010,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "Eden剧团成员们",
+      "FontSize": 2,
+      "Phrase": "「怎么可能！」「我们一定做得到吧！」/n「让他们看看Eden的舞台！」",
+      "VoiceFileName": "10501100100",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050110011,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "呵……看来大家都很明白。",
+      "VoiceFileName": "10501100110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 20101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1050110012,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "没错。/n我的……我们的舞台，绝不会逊色于那个舞台。",
+      "VoiceFileName": "10501100120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1050110013,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "容",
+      "FontSize": 2,
+      "Phrase": "呵呵，真的……我们已经走到这里了呢。/n……得加把劲才行！",
+      "VoiceFileName": "10501100130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 20401,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "204"
+    },
+    {
+      "Id": 1050110014,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "初魅",
+      "FontSize": 2,
+      "Phrase": "……我们一定会超越那份「最高」！",
+      "VoiceFileName": "10501100140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "201"
+    },
+    {
+      "Id": 1050110015,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "Eden剧团成员们",
+      "FontSize": 2,
+      "Phrase": "是！",
+      "VoiceFileName": "10501100150",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050110016,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 16,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "101",
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 1050110017,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "Dai Star们的演技好厉害啊……！/n每一位演员都闪闪发光！",
+      "VoiceFileName": "10501100160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 2,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 1050110018,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "总觉得特别满足。/n就像一份东西尝到了两种美味。",
+      "VoiceFileName": "10501100170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 1050110019,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "那股扑面而来的气场太惊人了，真是一段奢侈的时光。/n才刚开演，我就完全沉浸进去了。",
+      "VoiceFileName": "10501100180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 1050110020,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "平时只要有一位Dai Star在，现场的空气都会变得不一样，/n结果这次所有演员都是Dai Star……实在太震撼了。",
+      "VoiceFileName": "10501100190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 1050110021,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "八惠亲的演技也太惊人了。/n那种前所未有的奔放感特别新鲜，而且还演得无可挑剔。",
+      "VoiceFileName": "10501100200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 1050110022,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "宙斯的性格虽然有些以自我为中心，/n但也经常被周围的人牵着鼻子走，反而让人觉得很可爱。",
+      "VoiceFileName": "10501100210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 1050110023,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "唱歌的部分也不愧是她啊～！/n……唉，要是还能再看一次就好了。",
+      "VoiceFileName": "10501100220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 2,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 1050110024,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "知冴",
+      "FontSize": 2,
+      "Phrase": "大家真的都好帅。/n嗯，跟把单钓金枪鱼练到极致的人一样帅。",
+      "VoiceFileName": "10501100230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 2,
+          "SpineId": 10601,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "106"
+    },
+    {
+      "Id": 1050110025,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "不是，那当然也确实很厉害。/n但厉害的方向也差太远了吧，我根本不知道该怎么比啊。",
+      "VoiceFileName": "10501100240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 1050110026,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "静香",
+      "FontSize": 2,
+      "Phrase": "总觉得八惠给了我们一大股力量呢。",
+      "VoiceFileName": "10501100250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 10201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "102"
+    },
+    {
+      "Id": 1050110027,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "对！感觉能量已经充满了！",
+      "VoiceFileName": "10501100260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 1050110028,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "心菜",
+      "FontSize": 2,
+      "Phrase": "嗯！我们的戏也要加油！",
+      "VoiceFileName": "10501100270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 10101,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "101"
+    },
+    {
+      "Id": 1050110029,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 29,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "999",
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 1050110030,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "望有",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "10501100280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 13,
+          "SpineId": 10701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "107"
+    },
+    {
+      "Id": 1050110031,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "望有",
+      "FontSize": 2,
+      "Phrase": "（八惠的演技实在太震撼了。明明舞台已经结束，鸡皮疙瘩却还没退，/n　全身的血液都像在沸腾。这种感觉……）",
+      "VoiceFileName": "10501100290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "107"
+    },
+    {
+      "Id": 1050110032,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "望有",
+      "FontSize": 2,
+      "Phrase": "（……和从前我站上世界演剧联盟舞台时感受到的一模一样）",
+      "VoiceFileName": "10501100300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "107"
+    },
+    {
+      "Id": 1050110033,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "望有",
+      "FontSize": 2,
+      "Phrase": "（心跳怎么都平静不下来……。/n　我明明已经决定，再也不会以演员的身份站上舞台了……）",
+      "VoiceFileName": "10501100310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "107"
+    },
+    {
+      "Id": 1050110034,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "望有",
+      "FontSize": 2,
+      "Phrase": "（其实我一直都还在渴望舞台……？）",
+      "VoiceFileName": "10501100320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "107"
+    },
+    {
+      "Id": 1050110035,
+      "EpisodeMasterId": 1050110,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "望有",
+      "FontSize": 2,
+      "Phrase": "我……还在追寻那片景色吗？",
+      "VoiceFileName": "10501100330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "107"
+    }
+  ]
+}

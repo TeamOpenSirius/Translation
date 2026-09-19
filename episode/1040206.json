@@ -1,0 +1,1371 @@
+{
+  "EpisodeId": 1040206,
+  "StoryType": 1,
+  "Order": 6,
+  "Prev": 1040205,
+  "Next": 1040207,
+  "Chapter": "剧团电姬　第2章",
+  "Title": "爱丽丝梦游仙境",
+  "EpisodeDetail": [
+    {
+      "Id": 1040206001,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "接下来公布其他演员。/n白兔，白丸美兔。",
+      "BackgroundImageFileName": "900",
+      "BgmFileName": "301",
+      "VoiceFileName": "10402060010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040206002,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "诶诶！？　美、美兔吗？",
+      "VoiceFileName": "10402060020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1040206003,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "哇！　恭喜！/n就连美兔亲的名字都特别合适！",
+      "VoiceFileName": "10402060030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040206004,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "不只是因为名字，是认真评价了演技以后才选你的。/n接着，疯帽匠，千寿伊吕波。红心女王，阿岐留卡米拉。",
+      "VoiceFileName": "10402060040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040206005,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "哦哦～，我要演帽匠吗！/n我会给叶羽亲准备很多谜语！",
+      "VoiceFileName": "10402060050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040206006,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "我、我要演红心女王！？/n是那个女王吧！？",
+      "VoiceFileName": "10402060060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040206007,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "爱丽丝的姐姐，猫足蕾。/n纸牌士兵从A开始――",
+      "VoiceFileName": "10402060070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040206008,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "爱丽丝的姐姐吗。很适合我的角色。/n我记得她是在误入噩梦世界、遭到黑暗组织盯上以后――",
+      "VoiceFileName": "10402060080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 40403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 1040206009,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "这次不是那种爱丽丝哦——。/n是货真价实、正统派的剧团电姬式《爱丽丝》。",
+      "VoiceFileName": "10402060090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040206010,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "都说是“剧团电姬式”了，怎么可能还是正统派……。",
+      "VoiceFileName": "10402060100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040206011,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "吵死啦——。好了，继续。",
+      "VoiceFileName": "10402060110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040206012,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 12,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 1040206013,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "――好，演员就这些！/n不过如果有人还有别的想演的角色，可以来跟我商量。",
+      "VoiceFileName": "10402060120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040206014,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "有！　我想演纸牌士兵D！/n我会成为名留青史的纸牌士兵！",
+      "VoiceFileName": "10402060130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 3,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040206015,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "叶羽以外的人哦——。",
+      "VoiceFileName": "10402060140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040206016,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "暴——政——！",
+      "VoiceFileName": "10402060150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 207,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040206017,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "根津真知子",
+      "FontSize": 2,
+      "Phrase": "不是说了这次要以你为中心去卖吗。/n为了维持话题热度，能做的都要做。",
+      "VoiceFileName": "10402060160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 40701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "407"
+    },
+    {
+      "Id": 1040206018,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "排练场直播、幕后照公开、宣传册采访。/n其他点子也在征集中。会一边跟大家商量，一边继续决定。",
+      "VoiceFileName": "10402060170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040206019,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "呃——……。",
+      "VoiceFileName": "10402060180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040206020,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "别摆那种脸。之后还要拍一段“演员决定瞬间”的视频。/n到时候给我表现得可爱一点、惊讶一点，让粉丝开心。",
+      "VoiceFileName": "10402060190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040206021,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "这种骗人有点……。",
+      "VoiceFileName": "10402060200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040206022,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "啊，哦——？刚才公布角色的时候也已经拍了视频，/n那就直接放那段好了。",
+      "VoiceFileName": "10402060210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040206023,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "对不起，请让我重拍。",
+      "VoiceFileName": "10402060220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040206024,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "很好。",
+      "VoiceFileName": "10402060230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040206025,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "那、那个……。",
+      "VoiceFileName": "10402060240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 4,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1040206026,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "怎么，对白兔不满意？",
+      "VoiceFileName": "10402060250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040206027,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "就因为名字比较像……就把这么重要的角色给我，真的好吗？/n美兔……能做到吗……。",
+      "VoiceFileName": "10402060260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1040206028,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "没——问题！/n美兔亲一定能变成超可爱的白兔蹦蹦！",
+      "VoiceFileName": "10402060270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1040206029,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "就是就是，不用担心。/n我也有点想试试兔女郎。",
+      "VoiceFileName": "10402060280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040206030,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "兔、兔女郎……！？",
+      "VoiceFileName": "10402060290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1040206031,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "不是不是，是正经《爱丽丝》里的白兔。",
+      "VoiceFileName": "10402060300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040206032,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "这样啊！？　我还以为是剧团电姬，就会干脆整成兔女郎……。",
+      "VoiceFileName": "10402060310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040206033,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "服装师",
+      "FontSize": 2,
+      "Phrase": "毕竟是《爱丽丝》嘛，这次只能忍痛克制。/n不过我会给美兔亲准备一套超级可爱、闪闪发亮的服装哦！",
+      "VoiceFileName": "10402060320",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040206034,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "我不否认“名字相似很好营销”这种盘算确实有。/n但就像刚才说的，我相信美兔做得到。加油。",
+      "VoiceFileName": "10402060330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040206035,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "好、好的……！",
+      "VoiceFileName": "10402060340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 40203,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 1040206036,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "比起美兔，我这边才是真的不安……。/n红心女王是最终Boss吧？　……也太难了吧？",
+      "VoiceFileName": "10402060350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 1040206037,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "根津真知子",
+      "FontSize": 2,
+      "Phrase": "看来有人心里没底，不过放心。/n剧团电姬有得到“奥林匹斯的未来”认可的叶羽。",
+      "VoiceFileName": "10402060360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 24,
+          "LipSyncMasterId": 1,
+          "SpineId": 40701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40303,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "407"
+    },
+    {
+      "Id": 1040206038,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "等等，Boss！？　你突然说什么呢！？",
+      "VoiceFileName": "10402060370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 3,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040206039,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "根津真知子",
+      "FontSize": 2,
+      "Phrase": "别看她这样，职业生涯很长，也积累了大量经验。/n她一定会带着大家往上走！　放心去依赖她！",
+      "VoiceFileName": "10402060380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 1,
+          "SpineId": 40701,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "407"
+    },
+    {
+      "Id": 1040206040,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "别擅自――",
+      "VoiceFileName": "10402060390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040206041,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "根津真知子",
+      "FontSize": 2,
+      "Phrase": "拜托你了，团长。",
+      "VoiceFileName": "10402060400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 24,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "407"
+    },
+    {
+      "Id": 1040206042,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "剧团电姬团员们",
+      "FontSize": 2,
+      "Phrase": "请多指教，团长！",
+      "VoiceFileName": "10402060410",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040206043,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "――――――――――。",
+      "VoiceFileName": "10402060420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040206044,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "――啊啊真是的，知道了！　知道啦！/n我做！　我做还不行吗！",
+      "VoiceFileName": "10402060430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 74,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040206045,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "剧团电姬团员们",
+      "FontSize": 2,
+      "Phrase": "太好啦！",
+      "VoiceFileName": "10402060440",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1040206046,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "……不过这剧本里没有矮胖子。/n这么有名的角色删掉真的好吗？",
+      "VoiceFileName": "10402060450",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1040206047,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "你啊……矮胖子是《镜中奇遇记》里的。",
+      "VoiceFileName": "10402060460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 40603,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040206048,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "东都要",
+      "FontSize": 2,
+      "Phrase": "看来得先从重新学习原作开始。/n这次必须斯巴达一点了。",
+      "VoiceFileName": "10402060470",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "406"
+    },
+    {
+      "Id": 1040206049,
+      "EpisodeMasterId": 1040206,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "呃——……自己挖坑了——……。",
+      "VoiceFileName": "10402060480",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    }
+  ]
+}

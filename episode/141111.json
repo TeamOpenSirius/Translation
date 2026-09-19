@@ -1,0 +1,1429 @@
+{
+    "EpisodeId": 141111,
+    "StoryType": 3,
+    "Order": 1,
+    "Prev": null,
+    "Next": 141112,
+    "Chapter": "玉椿，灯映夜水",
+    "Title": "三年级的节目",
+    "EpisodeDetail": [
+        {
+            "Id": 141111001,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "导演",
+            "FontSize": 2,
+            "Phrase": "那么，今天的排练就到这里。",
+            "BackgroundImageFileName": "1050",
+            "VoiceFileName": "1411110010",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141111002,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "千寿历・拉莫娜・莉莉亚・绯花里・王雪",
+            "FontSize": 2,
+            "Phrase": "是！",
+            "VoiceFileName": "1411110020",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141111003,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 3,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "670",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "202",
+            "CharacterMotions": [],
+            "FadeValue1": 0.800000011920929,
+            "FadeValue2": 0.5,
+            "FadeValue3": 0.800000011920929
+        },
+        {
+            "Id": 141111004,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "千寿历",
+            "FontSize": 2,
+            "Phrase": "呼……。",
+            "VoiceFileName": "1411110030",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 72,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 141111005,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "今天基础训练的时候，身体比平时轻快不少……。",
+            "VoiceFileName": "1411110040",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111006,
+            "EpisodeMasterId": 141111,
+            "Order": 2,
+            "GroupOrder": 5,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "是因为之前和绯花里做过舞蹈特训吗？",
+            "VoiceFileName": "1411110041",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111007,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "真的？",
+            "VoiceFileName": "1411110050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 141111008,
+            "EpisodeMasterId": 141111,
+            "Order": 2,
+            "GroupOrder": 6,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "我倒觉得身体稍微有点沉～。最近一直都超忙。",
+            "VoiceFileName": "1411110051",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 201,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 141111009,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "千寿历",
+            "FontSize": 2,
+            "Phrase": "绯花里小姐确实会这样。",
+            "VoiceFileName": "1411110060",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 141111010,
+            "EpisodeMasterId": 141111,
+            "Order": 2,
+            "GroupOrder": 7,
+            "SpeakerName": "千寿历",
+            "FontSize": 2,
+            "Phrase": "拉莫娜小姐文化祭期间看起来也很忙，不累吗？",
+            "VoiceFileName": "1411110061",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 141111011,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "嗯，我没绯花里那么忙！/n根本不算什么。",
+            "VoiceFileName": "1411110070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111012,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "结果忙到最后，还是没空去千寿历她们班看看。",
+            "VoiceFileName": "1411110080",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141111013,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "对！就是嘛，太可惜了～！",
+            "VoiceFileName": "1411110090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 141111014,
+            "EpisodeMasterId": 141111,
+            "Order": 2,
+            "GroupOrder": 10,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "我记得是展示对吧？",
+            "VoiceFileName": "1411110091",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 141111015,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "千寿历",
+            "FontSize": 2,
+            "Phrase": "是，天象仪。",
+            "VoiceFileName": "1411110100",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 141111016,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "莉莉亚",
+            "FontSize": 2,
+            "Phrase": "虽然比不上真正的星空，不过梦幻又漂亮。",
+            "VoiceFileName": "1411110110",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "304"
+        },
+        {
+            "Id": 141111017,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "千寿历",
+            "FontSize": 2,
+            "Phrase": "还准备了很大的穹顶，做得相当正式呢。",
+            "VoiceFileName": "1411110120",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 141111018,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "三年级还要准备升学之类，本来就很忙，通常都会选比较省力的项目，/n但我们的完成度却得到大家一致好评。",
+            "VoiceFileName": "1411110130",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111019,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "都是因为大家齐心协力、一起努力。",
+            "VoiceFileName": "1411110140",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111020,
+            "EpisodeMasterId": 141111,
+            "Order": 2,
+            "GroupOrder": 15,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "千寿历也帮了我很多，真的得救了。",
+            "VoiceFileName": "1411110141",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111021,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "千寿历",
+            "FontSize": 2,
+            "Phrase": "我又不是专门为了帮你……。",
+            "VoiceFileName": "1411110150",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 30203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 141111022,
+            "EpisodeMasterId": 141111,
+            "Order": 2,
+            "GroupOrder": 16,
+            "SpeakerName": "千寿历",
+            "FontSize": 2,
+            "Phrase": "我只是做了身为班级一员理所当然该做的事。",
+            "VoiceFileName": "1411110151",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 141111023,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "呵呵，嘴上这么说，你不是一直在关键地方帮我吗。",
+            "VoiceFileName": "1411110160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111024,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "千寿历",
+            "FontSize": 2,
+            "Phrase": "那、那是因为……！你什么事情都一个人接下来，/n我只是不希望影响剧团活动……！",
+            "VoiceFileName": "1411110170",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 306,
+                    "BodyMotionMasterId": 10,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 141111025,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "全班团结一致啊。",
+            "VoiceFileName": "1411110180",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141111026,
+            "EpisodeMasterId": 141111,
+            "Order": 2,
+            "GroupOrder": 19,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "学校活动和德国简直绝配吧？",
+            "VoiceFileName": "1411110181",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141111027,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "千寿历",
+            "FontSize": 2,
+            "Phrase": "按理说应该夸她，可我看着只觉得担心。/n光是决定班级文化祭执行委员的时候就——",
+            "VoiceFileName": "1411110190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 72,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 30303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 141111028,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 21,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "60",
+            "BackgroundImageFileFadeType": 2,
+            "BgmFileName": "3",
+            "CharacterMotions": [],
+            "FadeValue1": 0.800000011920929,
+            "FadeValue2": 0.5,
+            "FadeValue3": 0.800000011920929
+        },
+        {
+            "Id": 141111029,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "同学A",
+            "FontSize": 2,
+            "Phrase": "那么，接下来决定文化祭的班级执行委员。/n如果有人自愿就由自愿者担任，没有的话就抽签。",
+            "VoiceFileName": "1411110200",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141111030,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "同学B",
+            "FontSize": 2,
+            "Phrase": "抽签啊。我打工很忙，实在不行。/n帮一点小忙倒是可以……。",
+            "VoiceFileName": "1411110210",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141111031,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "同学C",
+            "FontSize": 2,
+            "Phrase": "我也要上补习班……。/n要是抽中了，能拒绝吗？",
+            "VoiceFileName": "1411110220",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141111032,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "我来。",
+            "VoiceFileName": "1411110230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 18,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30202,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111033,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "千寿历",
+            "FontSize": 2,
+            "Phrase": "拉莫娜小姐……！？",
+            "VoiceFileName": "1411110240",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 30102,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 30202,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 141111034,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "大家都要准备考试、找工作之类，很忙吧？",
+            "VoiceFileName": "1411110250",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30202,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111035,
+            "EpisodeMasterId": 141111,
+            "Order": 2,
+            "GroupOrder": 27,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "我又没有打工，可以的话就交给我。",
+            "VoiceFileName": "1411110251",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111036,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "同学A",
+            "FontSize": 2,
+            "Phrase": "诶，可沃尔芙同学不是还有银河座的排练吗……。/n这样不好吧。",
+            "VoiceFileName": "1411110260",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141111037,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "哈哈哈，你们看我像是会因为这点事就叫苦的人吗？",
+            "VoiceFileName": "1411110270",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30202,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111038,
+            "EpisodeMasterId": 141111,
+            "Order": 2,
+            "GroupOrder": 29,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "而且这是我第一次参加日本的文化祭。为了磨练技艺，也请务必让我体验一下。",
+            "VoiceFileName": "1411110271",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111039,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "千寿历",
+            "FontSize": 2,
+            "Phrase": "等等，你真的没问题吗……？",
+            "VoiceFileName": "1411110280",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30102,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 30202,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 141111040,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "没事。从时间安排上看应该也没有问题。",
+            "VoiceFileName": "1411110290",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111041,
+            "EpisodeMasterId": 141111,
+            "Order": 2,
+            "GroupOrder": 31,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "本来想在银河座当演员，没有足够体力可撑不下去，对吧？",
+            "VoiceFileName": "1411110291",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111042,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 32,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.800000011920929,
+            "FadeValue2": 0.5,
+            "FadeValue3": 0.800000011920929
+        },
+        {
+            "Id": 141111043,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 33,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "喂——，那边的器材搬到这里来！",
+            "VoiceFileName": "1411110300",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 18,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 30202,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111044,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 34,
+            "SpeakerName": "千寿历",
+            "FontSize": 2,
+            "Phrase": "……。",
+            "VoiceFileName": "1411110310",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 30102,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 141111045,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "嗨。招牌做得顺利吗？",
+            "VoiceFileName": "1411110320",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30202,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111046,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 36,
+            "SpeakerName": "同学C",
+            "FontSize": 2,
+            "Phrase": "嗯！就按沃尔芙同学的建议，/n设计成了夜空主题。",
+            "VoiceFileName": "1411110330",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141111047,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 37,
+            "SpeakerName": "同学B",
+            "FontSize": 2,
+            "Phrase": "虽然是我们自己做的，不过真的很符合主题呢～。",
+            "VoiceFileName": "1411110340",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141111048,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 38,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "那就好。/n不过真是帮大忙了，没想到未来的艺术家愿意来帮忙。",
+            "VoiceFileName": "1411110350",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30202,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111049,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 39,
+            "SpeakerName": "同学B",
+            "FontSize": 2,
+            "Phrase": "嘿嘿，我只是想考美大而已，夸太过了。",
+            "VoiceFileName": "1411110360",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141111050,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 40,
+            "SpeakerName": "同学C",
+            "FontSize": 2,
+            "Phrase": "这种程度的工作也不会影响预备校。",
+            "VoiceFileName": "1411110370",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141111051,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 41,
+            "SpeakerName": "同学B",
+            "FontSize": 2,
+            "Phrase": "这边就交给我们～。",
+            "VoiceFileName": "1411110380",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141111052,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 42,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "真可靠！",
+            "VoiceFileName": "1411110390",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 8,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 30202,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111053,
+            "EpisodeMasterId": 141111,
+            "Order": 2,
+            "GroupOrder": 42,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "那就继续拜托你们了。",
+            "VoiceFileName": "1411110391",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111054,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 43,
+            "SpeakerName": "同学A",
+            "FontSize": 2,
+            "Phrase": "沃尔芙同学——！/n找不到能出去采购的人，可以拜托你吗？",
+            "VoiceFileName": "1411110400",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 141111055,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 44,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "好，没问题！",
+            "VoiceFileName": "1411110410",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 30202,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111056,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 45,
+            "SpeakerName": "千寿历",
+            "FontSize": 2,
+            "Phrase": "……你都彻底变成核心人物了。/n所谓发挥本领就是这么回事吧……。",
+            "VoiceFileName": "1411110420",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 72,
+                    "BodyMotionMasterId": 27,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30102,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 141111057,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 46,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "670",
+            "BackgroundImageFileFadeType": 2,
+            "BgmFileName": "202",
+            "CharacterMotions": [],
+            "FadeValue1": 0.800000011920929,
+            "FadeValue2": 0.5,
+            "FadeValue3": 0.800000011920929
+        },
+        {
+            "Id": 141111058,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 47,
+            "SpeakerName": "千寿历",
+            "FontSize": 2,
+            "Phrase": "……总之，拉莫娜小姐把所有拜托都接下来了。/n彻底变成了中心人物。",
+            "VoiceFileName": "1411110430",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 141111059,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 48,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "很有德国的风格。/n难怪我看到她准备的时候那么有干劲。",
+            "VoiceFileName": "1411110440",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 201,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 141111060,
+            "EpisodeMasterId": 141111,
+            "Order": 1,
+            "GroupOrder": 49,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "大家都那么努力，我也不能输啊。",
+            "VoiceFileName": "1411110450",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 141111061,
+            "EpisodeMasterId": 141111,
+            "Order": 2,
+            "GroupOrder": 49,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "不过，千寿历也为班里贡献了很多哦？",
+            "VoiceFileName": "1411110451",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        }
+    ]
+}

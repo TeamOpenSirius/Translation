@@ -1,0 +1,60 @@
+{
+    "EpisodeId": 4006,
+    "StoryType": 4,
+    "Order": 1,
+    "Prev": null,
+    "Next": null,
+    "Chapter": null,
+    "Title": "偶尔像这样……",
+    "EpisodeDetail": [
+        {
+            "Id": 4006001,
+            "EpisodeMasterId": 4006,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "千寿历",
+            "FontSize": 2,
+            "Phrase": "偶尔像这样悠闲一下也不错呢。/n最近确实把各种行程排得太满了……。",
+            "VoiceFileName": "40060010",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 70,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 4006002,
+            "EpisodeMasterId": 4006,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "千寿历",
+            "FontSize": 2,
+            "Phrase": "不过冰川回来得也太慢了吧。/n虽然拜托她去点单了，但我是不是应该一起去呢。",
+            "VoiceFileName": "40060020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        }
+    ]
+}

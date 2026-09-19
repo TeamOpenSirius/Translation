@@ -1,0 +1,2892 @@
+{
+    "EpisodeId": 140881,
+    "StoryType": 3,
+    "Order": 1,
+    "Prev": null,
+    "Next": 140882,
+    "Chapter": "春日紫苑也不错吧？",
+    "Title": "探险！卡米拉之旅",
+    "EpisodeDetail": [
+        {
+            "Id": 140881001,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "伊吕波・美兔",
+            "FontSize": 2,
+            "Phrase": "慢慢慢慢……。",
+            "BackgroundImageFileName": "900",
+            "BgmFileName": "301",
+            "VoiceFileName": "1408810010",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 110,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 140881002,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "哦哦？咋了咋了？啥呀啥呀？/n伊吕波亲、美兔亲。新游戏？",
+            "VoiceFileName": "1408810020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881003,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "我们现在是“想更了解卡米拉小队”！",
+            "VoiceFileName": "1408810030",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881004,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "美兔",
+            "FontSize": 2,
+            "Phrase": "因为想了解……所以就是“知り隊”！/n队长是伊吕波，美兔是副队长。",
+            "VoiceFileName": "1408810040",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 140881005,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "哈哈，什么啊，好可爱。然后，是想了解咱？",
+            "VoiceFileName": "1408810050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881006,
+            "EpisodeMasterId": 140881,
+            "Order": 2,
+            "GroupOrder": 5,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "想知道啥？行啊，啥都能问。尽管来！",
+            "VoiceFileName": "1408810051",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881007,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "美兔",
+            "FontSize": 2,
+            "Phrase": "我们正准备从……先弄清楚该问什么开始。",
+            "VoiceFileName": "1408810060",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 70,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 140881008,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "现在，我们站在前人未踏的“卡米拉洞窟”前！",
+            "VoiceFileName": "1408810070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 70,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881009,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "哈哈笑死，咱怎么就成洞窟了？/n话说，为啥是探险队？",
+            "VoiceFileName": "1408810080",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881010,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "因为昨晚的深夜动画，/n刚好讲了秘境探险的故事！",
+            "VoiceFileName": "1408810090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 110,
+                    "BodyMotionMasterId": 8,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881011,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "美兔",
+            "FontSize": 2,
+            "Phrase": "是潜入密林海底洞窟深处未来研究所的大冒险，/n那个真的……特别有意思。",
+            "VoiceFileName": "1408810100",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 140881012,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "救命，听起来咱超感兴趣。伊吕波亲她们安利的动画，/n就没踩过雷。《关于我转生变成史莱姆这档事》也超好看。",
+            "VoiceFileName": "1408810110",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881013,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "感兴趣吗！标题是——",
+            "VoiceFileName": "1408810120",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881014,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "美兔",
+            "FontSize": 2,
+            "Phrase": "伊吕波、伊吕波。/n今天说好了……先不聊宅活，对吧？",
+            "VoiceFileName": "1408810130",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 110,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 140881015,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "啊对对，是这样！/n我们现在是“了解卡米拉小队模式”！",
+            "VoiceFileName": "1408810140",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881016,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "美兔",
+            "FontSize": 2,
+            "Phrase": "动画的事……下次再聊。/n今天，美兔想多了解卡米拉。",
+            "VoiceFileName": "1408810150",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 140881017,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "OKOK。总之就是被动画影响得彻底是吧。/n不过为啥突然选咱？没啥前因后果吧？",
+            "VoiceFileName": "1408810160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881018,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "因为我们突然意识到一件事。",
+            "VoiceFileName": "1408810170",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881019,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "美兔",
+            "FontSize": 2,
+            "Phrase": "美兔我们对卡米拉……/n会不会其实是“坏宅”……。",
+            "VoiceFileName": "1408810180",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 402,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 140881020,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "嗯嗯？等等，这就真听不懂了。你们两个怎么就成坏宅了？/n麻烦讲得咱也能理解一点。",
+            "VoiceFileName": "1408810190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 110,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881021,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "就是啊。平时卡米拉，/n不是经常陪我们聊宅话题嘛。",
+            "VoiceFileName": "1408810200",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881022,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "啊对。全是咱不知道的世界，所以超有意思。/n一直给咱科普，真是报恩谢德。",
+            "VoiceFileName": "1408810210",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881023,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "嘿嘿，你这么说我们也很开心。",
+            "VoiceFileName": "1408810220",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881024,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "美兔",
+            "FontSize": 2,
+            "Phrase": "可是，基本都是美兔我们单方面在说吧？/n所以……想多了解卡米拉一点。",
+            "VoiceFileName": "1408810230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 402,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 140881025,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "只要好好探险卡米拉、变得更了解你，/n我觉得我们就能变得更——加要好！",
+            "VoiceFileName": "1408810240",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881026,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "这个咱超开心好吗！所以才叫“知り隊”是吧。懂了！",
+            "VoiceFileName": "1408810250",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 402,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 40303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881027,
+            "EpisodeMasterId": 140881,
+            "Order": 2,
+            "GroupOrder": 25,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "不过要让你们了解咱啊……。",
+            "VoiceFileName": "1408810251",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881028,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "——你们的谈话，我已经听见了。",
+            "VoiceFileName": "1408810260",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 70,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881029,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "哇啊！？/n美兔亲，是未知生命遭遇！",
+            "VoiceFileName": "1408810270",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 501,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881030,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "美兔",
+            "FontSize": 2,
+            "Phrase": "是蕾小姐啦，伊吕波！/n先从探险队状态退出一下！",
+            "VoiceFileName": "1408810280",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 400,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 140881031,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "如果非要给我一个称号，就叫“神秘的驾驭者”吧。/n吾之超越听觉，已听见少女们恳切的愿望。",
+            "VoiceFileName": "1408810290",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 110,
+                    "BodyMotionMasterId": 22,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881032,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "前辈也对咱感兴趣？/n那要不要穿辣妹装做姐妹搭配？",
+            "VoiceFileName": "1408810300",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 40403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881033,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "不、不必了。防御力如此薄弱的辣妹服装，我就敬谢不敏。",
+            "VoiceFileName": "1408810310",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 407,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881034,
+            "EpisodeMasterId": 140881,
+            "Order": 2,
+            "GroupOrder": 31,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "……咳。只是，命运之牌向我发出了启示。",
+            "VoiceFileName": "1408810311",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 70,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881035,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 32,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "在无数幸福汇聚的祭典中，/n吉兆将降临于阿岐留。",
+            "VoiceFileName": "1408810320",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881036,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 33,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "诶，既然是前辈占卜出来的，那不是确定会超开心嘛！",
+            "VoiceFileName": "1408810330",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881037,
+            "EpisodeMasterId": 140881,
+            "Order": 2,
+            "GroupOrder": 33,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "幸福汇聚的祭典……啊！灵感来了！",
+            "VoiceFileName": "1408810331",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881038,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 34,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "既然这样～，反正都要去，不如其他人也……",
+            "VoiceFileName": "1408810340",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 70,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881039,
+            "EpisodeMasterId": 140881,
+            "Order": 2,
+            "GroupOrder": 34,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "啊！喂喂，叶羽要不要也同舟共济？",
+            "VoiceFileName": "1408810341",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881040,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "呃？我？",
+            "VoiceFileName": "1408810350",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 502,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 140881041,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 36,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "周末我们正计划搞“咱的推荐路线之旅”。/n绝对好玩！",
+            "VoiceFileName": "1408810360",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 40503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881042,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 37,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "诶——……路线之旅？不要，跳过。/n周末我要看FPS世界大赛，忙着呢。",
+            "VoiceFileName": "1408810370",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 400,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 140881043,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 38,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "啊～，这样啊，真可惜。",
+            "VoiceFileName": "1408810380",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 402,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881044,
+            "EpisodeMasterId": 140881,
+            "Order": 2,
+            "GroupOrder": 38,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "那没办法。那就我们四个一起出去玩！",
+            "VoiceFileName": "1408810381",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 8,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881045,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 39,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1240",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.5,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.5
+        },
+        {
+            "Id": 140881046,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 40,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "到——达♪ 今天从购物中心给大家送上电姬成员出游！/n虽然不是直播，不过拍摄许可当然已经拿好了！",
+            "VoiceFileName": "1408810390",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 40321,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881047,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 41,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "原来是购物中心。/n我还以为辣妹卡米拉会带我们去涩谷或者原宿。",
+            "VoiceFileName": "1408810400",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 502,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881048,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 42,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "呵呵呵，其实从今天开始的一周，/n这里正在办“Kawaii Festival”！",
+            "VoiceFileName": "1408810410",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 70,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40321,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 40101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881049,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 43,
+            "SpeakerName": "伊吕波・美兔",
+            "FontSize": 2,
+            "Phrase": "Kawaii Festival。",
+            "VoiceFileName": "1408810420",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 140881050,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 44,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "怪不得这个空间里，/n充满了幸福将至的预感。",
+            "VoiceFileName": "1408810430",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881051,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 45,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "还有咱超推荐的店来出摊。/n不过，难道你们还是更想去涩谷？",
+            "VoiceFileName": "1408810440",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40321,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 40401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881052,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 46,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "才不会！这么好玩的节庆，/n当然要优先参加！",
+            "VoiceFileName": "1408810450",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881053,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 47,
+            "SpeakerName": "美兔",
+            "FontSize": 2,
+            "Phrase": "美兔我们也是……如果有Cos活动，就会优先去那边。/n涩谷之类的地方，下次也想请你带我们逛。",
+            "VoiceFileName": "1408810460",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 140881054,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 48,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "比起那个，那里这里到处都是可爱的东西！/n卡米拉，快告诉我们你推荐什么。",
+            "VoiceFileName": "1408810470",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 16,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881055,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 49,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "哈哈，OKOK。/n那就按顺序一个个逛过去吧。",
+            "VoiceFileName": "1408810480",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40321,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881056,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 50,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.5,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.5
+        },
+        {
+            "Id": 140881057,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 51,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "啊，伊吕波亲和美兔亲穿这个不是挺好吗？/n用不同颜色的横须贺夹克，走个休闲风。",
+            "VoiceFileName": "1408810490",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40321,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881058,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 52,
+            "SpeakerName": "美兔",
+            "FontSize": 2,
+            "Phrase": "哇，横须贺夹克……还是第一次穿。/n能和伊吕波一起，我有点紧张。",
+            "VoiceFileName": "1408810500",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 140881059,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 53,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "两个人穿一样的感觉很有“好朋友”味呢，双子穿搭。",
+            "VoiceFileName": "1408810510",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881060,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 54,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "前辈底子这么好，就配修身工装裤，/n上衣穿露肩针织衫！",
+            "VoiceFileName": "1408810520",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40321,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881061,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 55,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "等、等等阿岐留。这……这是要露这么多肩膀吗！？",
+            "VoiceFileName": "1408810530",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881062,
+            "EpisodeMasterId": 140881,
+            "Order": 2,
+            "GroupOrder": 55,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "不行，不行不行！会被黑暗组织盯上的……！",
+            "VoiceFileName": "1408810531",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 303,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881063,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 56,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "哪有，这个程度很普通啦！绝对会爆火！/n这么适合，说不定会被街拍杂志挖去当读者模特！",
+            "VoiceFileName": "1408810540",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881064,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 57,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "唔……唔、呜…………",
+            "VoiceFileName": "1408810550",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 407,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881065,
+            "EpisodeMasterId": 140881,
+            "Order": 2,
+            "GroupOrder": 57,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "果然还是饶了我吧——！",
+            "VoiceFileName": "1408810551",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881066,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 58,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "999",
+            "CharacterMotions": [],
+            "FadeValue1": 0.5,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.5
+        },
+        {
+            "Id": 140881067,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 59,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "哈呜～，甜得灵魂都要融化了……。/n简直像灵药……失去的生命力正在复苏……。",
+            "BgmFileName": "303",
+            "VoiceFileName": "1408810560",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 70,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881068,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 60,
+            "SpeakerName": "美兔",
+            "FontSize": 2,
+            "Phrase": "连配料摆盘都很可爱，好想拿来参考。",
+            "VoiceFileName": "1408810570",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 140881069,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 61,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "这家的可丽饼可是靠“超上镜”出名的！/n总店排队超夸张，所以这里算隐藏好店。",
+            "VoiceFileName": "1408810580",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40321,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 40201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881070,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 62,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "话说回来，伊吕波亲、美兔亲，你们买啥了吗？",
+            "VoiceFileName": "1408810590",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881071,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 63,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "呵呵呵，问得好。",
+            "VoiceFileName": "1408810600",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 70,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881072,
+            "EpisodeMasterId": 140881,
+            "Order": 2,
+            "GroupOrder": 63,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "锵锵——！请看这个发圈！",
+            "VoiceFileName": "1408810601",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 8,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881073,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 64,
+            "SpeakerName": "美兔",
+            "FontSize": 2,
+            "Phrase": "我买了……和伊吕波一样的。",
+            "VoiceFileName": "1408810610",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 40201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 140881074,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 65,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "哦～，可爱！/n互换那种很有对方感觉的颜色，不觉得超有氛围吗？",
+            "VoiceFileName": "1408810620",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40321,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881075,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 66,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "这样我们也有和卡米拉一样的东西了！",
+            "VoiceFileName": "1408810630",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881076,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 67,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "我也购买了以阿岐留为意象的“生命束缚体”。",
+            "VoiceFileName": "1408810640",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881077,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 68,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "Life Binder……这不就是发夹吗。",
+            "VoiceFileName": "1408810650",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40321,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 40401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881078,
+            "EpisodeMasterId": 140881,
+            "Order": 2,
+            "GroupOrder": 68,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "诶，前辈要戴发夹吗？",
+            "VoiceFileName": "1408810651",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 502,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881079,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 69,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "今天似乎被阳之气侵染了。/n偶尔做做这样的冒险，好像也不错。",
+            "VoiceFileName": "1408810660",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 70,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881080,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 70,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "好啊好啊！前辈就狠狠干脆地展翅高飞吧！/n把刘海夹起来露额头嘛！绝对超可爱！",
+            "VoiceFileName": "1408810670",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881081,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 71,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "哇～，大家都这么在意咱，真的超开心～。",
+            "VoiceFileName": "1408810680",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 16,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881082,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 72,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "因为今天就是“了解阿岐留的一天”。",
+            "VoiceFileName": "1408810690",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 100,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881083,
+            "EpisodeMasterId": 140881,
+            "Order": 2,
+            "GroupOrder": 72,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "……唔。",
+            "VoiceFileName": "1408810691",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881084,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 73,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "咦，前辈怎么了？",
+            "VoiceFileName": "1408810700",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881085,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 74,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.5,
+            "FadeValue2": -1.0,
+            "FadeValue3": 0.5
+        },
+        {
+            "Id": 140881086,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 75,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "……这家珠宝店里，我感受到了更强的力量。",
+            "VoiceFileName": "1408810710",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 110,
+                    "BodyMotionMasterId": 22,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881087,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 76,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "有啥想要的首饰？",
+            "VoiceFileName": "1408810720",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40321,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881088,
+            "EpisodeMasterId": 140881,
+            "Order": 2,
+            "GroupOrder": 76,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "……嗯。",
+            "VoiceFileName": "1408810721",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 502,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881089,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 77,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "阿岐留，你在意的是那对耳饰吗？",
+            "VoiceFileName": "1408810730",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881090,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 78,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "哇哇，那对耳环好适合你！",
+            "VoiceFileName": "1408810740",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 16,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881091,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 79,
+            "SpeakerName": "美兔",
+            "FontSize": 2,
+            "Phrase": "是什么宝石呢？颜色好漂亮……。",
+            "VoiceFileName": "1408810750",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 502,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 140881092,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 80,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "不是，就感觉眼睛一下被吸过去了。",
+            "VoiceFileName": "1408810760",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40321,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881093,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 81,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "我从那块石头中感受到了强大的力量。/n大概是在与阿岐留的灵魂共鸣。",
+            "VoiceFileName": "1408810770",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 100,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881094,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 82,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "既然前辈这么说……",
+            "VoiceFileName": "1408810780",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881095,
+            "EpisodeMasterId": 140881,
+            "Order": 2,
+            "GroupOrder": 82,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "不好意思～，这个我要了！",
+            "VoiceFileName": "1408810781",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881096,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 83,
+            "SpeakerName": "美兔",
+            "FontSize": 2,
+            "Phrase": "哇……这么快就能决定买下来。/n卡米拉果然好厉害。好帅。",
+            "VoiceFileName": "1408810790",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 502,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 140881097,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 84,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.5,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.5
+        },
+        {
+            "Id": 140881098,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 85,
+            "SpeakerName": "伊吕波",
+            "FontSize": 2,
+            "Phrase": "那接下来去哪里？",
+            "VoiceFileName": "1408810800",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 140881099,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 86,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "已经转过一圈了。/n要不要再去一次刚才有兴趣的店？",
+            "VoiceFileName": "1408810810",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 140881100,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 87,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "嗯——……。",
+            "VoiceFileName": "1408810820",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 70,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40321,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        },
+        {
+            "Id": 140881101,
+            "EpisodeMasterId": 140881,
+            "Order": 1,
+            "GroupOrder": 88,
+            "SpeakerName": "卡米拉",
+            "FontSize": 2,
+            "Phrase": "喂，如果要说“了解咱”的话，/n咱也可以带你们看看咱的老家那边吗？",
+            "VoiceFileName": "1408810830",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "403"
+        }
+    ]
+}

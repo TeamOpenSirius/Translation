@@ -1,0 +1,83 @@
+{
+    "EpisodeId": 1001,
+    "StoryType": 4,
+    "Order": 1,
+    "Prev": null,
+    "Next": null,
+    "Chapter": null,
+    "Title": "帮老师做事……",
+    "EpisodeDetail": [
+        {
+            "Id": 1001001,
+            "EpisodeMasterId": 1001,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "帮老师做事耽搁了一会儿，出来得有点晚了。",
+            "VoiceFileName": "10010010",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 6,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10102,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 1001002,
+            "EpisodeMasterId": 1001,
+            "Order": 2,
+            "GroupOrder": 1,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "现在过去的话，打工可能会迟到一点，还是先联系一下吧！",
+            "VoiceFileName": "10010011",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 1001003,
+            "EpisodeMasterId": 1001,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "等等，咦？　今天不是我排班的日子！",
+            "VoiceFileName": "10010020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        }
+    ]
+}

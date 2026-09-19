@@ -1,0 +1,972 @@
+{
+    "EpisodeId": 142192,
+    "StoryType": 3,
+    "Order": 2,
+    "Prev": 142191,
+    "Next": null,
+    "Chapter": "为了你，走入黑暗",
+    "Title": "恋人更加甜蜜地低语",
+    "EpisodeDetail": [
+        {
+            "Id": 142192001,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "“克里斯汀……你的歌声是如此美丽。/n　难怪你会说，是从天使那里学来的。”",
+            "BackgroundImageFileName": "370",
+            "BgmFileName": "23",
+            "VoiceFileName": "1421920010",
+            "CharacterMotions": [],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192002,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "“……可那位音乐天使，究竟是什么人？”",
+            "VoiceFileName": "1421920020",
+            "CharacterMotions": [],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192003,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 3,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.10000000149011612,
+            "FadeValue2": 0.20000000298023224,
+            "FadeValue3": 0.10000000149011612
+        },
+        {
+            "Id": 142192004,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "……呼。",
+            "VoiceFileName": "1421920030",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 6,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192005,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "（不知不觉已经中午了。/n　反正今天宿舍也没有别人，偶尔出去吃一次吧）",
+            "VoiceFileName": "1421920040",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192006,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 6,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "280",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "2",
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 142192007,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "（……话虽如此，也没特别决定去哪家店……。/n　哪里好呢……哎呀？）",
+            "VoiceFileName": "1421920050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 11,
+                    "SpineId": 10301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192008,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "嗯？哦，这不是卡特莉娜吗。",
+            "VoiceFileName": "1421920060",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 12,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 142192009,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "莫娜姐，真巧。你要去哪里吗？",
+            "VoiceFileName": "1421920070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192010,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "啊，没有，也没什么特别的事……/n只是有点饿，想着在附近吃个午饭。",
+            "VoiceFileName": "1421920080",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 142192011,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "哎呀，真的很巧。我也一样。/n正好在找吃午饭的店。",
+            "VoiceFileName": "1421920090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192012,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "原来如此。那要不要一起吃午饭？/n当然，只要卡特莉娜愿意。",
+            "VoiceFileName": "1421920100",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 142192013,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "嗯，我不介意。走吧。",
+            "VoiceFileName": "1421920110",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192014,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 14,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "130",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "1",
+            "CharacterMotions": [],
+            "FadeValue1": 0.10000000149011612,
+            "FadeValue2": 0.20000000298023224,
+            "FadeValue3": 0.10000000149011612
+        },
+        {
+            "Id": 142192015,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "店员",
+            "FontSize": 2,
+            "Phrase": "久等了。/n先给二位上两杯热的纯红茶。",
+            "VoiceFileName": "1421920120",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 142192016,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "好，谢谢。/n……呼。果然喝点热的，心就会安定下来。",
+            "VoiceFileName": "1421920130",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 142192017,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "呵呵……是啊。",
+            "VoiceFileName": "1421920140",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192018,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "对了，前阵子天狼星的《灰姑娘》公演，我也去看了。/n真的非常精彩。",
+            "VoiceFileName": "1421920150",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 142192019,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "没想到会以那种形式看到卡特莉娜的灰姑娘……。/n我真的……完全没有想到。",
+            "VoiceFileName": "1421920160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 142192020,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "……谢谢。/n但那是因为有天狼星的大家……所以才能成功。",
+            "VoiceFileName": "1421920170",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 305,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192021,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "不是我一个人的力量……。/n如果没有大家支持，我一定……没法顺利做到。",
+            "VoiceFileName": "1421920180",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 6,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192022,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "在德国的时候也是……我给大家添了很多麻烦。/n那时候，真的很对不起……。",
+            "VoiceFileName": "1421920190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192023,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "别在意，卡特莉娜。/n谁都会有不顺利的时候。",
+            "VoiceFileName": "1421920200",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 8,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 142192024,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "而且，如果正是因为那段经历，我才能看到现在卡特莉娜的演技，/n那我会为曾在德国的舞台与你一起度过那段时间而感到自豪。",
+            "VoiceFileName": "1421920210",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 142192025,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "莫娜姐……。",
+            "VoiceFileName": "1421920220",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192026,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "呵呵。……啊，说起来……/n银河座下一次要演《歌剧魅影》，对吧？",
+            "VoiceFileName": "1421920280",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192027,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "哦，消息真灵通。/n我要饰演歌剧魅影……也就是魅影。",
+            "VoiceFileName": "1421920290",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 142192028,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "就像已经向业内人士公开的那样，天狼星也/n计划上演《歌剧魅影》。",
+            "VoiceFileName": "1421920300",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192029,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "我的角色是劳尔。",
+            "VoiceFileName": "1421920310",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192030,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "既然要演同一个剧目，我当然绝不会让我们的舞台逊色。/n如果你有时间就好，希望你一定能来看。",
+            "VoiceFileName": "1421920320",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 109,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192031,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "啊，当然！我一定会去观剧。/n我很期待亲眼看到卡特莉娜饰演的劳尔！",
+            "VoiceFileName": "1421920330",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 202,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 142192032,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 32,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "嗯……敬请期待。",
+            "VoiceFileName": "1421920340",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192033,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 33,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "393",
+            "BackgroundCharacterImageFileName": "142190_0",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "105",
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 142192034,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 34,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "“克里斯汀，我爱你。爱你的头发、你的眼睛，也爱那双奏出美妙歌声的嘴唇。/n　请永远留在我身边……直到永恒。”",
+            "BackgroundCharacterImageFileName": "142190_0",
+            "VoiceFileName": "1421920350",
+            "CharacterMotions": [],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192035,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "卡特莉娜",
+            "FontSize": 2,
+            "Phrase": "“我不会让那个男人把你掳走。……我想到了一个好主意。/n　放心，交给我。我一定会从那个男人手里保护你。”",
+            "BackgroundCharacterImageFileName": "142190_0",
+            "VoiceFileName": "1421920360",
+            "CharacterMotions": [],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142192036,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 36,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "（卡特莉娜……真的已经能演出这么好的戏了……）",
+            "VoiceFileName": "1421920370",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 142192037,
+            "EpisodeMasterId": 142192,
+            "Order": 1,
+            "GroupOrder": 37,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "呵……我也不能输啊。",
+            "VoiceFileName": "1421920380",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        }
+    ]
+}

@@ -1,0 +1,774 @@
+{
+  "EpisodeId": 2000502,
+  "StoryType": 2,
+  "Order": 2,
+  "Prev": 2000501,
+  "Next": 2000503,
+  "Chapter": "聚光灯照亮的未来",
+  "Title": "一部很棒的电影",
+  "EpisodeDetail": [
+    {
+      "Id": 2000502001,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "美兔的祖母",
+      "FontSize": 2,
+      "Phrase": "美兔回来啦。/n今天不用排练吗？",
+      "BackgroundImageFileName": "970",
+      "BgmFileName": "303",
+      "VoiceFileName": "20005020010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000502002,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "嗯。我来帮忙准备开店。",
+      "VoiceFileName": "20005020020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 40202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502003,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "美兔的祖父",
+      "FontSize": 2,
+      "Phrase": "那就拜托你准备招待客人的小菜，可以吗？",
+      "VoiceFileName": "20005020030",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000502004,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 4,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2000502005,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "美兔的祖母",
+      "FontSize": 2,
+      "Phrase": "辛苦了。员工餐做好了，趁热吃吧。/n只是用剩下的食材做的，别嫌弃。",
+      "VoiceFileName": "20005020040",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000502006,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "完全不会。/n我最喜欢家里做的炖鱼。",
+      "VoiceFileName": "20005020050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 40202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502007,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "美兔的祖父",
+      "FontSize": 2,
+      "Phrase": "嘿嘿，那可真让人高兴。为了能让孙女一直开心，/n爷爷也得长命百岁，把这家店继续开下去。",
+      "VoiceFileName": "20005020060",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000502008,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "美兔的祖母",
+      "FontSize": 2,
+      "Phrase": "不过美兔，不累吗？/n又要学习，最近还要去剧团排练吧。",
+      "VoiceFileName": "20005020070",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000502009,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "美兔的祖母",
+      "FontSize": 2,
+      "Phrase": "不用勉强帮忙也没关系。/n爷爷奶奶身体可结实着呢！",
+      "VoiceFileName": "20005020080",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000502010,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "全都是美兔自己想做的。/n剧团也很开心，完全没问题。",
+      "VoiceFileName": "20005020090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 40202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502011,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "以前爷爷奶奶开店的时候，/n美兔总是一个人在家……。",
+      "VoiceFileName": "20005020100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502012,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "现在去排练，或者在家读台本，/n时间一眨眼就过去了。",
+      "VoiceFileName": "20005020110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502013,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "美兔的祖母",
+      "FontSize": 2,
+      "Phrase": "这样啊。/n看你最近过得开心，真的太好了。",
+      "VoiceFileName": "20005020120",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000502014,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "美兔的祖母",
+      "FontSize": 2,
+      "Phrase": "……真是的，那两个人也该来看看美兔的舞台啊。/n到底都在干什么……。",
+      "VoiceFileName": "20005020130",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000502015,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "美兔的祖父",
+      "FontSize": 2,
+      "Phrase": "喂，不是说过别提这个了吗。",
+      "VoiceFileName": "20005020140",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000502016,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "！",
+      "VoiceFileName": "20005020150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 40202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502017,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "美兔的祖父",
+      "FontSize": 2,
+      "Phrase": "哎呀。抱歉抱歉。/n爷爷不小心声音大了。",
+      "VoiceFileName": "20005020160",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000502018,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "美兔的祖母",
+      "FontSize": 2,
+      "Phrase": "奶奶也说了多余的话。/n吓到你了，对不起。",
+      "VoiceFileName": "20005020170",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000502019,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "……没关系。",
+      "VoiceFileName": "20005020180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 40202,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502020,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 20,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "931",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "999",
+      "CharacterMotions": [],
+      "FadeValue1": 0.5,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.5
+    },
+    {
+      "Id": 2000502021,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "（会来看舞台的人吗。美兔觉得，/n　只要现在能开心地演戏，能和伊吕波在一起就够了）",
+      "BgmFileName": "5",
+      "VoiceFileName": "20005020190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 25,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502022,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "（可是电姬经营很辛苦……必须吸引更多客人）",
+      "VoiceFileName": "20005020200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "HeadMotionMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502023,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "收购虽然没有发生……可是如果以后又遇到那种事，/n伊吕波会难过吧。",
+      "VoiceFileName": "20005020210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502024,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "——对了，正好有时间，看电影研究演技吧。",
+      "VoiceFileName": "20005020220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502025,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "订阅流媒体真是太好了。/n加了好多看起来有意思的新片！",
+      "VoiceFileName": "20005020230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502026,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "……在认识伊吕波之前，美兔一天会看好几部，/n所以新片和热门作品很快就会看完。",
+      "VoiceFileName": "20005020240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 402,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502027,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 27,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2000502028,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "（……这部电影的女主角，很好。台词的抑扬、发声、停顿都很好）",
+      "VoiceFileName": "20005020250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 13,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502029,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "这个演员叫什么名字呢。没见过的人。",
+      "VoiceFileName": "20005020260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502030,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "（舞台上为了让远处也看得清，动作会更夸张。/n　不过这种电影一样自然的演技，美兔也想吸收进来）",
+      "VoiceFileName": "20005020270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502031,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "……大概像这样？",
+      "VoiceFileName": "20005020280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 9,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502032,
+      "EpisodeMasterId": 2000502,
+      "Order": 2,
+      "GroupOrder": 31,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "不，还是有点不一样……。",
+      "VoiceFileName": "20005020281",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 112,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502033,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "明天去电姬之后，也和伊吕波聊聊吧。/n这个演员的演技，说不定很值得参考。",
+      "VoiceFileName": "20005020290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502034,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 33,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "50",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "WindowEffect": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2000502035,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "女学生A",
+      "FontSize": 2,
+      "Phrase": "不过，那个白丸居然在演戏，确实挺意外的。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20005020300",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000502036,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "女学生B",
+      "FontSize": 2,
+      "Phrase": "白丸以前气氛更阴沉一点吧。/n感觉不太让人接近。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20005020310",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000502037,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "女学生A",
+      "FontSize": 2,
+      "Phrase": "对对。完全不知道她在想什么，/n很难主动跟她说话嘛。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20005020320",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000502038,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "女学生A",
+      "FontSize": 2,
+      "Phrase": "有点想象不出来啊。/n千寿的话倒能理解。",
+      "WindowEffect": 1,
+      "VoiceFileName": "20005020330",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 2000502039,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 38,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "931",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "CharacterMotions": [],
+      "FadeValue1": 0.30000001192092896,
+      "FadeValue2": 0.10000000149011612,
+      "FadeValue3": 0.30000001192092896
+    },
+    {
+      "Id": 2000502040,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "啊……。",
+      "VoiceFileName": "20005020340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 40201,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 2000502041,
+      "EpisodeMasterId": 2000502,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "（像美兔这样的人，真的能给伊吕波建议吗）",
+      "VoiceFileName": "20005020350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    }
+  ]
+}

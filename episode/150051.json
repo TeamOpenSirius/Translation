@@ -1,0 +1,884 @@
+{
+    "EpisodeId": 150051,
+    "StoryType": 3,
+    "Order": 1,
+    "Prev": null,
+    "Next": 150052,
+    "Chapter": "再次相连，奔向希望之光！",
+    "Title": "败北与离别",
+    "EpisodeDetail": [
+        {
+            "Id": 150051001,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "（这里就是绝退帝国的关键要地……。/n　只要攻下这里，战局就会改变……！）",
+            "BackgroundImageFileName": "1300",
+            "BgmFileName": "33",
+            "VoiceFileName": "1500510010",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 14,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150051002,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "大家！跟我来！/n前面也许有帝国士兵……但我们一定能突破！",
+            "VoiceFileName": "1500510020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150051003,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "望国军官",
+            "FontSize": 2,
+            "Phrase": "是！明白，总司令！/n……走！各位！跟上凤总司令——！",
+            "VoiceFileName": "1500510030",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150051004,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "帝国士兵A",
+            "FontSize": 2,
+            "Phrase": "什么！？望国军突袭！？/n……紧急情况！望国军出现了！迎击——！",
+            "VoiceFileName": "1500510040",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150051005,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 5,
+            "FontSize": 2,
+            "Phrase": "",
+            "SeFileName": "3260",
+            "CharacterMotions": []
+        },
+        {
+            "Id": 150051006,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "望国士兵A",
+            "FontSize": 2,
+            "Phrase": "可恶……是帝国士兵的迎击吗……。/n但这种程度可吓不退我们！前进——！",
+            "VoiceFileName": "1500510050",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150051007,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "帝国士兵B",
+            "FontSize": 2,
+            "Phrase": "这群家伙，气势也太猛了……！再这样下去……！",
+            "VoiceFileName": "1500510060",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150051008,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "（好！还差一点……！只要突破这里……！）",
+            "VoiceFileName": "1500510070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150051009,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "到此为止了，奇迹望国军总司令官……凤心菜。/n你们如此肆意妄为，我也不能再坐视不管了。",
+            "VoiceFileName": "1500510080",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 110,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150051010,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "你是……帝国总统，连尺野初魅……小姐……。",
+            "VoiceFileName": "1500510090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150051011,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "呵……即使面对敌军也不失礼数，倒是很讨人喜欢。",
+            "VoiceFileName": "1500510100",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150051012,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "不过，既然在这里相对，我们就是敌人。/n抱歉，我可不会手下留情。做好觉悟吧。",
+            "VoiceFileName": "1500510110",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 110,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150051013,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "当然！我也是这么打算的！",
+            "VoiceFileName": "1500510120",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 110,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150051014,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "哦……不错的眼神。放在敌军里还真可惜。/n但我不能让你过去。",
+            "VoiceFileName": "1500510130",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150051015,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "我要占领这里……结束这场争斗！",
+            "VoiceFileName": "1500510140",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150051016,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "（为此……我必须变得更强！/n　不变得更强，就一定赢不了连尺野小姐……！）",
+            "VoiceFileName": "1500510150",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 70,
+                    "BodyMotionMasterId": 4,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150051017,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "（所以，把力量借给我……静香！）",
+            "VoiceFileName": "1500510160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 104,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150051018,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "静香",
+            "FontSize": 2,
+            "Phrase": "（那还用说。/n　我是心菜的Sense……正是为了心菜，才会在这里。）",
+            "VoiceFileName": "1500510170",
+            "CharacterMotions": [],
+            "SpeakerIconId": "102"
+        },
+        {
+            "Id": 150051019,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "静香",
+            "FontSize": 2,
+            "Phrase": "（没事，交给我！现在的心菜还能变得更强！/n　我一定会让你变强……！）",
+            "VoiceFileName": "1500510180",
+            "CharacterMotions": [],
+            "SpeakerIconId": "102"
+        },
+        {
+            "Id": 150051020,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "谢谢你，静香！/n那么……我要上了，连尺野小姐！",
+            "VoiceFileName": "1500510190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150051021,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "……！/n用Sense的力量强化了自己吗。",
+            "VoiceFileName": "1500510200",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150051022,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（可是很奇怪……她给人的感觉和刚才不同了。/n　简直像是在和某个人共鸣……）",
+            "VoiceFileName": "1500510210",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 3,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150051023,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "……罢了。/n在我面前，Sense的力量几乎毫无意义。",
+            "VoiceFileName": "1500510220",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150051024,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "真遗憾啊，凤心菜。",
+            "BgmFileName": "999",
+            "VoiceFileName": "1500510230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150051025,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 25,
+            "FontSize": 2,
+            "Phrase": "",
+            "SeFileName": "1521",
+            "CharacterMotions": []
+        },
+        {
+            "Id": 150051026,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "诶…………？",
+            "VoiceFileName": "1500510240",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 511,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150051027,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "静香",
+            "FontSize": 2,
+            "Phrase": "心菜……！！",
+            "BackgroundCharacterImageFileName": "150050_0",
+            "BgmFileName": "22",
+            "VoiceFileName": "1500510250",
+            "CharacterMotions": [],
+            "SpeakerIconId": "102"
+        },
+        {
+            "Id": 150051028,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "静、静香！？为什么……！？/n啊……！！",
+            "BackgroundCharacterImageFileName": "150050_0",
+            "VoiceFileName": "1500510260",
+            "CharacterMotions": [],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150051029,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "静香",
+            "FontSize": 2,
+            "Phrase": "呀啊……！！",
+            "BackgroundCharacterImageFileName": "150050_0",
+            "VoiceFileName": "1500510270",
+            "CharacterMotions": [],
+            "SpeakerIconId": "102"
+        },
+        {
+            "Id": 150051030,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "不要……等等！静香、静香……！！/n呀啊啊……！！",
+            "BackgroundCharacterImageFileName": "150050_0",
+            "VoiceFileName": "1500510280",
+            "CharacterMotions": [],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150051031,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "抱歉，你的Sense力量已经被我封住了。/n这样一来，你再也听不见身为Sense的“她”的声音。",
+            "BackgroundCharacterImageFileName": "150050_0",
+            "VoiceFileName": "1500510290",
+            "CharacterMotions": [],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150051032,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 32,
+            "FontSize": 2,
+            "Phrase": "",
+            "SeFileName": "1850",
+            "CharacterMotions": []
+        },
+        {
+            "Id": 150051033,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 33,
+            "SpeakerName": "望国军官",
+            "FontSize": 2,
+            "Phrase": "凤司令！！/n……不好，司令掉进海里了！立刻救人！",
+            "VoiceFileName": "1500510300",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150051034,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 34,
+            "SpeakerName": "望国士兵A·B",
+            "FontSize": 2,
+            "Phrase": "明白！！",
+            "VoiceFileName": "1500510310",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150051035,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "哼……到此为止了。/n带上你们的总司令，赶紧撤吧，望国军。",
+            "VoiceFileName": "1500510320",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150051036,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 36,
+            "SpeakerName": "望国军官",
+            "FontSize": 2,
+            "Phrase": "可恶……！",
+            "VoiceFileName": "1500510330",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150051037,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 37,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1050",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150051038,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 38,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "…………。",
+            "VoiceFileName": "1500510340",
+            "CharacterMotions": [],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150051039,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 39,
+            "SpeakerName": "？？？",
+            "FontSize": 2,
+            "Phrase": "……令！司令！",
+            "VoiceFileName": "1500510350",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150051040,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 40,
+            "SpeakerName": "望国军官",
+            "FontSize": 2,
+            "Phrase": "凤司令！",
+            "VoiceFileName": "1500510360",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150051041,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 41,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "！啊、咦……？这里是……。",
+            "BackgroundImageFileName": "1300",
+            "VoiceFileName": "1500510370",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 511,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150051042,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 42,
+            "SpeakerName": "望国军官",
+            "FontSize": 2,
+            "Phrase": "司令……我们败了……。/n请您下达撤退命令……。",
+            "VoiceFileName": "1500510380",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150051043,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 43,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "（啊，对了……我和连尺野小姐交战……。/n　然后和静香分开了……）",
+            "VoiceFileName": "1500510390",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 25,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150051044,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 44,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "……我明白了。请传令全军。/n立刻撤退。",
+            "VoiceFileName": "1500510400",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150051045,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 45,
+            "SpeakerName": "望国军官",
+            "FontSize": 2,
+            "Phrase": "是！明白！",
+            "VoiceFileName": "1500510410",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150051046,
+            "EpisodeMasterId": 150051,
+            "Order": 1,
+            "GroupOrder": 46,
+            "SpeakerName": "心菜",
+            "FontSize": 2,
+            "Phrase": "（静香……）",
+            "VoiceFileName": "1500510420",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 11,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        }
+    ]
+}

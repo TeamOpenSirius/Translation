@@ -1,0 +1,946 @@
+{
+  "EpisodeId": 1050115,
+  "StoryType": 1,
+  "Order": 15,
+  "Prev": 1050114,
+  "Next": 1050116,
+  "Chapter": "最终章",
+  "Title": "愿望",
+  "EpisodeDetail": [
+    {
+      "Id": 1050115001,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "呼……。",
+      "BackgroundImageFileName": "473",
+      "BgmFileName": "8",
+      "VoiceFileName": "10501150010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115002,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（现在回头想想，因为演戏，真的发生了好多事情。）",
+      "VoiceFileName": "10501150020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115003,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（还在银河座儿童部的时候，/n　我一直想着有一天能和姐姐站在同一个舞台上。）",
+      "VoiceFileName": "10501150030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "BodyMotionMasterId": 13,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115004,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（我也是千寿家的一员，/n　那时还天真地相信，只要长大，自己一定也会觉醒Sense。）",
+      "VoiceFileName": "10501150040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115005,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（可是，我始终没有出现Sense……/n　我一度遭受挫折，离开了银河座……也放弃了演戏。）",
+      "VoiceFileName": "10501150050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "BodyMotionMasterId": 13,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115006,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（而且，因为身处演剧名门千寿家却没有Sense的自卑，/n　我还说过伤害姐姐的话。）",
+      "VoiceFileName": "10501150060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115007,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（有Sense的姐姐根本不会懂我的心情。/n　要是我也有Sense就好了……我曾经这样想。）",
+      "VoiceFileName": "10501150070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 13,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115008,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（我一直都很后悔……。/n　后悔自己任由自卑驱使，伤害了姐姐。）",
+      "VoiceFileName": "10501150080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115009,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（离开银河座之后，我就一直远离演剧……可上了高中以后，/n　我和美兔亲一起去看剧团电姬的舞台，那时真的深受感动。）",
+      "VoiceFileName": "10501150090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115010,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（多亏遇见了剧团电姬，我才重新产生了想演戏的念头……）",
+      "VoiceFileName": "10501150100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 20,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115011,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（因为剧团电姬的大家愿意接纳我这个演员。/n　我才再次觉得，演戏原来是这么开心的事。）",
+      "VoiceFileName": "10501150110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115012,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（可是……加入剧团电姬以后，/n　我又一次因为「自卑」，伤害了重要的挚友……）",
+      "VoiceFileName": "10501150120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 25,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115013,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（即便如此，美兔亲和剧团电姬的大家还是原谅了我。/n　……仔细想想，我真的一次又一次被这里的伙伴们拯救。）",
+      "VoiceFileName": "10501150130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 13,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115014,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（正因如此，我才更想让更多人知道剧团电姬。/n　让那些还没看过我们的人，还有……祖母也能知道……）",
+      "VoiceFileName": "10501150140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115015,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 15,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "2260",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "WindowEffect": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 1050115016,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "千寿历与伊吕波的祖母",
+      "FontSize": 2,
+      "Phrase": "不过，你所属的剧团电姬，说到底也只是因为/n评审标准扩大，才获得了机会而已。",
+      "WindowEffect": 1,
+      "VoiceFileName": "10501150150",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050115017,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 17,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "473",
+      "BackgroundImageFileFadeType": 2,
+      "SeFileName": "641",
+      "CharacterMotions": [],
+      "FadeValue1": 0.20000000298023224,
+      "FadeValue2": 0.30000001192092896,
+      "FadeValue3": 0.20000000298023224
+    },
+    {
+      "Id": 1050115018,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "我也一定会让祖母亲眼看到……我们的演技！",
+      "VoiceFileName": "10501150160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 2,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115019,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（然后，让祖母认可我们……！）",
+      "VoiceFileName": "10501150170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115020,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "你在这儿一个人给自己鼓什么劲呢？/n难不成你又打算一个人把什么都扛下来？",
+      "VoiceFileName": "10501150180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1050115021,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "叶羽……！/n不、不是！我没有……没有一个人扛着啦！",
+      "VoiceFileName": "10501150190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115022,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "我刚才确实对你奶奶说了那些话，/n但你也别太把这件事放在心上。",
+      "VoiceFileName": "10501150200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 79,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1050115023,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "诶？",
+      "VoiceFileName": "10501150210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115024,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "忘了吗，千寿。/n首先要让自己享受其中，这才是剧团电姬的作风吧？",
+      "VoiceFileName": "10501150220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 40403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 1050115025,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "……！",
+      "VoiceFileName": "10501150230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 13,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115026,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "听懂了就给我们来句够有气势的话啊，座长大人！",
+      "VoiceFileName": "10501150240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1050115027,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "剧团电姬成员们",
+      "FontSize": 2,
+      "Phrase": "「座长来一个！」「拜托说句帅气的！」",
+      "VoiceFileName": "10501150250",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050115028,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（对啊……就是这样！）",
+      "BgmFileName": "999",
+      "VoiceFileName": "10501150260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 4,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115029,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "各位……我曾经一直希望，有一天能站上这个巨大的舞台。/n但那也是一个我一度差点放弃的梦想。",
+      "BgmFileName": "301",
+      "VoiceFileName": "10501150270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115030,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "可现在，我真的站在了梦想中的舞台上……/n这一切，全都是因为剧团电姬的大家！",
+      "VoiceFileName": "10501150280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115031,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "剧团电姬成员们",
+      "FontSize": 2,
+      "Phrase": "伊吕波……。",
+      "VoiceFileName": "10501150290",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050115032,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "就像平时一样，拿出剧团电姬的风格，/n演一场超——级、超——级精彩的戏，让观众们开开心心看个够吧！",
+      "VoiceFileName": "10501150300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115033,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "剧团电姬成员们",
+      "FontSize": 2,
+      "Phrase": "「好——！」「干他一票——！」",
+      "VoiceFileName": "10501150310",
+      "CharacterMotions": [],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 1050115034,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "叶羽",
+      "FontSize": 2,
+      "Phrase": "什么嘛，这不是也能说得挺像样的嘛。/n剧团电姬果然就该这样才对。",
+      "VoiceFileName": "10501150320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "405"
+    },
+    {
+      "Id": 1050115035,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "蕾",
+      "FontSize": 2,
+      "Phrase": "让我们大家一起，把笑容送给所有观众吧。",
+      "VoiceFileName": "10501150330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 40403,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40503,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "404"
+    },
+    {
+      "Id": 1050115036,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（各位，谢谢你们……。/n　还有，只有一件事我要跟你说声对不起，叶羽。）",
+      "VoiceFileName": "10501150340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 13,
+          "SpineId": 40103,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115037,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（叶羽说，会让祖母好好见识一下。/n　可其实比起那个……我还有另一个更想实现的愿望。）",
+      "VoiceFileName": "10501150350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "BodyMotionMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115038,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（我想让祖母……看一看剧团电姬的大家，/n　看一看这些至今一直和我并肩演戏的伙伴们——）",
+      "VoiceFileName": "10501150360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 13,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115039,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（哪怕只有一点点，也希望她能觉得……有意思。/n　能觉得开心。）",
+      "VoiceFileName": "10501150370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 1050115040,
+      "EpisodeMasterId": 1050115,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "（正因为她一直没能来看我的演出……。/n　所以我想让她看着我的演技，「笑出来」！）",
+      "VoiceFileName": "10501150380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    }
+  ]
+}

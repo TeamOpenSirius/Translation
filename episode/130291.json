@@ -1,0 +1,2885 @@
+{
+  "EpisodeId": 130291,
+  "StoryType": 3,
+  "Order": 1,
+  "Prev": null,
+  "Next": 130292,
+  "Chapter": "好了，回去吧？",
+  "Title": "品尝旅途中才有的美味",
+  "EpisodeDetail": [
+    {
+      "Id": 130291001,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 1,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1130",
+      "CharacterMotions": []
+    },
+    {
+      "Id": 130291002,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "啊啊啊啊！　快点快点！/n再不快点，列车要开了！",
+      "SeFileName": "2121",
+      "VoiceFileName": "1302910010",
+      "CharacterMotions": [],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291003,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "等等等等等一下！/n绯花亲停下停下！",
+      "VoiceFileName": "1302910020",
+      "CharacterMotions": [],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291004,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "回来——！/n是这边的楼梯——！",
+      "VoiceFileName": "1302910030",
+      "CharacterMotions": [],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291005,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 5,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileName": "1063",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 130291006,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "——赶上了！",
+      "SeFileName": "1511",
+      "VoiceFileName": "1302910040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291007,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "呼～，真是千钧一发。/n好危险。",
+      "BgmFileName": "1",
+      "VoiceFileName": "1302910050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291008,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哈、哈……赶、赶车冲上列车不太好哦～。/n要是出了什么事故就麻烦了～。",
+      "VoiceFileName": "1302910060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 401,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291009,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "哎呀～对不起啊潘达。/n都怪我们结账花太久，害你也跟着跑。",
+      "VoiceFileName": "1302910070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291010,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "没事……潘达自己也顾着挑便当，/n完全没看时间。",
+      "VoiceFileName": "1302910080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291011,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "……没想到会有那种新品，/n而且还一下出了好几种！",
+      "VoiceFileName": "1302910090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291012,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "好啦好啦，顺利坐上车就好。",
+      "VoiceFileName": "1302910100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291013,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "喂喂，我们的座位在哪？　能看到海吗？",
+      "VoiceFileName": "1302910110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291014,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "我们接下来是去山里。/n很遗憾，看不到海哦～？",
+      "VoiceFileName": "1302910120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291015,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "明年夏天去海边也不错。然后，座位是～……。",
+      "VoiceFileName": "1302910130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291016,
+      "EpisodeMasterId": 130291,
+      "Order": 2,
+      "GroupOrder": 15,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "……啊糟。票被我收起来了。",
+      "VoiceFileName": "1302910131",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291017,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "没问题！/n潘达记得清清楚楚！",
+      "VoiceFileName": "1302910140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291018,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "不愧是潘达！/n那大家跟着潘达走～。",
+      "VoiceFileName": "1302910150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291019,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哈哈，现在就这么兴奋，等会儿会累哦～。/n……啊，就是这里。",
+      "VoiceFileName": "1302910160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291020,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 19,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 130291021,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "哦～，太阳暖洋洋的！　真舒服呀！",
+      "VoiceFileName": "1302910170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291022,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "嗯～，看来能看到不错的风景！",
+      "VoiceFileName": "1302910180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 209,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291023,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "那个，绯花亲想坐窗边对吧。/n潘达想坐哪边？",
+      "VoiceFileName": "1302910190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291024,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "那潘达坐靠走道这边。/n窗边看起来有点晒。",
+      "VoiceFileName": "1302910200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291025,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "OK。/n那我坐这边～。",
+      "VoiceFileName": "1302910210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291026,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "呼～，总算能喘口气了。",
+      "VoiceFileName": "1302910220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291027,
+      "EpisodeMasterId": 130291,
+      "Order": 2,
+      "GroupOrder": 25,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "要不要喝杯茶――",
+      "VoiceFileName": "1302910221",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291028,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "……哈。",
+      "VoiceFileName": "1302910230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 73,
+          "HeadMotionMasterId": 4,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 4,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291029,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "怎么了潘达？/n刚坐上来就晕车？",
+      "VoiceFileName": "1302910240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291030,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "不是。我明明安排好了严密的时间表，/n本来不应该搞得这么慌乱……。",
+      "VoiceFileName": "1302910250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadDirectionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291031,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "因为好吃的车站便当太多了，没办法啊！/n怎么可能轻松只选一个！",
+      "VoiceFileName": "1302910260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291032,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "就是。平时很少会买车站便当，/n一下就兴奋爆了。",
+      "VoiceFileName": "1302910270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291033,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "下次为了缩短挑便当的时间，/n必须提前做更彻底的调查才行。",
+      "VoiceFileName": "1302910280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291034,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "好啦，不是说结果好就一切都好吗？/n坚持挑到最后，大家不都选到看起来很棒的便当了？",
+      "VoiceFileName": "1302910290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291035,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "嗯，我选到很棒的！",
+      "VoiceFileName": "1302910300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291036,
+      "EpisodeMasterId": 130291,
+      "Order": 2,
+      "GroupOrder": 33,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "喂喂，你们两个选了什么便当？",
+      "VoiceFileName": "1302910301",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291037,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "才刚坐下就要看吗？",
+      "VoiceFileName": "1302910310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291038,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "因为我好奇！",
+      "VoiceFileName": "1302910320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291039,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "懂！/n刚买回来的新品什么的，根本忍不住不开！",
+      "VoiceFileName": "1302910330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291040,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "真是的～没办法。你们就这么在意潘达的选择吗。",
+      "VoiceFileName": "1302910340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 27,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291041,
+      "EpisodeMasterId": 130291,
+      "Order": 2,
+      "GroupOrder": 37,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "那就睁大眼睛好好看――",
+      "VoiceFileName": "1302910341",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291042,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "啊，等一下。既然这样，不如拍成介绍视频？/n之后剪一剪，当跳舞视频的花絮？",
+      "VoiceFileName": "1302910350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291043,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "原来如此，也能传达短途旅行的氛围。/n我觉得不错。而且大家也有看花絮照的需求！",
+      "VoiceFileName": "1302910360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291044,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "……好，OK！",
+      "VoiceFileName": "1302910370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291045,
+      "EpisodeMasterId": 130291,
+      "Order": 2,
+      "GroupOrder": 40,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "那么潘达、绯花亲，也都准备好了？　开始喽～。",
+      "VoiceFileName": "1302910371",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291046,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 41,
+      "FontSize": 2,
+      "Phrase": "",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "999",
+      "CharacterMotions": [],
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 130291047,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 42,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "嗨——。大家最近好吗？　我们现在居然在特急列车里！/n银河座的绯花亲，还有天狼星的潘达也在一起！",
+      "BgmFileName": "12",
+      "VoiceFileName": "1302910380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291048,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 43,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "嗨——！　我是绯花里！",
+      "VoiceFileName": "1302910390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291049,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 44,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "我是可爱可爱的潘达～。/n为了不打扰周围乘客，现在稍微收敛一点～。",
+      "VoiceFileName": "1302910400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291050,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 45,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "跳舞视频看了吗？/n这个呢，预计会成为那支视频的花絮……！",
+      "VoiceFileName": "1302910410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291051,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 46,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "不过我们现在甚至还没到现场呢！",
+      "VoiceFileName": "1302910420",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 27,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291052,
+      "EpisodeMasterId": 130291,
+      "Order": 2,
+      "GroupOrder": 46,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "一想到等会儿要跳舞就好紧张！　午饭还能吃得下吗～？",
+      "VoiceFileName": "1302910421",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291053,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 47,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "为了吹飞这种不安，/n我们在上野站买了看起来超——好吃的车站便当！",
+      "VoiceFileName": "1302910430",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291054,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 48,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "嗯，现在介绍给大家～！",
+      "VoiceFileName": "1302910440",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291055,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 49,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "那么第一位出场的是～……。",
+      "VoiceFileName": "1302910450",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291056,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 50,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "凭我的独断与偏见——潘达，拜托啦！",
+      "VoiceFileName": "1302910460",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 209,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291057,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 51,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "诶，从潘达开始吗？",
+      "VoiceFileName": "1302910470",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291058,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 52,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "我觉得很好！/n潘达肯定选的是可爱熊猫便当！",
+      "VoiceFileName": "1302910480",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291059,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 53,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "就是这样，交给你！",
+      "VoiceFileName": "1302910490",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 209,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291060,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 54,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "唔唔唔……明白了！",
+      "VoiceFileName": "1302910500",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291061,
+      "EpisodeMasterId": 130291,
+      "Order": 2,
+      "GroupOrder": 54,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "重要的第一棒，就由我来担任！",
+      "VoiceFileName": "1302910501",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291062,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 55,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "请看。潘达选的是～……锵！/n“上野站限定熊猫Lunch Box”～！",
+      "VoiceFileName": "1302910510",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291063,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 56,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "——噗哈！　哦哦哦～！　盒子是熊猫母子！　Cute！",
+      "VoiceFileName": "1302910520",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291064,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 57,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "光是打开前就让人兴奋。/n里面是什么？　快看看快看看。",
+      "VoiceFileName": "1302910530",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291065,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 58,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "里面是……你们看！　做成熊猫脸形状的米饭特别可爱♪/n配菜还有汉堡肉、炸虾、炸鸡块，保证大满足！",
+      "VoiceFileName": "1302910540",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291066,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 59,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "太强了，这不是没人会讨厌的Perfect Lineup吗。/n上野Point很高。",
+      "VoiceFileName": "1302910550",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291067,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 60,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "唔唔唔，我不能输！　接下来是我！",
+      "VoiceFileName": "1302910560",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 305,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 4,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291068,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 61,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "不错嘛，干劲十足！",
+      "VoiceFileName": "1302910570",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291069,
+      "EpisodeMasterId": 130291,
+      "Order": 2,
+      "GroupOrder": 61,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "来来来，到底会出现什么车站便当呢……！",
+      "VoiceFileName": "1302910571",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291070,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 62,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "要来啦～……咚咚——！/n牛肉Strike便当！",
+      "VoiceFileName": "1302910580",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291071,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 63,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "And！　鲑鱼·鲑鱼籽满满便当！",
+      "VoiceFileName": "1302910590",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 26,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291072,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 64,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "等等等等！/n你刚才不是还说根本选不了一个吗！？",
+      "VoiceFileName": "1302910600",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 3,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291073,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 65,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "选不了！　所以我就买两个！",
+      "VoiceFileName": "1302910610",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 209,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291074,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 66,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "什么叫“就买两个”……而且和其他便当比，这两个还很大，/n你吃得完吗……？",
+      "VoiceFileName": "1302910620",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291075,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 67,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "我还在长身体！　多吃多动！/n要长得像拉莫一样高～！",
+      "VoiceFileName": "1302910630",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 109,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291076,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 68,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "而且我们接下来还要一起跳舞！/n好好吃饱补充体力！　Energy！",
+      "VoiceFileName": "1302910640",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291077,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 69,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "（唔唔唔，这说不定就是绯花里小姐那深不见底力量的来源。/n　……虽然完全不觉得我能模仿。）",
+      "VoiceFileName": "1302910650",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 7,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291078,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 70,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "这两个我都在电视上见过。/n听说超有人气！　能买到很Lucky！",
+      "VoiceFileName": "1302910660",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291079,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 71,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "里面也看看。你们看～！/n肉放得这——么多！",
+      "VoiceFileName": "1302910670",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291080,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 72,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "哇，炖牛肉和肉末都快从便当盒里溢出来了！ /n甜咸酱油的香味，搞得肚子咕——叫怎么办～。",
+      "VoiceFileName": "1302910680",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291081,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 73,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "鲑鱼籽那份也堆得像在说“给你装到极限！”一样！/n光看就让人食欲大开。",
+      "VoiceFileName": "1302910690",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291082,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 74,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "上野Point怎么样？　怎么样？",
+      "VoiceFileName": "1302910700",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291083,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 75,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "诶？　啊——坐着从上野出发的列车吃这种便当，心情肯定直接起飞！ /n上野Point一百万分！",
+      "VoiceFileName": "1302910710",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291084,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 76,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "好耶～！",
+      "VoiceFileName": "1302910720",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291085,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 77,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "虽然轮到最后了，/n卡米拉选的是什么便当？",
+      "VoiceFileName": "1302910730",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291086,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 78,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "（果然是很上镜的时尚便当？/n　还是可爱系？　好在意……！）",
+      "VoiceFileName": "1302910740",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 107,
+          "BodyMotionMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291087,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 79,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "哦，差点光看你们的就满足了。",
+      "VoiceFileName": "1302910750",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 27,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291088,
+      "EpisodeMasterId": 130291,
+      "Order": 2,
+      "GroupOrder": 79,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "我这个嘛～，100％超级好吃！",
+      "VoiceFileName": "1302910751",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291089,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 80,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "是什么是什么！/n心跳期待！",
+      "VoiceFileName": "1302910760",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291090,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 81,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "锵锵锵～！/n深川饭便当～！",
+      "VoiceFileName": "1302910770",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291091,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 82,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "（诶、诶诶诶诶！？　朴素系～！？）",
+      "VoiceFileName": "1302910780",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 5,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291092,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 83,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "啊，是蛤蜊炊饭那个！/n那个看起来也很好吃！",
+      "VoiceFileName": "1302910790",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291093,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 84,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "……哦，走和风路线啊。/n看起来也很适合外国人，是很上镜的选择。",
+      "VoiceFileName": "1302910800",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291094,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 85,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "啊。我没考虑上不上镜。/n只是觉得想吃平时就常吃的好东西，一眼就选了。",
+      "VoiceFileName": "1302910810",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291095,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 86,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "一眼就选？　你明明和我们一起挑到最后吧？",
+      "VoiceFileName": "1302910820",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 502,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291096,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 87,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "啊，那是在直播挑车站便当。/n我好好拿到店家的许可了，没问题！",
+      "VoiceFileName": "1302910830",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291097,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 88,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "（那么短的时间居然也在直播！？　而且连许可都已经拿到，这沟通力！/n　唔唔唔，我是不是也该学学？）",
+      "VoiceFileName": "1302910840",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 501,
+          "BodyMotionMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291098,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 89,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "虽然可能有人觉得有点朴素，/n但这种东西我从小就一直吃。",
+      "VoiceFileName": "1302910850",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291099,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 90,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "今天的心情就是它！/n突然就Sympathy上了。",
+      "VoiceFileName": "1302910860",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291100,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 91,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "喂喂，要不现在就吃午饭吧！　肚子饿扁了！",
+      "VoiceFileName": "1302910870",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291101,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 92,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "诶，现在还没到中午……。",
+      "VoiceFileName": "1302910880",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 4,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291102,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 93,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "有什么关系？　我也被勾得想吃了。/n顺便再做个食评直播吧。",
+      "VoiceFileName": "1302910890",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291103,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 94,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "不过如果潘达还不饿，那就等会儿。/n大家一起吃才更好吃呀～。",
+      "VoiceFileName": "1302910900",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 6,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291104,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 95,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "……反正都已经打开了。考虑到之后消化的时间，/n说不定现在吃掉反而更好。",
+      "VoiceFileName": "1302910910",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 201,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291105,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 96,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "好耶～！　那就吃吧～！",
+      "VoiceFileName": "1302910920",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291106,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 97,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "那大家准备一下。",
+      "VoiceFileName": "1302910930",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291107,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 98,
+      "SpeakerName": "潘达",
+      "FontSize": 2,
+      "Phrase": "准备……啊，这种时候就是“那个”吧。",
+      "VoiceFileName": "1302910940",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 109,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "105"
+    },
+    {
+      "Id": 130291108,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 99,
+      "SpeakerName": "绯花里",
+      "FontSize": 2,
+      "Phrase": "啊，我知道了！",
+      "VoiceFileName": "1302910950",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "305"
+    },
+    {
+      "Id": 130291109,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 100,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "那么绯花亲、潘达，/n还有屏幕前的大家都准备好了吗？　来，一——二！",
+      "VoiceFileName": "1302910960",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 1,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 130291110,
+      "EpisodeMasterId": 130291,
+      "Order": 1,
+      "GroupOrder": 101,
+      "SpeakerName": "潘达、卡米拉、绯花里",
+      "FontSize": 2,
+      "Phrase": "我开动了！",
+      "VoiceFileName": "1302910970",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 3,
+          "SpineId": 10501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 1,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 2,
+          "SpineId": 40301,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 3,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 18,
+          "LipSyncMasterId": 2,
+          "SpineId": 30501,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 5,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    }
+  ]
+}

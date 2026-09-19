@@ -1,0 +1,1320 @@
+{
+  "EpisodeId": 110152,
+  "StoryType": 3,
+  "Order": 2,
+  "Prev": 110151,
+  "Next": null,
+  "Chapter": "银河座",
+  "Title": "可靠的前辈",
+  "EpisodeDetail": [
+    {
+      "Id": 110152001,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 1,
+      "SpeakerName": "学生A",
+      "FontSize": 2,
+      "Phrase": "快看，是莉莉亚小姐！/n她把制服穿成那样，好大胆……。",
+      "BackgroundImageFileName": "50",
+      "BgmFileName": "202",
+      "VoiceFileName": "1101520010",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 24,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110152002,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 2,
+      "SpeakerName": "学生B",
+      "FontSize": 2,
+      "Phrase": "又像画一样好看，真的太养眼了……。/n真想拥有她那张脸和身材……。",
+      "VoiceFileName": "1101520020",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 25,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "1"
+    },
+    {
+      "Id": 110152003,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 3,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "……要是收参观费，感觉还能赚一笔。",
+      "VoiceFileName": "1101520030",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 30302,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 110152004,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 4,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "免费就好。我想让更多人看到我。",
+      "VoiceFileName": "1101520040",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 79,
+          "BodyMotionMasterId": 20,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 110152005,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 5,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "太浪费了吧，这可是商机。",
+      "VoiceFileName": "1101520050",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 105,
+          "BodyMotionMasterId": 21,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 110152006,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 6,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "比起赚钱，有人看着我就会高兴。",
+      "VoiceFileName": "1101520060",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 110152007,
+      "EpisodeMasterId": 110152,
+      "Order": 2,
+      "GroupOrder": 6,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "这样不是……很让人兴奋吗？　不会浑身发颤吗？",
+      "VoiceFileName": "1101520061",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 110152008,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 7,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "才不会。/n你还真是当演员当对了……。",
+      "VoiceFileName": "1101520070",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 600,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 110152009,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 8,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "能被大家注视，演员就是我的天职。",
+      "VoiceFileName": "1101520080",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 110152010,
+      "EpisodeMasterId": 110152,
+      "Order": 2,
+      "GroupOrder": 8,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "心情不错，我还要在校内再逛一会儿。王雪呢？",
+      "VoiceFileName": "1101520081",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 110152011,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 9,
+      "SpeakerName": "王雪",
+      "FontSize": 2,
+      "Phrase": "我可陪不了你。先回去了。",
+      "VoiceFileName": "1101520090",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 76,
+          "HeadMotionMasterId": 2,
+          "BodyMotionMasterId": 17,
+          "LipSyncMasterId": 3,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "303"
+    },
+    {
+      "Id": 110152012,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 10,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "好。路上小心。",
+      "VoiceFileName": "1101520100",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 100,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 25,
+          "LipSyncMasterId": 1,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 110152013,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 11,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "啊，太好了！　果然是莉莉亚小姐。/n顺着同学们的欢呼声找过来果然没错！",
+      "BgmFileName": "999",
+      "VoiceFileName": "1101520110",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 40102,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 110152014,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 12,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "跑得这么喘，怎么了，伊吕波？",
+      "VoiceFileName": "1101520120",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 110152015,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 13,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "有件事无论如何都想请您点评！",
+      "VoiceFileName": "1101520130",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 40102,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 110152016,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 14,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "原来如此，是之前说的服装。露出度呢？",
+      "VoiceFileName": "1101520140",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 110152017,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 15,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "很高！　不过非常可爱！",
+      "VoiceFileName": "1101520150",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 40102,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 110152018,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 16,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "听起来很美。走吧，前往恍惚的彼方。",
+      "VoiceFileName": "1101520160",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 1,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 110152019,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 17,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "那么，参赛编号 1！/n《魔法少女卡琉》中的玛丽亚·马里昂！",
+      "BackgroundImageFileName": "60",
+      "BackgroundImageFileFadeType": 1,
+      "BgmFileName": "302",
+      "VoiceFileName": "1101520170",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 40108,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401",
+      "FadeValue1": 0.800000011920929,
+      "FadeValue2": 0.5,
+      "FadeValue3": 0.800000011920929
+    },
+    {
+      "Id": 110152020,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 18,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "坏、坏孩子……我要用这根线把你操纵起来哦！",
+      "VoiceFileName": "1101520180",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 306,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 1,
+          "SpineId": 40208,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 110152021,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 19,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "接下来是参赛编号 2！/n同样来自《魔法少女卡琉》的蒂亚莉耶！",
+      "VoiceFileName": "1101520190",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 40108,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 110152022,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 20,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "莉莉亚小姐好呀～！",
+      "VoiceFileName": "1101520200",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 12,
+          "LipSyncMasterId": 2,
+          "SpineId": 40308,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 110152023,
+      "EpisodeMasterId": 110152,
+      "Order": 2,
+      "GroupOrder": 20,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "话说您连原作都不知道也太好笑了。这样搞没问题吧？",
+      "VoiceFileName": "1101520201",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 103,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 110152024,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 21,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "然后编号 3 就是我！/n当然也是《魔法少女卡琉》中的卡琉！",
+      "VoiceFileName": "1101520210",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 14,
+          "LipSyncMasterId": 2,
+          "SpineId": 40108,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 110152025,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 22,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "下一场 Cos 活动我们要一起出卡琉系列。/n怎么样！",
+      "VoiceFileName": "1101520220",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 110152026,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 23,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……。",
+      "VoiceFileName": "1101520230",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 3,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 110152027,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 24,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "呜，被这么仔细地盯着……。/n再、再怎么说也有点害羞……。",
+      "VoiceFileName": "1101520240",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 16,
+          "SpineId": 40108,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 400,
+          "BodyMotionMasterId": 13,
+          "LipSyncMasterId": 4,
+          "SpineId": 40208,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 110152028,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 25,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "姿势不能松哦，美兔。/n得让莉莉亚小姐看到你最漂亮的样子！",
+      "VoiceFileName": "1101520250",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 110152029,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 26,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……嗯，已经可以了。放松吧。",
+      "VoiceFileName": "1101520260",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 110152030,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 27,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "所以，以莉莉亚小姐的标准看怎么样？　非常可以？",
+      "VoiceFileName": "1101520270",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 40308,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 110152031,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 28,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "非常可以。很美。",
+      "VoiceFileName": "1101520280",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 1,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 110152032,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 29,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "太好了——！　得到莉莉亚小姐认证了！",
+      "VoiceFileName": "1101520290",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 40108,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 110152033,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 30,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "不过卡米拉胸口的露出最好再收一点。/n伊吕波的过膝袜再往下两厘米。",
+      "VoiceFileName": "1101520300",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 110152034,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 31,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "还有美兔，这里稍微调一下。/n……别动。",
+      "VoiceFileName": "1101520310",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 110,
+          "BodyMotionMasterId": 15,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 110152035,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 32,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "诶、诶！　等等，莉莉亚小姐……！？",
+      "VoiceFileName": "1101520320",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 500,
+          "BodyMotionMasterId": 11,
+          "SpineId": 40308,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 513,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 40208,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 110152036,
+      "EpisodeMasterId": 110152,
+      "Order": 2,
+      "GroupOrder": 32,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "开衩剪得这么深的话……。",
+      "VoiceFileName": "1101520321",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 407,
+          "HeadMotionMasterId": 2,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 110152037,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 33,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "哇，美兔亲也太不得了了～。真的超级大胆嘛～。",
+      "VoiceFileName": "1101520330",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 110152038,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 34,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "呜……这样真的没问题吗……？",
+      "VoiceFileName": "1101520340",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "BodyMotionMasterId": 19,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 110152039,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 35,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "看起来像踩着极限，实际上角度还很安全。/n这是我研究出的结果，可以放心。",
+      "VoiceFileName": "1101520350",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 3,
+          "LipSyncMasterId": 1,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 110152040,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 36,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "而且原作那种危险感也完全还原了。",
+      "VoiceFileName": "1101520360",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 71,
+          "HeadMotionMasterId": 1,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 110152041,
+      "EpisodeMasterId": 110152,
+      "Order": 2,
+      "GroupOrder": 36,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "不只有美感，我觉得也表达出了对作品的爱。",
+      "VoiceFileName": "1101520361",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 110152042,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 37,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "对吧对吧！　非常感谢！",
+      "VoiceFileName": "1101520370",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 2,
+          "LipSyncMasterId": 2,
+          "SpineId": 40108,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 110152043,
+      "EpisodeMasterId": 110152,
+      "Order": 2,
+      "GroupOrder": 37,
+      "SpeakerName": "伊吕波",
+      "FontSize": 2,
+      "Phrase": "变得超级可爱了哦，美兔！",
+      "VoiceFileName": "1101520371",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 600,
+          "BodyMotionMasterId": 16,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "401"
+    },
+    {
+      "Id": 110152044,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 38,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "真、真的吗……？",
+      "VoiceFileName": "1101520380",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 200,
+          "BodyMotionMasterId": 15,
+          "SpineId": 40308,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 500,
+          "HeadMotionMasterId": 1,
+          "BodyMotionMasterId": 5,
+          "LipSyncMasterId": 1,
+          "SpineId": 40208,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 110152045,
+      "EpisodeMasterId": 110152,
+      "Order": 2,
+      "GroupOrder": 38,
+      "SpeakerName": "美兔",
+      "FontSize": 2,
+      "Phrase": "伊吕波喜欢的话，那就好……。",
+      "VoiceFileName": "1101520381",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "FacialExpressionMasterId": 202,
+          "BodyMotionMasterId": 4,
+          "LipSyncMasterId": 1,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "402"
+    },
+    {
+      "Id": 110152046,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 39,
+      "SpeakerName": "卡米拉",
+      "FontSize": 2,
+      "Phrase": "不不，太可爱了，我们简直最强吧～！/n总之先三个人一起拍个视频～！",
+      "VoiceFileName": "1101520390",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 101,
+          "BodyMotionMasterId": 8,
+          "LipSyncMasterId": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 2,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        },
+        {
+          "slotNumber": 2,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 4,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "403"
+    },
+    {
+      "Id": 110152047,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 40,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "嗯，做了件好事。/n还能看到漂亮的 Cosplay，也学到了不少。",
+      "VoiceFileName": "1101520400",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 70,
+          "BodyMotionMasterId": 11,
+          "LipSyncMasterId": 1,
+          "SpineId": 30402,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    },
+    {
+      "Id": 110152048,
+      "EpisodeMasterId": 110152,
+      "Order": 1,
+      "GroupOrder": 41,
+      "SpeakerName": "莉莉亚",
+      "FontSize": 2,
+      "Phrase": "……千寿历要是也学学妹妹，大胆一点，/n一定会变得更美。真可惜。",
+      "VoiceFileName": "1101520410",
+      "CharacterMotions": [
+        {
+          "slotNumber": 1,
+          "FacialExpressionMasterId": 102,
+          "BodyMotionMasterId": 7,
+          "LipSyncMasterId": 4,
+          "SpineId": 0,
+          "CharacterAppearanceType": 0,
+          "CharacterPosition": 3,
+          "CharacterLayerType": 1,
+          "SpineSize": 2
+        }
+      ],
+      "SpeakerIconId": "304"
+    }
+  ]
+}

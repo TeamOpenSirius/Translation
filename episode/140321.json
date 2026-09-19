@@ -1,0 +1,1795 @@
+{
+    "EpisodeId": 140321,
+    "StoryType": 3,
+    "Order": 1,
+    "Prev": null,
+    "Next": 140322,
+    "Chapter": "向着南十字星",
+    "Title": "不想乱花钱",
+    "EpisodeDetail": [
+        {
+            "Id": 140321001,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 1,
+            "FontSize": 2,
+            "Phrase": "代代传承的剧目——《银河铁道之夜》。/n王雪一行完成全部演出，让世人再次认识到“上野有银河座”。",
+            "BackgroundImageFileName": "1050",
+            "VoiceFileName": "1403210010",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 140321002,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 2,
+            "FontSize": 2,
+            "Phrase": "戏剧热潮席卷社会。就在众人炽热的视线投向幕后之时，/n这些主角们也同样热气腾腾地沸腾着——",
+            "VoiceFileName": "1403210020",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 140321003,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 3,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "701",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "203",
+            "CharacterMotions": [],
+            "FadeValue1": 0.10000000149011612,
+            "FadeValue2": 0.5,
+            "FadeValue3": 0.800000011920929
+        },
+        {
+            "Id": 140321004,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "……好，煮好了。可以吃！",
+            "VoiceFileName": "1403210030",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 109,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321005,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "嗯！吃火锅把疲劳全赶跑！/n我要开动啦——！",
+            "VoiceFileName": "1403210040",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 18,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 30501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 140321006,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "好了好了，吃太急对身体不好。/n要好好咀嚼再咽下去。",
+            "VoiceFileName": "1403210050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 140321007,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "莉莉亚",
+            "FontSize": 2,
+            "Phrase": "…………。",
+            "VoiceFileName": "1403210060",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 25,
+                    "SpineId": 30401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "304"
+        },
+        {
+            "Id": 140321008,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "莉莉亚，你筷子都没怎么动，是身体不舒服吗？",
+            "VoiceFileName": "1403210070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 140321009,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "莉莉亚",
+            "FontSize": 2,
+            "Phrase": "……总是火锅，我吃腻了。想换点花样。",
+            "VoiceFileName": "1403210080",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 73,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "304"
+        },
+        {
+            "Id": 140321010,
+            "EpisodeMasterId": 140321,
+            "Order": 2,
+            "GroupOrder": 9,
+            "SpeakerName": "莉莉亚",
+            "FontSize": 2,
+            "Phrase": "没有健康又好吃的中餐吗？",
+            "VoiceFileName": "1403210081",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 6,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "304"
+        },
+        {
+            "Id": 140321011,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "没有。便宜方便，还能靠发汗达到美容效果，而且好吃。/n中国四千年智慧造就的高性价比料理，就是火锅。心怀感激地吃吧。",
+            "VoiceFileName": "1403210090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 305,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321012,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "莉莉亚",
+            "FontSize": 2,
+            "Phrase": "四千年前和现在的审美观不一样。请更新一下。",
+            "VoiceFileName": "1403210100",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 400,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "304"
+        },
+        {
+            "Id": 140321013,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "别抱怨！火锅说到底也是投资！/n别忘了，是为了靠“友情戏码”把酬劳炒高！",
+            "VoiceFileName": "1403210110",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 300,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321014,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "没错。火锅就是为了让银河座成为天上的明星而存在！/n看看绯花里，围着锅吃得笑得多开心！",
+            "VoiceFileName": "1403210120",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 109,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 140321015,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "好次——！火锅果然最好次啦——！",
+            "VoiceFileName": "1403210130",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 6,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 30501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 140321016,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "莉莉亚",
+            "FontSize": 2,
+            "Phrase": "……看绯花里吃得这么香，会让火锅看起来也很好吃。/n真奇怪。",
+            "VoiceFileName": "1403210140",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "304"
+        },
+        {
+            "Id": 140321017,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "不是“看起来”，是真的好吃！",
+            "VoiceFileName": "1403210150",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 305,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321018,
+            "EpisodeMasterId": 140321,
+            "Order": 2,
+            "GroupOrder": 16,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "等等，怎么已经快什么都不剩了！？你吃太多了！",
+            "VoiceFileName": "1403210151",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 502,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321019,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "因为肚子饿扁了，一不小心就……。/n而且这种锅一下就会吃完嘛。",
+            "VoiceFileName": "1403210160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 6,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 140321020,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "确实，今天绯花里的胃口尤其好。/n又增加训练量了吗？",
+            "VoiceFileName": "1403210170",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 140321021,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "我买了个挺不错的训练器材呀！/n妈妈说我一直很努力，就当给我的奖励！",
+            "VoiceFileName": "1403210180",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 30501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 140321022,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "说起来，工资也已经到账了。",
+            "VoiceFileName": "1403210190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 140321023,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "工资……到账……。/n……嘿嘿……。",
+            "VoiceFileName": "1403210200",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321024,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "怎么了？突然笑起来。",
+            "VoiceFileName": "1403210210",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 140321025,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "我没笑。你看错了。",
+            "BgmFileName": "999",
+            "VoiceFileName": "1403210220",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321026,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "我妈妈也吓得不轻。",
+            "VoiceFileName": "1403210230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 6,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 140321027,
+            "EpisodeMasterId": 140321,
+            "Order": 2,
+            "GroupOrder": 24,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "她说看到账户余额，腿都软了——！",
+            "VoiceFileName": "1403210231",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 502,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 140321028,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "账户……。",
+            "VoiceFileName": "1403210240",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 6,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321029,
+            "EpisodeMasterId": 140321,
+            "Order": 2,
+            "GroupOrder": 25,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "嘿……嘿嘿嘿……。",
+            "BgmFileName": "3",
+            "VoiceFileName": "1403210241",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 201,
+                    "HeadMotionMasterId": 2,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321030,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "莉莉亚",
+            "FontSize": 2,
+            "Phrase": "…………。",
+            "VoiceFileName": "1403210250",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 30401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "304"
+        },
+        {
+            "Id": 140321031,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "干、干嘛。脸靠这么近！？你想说什么……！",
+            "VoiceFileName": "1403210260",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 300,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 30301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 30401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321032,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "莉莉亚",
+            "FontSize": 2,
+            "Phrase": "……账户余额。",
+            "VoiceFileName": "1403210270",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "304"
+        },
+        {
+            "Id": 140321033,
+            "EpisodeMasterId": 140321,
+            "Order": 2,
+            "GroupOrder": 28,
+            "SpeakerName": "莉莉亚",
+            "FontSize": 2,
+            "Phrase": "个……十……百……千…………万…………。",
+            "VoiceFileName": "1403210271",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 70,
+                    "BodyMotionMasterId": 6,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "304"
+        },
+        {
+            "Id": 140321034,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "呵、呵呵……嘿嘿嘿…………。",
+            "VoiceFileName": "1403210280",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 16,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321035,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "王雪笑得超级开心。/n这种笑容可不常见！",
+            "VoiceFileName": "1403210290",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 140321036,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "原来如此。/n看来这份工作好到让你忍不住笑出来啊。",
+            "VoiceFileName": "1403210300",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 140321037,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 32,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "笑、笑什么！为正当劳动的报酬高兴有什么错！",
+            "VoiceFileName": "1403210310",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 300,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 30301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321038,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 33,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "不，是因为银河座认可你，才会有这样的报酬。我也很高兴。/n当然，也包括能看到王雪这么满足的笑容。",
+            "VoiceFileName": "1403210320",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 109,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 140321039,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 34,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "然后然后！主演的王雪打算拿工资买什么？",
+            "VoiceFileName": "1403210330",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 140321040,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "什么都不买。等日元升值后，全部汇回老家。",
+            "VoiceFileName": "1403210340",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321041,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 36,
+            "SpeakerName": "拉莫娜・绯花里・莉莉亚",
+            "FontSize": 2,
+            "Phrase": "……………………。",
+            "VoiceFileName": "1403210350",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 1,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 502,
+                    "BodyMotionMasterId": 5,
+                    "SpineId": 30501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 3,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 25,
+                    "SpineId": 30401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 5,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 140321042,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 37,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "……你们干嘛突然全不说话了。",
+            "VoiceFileName": "1403210360",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321043,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 38,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "哈，我知道了。/n你们肯定在想，我就是个抠门守财奴吧。",
+            "VoiceFileName": "1403210370",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 109,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321044,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 39,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "别把我和普通的抠门混为一谈。我可是有理由地抠。/n好好震惊于我的孝顺，然后尽情赞美我吧！",
+            "VoiceFileName": "1403210380",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 209,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321045,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 40,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "不是，我们惊讶的重点倒也不是你有多孝顺……。",
+            "VoiceFileName": "1403210390",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 402,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 140321046,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 41,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "不给自己买点奖励吗？",
+            "VoiceFileName": "1403210400",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 6,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 140321047,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 42,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "给自己的奖励？/n你们当演员就是为了这种浪费钱的东西吗！？",
+            "VoiceFileName": "1403210410",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 305,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321048,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 43,
+            "SpeakerName": "莉莉亚",
+            "FontSize": 2,
+            "Phrase": "我会把美容院一家家跑个遍。拉莫呢？",
+            "VoiceFileName": "1403210420",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "304"
+        },
+        {
+            "Id": 140321049,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 44,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "虽然来到日本，但一直没什么机会离开东京。/n难得有机会，我觉得去旅行也不错。",
+            "VoiceFileName": "1403210430",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 109,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 140321050,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 45,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "说到底不就是玩。半吊子。",
+            "VoiceFileName": "1403210440",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321051,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 46,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "那可未必。经历会拓宽表达的幅度。",
+            "VoiceFileName": "1403210450",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 70,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 140321052,
+            "EpisodeMasterId": 140321,
+            "Order": 2,
+            "GroupOrder": 46,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "不是常说，演员人生中的一切都能成为演技的养分吗？",
+            "VoiceFileName": "1403210451",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 140321053,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 47,
+            "SpeakerName": "莉莉亚",
+            "FontSize": 2,
+            "Phrase": "没错。为了美，没有任何付出是浪费。/n你肯投入多少时间与心力，美就会回报多少。",
+            "VoiceFileName": "1403210460",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 16,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "304"
+        },
+        {
+            "Id": 140321054,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 48,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "哼，你们是想说“奖励也是投资”吧，我才不上当。/n不过是给乱花钱找个冠冕堂皇的理由。",
+            "VoiceFileName": "1403210470",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321055,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 49,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "就算算乱花钱，夸奖一下自己也很重要吧？/n王雪的家人也不会因为你花一点点就生气呀！",
+            "VoiceFileName": "1403210480",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 140321056,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 50,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "唔…………。",
+            "VoiceFileName": "1403210490",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 305,
+                    "BodyMotionMasterId": 17,
+                    "SpineId": 30301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321057,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 51,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "……这么说起来，我哥哥他们也担心过，/n问我是不是节省过头了……。",
+            "VoiceFileName": "1403210500",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321058,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 52,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "如果稍微花点钱就能买到他们的安心，那倒也不是不行……。",
+            "VoiceFileName": "1403210510",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 70,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321059,
+            "EpisodeMasterId": 140321,
+            "Order": 2,
+            "GroupOrder": 52,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "好，我就买个所谓的奖励。",
+            "VoiceFileName": "1403210511",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "HeadMotionMasterId": 1,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321060,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 53,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "嗯嗯！王雪会选什么！？好想知道！",
+            "VoiceFileName": "1403210520",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 109,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 26,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 140321061,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 54,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "正好洗发水快没了。/n等打折的时候多买几瓶，也算对未来的投资吧。",
+            "VoiceFileName": "1403210530",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321062,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 55,
+            "SpeakerName": "莉莉亚",
+            "FontSize": 2,
+            "Phrase": "那不算奖励。除非买高档款。",
+            "VoiceFileName": "1403210540",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 106,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "304"
+        },
+        {
+            "Id": 140321063,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 56,
+            "SpeakerName": "王雪",
+            "FontSize": 2,
+            "Phrase": "平时会用的东西就不算奖励吗？/n这样的话……可是……也没什么值得特地买的……。",
+            "VoiceFileName": "1403210550",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 140321064,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 57,
+            "SpeakerName": "绯花里",
+            "FontSize": 2,
+            "Phrase": "你真的……从来没奖励过自己啊……。/n明明一直都这么努力……。",
+            "VoiceFileName": "1403210560",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 502,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "305"
+        },
+        {
+            "Id": 140321065,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 58,
+            "SpeakerName": "莉莉亚",
+            "FontSize": 2,
+            "Phrase": "拉莫脸上写着“想帮她”几个字。",
+            "VoiceFileName": "1403210570",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "304"
+        },
+        {
+            "Id": 140321066,
+            "EpisodeMasterId": 140321,
+            "Order": 1,
+            "GroupOrder": 59,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "当然。看到烦恼的人，就该伸手帮助。",
+            "VoiceFileName": "1403210580",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 109,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 140321067,
+            "EpisodeMasterId": 140321,
+            "Order": 2,
+            "GroupOrder": 59,
+            "SpeakerName": "拉莫娜",
+            "FontSize": 2,
+            "Phrase": "来举办一场“刺激王雪物欲”的奖励推介大会吧！",
+            "VoiceFileName": "1403210581",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 209,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        }
+    ]
+}
